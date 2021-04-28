@@ -160,7 +160,7 @@ https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/7.Misi.Rahasia.Sophie.(2
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", A Home With A View
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/A.Home.with.A.View.2019.720p.NF.WEB-DL.mp4?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta
-https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Ada.Apa.dengan.Cinta.(2001).WEB-DL.720p.mkv?rootId=0AAZHmABXDp_uUk9PVA
+https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%2520(2002)/ada.apa.dengan.Cinta.MildMovie.com.avi
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta 2
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Ada.Apa.Dengan.Cinta.2.(2016).WEBRip.720p.mp4?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", After Meet You
