@@ -82,72 +82,854 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10
 
 
 =====================================================================VOD 4==================================================================
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BIDADARI SURGA (2012)
-https://bitball.b-cdn.net/movies/2020-05/05-22-2020/Bidadari.Bidadari.Surga.2012.WEB-DL.720p.IDFL.info.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SUNYI(2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",POCONG THE ORIGIN (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ROY KIYOSHI : THE UNTOLD STORY (2019)
-https://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANUR 3 : SUNYARURI (2019)
-https://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ROH FASIK (2019)
-https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dreadout Sub Indo (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Orang Kaya Baru (2019)
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Sunyi (2019)
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", Terlalu Tampan (2019)
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",PSP: Gaya Mahasiswa (2019)
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Yo Wes Ben 2 (2019)
+https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KELUARGA CEMARA (2018)
+https://www.googleapis.com/drive/v3/files/1WGEdGmWd-DI3oYzjcPpyXiDX_OF2RLun?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Si Doel The Movie (2018)
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Galih & Ratna (2017)
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Soekarno: Indonesia Merdeka (2013)
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Habibie & Ainun (2012)
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DIRGAHAYU RI 74
+https://cdn-mxs-01.akamaized.net/Content/HLS/VOD/ddccc5e3-0677-490c-8821-9edc0542bdf2/c0de6451-cd85-84e0-fcd7-ea805ff7a6f2/Stream(07)/index.m3u8
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",REVIEW PREMIER LEAGUE FHD
+https://cdn02.mola.tv/Content/HLS/VOD/397ce7ab-d730-4ea9-b867-0e0a023f68ae/72f5c641-ccb4-018f-21f8-6f718d8ade2c/Stream(07)/index.m3u8
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Godzilla: Planet of the Monsters (2017)
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wonder Woman (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bad Santa 2 (2016)
+https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Captain America: Civil War (2016)
+http://deadlyblogger.com/NewRelease/captain2016.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Doctor Strange (2016)
+http://deadlyblogger.com/NewRelease/strange2016.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Nocturnal Animals (2016)
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Rogue One: A Star Wars Story (2016)
+http://deadlyblogger.com/NewRelease/rogue1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Rules Don't Apply (2016)
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Viral (2016) [Dual-ES]
+https://ia801507.us.archive.org/18/items/viral_201709/viral.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",X-Men: Apocalypse (2016)
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Avengers: Age of Ultron (2015)
+http://deadlyblogger.com/NewRelease/avengers2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hateful Eight (2015)
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",3 Days to Kill (2014)
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",A Haunted House 2 (2014)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Captain America: The Winter Soldier (2014)
+http://deadlyblogger.com/NewRelease/wintersoldier.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dracula Untold (2014)
+http://deadlyblogger.com/NewRelease/dracula.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Get on Up (2014)
+http://deadlyblogger.com/NewRelease/getonup.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Guardians of the Galaxy (2014)
+http://deadlyblogger.com/NewRelease/guardians2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",John Wick (2014)
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Madea's Neighbors from Hell (2014)
+http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Maleficent (2014)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mr. Peabody & Sherman (2014)
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Need for Speed (2014)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Non-Stop (2014)
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Paranormal Activity: The Marked Ones (2014)
+http://www.deadlyblogger.com/NewRelease/markedones.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pompeii (2014)
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ride Along (2014)
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Rio 2 (2014)
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",School Dance (2014)
+http://www.deadlyblogger.com/NewRelease/schooldance.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Taken 3 (2014)
+http://deadlyblogger.com/NewRelease/taken3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Amazing Spider-Man 2 (2014)
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Lego Movie (2014)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Pirate Fairy (2014)
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Single Moms Club (2014)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Veronica Mars (2014)
+http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",12 Years a Slave (2013)
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",47 Ronin (2013)
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Afflicted (2013)
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",After Earth (2013)
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",American Hustle (2013)
+http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Anchorman 2: The Legend Continues (2013)
+http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bad Grandpa (2013)
+http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bad Words (2013)
+http://www.deadlyblogger.com/NewRelease/badwords.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Battle of the Year (2013)
+http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Delivery Man (2013)
+http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Empire State (2013)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Epic (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Escape Plan (2013)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Free Birds (2013)
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Frozen (2013)
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Furious 6 (2013)
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Grown Ups 2 (2013)
+http://www.deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Grudge Match (2013)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Identity Thief (2013)
+http://www.deadlyblogger.com/NewRelease/identitythief.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Insidious - Chapter 2 (2013)
+http://www.deadlyblogger.com/NewRelease/insidious2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Iron Man 3 (2013)
+http://www.deadlyblogger.com/NewRelease/ironman3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Kevin Hart: Let Me Explain (2013)
+http://www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Kick-Ass 2 (2013)
+http://www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Killing Season (2013)
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Last Vegas (2013)
+http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Lego Star Wars: The Yoda Chronicles (2013)
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Man of Steel (2013)
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Man of Tai Chi (2013)
+http://www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Monsters University (2013)
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Now You See Me (2013)
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Olympus Has Fallen (2013)
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Prisoners (2013)
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Repentance (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Runner Runner (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saving Mr. Banks (2013)
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Star Trek: Into Darkness (2013)
+http://deadlyblogger.com/NewRelease/darkness.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Bling Ring (2013)
+http://www.deadlyblogger.com/NewRelease/blingring.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Call (2013)
+http://www.deadlyblogger.com/NewRelease/thecall.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Conjuring (2013)
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Grandmaster (2013)
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Family (2013)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hangover Part III (2013)
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Heat (2013)
+http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hobbit: The Desolation of Smaug (2013)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hunger Games: Catching Fire (2013)
+http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Internship (2013)
+http://www.deadlyblogger.com/NewRelease/internship2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Jungle Book: Return 2 the Jungle (2013)
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Mortal Instruments: City of Bones (2013)
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Starving Games (2013)
+http://www.deadlyblogger.com/NewRelease/starving2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Smurfs 2 (2013)
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Wolf of Wall Street (2013)
+http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Wolverine (2013)
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",This Is the End (2013)
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Toy Story of Terror (2013)
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Turbo (2013)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",We're the Millers (2013)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",World War Z (2013)
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Flight (2012)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Men in Black 3 (2012)
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pitch Perfect (2012)
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Project X (2012)
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Prometheus (2012)
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Safe House (2012)
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Spring Breakers (2012)
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hobbit: An Unexpected Journey (2012)
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hunger Games (2012)
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",This Is 40 (2012)
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Think Like a Man (2012)
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wrong Turn 5: Bloodlines (2012)
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Fast Five (2011)
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",King of Paper Chasin' (2011)
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Girl with the Dragon Tattoo (2011)
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Grey (2011)
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Transformers: Dark of the Moon (2011)
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wrong Turn 4 - Bloody Beginnings (2011)
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",X: First Class (2011)
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Grown Ups (2010)
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Hot Tub Time Machine (2010)
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Insidious (2010)
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Jackass 3D (2010)
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw 3D - The Final Chapter (2010)
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tangled (2010)
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Next Three Days (2010)
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Other Guys (2010)
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Social Network (2010)
+https://archive.org/download/TheSocialNetwork2010720pBrRipX264700MBYIFY/The%20Social%20Network%20(2010)%20720p%20BrRip%20x264%20-%20700MB%20-%20YIFY.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Unstoppable (2010)
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",A Christmas Carol (2009)
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Fast & Furious (2009)
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Land of the Lost (2009)
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Law Abiding Citizen (2009)
+http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Madea Goes to Jail (2009)
+http://www.deadlyblogger.com/NewRelease/madea1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Orphan (2009)
+http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw VI (2009)
+http://www.deadlyblogger.com/NewRelease/saw6.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Chinese Room (2009)
+https://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hangover (2009)
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Taking of Pelham 123 (2009)
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Transformers: Revenge of the Fallen (2009)
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wrong Turn 3 - Left for Dead (2009)
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",X-Men Origins: Wolverine (2009)
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Iron Man (2008)
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Meet the Browns (2008)
+http://www.deadlyblogger.com/NewRelease/browns1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw V (2008)
+http://www.deadlyblogger.com/NewRelease/saw5.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Semi-Pro (2008)
+http://www.deadlyblogger.com/NewRelease/semipro.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Seven Pounds (2008)
+http://www.deadlyblogger.com/NewRelease/sevenp.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Step Brothers (2008)
+http://www.deadlyblogger.com/NewRelease/stepbro.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The House Bunny (2008)
+http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",American Gangster (2007)
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Blades of Glory (2007)
+http://www.deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Hot Fuzz (2007)
+http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Am Legend (2007)
+http://www.deadlyblogger.com/NewRelease/iaml.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ratatouille (2007)
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw IV (2007)
+http://www.deadlyblogger.com/NewRelease/saw4.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Bourne Ultimatum (2007)
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Transformers (2007)
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wrong Turn 2: Dead End (2007)
+http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Deja Vu (2006)
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Killa Season (2006)
+http://www.deadlyblogger.com/NewRelease/killa1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Madea's Family Reunion (2006)
+http://www.deadlyblogger.com/NewRelease/madea2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mickey Saves Santa (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw III (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Talladega Nights: The Ballad of Ricky Bobby (2006)
+http://www.deadlyblogger.com/NewRelease/talla.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Fast and the Furious - Tokyo Drift (2006)
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",X-Men: The Last Stand (2006)
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bewitched (2005)
+http://www.deadlyblogger.com/NewRelease/bewitched.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dirty (2005)
+http://www.deadlyblogger.com/NewRelease/dirty1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Four Brothers (2005)
+http://www.deadlyblogger.com/NewRelease/fourb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw II (2005)
+http://www.deadlyblogger.com/NewRelease/saw2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Anchorman: The Legend of Ron Burgundy (2004)
+http://www.deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Blade: Trinity (2004)
+http://www.deadlyblogger.com/NewRelease/blade3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dirty Dancing - Havana Nights (2004)
+http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Hellboy (2004)
+https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",I Robot (2004)
+http://www.deadlyblogger.com/NewRelease/irobot.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Kicking & Screaming (2005)
+http://www.deadlyblogger.com/NewRelease/kicking.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mickey's Twice Upon a Christmas (2004)
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Napoleon Dynamite (2004)
+http://www.deadlyblogger.com/NewRelease/napolean.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Saw (2004)
+http://www.deadlyblogger.com/NewRelease/saw1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Bourne Supremacy (2004)
+http://www.deadlyblogger.com/NewRelease/bourne2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Day After Tomorrow (2004)
+http://www.deadlyblogger.com/NewRelease/theday2004.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Polar Express (2004)
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",2 Fast 2 Furious (2003)
+http://www.deadlyblogger.com/NewRelease/fast2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bad Boys II (2003)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Battle Royale II - Requiem (2003)
+https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Elf (2003)
+http://www.deadlyblogger.com/NewRelease/elf1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Finding Nemo (2003)
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Malibu's Most Wanted (2003)
+http://www.deadlyblogger.com/NewRelease/malibu1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Old School (2003)
+http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Lord of the Rings: The Return of the King (2003)
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Matrix Reloaded (2003)
+http://www.deadlyblogger.com/NewRelease/matrix2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Matrix Revolutions (2003)
+http://www.deadlyblogger.com/NewRelease/matrix3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Wrong Turn (2003)
+http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",X2 (2003)
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",28 Days Later (2002)
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Blade II (2002)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Friday After Next (2002)
+http://www.deadlyblogger.com/NewRelease/friday3.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Home Alone 4 (2002)
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Men in Black II (2002)
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Paid in Full (2002)
+http://www.deadlyblogger.com/NewRelease/paidin.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Shottas (2002)
+http://www.deadlyblogger.com/NewRelease/shottas.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tarzan & Jane (2002)
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Bourne Identity (2002)
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Lord of the Rings: The Two Towers (2002)
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Powerpuff Girls Movie (2002)
+https://archive.org/download/PowerpuffGirlsMovie/The%20Powerpuff%20Girls%20Movie.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ali (2001)
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Jay and Silent Bob Strike Back (2001)
+http://www.deadlyblogger.com/NewRelease/strikeback.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Planet of the Apes (2001)
+http://www.deadlyblogger.com/NewRelease/apes6.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pootie Tang (2001)
+http://www.deadlyblogger.com/NewRelease/pootie.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Return to Cabin by the Lake (2001)
+http://www.deadlyblogger.com/NewRelease/cabin2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Animal (2001)
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Fast and the Furious (2001)
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Lord of the Rings: The Fellowship of the Ring (2001)
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Baller Blockin' (2000)
+http://www.deadlyblogger.com/NewRelease/blockin.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Cabin by the Lake (2000)
+http://www.deadlyblogger.com/NewRelease/cabin1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",How the Grinch Stole Christmas (2000)
+http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Next Friday (2000)
+http://www.deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",X-Men (2000)
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KINGDOM 2019 {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=vquZ%2BnekHAumoYP%2B2Et7jw0l7oYkaUu8kRIMjLDrH1%2FzRqIW5ydB4217IheMm46WzG369Nt3H9aIHRon0wK7hJVPmY0Q3n4NQ8jMfPoIepspWGzqj62Y6VW2eU7WC2bKI3nMj1T3ZWWj9oNjfISgoE0Ms1RwcaA5M1wRQOy%2BKht5CymIRbZMbJtfqMk3d6ARQ%3D&ref=https%3A%2F%2Fbos21.xyz%2Fkingdom%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",FAST & FARIOUS PRESENT: HOOB & SHAW 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=VvuYMCu6i6%2BvDX0%2BsiauZQ6Hw%2BE7NApCiJ1deD%2Fp7doL2aXqte%2FNAUkDP9l%2FiOqbzJWzHZD3hDMiXXmopHCmuI5bNOYcrzo%2BirmRST2%2BEojlAaHDx9sxYA0jOBKoEofztlDs7ImngmfVQGo9E2eAVA%2FcT%2FGYfUFTuYAywXvuc8atbIUnDBPYO9KEa%2BImh2AEr9YgBq3IcBje6u3pcafx%2BSPGubbe8yZuJBu2%2FTBxxBYA%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Ffast-furious-presents-hobbs-shaw-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE KILL TEAM 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=iTfHcPAxKBUV2kIuDkGyLwmKUOTmjYaunT82E3OMMtAq%2FU2eCz26EBe%2BYnR3%2B%2B2ci%2FW01EuiuoBEli1%2Fi5ExauwJKB0cIeOvfmRUnTZMqtUJGqfRs0Fsl%2FkJ7RHsCkDVg5JmOdiybqrbozAU%2F3QuY69uBEvT47bgC0PAYyG%2FcPLBYDPhnfgtlrJxcSbQvDgbo%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-kill-team%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",TERMINATOR: DARK FATE 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=grTJnhHhgS3f1fR2hIPJWgVvgKG22GiY4jufeWA0%2BhDK7y1WolgAJ580WlVjjldVHEMkIQdqImDhCSlOOzakbu%2ForqwJ6Qr1IpwtUvI6Al4cc4VGG8sKHZI1TcssVcH6Qhpouc8JMVHmUXZxgVcQ0zEEZobc1lzShS6SbUMHodeRZXCRxz24ev0Nc%2BZu626H2Hq1Qv2%2Bko6zJ9nM6CW9dz&ref=https%3A%2F%2Fbos21.xyz%2Fterminator-dark-fate%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ROMANG 2019 {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=zrWguvWmFy1ppwKO3pBoxAD3Dj1%2FzzadSh23Bnqey3XouLGI9PKMT5WGBosjgJtqYHeh%2BwmsOPL0wOdZYmyFwOzDUnuTeJwzNiyQPns6Xutd1UTK0%2BlFV5CdlbKam3vdPVOyoSA9tTJ5RQ9AghYmVuU0F2siBX4T%2Ff%2BuEHkOI3WeREf6CMjjY0ekDQB4X5XKs%3D&ref=https%3A%2F%2Fbos21.xyz%2Fromang%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE BAD GUYS: REIGN OF CHAOS 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=fRzgt541BX9Sk0wcv5iXVg8qmypL1zjYKvs3d7N7iEBxTdrjGBXf3Os8AcOCHRQnxfi%2F%2F%2Bjm4T0Yd8cvIQ9XaZw%2BG2vvY8i60P%2FhBMiaiguZg46q54cfXpFuBmG0WvIFI3Jm%2Frqp1X4uPZmEK1Lofrwxx2r5OKO714g93w7BCC%2BQEDM3CrL7KahfXCD7%2FNOXimEzaApw2IY4hLHy1bLQTV&ref=https%3A%2F%2Fbos21.xyz%2Fthe-bad-guys-reign-of-chaos%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",IP MAN AND FOUR KINGS 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1pzdFGlahzU_FIjhFC3RHClDyd-FKC-z0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ANGEL HAS FALLEN 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1F25R3Hiyq6XptGfzTXPs8sx0z8shzCgn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANGER CLOSE : THE BATTLE OF LONG TAN 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1FUqQQDYL46LaL8czZ7VLoBTMaLvBsqyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",READY OR NOT 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1F_fFvFPPLySHaKT23wGCuHdE0Ery-tVv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",GEMINI MAN 2019 {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=oBt5FyIeGh5V4zkXAutTOQA%2B1dTb%2BpUHKHTdBoREB0DjI00iXv25jWkLmKdOM90HuZMiWKpuYl2j2s90euKaOyo8yweqsCrC9%2BAQKw%2Bs55zi6javGxnCdsHReiwg4WfgErBg332Q5BquyzPwVfi4cF4mp9ECfsCMLimbPcFVJl56bokJifGrXfOSgJ1iYOdZc%3D&ref=https%3A%2F%2Fbos21.xyz%2Fgemini-man%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mythica: The Iron Crown (2019) Sub Indo
+https://cdn.apidev.icu/drive/index.php?id=lyvXsT4dhGjlQYEbFoNz6QjxbUv4%2BseZCbfAtBDByKAOyFArOyMJl1WmCPLPc4pKXdTTZdKYjGLeTThTO3gILCMm2Bif20koc%2FirupheZSC3KV%2F3b8cmIqZa%2FMawLnDxn0ah8D2Ud%2FGBO%2FIZkBnkcPuF0GOTG9XVnUn7QHoWkmRlytjw1aMZs0O9EDe7BXOzTxKD6TtfnzqbLxT7LVO89W&ref=https%3A%2F%2Fbos21.bid%2Fmythica-the-iron-crown%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Spider-Man: Far from Home (2019) Sub Indo
+https://www.googleapis.com/drive/v3/files/1YZsGr5TP42m-qFHyEiDnybPDh6A1ffQD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",AQUAMAN {Sub Indo}
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",VENOM
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BUMBLEBEE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tumbbad (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Scarecrow's Revenge (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Wispering (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE NIGHT COMES FOR US {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Iron Crown (2019) Sub Indo
+https://cdn.apidev.icu/drive/index.php?id=lyvXsT4dhGjlQYEbFoNz6QjxbUv4%2BseZCbfAtBDByKAOyFArOyMJl1WmCPLPc4pKXdTTZdKYjGLeTThTO3gILCMm2Bif20koc%2FirupheZSC3KV%2F3b8cmIqZa%2FMawLnDxn0ah8D2Ud%2FGBO%2FIZkBnkcPuF0GOTG9XVnUn7QHoWkmRlytjw1aMZs0O9EDe7BXOzTxKD6TtfnzqbLxT7LVO89W&ref=https%3A%2F%2Fbos21.bid%2Fmythica-the-iron-crown%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",AQUAMAN {Sub Indo}
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",VENOM
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BUMBLEBEE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tumbbad (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Scarecrow's Revenge (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Wispering (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE NIGHT COMES FOR US {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Doll (2018) Sub indo
+https://cdn.apidev.icu/drive/index.php?id=7ZztOZg3nhfVUO7IJ7wv%2FATajoaq2Rja3RuXZ6tCne37cP0nbKrRw06qZLVUvpIsHBxKJdhu%2BAlhxUzffOct9jj3VG2nxdlc5RH94Ftfh9nt5EtqQca6D2F4aj5stvTmoqnPsBAkvGGGTAx0zxC2QvNbjIt%2BQrZqQ7bGcp2LTowXSOPKswtF6u1HQEIfsPZno%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-1%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Doll 2 (2019)
+https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzFm0yECXbv1IgEI2hc%2BlHHc6yIP9gVKvJuYs%2Fbv0bKid%2F5en9DP7pX8rUKKnEv%2BDOscJ1wy98Jo58rG7G2QJJoHllCGK%2FUiojLPzqvCiL56527pvzTk6TItGRi4J8My4ztWMEc2ek%2B%2FVvXm1bPB8rS2pq192c%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Perjanjian Dengan Iblis (2019)
+https://cdn.apidev.icu/drive/index.php?id=vrcmevtgIywLTqsvNFZRwwWZYIP%2Frx0iwo%2F%2Fu%2BEK5Aygy%2FuGCueTc69aGP5hYLKLP%2FOMf6CqKcX40iUQS%2BMdbMrTvF%2BNMM395CJ9yeFObzl16GZbxXdSTr40glDKtADF0fsuJo%2Bf0lun0Y%2FmhClUmKvLAmVhkiXAVjhZt4tArBJQ0mGcLAhtliXCPWN8gMXz1CMGyTgdayspT90OvjEFMp&ref=https%3A%2F%2Fbos21.bid%2Fperjanjian-dengan-iblis%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",TABU : MENGUSIK GERBANG IBLIS (2019)
+https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dreadout (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SATU SURO
+https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Suzanna: Bernafas Dalam Kubur
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tusuk Jelangkung
+https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MATA BATIN 2 (2019)
-https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SEKTE (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",REVA : GUNA GUNA (2019)
-https://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",RASUK (2018)
-https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BISIKAN IBLIS (2018)
-https://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KEMBANG KANTIL (2018)
-https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",JAGA POCONG (2018)
-https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BAYI GAIB (2018)
-https://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SUZANNA : BURIED A LIVE (2018)
-https://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SESAT (2018)
-https://bitball.b-cdn.net/movies/indonesia/sesat.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ARWAH TUMBAL NYAI (2018)
-https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",RUGYAH THE EXORCISM (2017)
-https://bitball.b-cdn.net/movies/02-14-2020/Ruqyah.The.Exorcism.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",GASING TENGKORAK (2017)
-https://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",RUMAH MALAIKAT (2016)
-https://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KAKAK (2015)
-https://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANAU HITAM (2014)
-https://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MALL KLENDER (2014)
-https://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DRAKULA CINTA (2014)
-https://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SARANG HANTU JAKARTA (2014)
-https://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KAFAN SUNDEL BOLONG (2012)
-https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BANGKITNYA SUSTER GEPENG (2012)
-https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",RUMAH BEKAS KUBURAN (2012)
-https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ADA APA DENGAN POCONG (2011)
-https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",POCONG JUGA POCONG (2011)
-https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",PELET KUNTILANAK (2011)
-https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KALUNG JELANGKUNG (2011)
-https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",13 CARA MEMANGGIL SETAN (2011)
-https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANUR
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANUR 2
+https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",PENGABDI SETAN
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MUNAFIK {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ayat Ayat Cinta
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ayat Ayat Cinta 2
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SKYSCRAPER {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE CAR ROAD TO REVENGE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=8bY55hcAsfPjEBMRluOCnABT8MgMek%2FZRHBVyf%2BGhkBN%2Ff5KE9tGvvSQEs%2FK8M9xjWNvt%2F7mO0%2FpzUFOMi5%2BSV3eHZ1UdE8yO%2FzpOqIVtz2BmvZGl4E60LS7sr82r08d45DtWVnXHhO2lXlVfR6rjuezQ7K85Aa44HQCADdjSi3zVZCZKWkLWvuESE8yxkRDMaOwQ6Ed5XDBgfsHqOWUIU&ref=https%3A%2F%2Fbos21.bid%2Fthe-car-road-to-revenge%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",JUMANJI: WELCOME TO THE JUNGLE {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",TOMB RAIDER (2018) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE LEGEND OF SECRET PASS (2019) {Sub Indo}
+https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MULE (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",COLD PURSUIT (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",JESSIE (2019)
+https://cdn.clonefile.icu/drive/index.php?id=ktgAy6pfyu9L6K4HtVHlfQUCgFSImD4IrxQ2doj95vqhwWSf840t97da0prNHTqJEXKezA1J4Npb2TZtB9NC72E3%2F1fv6IM%2Fr6PEMUMOV696fvvMfj5EigIs6Xai9BxHxCI3lAz%2FOiqLlL1CcZQW9cIKxoHl4bJw%2FO64B8bhVeul9Q1NgyZ1ULfsWkenWS3CE%3D&ref=https%3A%2F%2Fbos21.bid%2Fjessie%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",UNDA (2019)
+https://cdn.apidev.icu/drive/index.php?id=905A7%2Fe2YENvh7FT7jbsGQpNJEYkhfKkyGK93lY0aPyIS048vx6ME27YNXMA54Fk8FI9r1KEZTBPUA%2FjUKfFBEr9yeaDWUe7c%2BpdSChm268wzXCJyk0JDz6V0av9228icvWUYJURWRUvAtq5BsmyuoO7jUZdvfUMAXkU%2BR0%2FGDfBAq%2B6tWC9ldqiOYePfgkHw%3D&ref=https%3A%2F%2Fbos21.bid%2Funda%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",A Score To Settle (2019)
+https://cdn.clonefile.icu/drive/index.php?id=qhD9HZlA9Xbf%2FMflmswYmQGJKCyBt1a9M1sqiXvs3cv0I1O7ZOM8bxPxzzzGQJnRIUvG99coirCpCyZPAxXzt2RCR637O0xOZ%2FvvC5nDt7evBnFmDRPZ5RYD5QhetzLxCbCj%2FpPMhNC0%2F2ioEssEg6gkEon8uy%2Fbev1pIPPG7c1tHEx45xRgtR51851ObHgXL65%2F33CxKnUtaUgFUyzmc9&ref=https%3A%2F%2Fbos21.bid%2Fa-score-to-settle%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bharat (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=4spaMcjKAHB10bV3BeQEiAtaobmRKskePYjKvCI9xz%2FHbPsPxbHpHKQVM%2FxCtF%2B6oeCLAlogc%2BODheSnZcfz1WQUQyf9g35aM3iN1kkPSTyoxw1Z%2BP6DdNcOaIx3cJjdnstpPkswwLPanV2BTzMrCsn%2BpliORGvASTmjLxfonKvc%2BjznGjWLibvvnn8o5DBKg%3D&ref=https%3A%2F%2Fbos21.bid%2Fbharat%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Seven (2019)
+https://cdn.clonefile.icu/drive/index.php?id=ytHdUFZ%2Bxo7B4mnlY01uXQYPHvRR40cw%2F5k%2BeAmesW%2F0pJRf8Wwj4iJaJV5HD59%2B6ZhiplFjfIXaOMsJOcCMYOkvx08mbhovd6nnClOwoo1LT4aMFqrEptCCAqMqtwz8x%2BKwQKVcriH90QTJvP0UI2xv%2FcoLEsg9tICI8TAog1kDMPzJnW9Jy45dzbsOVfH90%3D&ref=https%3A%2F%2Fbos21.bid%2Fseven%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Time To Retaliate: MASOOM (2019)
+https://cdn.clonefile.icu/drive/index.php?id=seG3hwGglcG7sN2zokhXrwmMEWhFYi0ZkP8Ym7PBzRy1OP3eEFWa97F71sTCOG97mksNf5gLDhxReQJGSzAhRYSQZ5lAQ8ILylxS8tZXt5Acjurq7%2Fq%2B5QXViFx9DgvJkAWrT1DvkntzmdIMJx8tQjrg67uEbz%2F%2BHza7B1Z1h1nP8UDCmQByuHsjQBPiKt19%2BVQ%2FXopf5gGrC5zV6sNg8P&ref=https%3A%2F%2Fbos21.bid%2Ftime-to-retaliate-masoom-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Great Hack (2019)
+https://cdn.apidev.icu/drive/index.php?id=sQixUUB2mGsTPjnBLc%2F3HA8YmSIr%2BjA3aISMrbQXzlCQaydOaOIL09FfpBLm3DrJHEeArEwL4T8QT8Mtu0rxcLyVdFAca6zoZlA7ULXEiLEK%2FTCJ0CGFHrl1%2Bt%2FBdHnLN3Y8dQKFqvpvpjinpQGp52wRjjteciDp1x71%2FK3SXo4StjDeYSAf56pyZiW3E1g%2FI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-great-hack%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",El Chicano (2019)
+https://cdn.clonefile.icu/drive/index.php?id=gAs52XEWaSy8ENes17sFUwx0yXZvfGwt949EIJ%2BFbITHnR1TYBRKXUqbMetRC576NHH6H5xlrpWUpbiSP6WhDvRo4fs9ZBGUyILIXqXBkBnW96kOCw1w%2F0CVBlvX5HRgVsB7XbtyCAFR%2BCDRIPggzUHuuh5T9IjtkTmDJKnzLX8wAimpyE2zBcw9B2ZkBKzyM%3D&ref=https%3A%2F%2Fbos21.bid%2Fel-chicano%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Batman: Hush (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=N%2Bi2ByjvYLyRKAoyr9HMhwvQ%2F5Y%2BnL10Lb3H9wi0joj1s67Pnz0SOAhY1Aiyg74UOJzL3RLKtu7Ajg6jScNWhmVYbhr%2F69NyJEGl9Q4c7rrezbRnh%2BMqQcZM%2FL3xu6lmKt2Rm3zTkwPyXXgwxIUlpKm35FhJphWJ7ZvZq%2FzPdLmBjTDVK%2Bp3xPigr%2BiQGYNoE%3D&ref=https%3A%2F%2Fbos21.bid%2Fbatman-hush%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pokemon Detective Pikachu (2019)
+https://cdn.apidev.icu/drive/index.php?id=x%2Bqtp8%2BFn8Km2SZIX1WOJgqsvCig4I4r%2BRO9Py78lYoKWTcTi%2FtAB5bDu3amluh0MGMxpb8D3qygyc%2F5gcbX%2BEu5xIrW0A6K4qfYogC%2BWbTZDIlQg2xmWD5xKfAdUfGpSgjBguYJ4j4LJACgytFukRafqiP46JjJHNN%2FM%2FOe7vxJr8SIQBKxxXMnuaekZfZtl1Y%2F%2B3BwuhXdNXZyjXD9y3WZbqZCzEiOo6VylEB%2FI5Pg%3D%3D&ref=https%3A%2F%2Fbos21.bid%2Fpokemon-detective-pikachu-bluray%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Immortal War : Resurgence (2019)
+https://cdn.apidev.icu/drive/index.php?id=SDL8%2FFxgey%2B87NVzHzUWMQbvzI357hQoCk1pfSKmXIEfegy5I2wThsIUAsTXLXFHIqt0Fgod8lGQex5pwLsGHWcpEej3h6oobriYE6d%2BUJ3ZIZz4%2B6jZivEb5DLpNwBd7MFpnzQJ%2FsTU2S9CJ9iF1GkD6xkgKrhUGOsi%2FfgghaEDCWXJy9ybpGNvUjHe82bUyizuO5b36X75vGRih8YwJH&ref=https%3A%2F%2Fbos21.bid%2Fthe-immortal-wars-resurgence%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Hollow Point (2019)
+https://cdn.clonefile.icu/drive/index.php?id=zHUPbjg%2BUb3gMFD944L0ZAkI5mriF5eA43q%2FQlk9xNTgiotwQvBHMypOOavp%2BR4p8tGlsyzgLFUf47zZFZjSfj543N%2FJE5n702jMW2lwWxzispkUyluyX6aE9FG%2BWtviQIyNOtE0hV4LYuTZwRa75jCwkEgoCCylkB11XGmrVAeRhbL5KhaDp0xcmimE16I40%3D&ref=https%3A%2F%2Fbos21.bid%2Fhollow-point%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SKYSCRAPER {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE CAR ROAD TO REVENGE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=8bY55hcAsfPjEBMRluOCnABT8MgMek%2FZRHBVyf%2BGhkBN%2Ff5KE9tGvvSQEs%2FK8M9xjWNvt%2F7mO0%2FpzUFOMi5%2BSV3eHZ1UdE8yO%2FzpOqIVtz2BmvZGl4E60LS7sr82r08d45DtWVnXHhO2lXlVfR6rjuezQ7K85Aa44HQCADdjSi3zVZCZKWkLWvuESE8yxkRDMaOwQ6Ed5XDBgfsHqOWUIU&ref=https%3A%2F%2Fbos21.bid%2Fthe-car-road-to-revenge%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",JUMANJI: WELCOME TO THE JUNGLE {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",TOMB RAIDER (2018) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE LEGEND OF SECRET PASS (2019) {Sub Indo}
+https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MULE (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",COLD PURSUIT (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", Make Us Dream {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=xb4FNW%2BS8uMsFR%2FEw5m6pQnorwkgbqbtTOi9rrev3aM76oUqwhFcvp9I%2F4%2BE1%2BSVjW4ftJsFvHqkmfbLFUGKpIwXGgJVBb4jCoNKa0gBn%2FcktsC%2FumIWUYk2bvNYZFD%2FUAmgqsYe9ome4dDdmA7ytCmSQy3KQO1ESK0ySMJUREGE8PVBBM55bSjTFrI4bz2e4%3D&ref=https%3A%2F%2Fbos21.xyz%2Fmake-us-dream%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", The Lingering {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=Kxf5iMUtnsbVvCimFXv5rQziovh8Xydo8p4Qjk%2FiK5NTjIw4HaSA8P78H1GO9rRB0aFlsnuqqvWhzDTyuBWT8RoDInzJWWca1OpO0vh5A7eiOb0xc2%2F0OPco2so5%2F%2BzEs4B4rTYjqIJA3T1KAWwOucM6ohZiCUfuofHnBF6KkohP6A6Hre9JffyhY4KyusKuQ%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-lingering%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", ICEMAN: The Time Traveler (sub indo)
+https://cdn.clonefile.icu/drive/index.php?id=aUXH1hDhAF7%2BrDKM6OQ29gduyPIDOUYsQ17KXZ%2FT1lzDlhQqMKXHlrFvKRKdqxkD4COIjmyURJJL7sk4d7qZUqz8wRAi7ZrrwV%2BVEQXYFdMcp7qE65g3qqBKiu4HecddjLhsusYgcOoHORDaTMNMu%2FNO5gzlLXauFqa3x%2BBq2U%2B%2FBg77Rin%2F%2Fv9KDrp37JiKoNINH%2BApwnPL5mOI3NJNmU&ref=https%3A%2F%2Fbos21.xyz%2Ficeman-the-time-traveler%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Hitman Agency (Sub Indo)
+https://cdn.apidev.icu/drive/index.php?id=WUmnaOAb7Cj0gO1QwaIYKQV2H8%2BlYVSlEHUGZ9JmkHj5DQTuhkJoaOPInmMfnBZsYS0PJC%2FkTNHMQP32Vno%2FP01VARKxiBQy9gSi%2F1Ighc19tvmSGtMha7%2FZ8C%2BWpZglPUpuoWkZ19V3NoNLbZKUPGTUkUwX5Zn2DpCR1w%2BBBDz%2FcjoliRRhMVnsM6tqaGGp8%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-hitman-agency%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Taylor Swift: Reputation Stadium Tour (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=WmWA1icdpSCY8cW1Uw9jeQvl4E1kZvVDZUsNXwLSRIiUmsbcEU9hPYMcTFYhbiNF00OfXy5ZtYnXwlFlctE%2FKY0%2BcQCB6iG4nZdr1oroVZphV2WQbK3MlJIJu6FdkEzw079rlC%2BFNfPbfNz0uE%2FME73294%2FeqM9eBKU3%2BEIaEnx0ZTWSRypY%2BHaPeZq1HccP1M07egSMkqnxo%2BPgEg6ZipEDE0kKIcy3V8IzAOQQYBhg%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Ftaylor-swift-reputation-stadium-tour%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",WORTH (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=%2Bob5BSO4wTkCt6sMSvok2g9U9iZC2Y%2FdHSi1bmTxhfjS%2FG5Dkude5iU9CDQexlSblJVbClQ9%2FS%2Bol3RcTh9JMuUJs1xCqfheX856gJUZyKzxKMOQ5aUf2MqxNni2MKvW4r1YJN8hdXVshYC2J32fLakoR5%2FCOAmhZZ%2FSCfeoC6BGOYJK0J2rWjbh9bB8RTkFI%3D&ref=https%3A%2F%2Fbos21.xyz%2Fworth%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",JESSIE (2019)
+https://cdn.clonefile.icu/drive/index.php?id=ktgAy6pfyu9L6K4HtVHlfQUCgFSImD4IrxQ2doj95vqhwWSf840t97da0prNHTqJEXKezA1J4Npb2TZtB9NC72E3%2F1fv6IM%2Fr6PEMUMOV696fvvMfj5EigIs6Xai9BxHxCI3lAz%2FOiqLlL1CcZQW9cIKxoHl4bJw%2FO64B8bhVeul9Q1NgyZ1ULfsWkenWS3CE%3D&ref=https%3A%2F%2Fbos21.bid%2Fjessie%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",UNDA (2019)
+https://cdn.apidev.icu/drive/index.php?id=905A7%2Fe2YENvh7FT7jbsGQpNJEYkhfKkyGK93lY0aPyIS048vx6ME27YNXMA54Fk8FI9r1KEZTBPUA%2FjUKfFBEr9yeaDWUe7c%2BpdSChm268wzXCJyk0JDz6V0av9228icvWUYJURWRUvAtq5BsmyuoO7jUZdvfUMAXkU%2BR0%2FGDfBAq%2B6tWC9ldqiOYePfgkHw%3D&ref=https%3A%2F%2Fbos21.bid%2Funda%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",A Score To Settle (2019)
+https://cdn.clonefile.icu/drive/index.php?id=qhD9HZlA9Xbf%2FMflmswYmQGJKCyBt1a9M1sqiXvs3cv0I1O7ZOM8bxPxzzzGQJnRIUvG99coirCpCyZPAxXzt2RCR637O0xOZ%2FvvC5nDt7evBnFmDRPZ5RYD5QhetzLxCbCj%2FpPMhNC0%2F2ioEssEg6gkEon8uy%2Fbev1pIPPG7c1tHEx45xRgtR51851ObHgXL65%2F33CxKnUtaUgFUyzmc9&ref=https%3A%2F%2Fbos21.bid%2Fa-score-to-settle%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Bharat (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=4spaMcjKAHB10bV3BeQEiAtaobmRKskePYjKvCI9xz%2FHbPsPxbHpHKQVM%2FxCtF%2B6oeCLAlogc%2BODheSnZcfz1WQUQyf9g35aM3iN1kkPSTyoxw1Z%2BP6DdNcOaIx3cJjdnstpPkswwLPanV2BTzMrCsn%2BpliORGvASTmjLxfonKvc%2BjznGjWLibvvnn8o5DBKg%3D&ref=https%3A%2F%2Fbos21.bid%2Fbharat%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Seven (2019)
+https://cdn.clonefile.icu/drive/index.php?id=ytHdUFZ%2Bxo7B4mnlY01uXQYPHvRR40cw%2F5k%2BeAmesW%2F0pJRf8Wwj4iJaJV5HD59%2B6ZhiplFjfIXaOMsJOcCMYOkvx08mbhovd6nnClOwoo1LT4aMFqrEptCCAqMqtwz8x%2BKwQKVcriH90QTJvP0UI2xv%2FcoLEsg9tICI8TAog1kDMPzJnW9Jy45dzbsOVfH90%3D&ref=https%3A%2F%2Fbos21.bid%2Fseven%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Time To Retaliate: MASOOM (2019)
+https://cdn.clonefile.icu/drive/index.php?id=seG3hwGglcG7sN2zokhXrwmMEWhFYi0ZkP8Ym7PBzRy1OP3eEFWa97F71sTCOG97mksNf5gLDhxReQJGSzAhRYSQZ5lAQ8ILylxS8tZXt5Acjurq7%2Fq%2B5QXViFx9DgvJkAWrT1DvkntzmdIMJx8tQjrg67uEbz%2F%2BHza7B1Z1h1nP8UDCmQByuHsjQBPiKt19%2BVQ%2FXopf5gGrC5zV6sNg8P&ref=https%3A%2F%2Fbos21.bid%2Ftime-to-retaliate-masoom-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Great Hack (2019)
+https://cdn.apidev.icu/drive/index.php?id=sQixUUB2mGsTPjnBLc%2F3HA8YmSIr%2BjA3aISMrbQXzlCQaydOaOIL09FfpBLm3DrJHEeArEwL4T8QT8Mtu0rxcLyVdFAca6zoZlA7ULXEiLEK%2FTCJ0CGFHrl1%2Bt%2FBdHnLN3Y8dQKFqvpvpjinpQGp52wRjjteciDp1x71%2FK3SXo4StjDeYSAf56pyZiW3E1g%2FI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-great-hack%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",El Chicano (2019)
+https://cdn.clonefile.icu/drive/index.php?id=gAs52XEWaSy8ENes17sFUwx0yXZvfGwt949EIJ%2BFbITHnR1TYBRKXUqbMetRC576NHH6H5xlrpWUpbiSP6WhDvRo4fs9ZBGUyILIXqXBkBnW96kOCw1w%2F0CVBlvX5HRgVsB7XbtyCAFR%2BCDRIPggzUHuuh5T9IjtkTmDJKnzLX8wAimpyE2zBcw9B2ZkBKzyM%3D&ref=https%3A%2F%2Fbos21.bid%2Fel-chicano%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Batman: Hush (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=N%2Bi2ByjvYLyRKAoyr9HMhwvQ%2F5Y%2BnL10Lb3H9wi0joj1s67Pnz0SOAhY1Aiyg74UOJzL3RLKtu7Ajg6jScNWhmVYbhr%2F69NyJEGl9Q4c7rrezbRnh%2BMqQcZM%2FL3xu6lmKt2Rm3zTkwPyXXgwxIUlpKm35FhJphWJ7ZvZq%2FzPdLmBjTDVK%2Bp3xPigr%2BiQGYNoE%3D&ref=https%3A%2F%2Fbos21.bid%2Fbatman-hush%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pokemon Detective Pikachu (2019)
+https://cdn.apidev.icu/drive/index.php?id=x%2Bqtp8%2BFn8Km2SZIX1WOJgqsvCig4I4r%2BRO9Py78lYoKWTcTi%2FtAB5bDu3amluh0MGMxpb8D3qygyc%2F5gcbX%2BEu5xIrW0A6K4qfYogC%2BWbTZDIlQg2xmWD5xKfAdUfGpSgjBguYJ4j4LJACgytFukRafqiP46JjJHNN%2FM%2FOe7vxJr8SIQBKxxXMnuaekZfZtl1Y%2F%2B3BwuhXdNXZyjXD9y3WZbqZCzEiOo6VylEB%2FI5Pg%3D%3D&ref=https%3A%2F%2Fbos21.bid%2Fpokemon-detective-pikachu-bluray%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Immortal War : Resurgence (2019)
+https://cdn.apidev.icu/drive/index.php?id=SDL8%2FFxgey%2B87NVzHzUWMQbvzI357hQoCk1pfSKmXIEfegy5I2wThsIUAsTXLXFHIqt0Fgod8lGQex5pwLsGHWcpEej3h6oobriYE6d%2BUJ3ZIZz4%2B6jZivEb5DLpNwBd7MFpnzQJ%2FsTU2S9CJ9iF1GkD6xkgKrhUGOsi%2FfgghaEDCWXJy9ybpGNvUjHe82bUyizuO5b36X75vGRih8YwJH&ref=https%3A%2F%2Fbos21.bid%2Fthe-immortal-wars-resurgence%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Hollow Point (2019)
+https://cdn.clonefile.icu/drive/index.php?id=zHUPbjg%2BUb3gMFD944L0ZAkI5mriF5eA43q%2FQlk9xNTgiotwQvBHMypOOavp%2BR4p8tGlsyzgLFUf47zZFZjSfj543N%2FJE5n702jMW2lwWxzispkUyluyX6aE9FG%2BWtviQIyNOtE0hV4LYuTZwRa75jCwkEgoCCylkB11XGmrVAeRhbL5KhaDp0xcmimE16I40%3D&ref=https%3A%2F%2Fbos21.bid%2Fhollow-point%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MESSAGE MAN (2019)
+https://hls.kotaksilver.casa/564149/720_517/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Valentine (superhero indo)
+https://hls.kotaksilver.casa/586553/480_917/playlist.m3u8?r=480p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Yowis Ben 2 (2019)
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dilan 1990 (2018)
+https://www.googleapis.com/drive/v3/files/1qY1dI0l2aNrrRC5enlfWsI27am6vdn9X?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dilan 1991 (2019)
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",WIRO SABLENG 212 (2018)
+https://www.googleapis.com/drive/v3/files/1g6KLD7JT9e4fmJqyfTSSWiOFeWNn7W43?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Terlalu Tampan (2019)
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",PSP: Gaya Mahasiswa (2019)
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Orang Kaya Baru (2019)
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",REVENGE OF THE PONTIANAK (2019)
+https://www.googleapis.com/drive/v3/files/1qnAlHCqu8kqJXq_MsROiv4xdY5osVx6V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Pocong The Origin (2019)
+https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Sunyi (2019)
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mati Anak (2019)
+https://hls.kotaksilver.casa/584131/720_665/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Doll (2018) Sub indo
+https://cdn.apidev.icu/drive/index.php?id=7ZztOZg3nhfVUO7IJ7wv%2FATajoaq2Rja3RuXZ6tCne37cP0nbKrRw06qZLVUvpIsHBxKJdhu%2BAlhxUzffOct9jj3VG2nxdlc5RH94Ftfh9nt5EtqQca6D2F4aj5stvTmoqnPsBAkvGGGTAx0zxC2QvNbjIt%2BQrZqQ7bGcp2LTowXSOPKswtF6u1HQEIfsPZno%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-1%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Doll 2 (2019)
+https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzFm0yECXbv1IgEI2hc%2BlHHc6yIP9gVKvJuYs%2Fbv0bKid%2F5en9DP7pX8rUKKnEv%2BDOscJ1wy98Jo58rG7G2QJJoHllCGK%2FUiojLPzqvCiL56527pvzTk6TItGRi4J8My4ztWMEc2ek%2B%2FVvXm1bPB8rS2pq192c%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Perjanjian Dengan Iblis (2019)
+https://cdn.apidev.icu/drive/index.php?id=vrcmevtgIywLTqsvNFZRwwWZYIP%2Frx0iwo%2F%2Fu%2BEK5Aygy%2FuGCueTc69aGP5hYLKLP%2FOMf6CqKcX40iUQS%2BMdbMrTvF%2BNMM395CJ9yeFObzl16GZbxXdSTr40glDKtADF0fsuJo%2Bf0lun0Y%2FmhClUmKvLAmVhkiXAVjhZt4tArBJQ0mGcLAhtliXCPWN8gMXz1CMGyTgdayspT90OvjEFMp&ref=https%3A%2F%2Fbos21.bid%2Fperjanjian-dengan-iblis%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",TABU : MENGUSIK GERBANG IBLIS (2019)
+https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dreadout (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SATU SURO
+https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Suzanna: Bernafas Dalam Kubur
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Tusuk Jelangkung
+https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANUR
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",DANUR 2
+https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",PENGABDI SETAN
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",MUNAFIK {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ayat Ayat Cinta
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Ayat Ayat Cinta 2
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Way I Love U [2019]
+https://cdn.clonefile.icu/drive/index.php?id=ZB3I0WWS%2FWKXIZGFkaJvjAVxrNSagp6veGAXH0yfpim9M12PxOy0yza2%2B9mRJBkfSzoPsfyRFgzoikGGt1130H%2FemYri%2BuJLVnsZ7JwuQLoN%2BtQflw7A1QcFvBfihhSCpz2A394DoikF2p9dRBKzMZpxOoueIS%2BMd5lTcovz6TLXfVev12%2FmeBfTq9AJJDYJxNQufL3%2FvTItViaS69WhTu&ref=https%3A%2F%2Fbos21.bid%2Fthe-way-i-love-you%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The Gift
+https://cdn.clonefile.icu/drive/index.php?id=UEmu1OutOsIc0IK45NGDywZ5oc%2FQekhQZhxNIFFOeQ3YZs0kHX0UhBQntdjN0RLg8ycw9LGUxYmBiABmT0Gp%2Fzu%2BxUVD8Pv%2Fd0jl6jG%2FW2%2B4%2Fj%2FWYfaLBCKI%2FJj5xcSNq5lHM4mjsVcrYcrad8Hwq9EITu0%2FjojKWwum8RklKwflUnXfxweVmudlo3D40xSN0%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-gift-2%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Buka'an 8
+https://gdrivecdn.us/drive/index.php?id=yk6mVm6vOPbSdXkc9Xp9aQrmMg9OGRIiOK6R7LGUjJkSG27AMb%2BXVO5ogHHOH9miEa9%2Bcr55SyFl0pJ31wibJn3HC2M06imC7MBh4p9VYaOU%2FTEDLzjo3Prbt%2BcQE3pkar1WEtacStoDkPK1e3e887zUwKZTADVwMN1Z4sxI8Iy%2Bv%2BR7R772Z3p20dD5lBcPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fbukaan-8%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Test Pack
+https://cdn.clonefile.icu/drive/index.php?id=cSZon4OcDGC3K4yDyOiP4ggB37NsT5aNxuauYtWtE53hDCXJAwNNaWl49W8fNRUiNJfDhf6aELO7aGvEAMfrLd8xeuxZbq8%2FWqciuDCxg0X2HC7Afw1uyDiBoa2%2BY18Hhl0WfMxhy9%2FNhgdUOKt%2BDJa%2BxBzue3Q4cDqc72pW4fBsnGECIa%2FZhjMgHEJboFNlQ%3D&ref=https%3A%2F%2Fbos21.bid%2Ftest-pack%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Perfeck Dream
+https://cdn.apidev.icu/drive/index.php?id=7%2BXXT%2BbNjyHb4141IdqgmwcN5ar4WxH%2BWGzJ7nHRvn%2F%2BviQftP105BSPWjP9mVe1V%2BZ4uUgUbRiMRKKLK00cUjr4oMgPXo4b7%2BNJh%2F6sK%2FCpSB2pzAh1DfPkVE3MF4htI3SI7qJyJACeOuX367hNYtFONtML6pQxQPMTMYgkilGIsghwNyv32Urf9s3GSW0YA%3D&ref=https%3A%2F%2Fbos21.bid%2Fperfect-dream%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Promise
+https://cdn.clonefile.icu/drive/index.php?id=AoOGDt%2FolgPrnshThqDzyAWbAuq%2BuZxFiXBpq7jSStptX1LSDBvfOk0HMwP6NlECa9Bf4YhyurWCWFBeZVIgtjvXbEyq1LWrxoIEky9bLIrteNkBFSFAIpMH1vR8UGP3fPHb2ZOSMuhNHVOUDmtJ1oJmtQQruhpj0C9j8%2BKsvoaqSgG5nYJejTqi7Pt%2BZSOC8%3D&ref=https%3A%2F%2Fbos21.bid%2Fpromise%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Love and Faith
+https://cdn.clonefile.icu/drive/index.php?id=j5i9XDTrVuA7TjKnuITojQArZZjLE9yOOOgPL4ic4tkA2pr3vlrA5M%2BV6d5KmvoryUsdncTEoFXa8RhdQvyf6duCo3JNYBPlI2k%2BVJc93AHV6tARHxVc0nu3aL%2B4hEeYXEWSjYWDpVTeTlXFeTqhxzvtwj1kGikkd%2B0mFdlvWT7SH4ySVpqNVPGNJEZRHVveU%3D&ref=https%3A%2F%2Fbos21.bid%2Flove-and-faith%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", KAMPUNG ZOMBIE
+https://cdn.clonefile.icu/drive/index.php?id=sZI5Pan8SpEeGapmpHJ2Sgt4M6baDd%2BgREbfGAZK7yL7m%2B1RgftibLVF4OW7G9sAg7KDup04Uyt1Om178KuVBi7VX8SxVe7loMKj1%2FdhSvmvWlHpa5tesVBTuLyUOWri1jHKePCgYfAvm1m%2BUxE82Y5y3G0ijkvxgvgj1qm8yO2CebOXEkwetZmqvSoaGaCBg%3D&ref=https%3A%2F%2Fbos21.bid%2Fkampung-zombie%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Mengejar Malam Pertama
+https://cdn.cloneapi.icu/drive/index.php?id=SrXU3Z8Tw1NG6iT3O712wAaW3Bkcky50MMswryZ9i1CNVhvDKBG5W93yXWZcEbM0zRj%2BT0EUMWfVLN7mPr0dsNEV%2FdAbqBtyPJXxTxmDgBqoKgYqj05LUBNthfAFYcF%2BAD2kIGDlQ%2FJ4r7w6Er3wmIQSsW3FWJ%2BWweAZsYyja5VYQcPMiomdxUz2wS4Ri2b5h8clW%2Bevf50WTL0Pu1ccXm&ref=https%3A%2F%2Fbos21.bid%2Fmengejar-malam-pertama%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Toba Dream
+https://cdn.clonefile.icu/drive/index.php?id=gMho670UpuaYN7K48Q7xtQku27loJljge45%2FmUeEh2HSYlq9BCegJ4dTFS4z1eGa%2Fg9Z8FK5sdIEvmAPETblWS%2FueYdb%2FbooMVyAWrmuOm9mCico5DWWDL%2BuVrSOYSXpzu%2BuiYuDoCRn5FyAvB59j%2BKIdoUTVRTt25B5o5NSaqCIoemZGlVTvY6dpfoqNzRGs%3D&ref=https%3A%2F%2Fbos21.bid%2Ftoba-dreams%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",SITI
+https://cdn.cloneapi.icu/drive/index.php?id=yPw4AHJHhLk2zkmZs8dBTQfKFn4ROHVwbSZBdKRY2Uy28UP9YbRQmVkQcmYzzawwiiGacLWWO39SI4Y9cBD9ivmBAIXhmwnGp680%2FBUCUKVckfM9m4o9nXwnDMuzJkwUqbhDkksifdTDVyMWnJliGtwVVl%2BUf9IdLILLY8N2caDs2ETbVX8QTJ7h4WqJFdeeA%3D&ref=https%3A%2F%2Fbos21.bid%2Fsiti%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Remember When
+https://cdn.apidev.icu/drive/index.php?id=KBe1oJCq7x1%2BjA9xBxkz5Q9%2BT%2F%2FMjpR%2FRYWvbTH6cn5u7pn9tmEjg47%2FJt0BVOgqlBKOCu%2BTpNQVELrvLBYZ%2FrQ%2F1iaoamrC2t0dFZhusm%2B9InisESEVrduEJxqzpRejB5tyffmxAiBIqWc56uDDCVm8Vc8MwJ%2FvOYj2FnrNVgX1WjStp%2F2zeJaL8mgFeYzjQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fremember-when%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",3600 Detik
+https://cdn.cloneapi.icu/drive/index.php?id=jGYgd4L20F0%2BhBa7WaTQSgxh%2F44TSe2fCBjYXUgWBFJqMBPjO3r252SY4STa51ERjwvEkGKd9%2FcclgOmB5wWoSass1rV7T%2Fa5BBt67WFs4wYqGufOeuOpTn6zg2Iop6INmdz6HOTnHFLUqNthpaVFKkldBNtxSPanOZ3Ul2tysjLMMAolssQ0IimfY%2FNqtX%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2F3600-detik%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Critical Eleven
+https://cdn.clonefile.icu/drive/index.php?id=9kSxhOzA%2BtMNvGcsSRsJDg8icJafTnXlQxY%2F2udkAIOme7j9cV8%2F8GSNTFn5%2FDGDE44dzK7Ii8gs2DnTg37GtsXGNhnT3G8XVMR4nNyUvibfemNdKm1e6L3gv%2B5V%2B2POjJ14mopAPItuHuGVBecMBsP1yJXov8FBY6Wa686H%2BbosRSbiQrblN0zn3eiLJkGGg%3D&ref=https%3A%2F%2Fbos21.bid%2Fcritical-eleven%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", Keluarga Cemara (2019)
+https://cdn.clonefile.icu/drive/index.php?id=9xc7bdDFdONoP001bBfY2wm23137aX2j2D5PXzEEMqgQ4cl9fb2j9WOsFIba1NfT9PfGH%2BmswFK5XY7%2F1CKXhjWmrb9nXkLSUXrjBh1FdSljgpNhGFSvgPq0Oy8KjovKAMgZuqT77b8W6XNRIEaM1mpGciwb1jbRUbOc7Jdm7hs%2FTLFhkikg9b8crXaw1FpdU%3D&ref=https%3A%2F%2Fbos21.bid%2Fkeluarga-cemara%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran", MEET ME AFTER SUNSET 2018
+https://cdn.cloneapi.icu/drive/index.php?id=jMJX7%2BOLi7CreXqC3PNotA09LyVhOsNZDS8Rvkr5zxpOrwAgrUufB0tvXSFgdHsPxT3l1nIblmXitLBq18GMzmLEDTFdMGgS3E5GZNgqtSKVgK38RpYmqBsyC1CHZHY58TdS0otafaxOGBW9kg26Jdb%2Fo5PTOhQfszKobrGCSaxrVbhP3%2FB8RG9KJ3pVBHICd0ASMIMMorSnxYc0oBOEKT&ref=https%3A%2F%2Fbos21.xyz%2Fmeet-me-after-sunset%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",BAYI GAIB 2018
+https://cdn.cloneapi.icu/drive/index.php?id=yeCjL3wPG7x7DxrHuoku2wIwULNNQjggzb%2FZ7SFH6ghs9yXCp8agfGXZbzsJIyr%2BpFqjOpo8mCvC%2BKPuivWibXG7C2DIP%2Bta9nq2wGqJljzqKwdv%2Fb3Gac5b3tCxCFTYj22Q5aDOsfc6GidYSrvfxN7CN1VLgpkY0qsFd%2BhroGP2NlIMFDva1wlY3KeFuYNhc%3D&ref=https%3A%2F%2Fbos21.xyz%2Fbayi-gaib%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",NINI THOWOK 2018
+https://cdn.clonefile.icu/drive/index.php?id=FmT1tgmmkBV7uxE%2BOHVOkwKfNM%2BhZtbMVbe0CGNk4Pdz5JUPBwir6R4ADMi9R8DyrRu%2F0IWAuBv8HAEsiB8kVLED5433JGHx%2Fv4%2Fq4JGpkLHNNCkzcM9BPA8M0XVdV495Gw3xD7VQL9tSvsRGHThxqKAMDFLDGLDAOmbGWeOF3c2k4EG980koS%2BuLN0%2FhbBKM%3D&ref=https%3A%2F%2Fbos21.xyz%2Fnini-thowok%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",THE SECRET: SUSTER NGESOT URBAN LEGEND 2018
+https://cdn.apidev.icu/drive/index.php?id=s95pBe957WaXLktF3%2Fox3AwHxqkDxOqRHNB2KTaG5hOg2KTFHX9kFqJh4Wa3dXJUQUrHLEEkjj7Uc6g8XDaEE8thqqsvn4bWAKsFoGErTCehOlFeJ4psw7kPvJNM%2BEC%2Fw7EO%2F8qpag2EV4c4tM70LiF9L7ELH9uZo64xOwB3c0LhoI23To208ktUxqRHHVxFR7jCE%2FUH3qvdB9qFjR%2B1yA%2Fz4du61LS%2FdSOSKI9uFB4A%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-secret-suster-ngesot-urban-legend%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",KEMBANG KANTIL 2018
+https://cdn.clonefile.icu/drive/index.php?id=zOv4pH0QzbQhtlxYquipHwjFKwKqMkJvnrbIw%2BRm9nvb67XuxqBfiiaMp0sZQ5chvpYdVdGiBEPILblJgHgir1PHbpQu6Fux2%2BihPNz6asaCzm76DmxtgpP%2Bkbgf%2BF98YwBh3uLbrgE4fFU9CNtXnSFJhRflJ%2BJHzjdR9fQyljLCRvcBwXAOEt2bxQz3fM9W0%3D&ref=https%3A%2F%2Fbos21.xyz%2Fkembang-kantil%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ARINI 2018
+https://cdn.apidev.icu/drive/index.php?id=UrVtza%2BRZLYx4UvrTarurAntuFweKV4sSLsvNLg5i1kvN28mDnwetlNF%2B4%2BXQ8D8iDv%2FQ9UBsOd8xmIcfX%2Fxyyzg8J2GiOTx%2FtzQyMPs6ry4np7YHhdleJ5ZwP%2B7wYdf%2BA3%2FokVmkl9cGOjSEdAbUW61Hw84nYAFG6%2BAh9ogwj3bJnHZC7zPl52RgnIcZDDAo%3D&ref=https%3A%2F%2Fbos21.xyz%2Farini%2F&res=default
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",ANANTA 2018
+https://cdn.cloneapi.icu/drive/index.php?id=tbU3PeWNSHqcI6s19QBB0Q2EzTMTH%2FMcfmYT3Se2XZE9UyOT7JKpqdIiGJ01eCRXAHY43rrYccU4E5uulTNt0xAsVEQmv0Q6Gcnk6skpwqURYGpi1lUNA8TzJFIwDhKMR2E%2FRr90%2F7vpIGpluc4T0KkIlrD3nM5L0CH16Py8F1S%2FrkwUJEXHTJQdEpgrSaV2Y%3D&ref=https%3A%2F%2Fbos21.xyz%2Fananta%2F&res=default
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",JAGA POCONG (2019)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",PERJANJIAN DENGAN IBLIS (2019)
