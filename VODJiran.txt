@@ -476,28 +476,6 @@ https://www.googleapis.com/drive/v3/files/1VUesF1Vuuz9YgxkDuRQ2og4sbtHQ11k2?alt=
 http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",The One
 http://srv36.nf21.net/files/15-2020-06-01-4435fb82d4a8747e71bffb2847fc8dcd.mp4
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",onkey King 3: Love Tribulation (2020)
-https://douban.donghongzuida.com/20200529/2716_3f749d73/1000k/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Are We in Love? (2020)
-http://srv33.nf21.net/files/15-2020-05-30-1fe64e22cfd23e4c3c1a0cbb982b4c83.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Chinese Ghost Story 3: The Enchanting Phantom (2020)
-http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",????? (South Sea Beauty Shark)
-https://douban.donghongzuida.com/20200510/1852_b0fb2b18/1000k/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Reborn
-http://srv30.nf21.net/files/11-2018-12-25-8bbff1bc38c625aaf74804dbdfb73fe7.mp4
-#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Running Man
-http://srv32.nf21.net/files/15-2020-04-25-945da31d92d773f1ceea59cdc7549368.mp4
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",Zhong Kui Returns to All Evil Spirits (2020)
-https://xigua-cdn.haima-zuida.com/20200129/1479_5a683c7b/1000k/hls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",???????? (Gu Jian Qi Tan Zhi Fu Mo Ji 2020)
-https://hong.tianzhen-zuida.com/20200128/19374_9f28d3f7/1000k/hls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",Rebirth of the Nympho
-https://youku.com-zx-iqiyi.com/20200127/11894_206bb145/1000k/hls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",Legend of Chenzhen
-https://youku.mhyunbo.com/20191117/riRZ5Emf/1200kb/hls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILM CAMPURAN BARAT 2020",Long Long Time Ago 2
-https://yi.jingdianzuida.com/20191030/02bdBfzl/index.m3u8
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Scoob! (2020)
 http://srv32.nf21.net/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Dance Monkey - Tones and I
@@ -670,7 +648,7 @@ https://tutu.yuhuu.workers.dev/Vod/ThKng.of.SttnIslnd%25202k20%2520Bluray%252072
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Sputnik (2020) 
 https://tutu.yuhuu.workers.dev/Vod/Sptnk%25202k20%2520AMZN%2520Webrip%2520720p%2520x264%2520RUSSIAN%2520AAC%2520-%2520DRAYS.mkv
 
-#EXTINF:-1 tvg-logo="https://www.driverays.com/wp-content/uploads/2020/08/5oQJ6HeNGWnEtP9Qyt5IZjuKI7j-185x278.jpg" group-title="VoD - 2020",Fearless (2020) 
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Fearless (2020) 
 https://tutu.yuhuu.workers.dev/Vod/Frlss%25202k20%2520NF%2520Webrip%2520720p%2520x264%2520AAC%2520-%2520DRAYS.mkv
 
 #EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",Yes, God, Yes (2019)
