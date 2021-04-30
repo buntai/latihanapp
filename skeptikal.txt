@@ -48,6 +48,8 @@ http://tvms.me:8080/arumi/arumi/239
 http://mantul.biz.id:8888/kasih/kasih/1105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
 http://mantul.biz.id:8888/kasih/kasih/2555
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png", Test
+http://hottest.fit:8080/tDvhpknKWX/tV35p79d5k/9612
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD HD 311
@@ -478,8 +480,8 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 http://mantul.biz.id:8888/kasih/kasih/8381
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Baby Bus Indonesia
 http://mantul.biz.id:8888/kasih/kasih/1013
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 John Wick Collection
-http://geostream.me:8080/khalid/khalid/69853
+#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7: 9-1-1 Collection
+http://geostream.me:8080/khalid/khalid/69516
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bruce Lee Collection
 http://mantul.biz.id:8888/kasih/kasih/10690
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bubble Guppies Collection
