@@ -50,6 +50,8 @@ http://mantul.biz.id:8888/kasih/kasih/1105
 http://mantul.biz.id:8888/kasih/kasih/2555
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
 http://geostream.me:8080/lasse6/lasse6/9612
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://pictr.com/images/2020/03/24/5Odfkn.md.png", Astro First 2021
+http://207.244.239.77:25461/free/free/7825
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD HD 311
