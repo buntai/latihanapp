@@ -1,0 +1,1680 @@
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",South Park
+http://geostream.me:8080/lasse6/lasse6/15993
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7 Christmas | Santa Clause 1 2 3
+http://geostream.me:8080/lasse6/lasse6/70329
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7:  Knight Rider Collection
+http://geostream.me:8080/lasse6/lasse6/70322
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 'Allo 'Allo! Collection
+http://geostream.me:8080/lasse6/lasse6/69501
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 12 Monkeys Collection
+http://geostream.me:8080/lasse6/lasse6/69502
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 13 Reasons Why Collection
+http://geostream.me:8080/lasse6/lasse6/69503
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 2 Broke Girls Collection
+http://geostream.me:8080/lasse6/lasse6/69504
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 21 Jump Street Collection
+http://geostream.me:8080/lasse6/lasse6/69505
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 28 Days/Weeks Collection
+http://geostream.me:8080/lasse6/lasse6/69506
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 30 for 30 S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69507
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 30 for 30 S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69508
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 30 for 30 S03 Collection
+http://geostream.me:8080/lasse6/lasse6/69509
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 300 Collection
+http://geostream.me:8080/lasse6/lasse6/69510
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 3rd Rock from the Sun Collection
+http://geostream.me:8080/lasse6/lasse6/69511
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 48 Hours Collection
+http://geostream.me:8080/lasse6/lasse6/69512
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 50 States Of Fright Collection
+http://geostream.me:8080/lasse6/lasse6/69513
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 60 Days In Collection
+http://geostream.me:8080/lasse6/lasse6/69514
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 60 Minutes Collection
+http://geostream.me:8080/lasse6/lasse6/69515
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 9-1-1 Collection
+http://geostream.me:8080/lasse6/lasse6/69516
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 9-1-1 Lonestar Collection
+http://geostream.me:8080/lasse6/lasse6/69517
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 90's Hip Hop Mix
+http://geostream.me:8080/lasse6/lasse6/69518
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: 90's R&amp;B Mix
+http://geostream.me:8080/lasse6/lasse6/69519
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: A Different World S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/69520
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: A Different World S04-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/69521
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: A Nightmare on Elm Street Collection
+http://geostream.me:8080/lasse6/lasse6/69522
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: According to Jim Season 1-3 pt1. Collection
+http://geostream.me:8080/lasse6/lasse6/69523
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: According to Jim Season 3 pt 2-5Collection
+http://geostream.me:8080/lasse6/lasse6/69524
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: According to Jim Season 6-8 Collection
+http://geostream.me:8080/lasse6/lasse6/69525
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Adam Sandler Collection
+http://geostream.me:8080/lasse6/lasse6/69526
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Adam-12 Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/69527
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Air Bud and Air Buddies Collection
+http://geostream.me:8080/lasse6/lasse6/69528
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Alf Collection
+http://geostream.me:8080/lasse6/lasse6/69529
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Alfred Hitchcock Presents Collection
+http://geostream.me:8080/lasse6/lasse6/69530
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: All Grown Up Collection
+http://geostream.me:8080/lasse6/lasse6/69531
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: All in the Family Collection
+http://geostream.me:8080/lasse6/lasse6/69532
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: All Rise Collection
+http://geostream.me:8080/lasse6/lasse6/69533
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: All Round to Mrs. Brown's Collection
+http://geostream.me:8080/lasse6/lasse6/69534
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Almighty Collection
+http://geostream.me:8080/lasse6/lasse6/69535
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Almost Human Collection
+http://geostream.me:8080/lasse6/lasse6/69536
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Altered Carbon Collection
+http://geostream.me:8080/lasse6/lasse6/69537
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Alvin And The Chipmunks Collection
+http://geostream.me:8080/lasse6/lasse6/69538
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Alvin and the Chipmunks TV Collection
+http://geostream.me:8080/lasse6/lasse6/69539
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Amazing Spider-Man (1977) Collection
+http://geostream.me:8080/lasse6/lasse6/69540
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ambitions Collection
+http://geostream.me:8080/lasse6/lasse6/69541
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: America's Funniest Home Videos Collection
+http://geostream.me:8080/lasse6/lasse6/69542
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Chopper Collection
+http://geostream.me:8080/lasse6/lasse6/69543
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Dad Collection
+http://geostream.me:8080/lasse6/lasse6/69544
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Gods Collection
+http://geostream.me:8080/lasse6/lasse6/69545
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Horror Story Season 1-3 Collection
+http://geostream.me:8080/lasse6/lasse6/69546
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Horror Story Season 4-6 Collection
+http://geostream.me:8080/lasse6/lasse6/69547
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Horror Story Season 7-9 Collection
+http://geostream.me:8080/lasse6/lasse6/69548
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Pickers Collection
+http://geostream.me:8080/lasse6/lasse6/69549
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Pie Collection
+http://geostream.me:8080/lasse6/lasse6/69550
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: American Vandal Collection
+http://geostream.me:8080/lasse6/lasse6/69551
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: An American Tail Movie Collection
+http://geostream.me:8080/lasse6/lasse6/69552
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Anchorman Collection
+http://geostream.me:8080/lasse6/lasse6/69553
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Andi Mack Collection
+http://geostream.me:8080/lasse6/lasse6/69554
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Are You Afraid of the Dark Season 1-3 Collection
+http://geostream.me:8080/lasse6/lasse6/69555
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Are You Afraid of the Dark Season 4-7 Collection
+http://geostream.me:8080/lasse6/lasse6/69556
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Auf Widersehen Pet Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/69557
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Austin Powers Collection
+http://geostream.me:8080/lasse6/lasse6/69558
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Automan (1983) Collection
+http://geostream.me:8080/lasse6/lasse6/69559
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Avengers Collection
+http://geostream.me:8080/lasse6/lasse6/69560
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Back to The Future Collection
+http://geostream.me:8080/lasse6/lasse6/69561
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bad Blood Collection
+http://geostream.me:8080/lasse6/lasse6/69562
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bad Boys Collection
+http://geostream.me:8080/lasse6/lasse6/69563
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bad Mothers Collection
+http://geostream.me:8080/lasse6/lasse6/69564
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bad Santa Collection
+http://geostream.me:8080/lasse6/lasse6/69565
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ballers Collection
+http://geostream.me:8080/lasse6/lasse6/69566
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Band of Brothers Collection
+http://geostream.me:8080/lasse6/lasse6/69567
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Banshee Collection
+http://geostream.me:8080/lasse6/lasse6/69568
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Barbershop Collection
+http://geostream.me:8080/lasse6/lasse6/69569
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Barney & Friends Collection
+http://geostream.me:8080/lasse6/lasse6/70323
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Barney &amp; Friends Collection
+http://geostream.me:8080/lasse6/lasse6/69570
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Batman (1966) Collection
+http://geostream.me:8080/lasse6/lasse6/69571
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Baywatch Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/69572
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Beavis and Butt-Head Collection
+http://geostream.me:8080/lasse6/lasse6/69573
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Beetlejuice Collection
+http://geostream.me:8080/lasse6/lasse6/69574
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Being Human (UK) Collection
+http://geostream.me:8080/lasse6/lasse6/69575
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Being Human Collection
+http://geostream.me:8080/lasse6/lasse6/69576
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ben 10 Alien Force Collection
+http://geostream.me:8080/lasse6/lasse6/69577
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ben 10 Collection
+http://geostream.me:8080/lasse6/lasse6/69578
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ben 10 Ultimate Collection
+http://geostream.me:8080/lasse6/lasse6/69579
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ben and Holly's Little Kingdom Collection
+http://geostream.me:8080/lasse6/lasse6/69580
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Benny Hill Show Collection
+http://geostream.me:8080/lasse6/lasse6/69581
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Best Christmas Movies 5
+http://geostream.me:8080/lasse6/lasse6/70330
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Best NHL Goals of all Time Collection
+http://geostream.me:8080/lasse6/lasse6/69582
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Best of In Living Collor Music Videos
+http://geostream.me:8080/lasse6/lasse6/69583
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Best Of The Best Collection
+http://geostream.me:8080/lasse6/lasse6/69584
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Better Call Saul Collection
+http://geostream.me:8080/lasse6/lasse6/69585
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bewitched Collection
+http://geostream.me:8080/lasse6/lasse6/69586
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Big Brother Collection
+http://geostream.me:8080/lasse6/lasse6/69587
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Big Momma's House Collection
+http://geostream.me:8080/lasse6/lasse6/69588
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bill &amp; Ted Collection
+http://geostream.me:8080/lasse6/lasse6/69589
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Billions Collection
+http://geostream.me:8080/lasse6/lasse6/69590
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bionic Six Collection
+http://geostream.me:8080/lasse6/lasse6/69591
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Black Dynamite Collection
+http://geostream.me:8080/lasse6/lasse6/69592
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Black Jesus Collection
+http://geostream.me:8080/lasse6/lasse6/69593
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blade Collection
+http://geostream.me:8080/lasse6/lasse6/69594
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blair Witch Collection
+http://geostream.me:8080/lasse6/lasse6/69595
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blaze and the Monster Machines
+http://geostream.me:8080/lasse6/lasse6/69596
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blindspot Collection
+http://geostream.me:8080/lasse6/lasse6/69597
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blood &amp; Treasure Collection
+http://geostream.me:8080/lasse6/lasse6/69598
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blood Ties S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69599
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blossom Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/69600
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Blue Bloods Collection
+http://geostream.me:8080/lasse6/lasse6/69601
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bob Marley - The Legend Live
+http://geostream.me:8080/lasse6/lasse6/69602
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bob Ross: The Joy of Painting Collection
+http://geostream.me:8080/lasse6/lasse6/69603
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bob's Burgers Collection
+http://geostream.me:8080/lasse6/lasse6/69604
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Boomerang Collection
+http://geostream.me:8080/lasse6/lasse6/69605
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Borgen Collection
+http://geostream.me:8080/lasse6/lasse6/69606
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bosko Collection
+http://geostream.me:8080/lasse6/lasse6/69607
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Boss Baby Back in Business Collection
+http://geostream.me:8080/lasse6/lasse6/69608
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Botched Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69609
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bourne Collection
+http://geostream.me:8080/lasse6/lasse6/69610
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Boyz II Men - The Total Package Tour
+http://geostream.me:8080/lasse6/lasse6/69611
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Brad Pitt Collection
+http://geostream.me:8080/lasse6/lasse6/69612
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Brandy &amp; Ray J A family Business Collection
+http://geostream.me:8080/lasse6/lasse6/69613
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Braxton Family Values Collection
+http://geostream.me:8080/lasse6/lasse6/69614
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Breaking Bad S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/69615
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Breaking Bad S04-S05 Collection
+http://geostream.me:8080/lasse6/lasse6/69616
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Briarpath Collection
+http://geostream.me:8080/lasse6/lasse6/69617
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bring The Funny Collection
+http://geostream.me:8080/lasse6/lasse6/69618
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bruce Lee Collection
+http://geostream.me:8080/lasse6/lasse6/69619
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bubble Guppies Collection
+http://geostream.me:8080/lasse6/lasse6/69620
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Buck Rogers Collection
+http://geostream.me:8080/lasse6/lasse6/69621
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Buddy vs Duff Collection
+http://geostream.me:8080/lasse6/lasse6/69622
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bugs Bunny Collection
+http://geostream.me:8080/lasse6/lasse6/69623
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bull Collection
+http://geostream.me:8080/lasse6/lasse6/69624
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bulletproof Collection
+http://geostream.me:8080/lasse6/lasse6/69625
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Bumfights Collection
+http://geostream.me:8080/lasse6/lasse6/69626
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Caillou Collection
+http://geostream.me:8080/lasse6/lasse6/69627
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Calming Streams Collection
+http://geostream.me:8080/lasse6/lasse6/69628
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Calming Waves Collection
+http://geostream.me:8080/lasse6/lasse6/69629
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Campfire Collection
+http://geostream.me:8080/lasse6/lasse6/69630
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Candyman Collection
+http://geostream.me:8080/lasse6/lasse6/69631
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Captain America Collection
+http://geostream.me:8080/lasse6/lasse6/69632
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Carrie Collection
+http://geostream.me:8080/lasse6/lasse6/69633
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Catherine Tate Show Collection
+http://geostream.me:8080/lasse6/lasse6/69634
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Chappelle's Show Collection
+http://geostream.me:8080/lasse6/lasse6/69635
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Charles in Charge Collection
+http://geostream.me:8080/lasse6/lasse6/69636
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Charlies Angels Collection
+http://geostream.me:8080/lasse6/lasse6/69637
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Charmed 2018 Collection
+http://geostream.me:8080/lasse6/lasse6/69638
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cheech and Chong Collection
+http://geostream.me:8080/lasse6/lasse6/69639
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cheers Collection
+http://geostream.me:8080/lasse6/lasse6/69640
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Child's Play Collection
+http://geostream.me:8080/lasse6/lasse6/69641
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Chuck Collection
+http://geostream.me:8080/lasse6/lasse6/69642
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Classic 2000's Vol 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69643
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Classic 2000's Vol 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69644
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Classic 80's Vol 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69645
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Classic 80's Vol 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69646
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Classic 90's Vol 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69647
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Classic 90's Vol 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69648
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Claws Collection
+http://geostream.me:8080/lasse6/lasse6/69649
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Clerks Collection
+http://geostream.me:8080/lasse6/lasse6/69650
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Clint Eastwood Collection
+http://geostream.me:8080/lasse6/lasse6/69651
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cloudy with a Chance of Meatballs Collection
+http://geostream.me:8080/lasse6/lasse6/69652
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Coach Collection
+http://geostream.me:8080/lasse6/lasse6/69653
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cobra Kai S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69654
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cobra Kai S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69655
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cocoon Collection
+http://geostream.me:8080/lasse6/lasse6/69656
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cold Case Collection
+http://geostream.me:8080/lasse6/lasse6/69657
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Columbo 1-6 Collection
+http://geostream.me:8080/lasse6/lasse6/69658
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Columbo 7-11 Collection
+http://geostream.me:8080/lasse6/lasse6/69659
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Comedy Central Roasts Collection
+http://geostream.me:8080/lasse6/lasse6/69660
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Conan Collection
+http://geostream.me:8080/lasse6/lasse6/69661
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cooking On High Collection
+http://geostream.me:8080/lasse6/lasse6/69662
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cop and a Half Collection
+http://geostream.me:8080/lasse6/lasse6/69663
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cops Collection
+http://geostream.me:8080/lasse6/lasse6/69664
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Coral Reef Aquarium Collection
+http://geostream.me:8080/lasse6/lasse6/69665
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Corn Wars Collection
+http://geostream.me:8080/lasse6/lasse6/69666
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Cow and Chicken Collection
+http://geostream.me:8080/lasse6/lasse6/69667
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Crank Yankers Collection
+http://geostream.me:8080/lasse6/lasse6/69668
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Criminal Minds Collection
+http://geostream.me:8080/lasse6/lasse6/69669
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Crocodile Dundee Collection
+http://geostream.me:8080/lasse6/lasse6/69670
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: CSI: Crime Scene Investigation Collection
+http://geostream.me:8080/lasse6/lasse6/69671
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Curb Your Enthusiasm Collection
+http://geostream.me:8080/lasse6/lasse6/69672
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Daddy's Home Collection
+http://geostream.me:8080/lasse6/lasse6/69673
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dancehall Mix
+http://geostream.me:8080/lasse6/lasse6/69674
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Danger Mouse Collection
+http://geostream.me:8080/lasse6/lasse6/69675
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Danny Phantom Collection
+http://geostream.me:8080/lasse6/lasse6/69676
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dark Side of the Ring Collection
+http://geostream.me:8080/lasse6/lasse6/69677
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: DCs Legends of Tomorrow Collection
+http://geostream.me:8080/lasse6/lasse6/69678
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Death Row Stories Collection
+http://geostream.me:8080/lasse6/lasse6/69679
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Deep Sea Collection
+http://geostream.me:8080/lasse6/lasse6/69680
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Denzel Washington Collection
+http://geostream.me:8080/lasse6/lasse6/69681
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Designated Survivor Collection
+http://geostream.me:8080/lasse6/lasse6/69682
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Despicable Me Collection
+http://geostream.me:8080/lasse6/lasse6/69683
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Destination Fear Collection
+http://geostream.me:8080/lasse6/lasse6/69684
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Deuce Bigalow Collection
+http://geostream.me:8080/lasse6/lasse6/69685
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dexter Collection
+http://geostream.me:8080/lasse6/lasse6/69686
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dharma &amp; Greg Collection
+http://geostream.me:8080/lasse6/lasse6/69687
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Diary Of A Wimpy Kid Collection
+http://geostream.me:8080/lasse6/lasse6/69688
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Die Hard Collection
+http://geostream.me:8080/lasse6/lasse6/69689
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Die Hart Collection
+http://geostream.me:8080/lasse6/lasse6/69690
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Different Strokes Collection
+http://geostream.me:8080/lasse6/lasse6/69691
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dinosaur Train Collection
+http://geostream.me:8080/lasse6/lasse6/69692
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dinosaurs Collection
+http://geostream.me:8080/lasse6/lasse6/69693
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dirty Harry Collection
+http://geostream.me:8080/lasse6/lasse6/69694
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dirty John Collection
+http://geostream.me:8080/lasse6/lasse6/69695
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Discovery Mighty Trains Collection
+http://geostream.me:8080/lasse6/lasse6/69696
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Disney Shorts Collection
+http://geostream.me:8080/lasse6/lasse6/69697
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Disney's Christmas Fireplace Collection
+http://geostream.me:8080/lasse6/lasse6/69698
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: DMX - Woodstock 99
+http://geostream.me:8080/lasse6/lasse6/69699
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Donald Duck Collection
+http://geostream.me:8080/lasse6/lasse6/69700
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Doom Collection
+http://geostream.me:8080/lasse6/lasse6/69701
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dora the Explorer Collection
+http://geostream.me:8080/lasse6/lasse6/69702
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dora the Explorer Season 6-8 Collection
+http://geostream.me:8080/lasse6/lasse6/69703
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Downton Abbey Collection
+http://geostream.me:8080/lasse6/lasse6/69704
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ducktales( 80's) Collection
+http://geostream.me:8080/lasse6/lasse6/69705
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dumb and Dumber Collection
+http://geostream.me:8080/lasse6/lasse6/69706
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dummy Collection
+http://geostream.me:8080/lasse6/lasse6/69707
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69708
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69709
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S03 Collection
+http://geostream.me:8080/lasse6/lasse6/69710
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69711
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S05 Collection
+http://geostream.me:8080/lasse6/lasse6/69712
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S07 Collection
+http://geostream.me:8080/lasse6/lasse6/69713
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S08 Collection
+http://geostream.me:8080/lasse6/lasse6/69714
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (1980) S09 Collection
+http://geostream.me:8080/lasse6/lasse6/69715
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Dynasty (2017) SO1-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69716
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Eastbound and Down Collection
+http://geostream.me:8080/lasse6/lasse6/69717
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ed Edd n Eddy Collection
+http://geostream.me:8080/lasse6/lasse6/69718
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Eight is Enough Collection
+http://geostream.me:8080/lasse6/lasse6/69719
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Elvis Presley Collection
+http://geostream.me:8080/lasse6/lasse6/69720
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Empire Collection
+http://geostream.me:8080/lasse6/lasse6/69721
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Enter The Ninja Collection
+http://geostream.me:8080/lasse6/lasse6/69722
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ernest Collection
+http://geostream.me:8080/lasse6/lasse6/69723
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Eureka Collection
+http://geostream.me:8080/lasse6/lasse6/69724
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Everybody Hates Chris
+http://geostream.me:8080/lasse6/lasse6/69725
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Everybody Loves Raymond Collection
+http://geostream.me:8080/lasse6/lasse6/69726
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: EVIL Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69727
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: F*ck That's Delicious Collection
+http://geostream.me:8080/lasse6/lasse6/69728
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: F-Troop Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69729
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: F-Troop Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69730
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Guy Season 1-3 Collection
+http://geostream.me:8080/lasse6/lasse6/69731
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Guy Season 10-12 Collection
+http://geostream.me:8080/lasse6/lasse6/69732
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Guy Season 4-6 Collection
+http://geostream.me:8080/lasse6/lasse6/69733
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Guy Season 7-9 Collection
+http://geostream.me:8080/lasse6/lasse6/69734
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Matters S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/69735
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Matters S04-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/69736
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Family Matters S07-S09 Collection
+http://geostream.me:8080/lasse6/lasse6/69737
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fantastic Beasts Collection
+http://geostream.me:8080/lasse6/lasse6/69738
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fantastic Four Collection
+http://geostream.me:8080/lasse6/lasse6/69739
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fast &amp; Furious Collection
+http://geostream.me:8080/lasse6/lasse6/69740
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: FBI S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69741
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Felix The Cat Collection
+http://geostream.me:8080/lasse6/lasse6/69742
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fifty Shades of Grey Collection
+http://geostream.me:8080/lasse6/lasse6/69743
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fire Masters Collection
+http://geostream.me:8080/lasse6/lasse6/69744
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Flip or Flop Collection
+http://geostream.me:8080/lasse6/lasse6/69745
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Flipper Collection
+http://geostream.me:8080/lasse6/lasse6/69746
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Flipping 101 With Tarek El Moussa
+http://geostream.me:8080/lasse6/lasse6/69747
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Footloose Collection
+http://geostream.me:8080/lasse6/lasse6/69748
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: For All Mankind Collection
+http://geostream.me:8080/lasse6/lasse6/69749
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: For Life S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69750
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Forest Rainstorm Collection
+http://geostream.me:8080/lasse6/lasse6/69751
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Forever Marilyn Collection
+http://geostream.me:8080/lasse6/lasse6/69752
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fraggle Rock Collection
+http://geostream.me:8080/lasse6/lasse6/69753
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Free Willy Collection
+http://geostream.me:8080/lasse6/lasse6/69754
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: FreeRayshawn Colection
+http://geostream.me:8080/lasse6/lasse6/69500
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friday Collection
+http://geostream.me:8080/lasse6/lasse6/70324
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friday The 13th Prt 1-6 Collection
+http://geostream.me:8080/lasse6/lasse6/69755
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friday The 13th Prt 7-12 Collection
+http://geostream.me:8080/lasse6/lasse6/69756
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friends S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69757
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friends S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69758
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friends S05-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/69759
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friends S07-S08 Collection
+http://geostream.me:8080/lasse6/lasse6/69760
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Friends S09-S10 Collection
+http://geostream.me:8080/lasse6/lasse6/69761
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Frozen Collection
+http://geostream.me:8080/lasse6/lasse6/69762
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Full House Collection
+http://geostream.me:8080/lasse6/lasse6/69763
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Fuller House Collection
+http://geostream.me:8080/lasse6/lasse6/69764
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Futurama Collection
+http://geostream.me:8080/lasse6/lasse6/69765
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: G.I. Joe Collection
+http://geostream.me:8080/lasse6/lasse6/69766
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Game of Thrones S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/69767
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Game of Thrones S04-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/69768
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Game of Thrones S07-S08 Collection
+http://geostream.me:8080/lasse6/lasse6/69769
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Get Smart (1965 - 1970) Collection
+http://geostream.me:8080/lasse6/lasse6/69770
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ghost Adventures Collection
+http://geostream.me:8080/lasse6/lasse6/69771
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ghostbusters Collections
+http://geostream.me:8080/lasse6/lasse6/69772
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: GI Joe Collection
+http://geostream.me:8080/lasse6/lasse6/69773
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gigantosaurus Collection
+http://geostream.me:8080/lasse6/lasse6/69774
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gilligan's Island Collection
+http://geostream.me:8080/lasse6/lasse6/69775
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Girl Meets World Collection
+http://geostream.me:8080/lasse6/lasse6/69776
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: GLOW Collection
+http://geostream.me:8080/lasse6/lasse6/69777
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Godfather of Harlem Collection
+http://geostream.me:8080/lasse6/lasse6/69778
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Godzilla Collection Vol 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69779
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Godzilla Collection Vol 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69780
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Good Girls Collection
+http://geostream.me:8080/lasse6/lasse6/69781
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Good Morning Miss Bliss Collection
+http://geostream.me:8080/lasse6/lasse6/69782
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Good Times Collection
+http://geostream.me:8080/lasse6/lasse6/69783
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Goofy Movies Collection
+http://geostream.me:8080/lasse6/lasse6/69784
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gravity Falls Collection
+http://geostream.me:8080/lasse6/lasse6/69785
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Grease Collection
+http://geostream.me:8080/lasse6/lasse6/69786
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Greatness Code Collection 4K
+http://geostream.me:8080/lasse6/lasse6/69787
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Green Acres Collection
+http://geostream.me:8080/lasse6/lasse6/69788
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gremlins Collection
+http://geostream.me:8080/lasse6/lasse6/69789
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Grey's Anatomy Collection
+http://geostream.me:8080/lasse6/lasse6/69790
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Growing Pains 24-7
+http://geostream.me:8080/lasse6/lasse6/69791
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Grumpy Old Men Collection
+http://geostream.me:8080/lasse6/lasse6/69792
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Guardians of the Galaxy Collection
+http://geostream.me:8080/lasse6/lasse6/69793
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gumby Collection
+http://geostream.me:8080/lasse6/lasse6/69794
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gummi Bears Collections
+http://geostream.me:8080/lasse6/lasse6/69795
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gunsmoke Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69796
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gunsmoke Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69797
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Gunsmoke Season 3 Collection
+http://geostream.me:8080/lasse6/lasse6/69798
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Halloween Collection
+http://geostream.me:8080/lasse6/lasse6/69799
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hangin' with Mr. Cooper Collection
+http://geostream.me:8080/lasse6/lasse6/69800
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hanna Collection
+http://geostream.me:8080/lasse6/lasse6/69801
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hannibal Collection
+http://geostream.me:8080/lasse6/lasse6/69802
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Happy Days Collection
+http://geostream.me:8080/lasse6/lasse6/69803
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hardcore Pawn Collection
+http://geostream.me:8080/lasse6/lasse6/69804
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Harley Quinn Collection
+http://geostream.me:8080/lasse6/lasse6/69805
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Harry Potter Collection
+http://geostream.me:8080/lasse6/lasse6/69806
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hart to Hart Collection
+http://geostream.me:8080/lasse6/lasse6/69807
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Haunting In the Heartland Collection
+http://geostream.me:8080/lasse6/lasse6/69808
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: He-Man and the Masters of the Universe Collection
+http://geostream.me:8080/lasse6/lasse6/69809
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Heavy Thunderstorm Collection
+http://geostream.me:8080/lasse6/lasse6/69810
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hellboy Collection
+http://geostream.me:8080/lasse6/lasse6/69811
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Henry Danger Collection
+http://geostream.me:8080/lasse6/lasse6/69812
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Herbie Collection
+http://geostream.me:8080/lasse6/lasse6/69813
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Highlander Collection
+http://geostream.me:8080/lasse6/lasse6/69814
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hip Hop Video Mix
+http://geostream.me:8080/lasse6/lasse6/69815
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hitman Collection
+http://geostream.me:8080/lasse6/lasse6/69816
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hoarders Pt. 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69817
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hoarders Pt. 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69818
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hoarders Pt. 3 Collection
+http://geostream.me:8080/lasse6/lasse6/69819
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Home Alone Collection
+http://geostream.me:8080/lasse6/lasse6/69820
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Home Before Dark S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69821
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Home Improvement Collection
+http://geostream.me:8080/lasse6/lasse6/69822
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hostel Collection
+http://geostream.me:8080/lasse6/lasse6/69823
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hotel Transylvania Collection
+http://geostream.me:8080/lasse6/lasse6/69824
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: House Collection
+http://geostream.me:8080/lasse6/lasse6/69825
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: House Party Collection
+http://geostream.me:8080/lasse6/lasse6/69826
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hulk Collection
+http://geostream.me:8080/lasse6/lasse6/69827
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hungry Hussey Cooking Videos
+http://geostream.me:8080/lasse6/lasse6/70331
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Hunters Collection
+http://geostream.me:8080/lasse6/lasse6/69828
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: I Dream of Jeannie Collection
+http://geostream.me:8080/lasse6/lasse6/70325
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: I Love Lucy Collection S01-S02
+http://geostream.me:8080/lasse6/lasse6/70326
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: I Love Lucy S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69829
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: I Love Lucy S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70327
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: I Love Lucy S05-S07 Collection
+http://geostream.me:8080/lasse6/lasse6/70328
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ice Road Truckers Collection
+http://geostream.me:8080/lasse6/lasse6/69830
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Impractical Jokers Collection
+http://geostream.me:8080/lasse6/lasse6/69831
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: In Living Color Collection
+http://geostream.me:8080/lasse6/lasse6/69832
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Independence Day Collection
+http://geostream.me:8080/lasse6/lasse6/69833
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Indiana Jones Collection
+http://geostream.me:8080/lasse6/lasse6/69834
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ink Master Collection
+http://geostream.me:8080/lasse6/lasse6/69835
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Insecure Collection
+http://geostream.me:8080/lasse6/lasse6/69836
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Inspector Gadget
+http://geostream.me:8080/lasse6/lasse6/69837
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ip Man Collection
+http://geostream.me:8080/lasse6/lasse6/69838
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Iron Maiden Hammersmith 1982
+http://geostream.me:8080/lasse6/lasse6/69839
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Iron Man Collection
+http://geostream.me:8080/lasse6/lasse6/69840
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: It Collection
+http://geostream.me:8080/lasse6/lasse6/69841
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: IZombie S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69842
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: IZombie S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69843
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jackie Chan Adventures Collection
+http://geostream.me:8080/lasse6/lasse6/69844
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jake and the Neverland Pirates Collection
+http://geostream.me:8080/lasse6/lasse6/69845
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Janet Jackson Up Close!
+http://geostream.me:8080/lasse6/lasse6/69846
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jaws Collection
+http://geostream.me:8080/lasse6/lasse6/69847
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jay and Silent Bob Collection
+http://geostream.me:8080/lasse6/lasse6/69848
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jeepers Creepers Collection
+http://geostream.me:8080/lasse6/lasse6/69849
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jeff Dunham Collection
+http://geostream.me:8080/lasse6/lasse6/69850
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jersey Shore - Family Vacation Collection
+http://geostream.me:8080/lasse6/lasse6/69851
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jesse Collection
+http://geostream.me:8080/lasse6/lasse6/69852
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: John Wick Collection
+http://geostream.me:8080/lasse6/lasse6/69853
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Johnny Bravo Collection
+http://geostream.me:8080/lasse6/lasse6/69854
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Johnny Carson Collection
+http://geostream.me:8080/lasse6/lasse6/69855
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Johnny Test Collection
+http://geostream.me:8080/lasse6/lasse6/69856
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jordan vs Lebron - The Best GOAT Comparison
+http://geostream.me:8080/lasse6/lasse6/69857
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Judge Judy Collection
+http://geostream.me:8080/lasse6/lasse6/69858
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Judge Mathis Collection
+http://geostream.me:8080/lasse6/lasse6/69859
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jumanji Collection
+http://geostream.me:8080/lasse6/lasse6/69860
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Jurassic Park/World Collection
+http://geostream.me:8080/lasse6/lasse6/69497
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Keeping Up Appearances Collection
+http://geostream.me:8080/lasse6/lasse6/69861
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kenan &amp; Kel Collection
+http://geostream.me:8080/lasse6/lasse6/69862
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kevin Costner Collection
+http://geostream.me:8080/lasse6/lasse6/69863
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kick Boxer Collection
+http://geostream.me:8080/lasse6/lasse6/69864
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: KIDZ BOP
+http://geostream.me:8080/lasse6/lasse6/69865
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kill Bill Collection
+http://geostream.me:8080/lasse6/lasse6/69866
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kimba the White Lion Collection
+http://geostream.me:8080/lasse6/lasse6/69867
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: King of the Hill Season 1-3 Collection
+http://geostream.me:8080/lasse6/lasse6/69868
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Knight Rider Collection
+http://geostream.me:8080/lasse6/lasse6/69498
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kobe Bryant - The Black Mamba
+http://geostream.me:8080/lasse6/lasse6/69869
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Kolchak The Night Stalker Collection
+http://geostream.me:8080/lasse6/lasse6/69870
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Krazy Kat Collection
+http://geostream.me:8080/lasse6/lasse6/69871
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Larry Bird's 50 Greatest Moments Collection
+http://geostream.me:8080/lasse6/lasse6/69872
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Last Comic Standing Season 4 Collection
+http://geostream.me:8080/lasse6/lasse6/69873
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Last man Standing Collection
+http://geostream.me:8080/lasse6/lasse6/69874
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Laverne &amp; Shirley Collection
+http://geostream.me:8080/lasse6/lasse6/69875
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Law &amp; Order SVU 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69876
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Law &amp; Order SVU 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69877
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Law &amp; Order SVU 3 Collection
+http://geostream.me:8080/lasse6/lasse6/69878
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Law and Order Criminal Intent Collection
+http://geostream.me:8080/lasse6/lasse6/69879
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Legally Blonde Collection
+http://geostream.me:8080/lasse6/lasse6/69880
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: LEGO City Mini Movies Collection
+http://geostream.me:8080/lasse6/lasse6/69881
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lego Masters US Collection
+http://geostream.me:8080/lasse6/lasse6/69882
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lego Movie Collection
+http://geostream.me:8080/lasse6/lasse6/69883
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lego Ninjago Collection
+http://geostream.me:8080/lasse6/lasse6/69884
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Leprechaun Collection
+http://geostream.me:8080/lasse6/lasse6/69885
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Leslie Nielsen Collection
+http://geostream.me:8080/lasse6/lasse6/69886
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lethal Weapon Collection
+http://geostream.me:8080/lasse6/lasse6/69887
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Letter Kenny Collection
+http://geostream.me:8080/lasse6/lasse6/69888
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Liberty's Kids Collection
+http://geostream.me:8080/lasse6/lasse6/69889
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lil Wayne Live at Firefly Music Festival
+http://geostream.me:8080/lasse6/lasse6/69890
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lincoln Rhyme: Hunt for the Bone Collector Collection
+http://geostream.me:8080/lasse6/lasse6/69891
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Little Bear Collection
+http://geostream.me:8080/lasse6/lasse6/69892
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Little House on the Prairie Collection
+http://geostream.me:8080/lasse6/lasse6/69893
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Living Single Collection
+http://geostream.me:8080/lasse6/lasse6/69894
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Locke &amp; Key Collection
+http://geostream.me:8080/lasse6/lasse6/69895
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Look Who's Talking Collection
+http://geostream.me:8080/lasse6/lasse6/69896
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Looney Tunes Collection
+http://geostream.me:8080/lasse6/lasse6/69897
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lost Collection
+http://geostream.me:8080/lasse6/lasse6/69898
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lost in Space Collection
+http://geostream.me:8080/lasse6/lasse6/69899
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Love &amp; Hip Hop New York Collection
+http://geostream.me:8080/lasse6/lasse6/69900
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Love Death Robots Collection
+http://geostream.me:8080/lasse6/lasse6/69901
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Lucifer Collection
+http://geostream.me:8080/lasse6/lasse6/69902
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: M*A*S*H Collection
+http://geostream.me:8080/lasse6/lasse6/69903
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mad Max Collection
+http://geostream.me:8080/lasse6/lasse6/69904
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Making A Murderer S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69905
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Malcolm in the Middle Collection
+http://geostream.me:8080/lasse6/lasse6/69906
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Maleficent Collection
+http://geostream.me:8080/lasse6/lasse6/69907
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Man Vs Food Collection
+http://geostream.me:8080/lasse6/lasse6/69908
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Maniac Collection
+http://geostream.me:8080/lasse6/lasse6/69909
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mark Wahlberg Collection
+http://geostream.me:8080/lasse6/lasse6/69910
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Marlon Collection
+http://geostream.me:8080/lasse6/lasse6/69911
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Married with Children S01-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69912
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Married With Children S05-S08 Collrction
+http://geostream.me:8080/lasse6/lasse6/69913
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Married wth Children S09-S11 Collection
+http://geostream.me:8080/lasse6/lasse6/69914
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Martin Collection
+http://geostream.me:8080/lasse6/lasse6/69915
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mary Poppins Collection
+http://geostream.me:8080/lasse6/lasse6/69916
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mater's Tall Tales Collection
+http://geostream.me:8080/lasse6/lasse6/69917
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mayans Collection
+http://geostream.me:8080/lasse6/lasse6/69918
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mega Man Collection
+http://geostream.me:8080/lasse6/lasse6/69919
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Melrose Place Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/69920
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Melrose Place Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/69921
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Men In Black Collection
+http://geostream.me:8080/lasse6/lasse6/69922
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Miami Vice S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69923
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Miami Vice S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69924
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Miami Vice S05 Collection
+http://geostream.me:8080/lasse6/lasse6/69925
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Michael Jackson - Dangrous Tour
+http://geostream.me:8080/lasse6/lasse6/69926
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Michael Jackson - Live at MSG
+http://geostream.me:8080/lasse6/lasse6/69927
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Michael Jordan - Greatest Moments Collection
+http://geostream.me:8080/lasse6/lasse6/69928
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mickey and the Roadster Racers Collection
+http://geostream.me:8080/lasse6/lasse6/69929
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mickey Mouse Club House Collection
+http://geostream.me:8080/lasse6/lasse6/69930
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mickey Mouse Collection
+http://geostream.me:8080/lasse6/lasse6/69931
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mighty Ducks Cartoon Collection
+http://geostream.me:8080/lasse6/lasse6/69932
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mike Tyson - Greatest Moments Collection
+http://geostream.me:8080/lasse6/lasse6/69933
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Miss Congeniality  Collection
+http://geostream.me:8080/lasse6/lasse6/69934
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mission Impossible Collection
+http://geostream.me:8080/lasse6/lasse6/69935
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mister Ed Collection
+http://geostream.me:8080/lasse6/lasse6/69936
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mister Roger's Neighborhood Collection
+http://geostream.me:8080/lasse6/lasse6/69937
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mom Season 1-3 Collection
+http://geostream.me:8080/lasse6/lasse6/69938
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mom Season 4-5 Collection
+http://geostream.me:8080/lasse6/lasse6/69939
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Monsters Inc / University Collection
+http://geostream.me:8080/lasse6/lasse6/69940
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Moonlighting (1985) Collection
+http://geostream.me:8080/lasse6/lasse6/69941
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mork and Mindy Collection
+http://geostream.me:8080/lasse6/lasse6/69942
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Most Dangerous Game Collection
+http://geostream.me:8080/lasse6/lasse6/69943
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mr Bean Cartoon Collection
+http://geostream.me:8080/lasse6/lasse6/69944
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Mr. Robot Collection
+http://geostream.me:8080/lasse6/lasse6/69945
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Muhammad Ali - Greatest Moments Collection
+http://geostream.me:8080/lasse6/lasse6/69946
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Muppet Babies S01-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69947
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Muppet Babies S05-S07 Collection
+http://geostream.me:8080/lasse6/lasse6/69948
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Murder She Wrote Collection
+http://geostream.me:8080/lasse6/lasse6/69949
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Murphy Brown Collection
+http://geostream.me:8080/lasse6/lasse6/69950
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: My 600-Lb. Life Collection
+http://geostream.me:8080/lasse6/lasse6/69951
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: My Name is Earl Collection
+http://geostream.me:8080/lasse6/lasse6/69952
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: MythBusters Collection
+http://geostream.me:8080/lasse6/lasse6/69953
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Nancy Drew Collection
+http://geostream.me:8080/lasse6/lasse6/69954
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Narcos Collection
+http://geostream.me:8080/lasse6/lasse6/69955
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Narcos Mexico Collection
+http://geostream.me:8080/lasse6/lasse6/69956
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Naruto Collection
+http://geostream.me:8080/lasse6/lasse6/69957
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: National Treasure Collection
+http://geostream.me:8080/lasse6/lasse6/69958
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: NBA Greatest Dunk Contests Collection
+http://geostream.me:8080/lasse6/lasse6/69959
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: NCIS L.A. Collection
+http://geostream.me:8080/lasse6/lasse6/69960
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: NCIS Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/69961
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: NCIS Season 3 Collection
+http://geostream.me:8080/lasse6/lasse6/69962
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Neverending Story Collection
+http://geostream.me:8080/lasse6/lasse6/69963
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Newlyweds: Nick and Jessica Collection
+http://geostream.me:8080/lasse6/lasse6/69964
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: NHL Top 100 Players of All-Time Collection
+http://geostream.me:8080/lasse6/lasse6/69965
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Night at the Museum Collection
+http://geostream.me:8080/lasse6/lasse6/69966
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Night Court Collection
+http://geostream.me:8080/lasse6/lasse6/69967
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Nursery Rhymes Collection
+http://geostream.me:8080/lasse6/lasse6/69968
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ocean's Collections
+http://geostream.me:8080/lasse6/lasse6/69969
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Old School Kung-Fu Movies Collection
+http://geostream.me:8080/lasse6/lasse6/69970
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Old School R&amp;B
+http://geostream.me:8080/lasse6/lasse6/69971
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: On The Run II - Beyonc
+http://geostream.me:8080/lasse6/lasse6/69972
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: One Tree Hill Collection
+http://geostream.me:8080/lasse6/lasse6/69973
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Orange is the New Black S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/69974
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Orange is the New Black S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/69975
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Orange is the New Black S05-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/69976
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Orange is the New Black S07-S08 Collection
+http://geostream.me:8080/lasse6/lasse6/69977
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: OZ Collection
+http://geostream.me:8080/lasse6/lasse6/69978
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ozark Collection
+http://geostream.me:8080/lasse6/lasse6/69979
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ozzy Osbourne Chile 8 Mayo 2018
+http://geostream.me:8080/lasse6/lasse6/69980
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pacific Rim Collection
+http://geostream.me:8080/lasse6/lasse6/69981
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Paranormal Collection
+http://geostream.me:8080/lasse6/lasse6/69982
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pauly Shore Collection
+http://geostream.me:8080/lasse6/lasse6/69983
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Paw Patrol Collection
+http://geostream.me:8080/lasse6/lasse6/69984
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Peaceful Waterfall Collection
+http://geostream.me:8080/lasse6/lasse6/69985
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pearl Jam Live 2018
+http://geostream.me:8080/lasse6/lasse6/69986
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: PeeWees Playhouse Collection
+http://geostream.me:8080/lasse6/lasse6/69987
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Peppa Pig Collection
+http://geostream.me:8080/lasse6/lasse6/69988
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Percy Jackson Collection
+http://geostream.me:8080/lasse6/lasse6/69989
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Perfect Strangers Collection
+http://geostream.me:8080/lasse6/lasse6/69990
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Perry Mason Collection
+http://geostream.me:8080/lasse6/lasse6/69991
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pinky and the Brain Collection
+http://geostream.me:8080/lasse6/lasse6/69992
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pirates of the Caribbean Collection
+http://geostream.me:8080/lasse6/lasse6/69993
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pizza Recipes By The BBQ Pit Boys
+http://geostream.me:8080/lasse6/lasse6/70332
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: PJ Masks Collection
+http://geostream.me:8080/lasse6/lasse6/69994
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Planet of the Apes S01 Collection
+http://geostream.me:8080/lasse6/lasse6/69995
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: PokÃ©mon Collection
+http://geostream.me:8080/lasse6/lasse6/69996
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Police Academy Collection
+http://geostream.me:8080/lasse6/lasse6/69997
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Popeye The Sailor Man Collection
+http://geostream.me:8080/lasse6/lasse6/69998
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Porky's Collection
+http://geostream.me:8080/lasse6/lasse6/69999
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Power S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70000
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Power S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70001
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Power S05 Collection
+http://geostream.me:8080/lasse6/lasse6/70002
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Power S06 Collection
+http://geostream.me:8080/lasse6/lasse6/70003
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Predator Collection
+http://geostream.me:8080/lasse6/lasse6/70004
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Press Your Luck Collection
+http://geostream.me:8080/lasse6/lasse6/70005
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Prince Live - 20TEN Tour
+http://geostream.me:8080/lasse6/lasse6/70006
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Prison Break Collection
+http://geostream.me:8080/lasse6/lasse6/70007
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Problem Child Collection
+http://geostream.me:8080/lasse6/lasse6/70008
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Project Blue Book Collection
+http://geostream.me:8080/lasse6/lasse6/70009
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Property Brothers Collection
+http://geostream.me:8080/lasse6/lasse6/70010
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Psycho Collection
+http://geostream.me:8080/lasse6/lasse6/70011
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Punky Brewster Collection
+http://geostream.me:8080/lasse6/lasse6/70012
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Puppy Dog Pals Collection
+http://geostream.me:8080/lasse6/lasse6/70013
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Pure Country Collection
+http://geostream.me:8080/lasse6/lasse6/70014
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Quantum Leap Collection
+http://geostream.me:8080/lasse6/lasse6/70015
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Queer Eye (2018) Collection
+http://geostream.me:8080/lasse6/lasse6/70016
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Quick Draw Collection
+http://geostream.me:8080/lasse6/lasse6/70017
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rambo Collection
+http://geostream.me:8080/lasse6/lasse6/70018
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ramy Collection
+http://geostream.me:8080/lasse6/lasse6/70019
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Raven's Home collection
+http://geostream.me:8080/lasse6/lasse6/70020
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Real Rob Collection
+http://geostream.me:8080/lasse6/lasse6/70021
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Reba Collection
+http://geostream.me:8080/lasse6/lasse6/70022
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rel Collection
+http://geostream.me:8080/lasse6/lasse6/70023
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Relaxing Birds Collection
+http://geostream.me:8080/lasse6/lasse6/70024
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Reno 911 Collection
+http://geostream.me:8080/lasse6/lasse6/70025
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Reno 911! Collection
+http://geostream.me:8080/lasse6/lasse6/70026
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Revenge of the Nerds Collection
+http://geostream.me:8080/lasse6/lasse6/70027
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rick and Morty Collection
+http://geostream.me:8080/lasse6/lasse6/70028
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Riddick Collection
+http://geostream.me:8080/lasse6/lasse6/70029
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ride Along Collection
+http://geostream.me:8080/lasse6/lasse6/70030
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ripley's Believe It or Not! Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/70031
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ripley's Believe It or Not! Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/70032
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Robin Williams Collection
+http://geostream.me:8080/lasse6/lasse6/70033
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Robo Cop Collection
+http://geostream.me:8080/lasse6/lasse6/70034
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Robot Boy Collection
+http://geostream.me:8080/lasse6/lasse6/70035
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rocko's Modern Life Collection
+http://geostream.me:8080/lasse6/lasse6/70036
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rocky Collection
+http://geostream.me:8080/lasse6/lasse6/70037
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rome Collection
+http://geostream.me:8080/lasse6/lasse6/70038
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Roseanne S01-S3 Collection
+http://geostream.me:8080/lasse6/lasse6/70039
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Roseanne S04-S6 Collection
+http://geostream.me:8080/lasse6/lasse6/70040
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Roseanne S07-S10 Collection
+http://geostream.me:8080/lasse6/lasse6/70041
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rugrats Collection
+http://geostream.me:8080/lasse6/lasse6/70042
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rugrats Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70043
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rules of Engagement Collection
+http://geostream.me:8080/lasse6/lasse6/70044
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Rush Hour Collection
+http://geostream.me:8080/lasse6/lasse6/70045
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: S$*! My Dad Says Collection
+http://geostream.me:8080/lasse6/lasse6/70046
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sabrina The Teenage Witch Collection
+http://geostream.me:8080/lasse6/lasse6/70047
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sanford And Son S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70048
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sanford and Son S04-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/70049
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Saved By The Bell - College Years Collection
+http://geostream.me:8080/lasse6/lasse6/70050
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Saved By The Bell - The New Class Collection
+http://geostream.me:8080/lasse6/lasse6/70051
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Saved By The Bell Collection
+http://geostream.me:8080/lasse6/lasse6/70052
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Saved By The Bell TV Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70053
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Saw Collection
+http://geostream.me:8080/lasse6/lasse6/70054
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scandal S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70055
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scandal S03-S04A Collection
+http://geostream.me:8080/lasse6/lasse6/70056
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scandal S04B-S06A Collection
+http://geostream.me:8080/lasse6/lasse6/70057
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scandal S06B-S07 Collection
+http://geostream.me:8080/lasse6/lasse6/70058
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scary Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70059
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scream Collection
+http://geostream.me:8080/lasse6/lasse6/70060
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scrubs 1-3 Collection
+http://geostream.me:8080/lasse6/lasse6/70061
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scrubs 4-6 Collection
+http://geostream.me:8080/lasse6/lasse6/70062
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Scrubs 7-9 Collection
+http://geostream.me:8080/lasse6/lasse6/70063
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: See Collection
+http://geostream.me:8080/lasse6/lasse6/70064
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Seinfeld Collection
+http://geostream.me:8080/lasse6/lasse6/70065
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sesame Street Collection
+http://geostream.me:8080/lasse6/lasse6/70066
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Shameless Collection
+http://geostream.me:8080/lasse6/lasse6/70067
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Shark Tank Collection
+http://geostream.me:8080/lasse6/lasse6/70068
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Shaun the Sheep Collection
+http://geostream.me:8080/lasse6/lasse6/70069
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: She-ra and the Princesses of Power Collection
+http://geostream.me:8080/lasse6/lasse6/70070
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Short Circuit Collection
+http://geostream.me:8080/lasse6/lasse6/70071
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Shower Sounds Collection
+http://geostream.me:8080/lasse6/lasse6/70072
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Shrek Collection
+http://geostream.me:8080/lasse6/lasse6/70073
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Side Dishes For Barbecue and Grilling By The BBQ Pit Boys
+http://geostream.me:8080/lasse6/lasse6/70333
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Silent Hill Collection
+http://geostream.me:8080/lasse6/lasse6/70074
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: SilverHawks Collections
+http://geostream.me:8080/lasse6/lasse6/70075
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sister Act Collection
+http://geostream.me:8080/lasse6/lasse6/70076
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sliders Collection
+http://geostream.me:8080/lasse6/lasse6/70077
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Small Wonder Collection
+http://geostream.me:8080/lasse6/lasse6/70078
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Smokey and the Bandit Collection
+http://geostream.me:8080/lasse6/lasse6/70079
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sniper Collection
+http://geostream.me:8080/lasse6/lasse6/70080
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Snoop Dogg - Live at the Avalon
+http://geostream.me:8080/lasse6/lasse6/70081
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Snow Falling on Lake Collection
+http://geostream.me:8080/lasse6/lasse6/70082
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Snowfall S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70083
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sons of Anarchy S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70084
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sons of Anarchy S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70085
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sons of Anarchy S05-S06A Collection
+http://geostream.me:8080/lasse6/lasse6/70086
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: South Park Collection
+http://geostream.me:8080/lasse6/lasse6/70087
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Space Force Collection
+http://geostream.me:8080/lasse6/lasse6/70088
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Spawn Cartoon Collection
+http://geostream.me:8080/lasse6/lasse6/70089
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Speed Collection
+http://geostream.me:8080/lasse6/lasse6/70090
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Spider-man (90's) Collection
+http://geostream.me:8080/lasse6/lasse6/70091
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Spider-Man and His Amazing Friends Collection
+http://geostream.me:8080/lasse6/lasse6/70092
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Spike Lee Collection
+http://geostream.me:8080/lasse6/lasse6/70093
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Spongebob Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70094
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: SpongeBob SquarePants Collection
+http://geostream.me:8080/lasse6/lasse6/70095
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Trek Deep Space Nine Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/70096
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Trek The Original Series Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/70097
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Trek The Original Series Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/70098
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Trek The Original Series Season 3 Collection
+http://geostream.me:8080/lasse6/lasse6/70099
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Trek: Picard Collection
+http://geostream.me:8080/lasse6/lasse6/70100
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Wars Clone Wars Collection
+http://geostream.me:8080/lasse6/lasse6/70101
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Star Wars Rebels Collection
+http://geostream.me:8080/lasse6/lasse6/70102
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Step Up Collection
+http://geostream.me:8080/lasse6/lasse6/70103
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Steven Seagal Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70104
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Stranger Things S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70105
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Stranger Things S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70106
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Stranger Things S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70107
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Stuck in the Middle Collection
+http://geostream.me:8080/lasse6/lasse6/70108
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Super Mario World Collection
+http://geostream.me:8080/lasse6/lasse6/70109
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Super Troopers Collection
+http://geostream.me:8080/lasse6/lasse6/70110
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: SuperFriends (1980) Collection
+http://geostream.me:8080/lasse6/lasse6/70111
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Supergirl Collection
+http://geostream.me:8080/lasse6/lasse6/70112
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Superman Cartoon Collection
+http://geostream.me:8080/lasse6/lasse6/70113
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Superman Collection
+http://geostream.me:8080/lasse6/lasse6/70114
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Supernatural Season 02 Collection
+http://geostream.me:8080/lasse6/lasse6/70115
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Supernatural Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/70116
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Supernatural Season 14 Collection
+http://geostream.me:8080/lasse6/lasse6/70117
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Supernatural Season 3-4 Collection
+http://geostream.me:8080/lasse6/lasse6/70118
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Swamp People Collection
+http://geostream.me:8080/lasse6/lasse6/70119
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Swamp Thing Collection
+http://geostream.me:8080/lasse6/lasse6/70120
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Sweet Magnolias Collection
+http://geostream.me:8080/lasse6/lasse6/70121
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: T.J. Hooker Collection
+http://geostream.me:8080/lasse6/lasse6/70122
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Taken Collection
+http://geostream.me:8080/lasse6/lasse6/70123
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tales From the Crypt Collection
+http://geostream.me:8080/lasse6/lasse6/70124
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tales From the Crypt-keeper Collection
+http://geostream.me:8080/lasse6/lasse6/70125
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Talking Tom &amp; Friends Collection
+http://geostream.me:8080/lasse6/lasse6/70126
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Taxi Collection
+http://geostream.me:8080/lasse6/lasse6/70127
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teen Mom 2 Collection
+http://geostream.me:8080/lasse6/lasse6/70128
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teen Titans Go Collection
+http://geostream.me:8080/lasse6/lasse6/70129
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teen Wolf S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70130
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teen Wolf S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70131
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teen Wolf S05-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/69499
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teenage Mutant Ninja Turtles Collection
+http://geostream.me:8080/lasse6/lasse6/70132
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Teletubbies Collection
+http://geostream.me:8080/lasse6/lasse6/70133
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Terminator: The sarah Connor Chronicles Collection
+http://geostream.me:8080/lasse6/lasse6/70134
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Texas Chainsaw Massacre Collection
+http://geostream.me:8080/lasse6/lasse6/70135
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: That 70s Show Collection
+http://geostream.me:8080/lasse6/lasse6/70136
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The A-Team Collection
+http://geostream.me:8080/lasse6/lasse6/70137
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Addams Family Collection
+http://geostream.me:8080/lasse6/lasse6/70138
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Alienist Collection
+http://geostream.me:8080/lasse6/lasse6/70139
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Amanda Show Collection
+http://geostream.me:8080/lasse6/lasse6/70140
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Amazing Spider-Man Collection
+http://geostream.me:8080/lasse6/lasse6/70141
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Andy Griffith Show Collection
+http://geostream.me:8080/lasse6/lasse6/70142
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Bernie Mac Show Collection
+http://geostream.me:8080/lasse6/lasse6/70143
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Beverly Hillbillies Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/70144
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Beverly Hillbillies Season 3-4 Collection
+http://geostream.me:8080/lasse6/lasse6/70145
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Big Bang Theory S01-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70146
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Big Bang Theory S05-S07 Collection
+http://geostream.me:8080/lasse6/lasse6/70147
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Big Show Show Collection
+http://geostream.me:8080/lasse6/lasse6/70148
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Bionic Woman S01 (2017) Collection
+http://geostream.me:8080/lasse6/lasse6/70149
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Boondock Saints Collection
+http://geostream.me:8080/lasse6/lasse6/70150
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Boondocks Collection
+http://geostream.me:8080/lasse6/lasse6/70151
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Boys Collection
+http://geostream.me:8080/lasse6/lasse6/70152
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Brady Bunch Collection
+http://geostream.me:8080/lasse6/lasse6/70153
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Butterfly Effect Collection
+http://geostream.me:8080/lasse6/lasse6/70154
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Chi Collection
+http://geostream.me:8080/lasse6/lasse6/70155
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Chilling Adventures of Sabrina Collection
+http://geostream.me:8080/lasse6/lasse6/70156
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Cleveland Show Collection
+http://geostream.me:8080/lasse6/lasse6/70157
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Conjuring / Annabelle Collection
+http://geostream.me:8080/lasse6/lasse6/70158
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Conners Collection
+http://geostream.me:8080/lasse6/lasse6/70159
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Cosby Show Collection
+http://geostream.me:8080/lasse6/lasse6/70160
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Dick Van Dyke Show Collection
+http://geostream.me:8080/lasse6/lasse6/70161
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Dukes Of Hazzard S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70162
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Dukes Of Hazzard S03-S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70163
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Dukes Of Hazzard S05-S07 Collection
+http://geostream.me:8080/lasse6/lasse6/70164
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The East Side Kids (1941) Collection
+http://geostream.me:8080/lasse6/lasse6/70165
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Evil Dead Collection
+http://geostream.me:8080/lasse6/lasse6/70166
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Expendables Collection
+http://geostream.me:8080/lasse6/lasse6/70167
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Facts Of Life Collection
+http://geostream.me:8080/lasse6/lasse6/70168
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Fairly Oddparents Collection
+http://geostream.me:8080/lasse6/lasse6/70169
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Final Destination Collection
+http://geostream.me:8080/lasse6/lasse6/70170
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The First 48 Collection
+http://geostream.me:8080/lasse6/lasse6/70171
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Flintstone Kids Collection
+http://geostream.me:8080/lasse6/lasse6/70172
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Flintstones Collection
+http://geostream.me:8080/lasse6/lasse6/70173
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Following S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70174
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Fresh Prince of Bel-Air Collection
+http://geostream.me:8080/lasse6/lasse6/70175
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Get Down S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70176
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Godfather Collection
+http://geostream.me:8080/lasse6/lasse6/70177
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Gods Must Be Crazy Collection
+http://geostream.me:8080/lasse6/lasse6/70178
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Golden Girls Collection
+http://geostream.me:8080/lasse6/lasse6/70179
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Good Doctor Collection
+http://geostream.me:8080/lasse6/lasse6/70180
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Green Hornet 24-7
+http://geostream.me:8080/lasse6/lasse6/70181
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Griddle Guys
+http://geostream.me:8080/lasse6/lasse6/70334
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Grudge Collection
+http://geostream.me:8080/lasse6/lasse6/70182
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Handmaid's Tale S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70183
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Hangover Collection
+http://geostream.me:8080/lasse6/lasse6/70184
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Hills Have Eyes Collection
+http://geostream.me:8080/lasse6/lasse6/70185
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Honeymooners Collection
+http://geostream.me:8080/lasse6/lasse6/70186
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Hunger Games Collection
+http://geostream.me:8080/lasse6/lasse6/70187
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Incedible Hulk S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70188
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Incredible Hulk S03-S05 Collection
+http://geostream.me:8080/lasse6/lasse6/70189
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Jacksons - Victory Tour Toronto 1984
+http://geostream.me:8080/lasse6/lasse6/70190
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Jamie Foxx Show Collection
+http://geostream.me:8080/lasse6/lasse6/70191
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Jeffersons Collection
+http://geostream.me:8080/lasse6/lasse6/70192
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Jetsons Collection
+http://geostream.me:8080/lasse6/lasse6/70193
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Karate Kid Collection
+http://geostream.me:8080/lasse6/lasse6/70194
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The King of Queens S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70195
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The King of Queens S04-S06 Collection
+http://geostream.me:8080/lasse6/lasse6/70196
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The King of Queens S07-S09 Collection
+http://geostream.me:8080/lasse6/lasse6/70197
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Last Dance Collection
+http://geostream.me:8080/lasse6/lasse6/70198
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Last O.G. Collection
+http://geostream.me:8080/lasse6/lasse6/70199
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Legacy of Shaquille O'Neal Collection
+http://geostream.me:8080/lasse6/lasse6/70200
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Life and Times of Grizzly Adams Collection
+http://geostream.me:8080/lasse6/lasse6/70201
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Little Mermaid Collection
+http://geostream.me:8080/lasse6/lasse6/70202
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Little Rascals Collection
+http://geostream.me:8080/lasse6/lasse6/70203
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Lord of the Rings Collection
+http://geostream.me:8080/lasse6/lasse6/70204
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Lost Boys Collection
+http://geostream.me:8080/lasse6/lasse6/70205
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Love Boat Collection
+http://geostream.me:8080/lasse6/lasse6/70206
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Mandalorian Collection
+http://geostream.me:8080/lasse6/lasse6/70207
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Matrix Collection
+http://geostream.me:8080/lasse6/lasse6/70208
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Maze Runner Collection
+http://geostream.me:8080/lasse6/lasse6/70209
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Middle Collection
+http://geostream.me:8080/lasse6/lasse6/70210
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Mighty Ducks Collection
+http://geostream.me:8080/lasse6/lasse6/70211
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Mummy Collection
+http://geostream.me:8080/lasse6/lasse6/70212
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Munsters Collection
+http://geostream.me:8080/lasse6/lasse6/70213
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Naked Gun Collection
+http://geostream.me:8080/lasse6/lasse6/70214
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Nanny Collection
+http://geostream.me:8080/lasse6/lasse6/70215
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The New Adventures of Gilligan (1975) Collection
+http://geostream.me:8080/lasse6/lasse6/70216
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The New Fat Albert Show (1979-1981) Collection
+http://geostream.me:8080/lasse6/lasse6/70217
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Octonauts Collection
+http://geostream.me:8080/lasse6/lasse6/70218
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Odd Couple S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70219
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Odd Couple S03-S05 Collection
+http://geostream.me:8080/lasse6/lasse6/70220
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Office Collection
+http://geostream.me:8080/lasse6/lasse6/70221
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Partridge Family Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/70222
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Pier S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70223
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Princess Diaries Collection
+http://geostream.me:8080/lasse6/lasse6/70224
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Purge Collection
+http://geostream.me:8080/lasse6/lasse6/70225
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Purge Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70226
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Rookie S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70227
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Ropers Collection
+http://geostream.me:8080/lasse6/lasse6/70228
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Simpsons Collection
+http://geostream.me:8080/lasse6/lasse6/70229
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Six Million Dollar Man Collection
+http://geostream.me:8080/lasse6/lasse6/70230
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Smurfs Collection
+http://geostream.me:8080/lasse6/lasse6/70231
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Sopranos S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70232
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Sopranos S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70233
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Sopranos S05 Collection
+http://geostream.me:8080/lasse6/lasse6/70234
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Sopranos S06 Collection
+http://geostream.me:8080/lasse6/lasse6/70235
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Spider-Man Collection
+http://geostream.me:8080/lasse6/lasse6/70236
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Super Mario Super Show! Collection
+http://geostream.me:8080/lasse6/lasse6/70237
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Three Stooges Collection
+http://geostream.me:8080/lasse6/lasse6/70238
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Twilight Saga Collection
+http://geostream.me:8080/lasse6/lasse6/70239
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Twilight Zone (1959) Collections
+http://geostream.me:8080/lasse6/lasse6/70240
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Umbrella Academy S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70241
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Vampire Diaries Collection
+http://geostream.me:8080/lasse6/lasse6/70242
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Walking Dead S01-S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70243
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Walking Dead S04-S05 Collection
+http://geostream.me:8080/lasse6/lasse6/70244
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Walking Dead S06-S07 Collection
+http://geostream.me:8080/lasse6/lasse6/70245
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Walking Dead S08-S09 Collection
+http://geostream.me:8080/lasse6/lasse6/70246
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Walking Dead S10 Collection
+http://geostream.me:8080/lasse6/lasse6/70247
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Waltons Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/70248
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Waltons Season 2 Collection
+http://geostream.me:8080/lasse6/lasse6/70249
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Waltons Season 3 Collection
+http://geostream.me:8080/lasse6/lasse6/70250
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Waltons Season 4 Collection
+http://geostream.me:8080/lasse6/lasse6/70251
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Wire S01-02 Collection
+http://geostream.me:8080/lasse6/lasse6/70252
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Wire S03-04 Collection
+http://geostream.me:8080/lasse6/lasse6/70253
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Wire S05 Collection
+http://geostream.me:8080/lasse6/lasse6/70254
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Witcher Collection
+http://geostream.me:8080/lasse6/lasse6/70255
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Wonder Years Collection
+http://geostream.me:8080/lasse6/lasse6/70256
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The Wrestlers Collection
+http://geostream.me:8080/lasse6/lasse6/70257
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: The X-Files Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/70258
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: This is Us S01-S02 Collection
+http://geostream.me:8080/lasse6/lasse6/70259
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: This Is Us S03 Collection
+http://geostream.me:8080/lasse6/lasse6/70260
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: This Is Us S04 Collection
+http://geostream.me:8080/lasse6/lasse6/70261
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Thomas &amp; Friends Collection
+http://geostream.me:8080/lasse6/lasse6/70262
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Thor Collection
+http://geostream.me:8080/lasse6/lasse6/70263
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Three Stooges Cartoon Collection
+http://geostream.me:8080/lasse6/lasse6/70264
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Three's Company Company
+http://geostream.me:8080/lasse6/lasse6/70265
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Thunder Cats Collection
+http://geostream.me:8080/lasse6/lasse6/70266
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tiger King Murder Mayhem And Madness Collection
+http://geostream.me:8080/lasse6/lasse6/70267
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Titus Collection
+http://geostream.me:8080/lasse6/lasse6/70268
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tom and Jerry Collection
+http://geostream.me:8080/lasse6/lasse6/70269
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tom Hanks Collection
+http://geostream.me:8080/lasse6/lasse6/70270
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tomb Raider Collection
+http://geostream.me:8080/lasse6/lasse6/70271
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Top 100 Runs in NFL History Collection
+http://geostream.me:8080/lasse6/lasse6/70272
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Transformers Collection*
+http://geostream.me:8080/lasse6/lasse6/70273
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Trolls Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70274
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Tropical Island Beach Collection
+http://geostream.me:8080/lasse6/lasse6/70275
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: True Blood S01-02 Collection
+http://geostream.me:8080/lasse6/lasse6/70276
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: True Blood S03-04 Collection
+http://geostream.me:8080/lasse6/lasse6/70277
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: True Blood S05-07 Collection
+http://geostream.me:8080/lasse6/lasse6/70278
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Truth Be Told Collection
+http://geostream.me:8080/lasse6/lasse6/70279
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Twerk Party
+http://geostream.me:8080/lasse6/lasse6/70280
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Two and a Half Men Collection
+http://geostream.me:8080/lasse6/lasse6/70281
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: UFC Fight Island: Declassified
+http://geostream.me:8080/lasse6/lasse6/70282
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: UFO Hunters Collection
+http://geostream.me:8080/lasse6/lasse6/70283
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Ultimate Warrior's greatest moments Collection
+http://geostream.me:8080/lasse6/lasse6/70284
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Under the Dome Collection
+http://geostream.me:8080/lasse6/lasse6/70285
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Undercover Boss Collection
+http://geostream.me:8080/lasse6/lasse6/70286
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Underworld Collection
+http://geostream.me:8080/lasse6/lasse6/70287
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Unsolved Mysteries Collection
+http://geostream.me:8080/lasse6/lasse6/70288
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Unsolved Mysteries Season 2-3 Collection
+http://geostream.me:8080/lasse6/lasse6/70289
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Unsolved Mysteries Season 4-6 Collection
+http://geostream.me:8080/lasse6/lasse6/70290
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Usher - OMG Tour (Live From London 2011)
+http://geostream.me:8080/lasse6/lasse6/70291
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Vampirina Collection
+http://geostream.me:8080/lasse6/lasse6/70292
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Veggietales Collection
+http://geostream.me:8080/lasse6/lasse6/70293
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Vikings Collection
+http://geostream.me:8080/lasse6/lasse6/70294
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Waiting Collection
+http://geostream.me:8080/lasse6/lasse6/70295
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Warrior Nun Collection
+http://geostream.me:8080/lasse6/lasse6/70296
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Warrior S01 Collection
+http://geostream.me:8080/lasse6/lasse6/70297
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Watchmen Collection
+http://geostream.me:8080/lasse6/lasse6/70298
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Waxworks Collection
+http://geostream.me:8080/lasse6/lasse6/70299
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Waynes World Collection
+http://geostream.me:8080/lasse6/lasse6/70300
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Weeds Collection
+http://geostream.me:8080/lasse6/lasse6/70301
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Weekend at Bernies Collection
+http://geostream.me:8080/lasse6/lasse6/70302
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Western Movie Collection
+http://geostream.me:8080/lasse6/lasse6/70303
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: What Is For Dinner By CaFe Delietes
+http://geostream.me:8080/lasse6/lasse6/70335
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: What's Happenning!! Collection
+http://geostream.me:8080/lasse6/lasse6/70304
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Whats New Scooby Doo Collection
+http://geostream.me:8080/lasse6/lasse6/70305
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: When The Streetlights Go On Collection
+http://geostream.me:8080/lasse6/lasse6/70306
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Who's the Boss Collection
+http://geostream.me:8080/lasse6/lasse6/70307
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Who's the Boss Season 1-2 Collection
+http://geostream.me:8080/lasse6/lasse6/70308
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Who's the Boss Season 3-4 Collection
+http://geostream.me:8080/lasse6/lasse6/70309
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Will Smith Collection
+http://geostream.me:8080/lasse6/lasse6/70310
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Willy Wonka Collection
+http://geostream.me:8080/lasse6/lasse6/70311
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Wonder Woman Season 1 Collection
+http://geostream.me:8080/lasse6/lasse6/70312
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Wreck It Ralph Collection
+http://geostream.me:8080/lasse6/lasse6/70313
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Wrong Turn Collection
+http://geostream.me:8080/lasse6/lasse6/70314
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Wu-Tang: An American Saga
+http://geostream.me:8080/lasse6/lasse6/70315
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: WWE 20 Matches that Define the Intercontinental Title Collection
+http://geostream.me:8080/lasse6/lasse6/70316
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: X-Men Collection
+http://geostream.me:8080/lasse6/lasse6/70317
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: X-Men The Animated Series Collection
+http://geostream.me:8080/lasse6/lasse6/70318
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: You S01-02 Collection
+http://geostream.me:8080/lasse6/lasse6/70319
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Young Sheldon Collection
+http://geostream.me:8080/lasse6/lasse6/70320
+#EXTINF:-1 tvg-logo="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" group-title="VOD Jiran",24/7: Zombieland Collection
+http://geostream.me:8080/lasse6/lasse6/70321
