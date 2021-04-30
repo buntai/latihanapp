@@ -48,7 +48,7 @@ http://tvms.me:8080/arumi/arumi/239
 http://mantul.biz.id:8888/kasih/kasih/1105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
 http://mantul.biz.id:8888/kasih/kasih/2555
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png", Test
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
 http://geostream.me:8080/lasse6/lasse6/9612
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
