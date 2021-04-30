@@ -442,3 +442,38 @@ http://tvms.me:8080/series/arumi/arumi/5307.mp4
 http://tvms.me:8080/series/arumi/arumi/5438.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E14
 http://tvms.me:8080/series/arumi/arumi/5569.mp4
+
+-= Whats Wrong With Secretary Kim =-
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E01
+http://tvms.me:8080/series/arumi/arumi/1422.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E02
+http://tvms.me:8080/series/arumi/arumi/1423.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E03
+http://tvms.me:8080/series/arumi/arumi/1424.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E04
+http://tvms.me:8080/series/arumi/arumi/1425.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E05
+http://tvms.me:8080/series/arumi/arumi/1426.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E06
+http://tvms.me:8080/series/arumi/arumi/1427.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E07
+http://tvms.me:8080/series/arumi/arumi/1428.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E08
+http://tvms.me:8080/series/arumi/arumi/1429.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E09
+http://tvms.me:8080/series/arumi/arumi/1430.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E10
+http://tvms.me:8080/series/arumi/arumi/1431.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E11
+http://tvms.me:8080/series/arumi/arumi/1432.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E12
+http://tvms.me:8080/series/arumi/arumi/1433.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E13
+http://tvms.me:8080/series/arumi/arumi/1434.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E14
+http://tvms.me:8080/series/arumi/arumi/1435.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E15
+http://tvms.me:8080/series/arumi/arumi/1436.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E16
+http://tvms.me:8080/series/arumi/arumi/1437.mp4
