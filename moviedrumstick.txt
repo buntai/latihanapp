@@ -330,8 +330,8 @@ https://nonton.site:8443/movie/provision/pp/39009.mkv
 https://nonton.site:8443/movie/provision/pp/39010.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Locked Down [Multi-Subs] [2021]
 http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/72720.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Wrong Turn [Multi-Subs] [2021]
-http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/74209.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Wrong Turn [2021]
+http://tvms.me:8080/movie/arumi/arumi/5141.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Transcendence (2014)
 http://mantul.biz.id:8888/movie/kasih/kasih/1204.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", 6 Underground (2019)
