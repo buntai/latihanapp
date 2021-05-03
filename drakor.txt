@@ -415,111 +415,111 @@ https://nonton.site:8443/series/6894864475/7163819284/17018.mkv
 -=KampungPisangbersirisiri=-
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E01
-http://tvms.me:8080/series/arumi/arumi/4221.mp4
+http://tvms.me:8080/series/sukri/sukri/4221.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E02
-http://tvms.me:8080/series/arumi/arumi/4272.mp4
+http://tvms.me:8080/series/sukri/sukri/4272.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E03
-http://tvms.me:8080/series/arumi/arumi/4353.mp4
+http://tvms.me:8080/series/sukri/sukri/4353.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E04
-http://tvms.me:8080/series/arumi/arumi/4482.mp4
+http://tvms.me:8080/series/sukri/sukri/4482.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E05
-http://tvms.me:8080/series/arumi/arumi/4583.mp4
+http://tvms.me:8080/series/sukri/sukri/4583.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E06
-http://tvms.me:8080/series/arumi/arumi/4673.mp4
+http://tvms.me:8080/series/sukri/sukri/4673.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E07
-http://tvms.me:8080/series/arumi/arumi/4763.mp4
+http://tvms.me:8080/series/sukri/sukri/4763.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E08
-http://tvms.me:8080/series/arumi/arumi/4875.mp4
+http://tvms.me:8080/series/sukri/sukri/4875.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E09
-http://tvms.me:8080/series/arumi/arumi/5024.mp4
+http://tvms.me:8080/series/sukri/sukri/5024.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E10
-http://tvms.me:8080/series/arumi/arumi/5097.mp4
+http://tvms.me:8080/series/sukri/sukri/5097.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E11
-http://tvms.me:8080/series/arumi/arumi/5156.mp4
+http://tvms.me:8080/series/sukri/sukri/5156.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E12
-http://tvms.me:8080/series/arumi/arumi/5307.mp4
+http://tvms.me:8080/series/sukri/sukri/5307.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E13
-http://tvms.me:8080/series/arumi/arumi/5438.mp4
+http://tvms.me:8080/series/sukri/sukri/5438.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E14
-http://tvms.me:8080/series/arumi/arumi/5569.mp4
+http://tvms.me:8080/series/sukri/sukri/5569.mp4
 
 -= Whats Wrong With Secretary Kim =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E01
-http://tvms.me:8080/series/arumi/arumi/1422.mp4
+http://tvms.me:8080/series/sukri/sukri/1422.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E02
-http://tvms.me:8080/series/arumi/arumi/1423.mp4
+http://tvms.me:8080/series/sukri/sukri/1423.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E03
-http://tvms.me:8080/series/arumi/arumi/1424.mp4
+http://tvms.me:8080/series/sukri/sukri/1424.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E04
-http://tvms.me:8080/series/arumi/arumi/1425.mp4
+http://tvms.me:8080/series/sukri/sukri/1425.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E05
-http://tvms.me:8080/series/arumi/arumi/1426.mp4
+http://tvms.me:8080/series/sukri/sukri/1426.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E06
-http://tvms.me:8080/series/arumi/arumi/1427.mp4
+http://tvms.me:8080/series/sukri/sukri/1427.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E07
-http://tvms.me:8080/series/arumi/arumi/1428.mp4
+http://tvms.me:8080/series/sukri/sukri/1428.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E08
-http://tvms.me:8080/series/arumi/arumi/1429.mp4
+http://tvms.me:8080/series/sukri/sukri/1429.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E09
-http://tvms.me:8080/series/arumi/arumi/1430.mp4
+http://tvms.me:8080/series/sukri/sukri/1430.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E10
-http://tvms.me:8080/series/arumi/arumi/1431.mp4
+http://tvms.me:8080/series/sukri/sukri/1431.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E11
-http://tvms.me:8080/series/arumi/arumi/1432.mp4
+http://tvms.me:8080/series/sukri/sukri/1432.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E12
-http://tvms.me:8080/series/arumi/arumi/1433.mp4
+http://tvms.me:8080/series/sukri/sukri/1433.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E13
-http://tvms.me:8080/series/arumi/arumi/1434.mp4
+http://tvms.me:8080/series/sukri/sukri/1434.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E14
-http://tvms.me:8080/series/arumi/arumi/1435.mp4
+http://tvms.me:8080/series/sukri/sukri/1435.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E15
-http://tvms.me:8080/series/arumi/arumi/1436.mp4
+http://tvms.me:8080/series/sukri/sukri/1436.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E16
-http://tvms.me:8080/series/arumi/arumi/1437.mp4
+http://tvms.me:8080/series/sukri/sukri/1437.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="---|Sepahtu Reunion Live 2020|---" tvg-logo="" group-title="Series",---|Sepahtu Reunion Live 2020|---
 http://mu03.wanicelife.com:8880/YA243987jhgkj/34958734958/1735
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E01
-http://tvms.me:8080/series/arumi/arumi/3536.mp4
+http://tvms.me:8080/series/sukri/sukri/3536.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E02
-http://tvms.me:8080/series/arumi/arumi/3537.mp4
+http://tvms.me:8080/series/sukri/sukri/3537.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E03
-http://tvms.me:8080/series/arumi/arumi/3538.mp4
+http://tvms.me:8080/series/sukri/sukri/3538.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E04
-http://tvms.me:8080/series/arumi/arumi/3539.mp4
+http://tvms.me:8080/series/sukri/sukri/3539.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E05
-http://tvms.me:8080/series/arumi/arumi/3540.mp4
+http://tvms.me:8080/series/sukri/sukri/3540.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E06
-http://tvms.me:8080/series/arumi/arumi/3541.mp4
+http://tvms.me:8080/series/sukri/sukri/3541.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E07
-http://tvms.me:8080/series/arumi/arumi/3542.mp4
+http://tvms.me:8080/series/sukri/sukri/3542.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E08
-http://tvms.me:8080/series/arumi/arumi/3543.mp4
+http://tvms.me:8080/series/sukri/sukri/3543.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E09
-http://tvms.me:8080/series/arumi/arumi/3544.mp4
+http://tvms.me:8080/series/sukri/sukri/3544.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E10
-http://tvms.me:8080/series/arumi/arumi/3545.mp4
+http://tvms.me:8080/series/sukri/sukri/3545.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E11
-http://tvms.me:8080/series/arumi/arumi/3612.mp4
+http://tvms.me:8080/series/sukri/sukri/3612.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E12
-http://tvms.me:8080/series/arumi/arumi/3748.mp4
+http://tvms.me:8080/series/sukri/sukri/3748.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E13
-http://tvms.me:8080/series/arumi/arumi/3842.mp4
+http://tvms.me:8080/series/sukri/sukri/3842.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E14
-http://tvms.me:8080/series/arumi/arumi/3937.mp4
+http://tvms.me:8080/series/sukri/sukri/3937.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E15
-http://tvms.me:8080/series/arumi/arumi/4011.mp4
+http://tvms.me:8080/series/sukri/sukri/4011.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E16
-http://tvms.me:8080/series/arumi/arumi/4155.mp4
+http://tvms.me:8080/series/sukri/sukri/4155.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E17
-http://tvms.me:8080/series/arumi/arumi/4296.mp4
+http://tvms.me:8080/series/sukri/sukri/4296.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E18
-http://tvms.me:8080/series/arumi/arumi/4297.mp4
+http://tvms.me:8080/series/sukri/sukri/4297.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E19
-http://tvms.me:8080/series/arumi/arumi/4424.mp4
+http://tvms.me:8080/series/sukri/sukri/4424.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E20
-http://tvms.me:8080/series/arumi/arumi/4551.mp4
+http://tvms.me:8080/series/sukri/sukri/4551.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E21
-http://tvms.me:8080/series/arumi/arumi/4614.mp4
+http://tvms.me:8080/series/sukri/sukri/4614.mp4
