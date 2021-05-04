@@ -358,7 +358,14 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
+#EXTINF:-1 group-title="Sports",Astro Supersports 1 MY
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23453
+#EXTINF:-1 group-title="Sports",Astro Supersports 2 MY
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23452
+#EXTINF:-1 group-title="Sports",Astro Supersports 3 MY
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23451
+#EXTINF:-1 group-title="Sports",Astro Supersports 4 MY
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/33973
 
 
 ====================================================
