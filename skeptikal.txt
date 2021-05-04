@@ -49,7 +49,7 @@ http://mantul.biz.id:8888/kasih/kasih/1105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
 http://mantul.biz.id:8888/kasih/kasih/2555
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
-http://geostream.me:8080/lasse6/lasse6/9612
+http://tvms.me:8080/kc8/kc8/380
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://pictr.com/images/2020/03/24/5Odfkn.md.png", Astro First 2021
 http://207.244.239.77:25461/free/free/7825
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
@@ -80,7 +80,7 @@ http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna Delay
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA", Pertiwi TV
-http://geostream.me:8080/leon/leon/9612
+http://tvms.me:8080/kc6/kc8/239
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png",RTM Parlimen (Dewan Rakyat) (1080p)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
