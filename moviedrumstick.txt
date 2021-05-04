@@ -137,7 +137,7 @@ http://tvms.me:8080/movie/sukri/sukri/4636.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://pic.subimdb.com/i/my-sassy-girl-2021.207525.jpg", My Sassy Girl
 http://tvms.me:8080/movie/sukri/sukri/6119.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/2/1/0/3/9/721039-ghostbuser-misteri-desa-penari-0-230-0-345-crop.jpg", Ghostbuser: Misteri Desa Penari (2021)
-http://mantul.biz.id:8888/movie/kasih/kasih/12159.mp4
+http://mantul.biz.id:8888/movie/raka/raka/12159.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFhZjdlZTMtNDBjMC00MDdlLThkNmItMTM2ZjM3NDNjNGM5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Fabricated City
 http://tvms.me:8080/movie/sukri/sukri/548.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUyNWVlZDMtYmVjMy00Nzc2LThhYWQtZGQ1YTlmNzQ4ZDRkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UY268_CR2,0,182,268_AL_.jpg", Tersanjung the Movie [Multi-Subs] [2021]
@@ -149,13 +149,13 @@ http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/73797.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://flxt.tmsimg.com/assets/p30276_p_v10_ab.jpg", Shaolin Soccer
 http://tvms.me:8080/movie/sukri/sukri/2956.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1b/Poster_film_Stop_On_You.jpg/220px-Poster_film_Stop_On_You.jpg", BerhentiDiKamu
-http://mantul.biz.id:8888/movie/kasih/kasih/10694.mkv
+http://mantul.biz.id:8888/movie/raka/raka/10694.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJhZmI5ZWUtYjgyNy00NTk1LWIzODktYTE3NzQzNzJlOTgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Police Story (1985)
-http://mantul.biz.id:8888/movie/kasih/kasih/10246.mp4
+http://mantul.biz.id:8888/movie/raka/raka/10246.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZjOTYwMjAtOWQ5YS00MjVhLTlkMmEtMjUyYTczYTk1YjkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR74,0,630,1200_AL_.jpg", Police Story 2 (1988)
-http://mantul.biz.id:8888/movie/kasih/kasih/10532.mp4
+http://mantul.biz.id:8888/movie/raka/raka/10532.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNmNmI3ZjQtY2FhNy00YThjLWIxNDItZjUwZjY5Zjk3OTYyXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg", First Strike (1996)
-http://mantul.biz.id:8888/movie/kasih/kasih/10533.mp4
+http://mantul.biz.id:8888/movie/raka/raka/10533.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyYWU4ZmItOWNhYi00YmJmLWFkMTItZjQwODU4ZWY5YTdkXkEyXkFqcGdeQXVyMzU0NDE5MjU@._V1_.jpg", Monkey King Reincarnation
 http://tvms.me:8080/movie/sukri/sukri/2944.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM5ZDk2Y2YtMWU2Yy00ZjBmLWE5ODMtNDA0YjkwMjEwOTE4XkEyXkFqcGdeQXVyMjMxMTE2MTQ@._V1_.jpg", Monster Hunters
@@ -187,7 +187,7 @@ http://tvms.me:8080/movie/sukri/sukri/2531.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://i.mydramalist.com/XgWBgf.jpg", Ne Zha 
 http://tvms.me:8080/movie/sukri/sukri/3512.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://asset.kompas.com/crops/yBF9IqDqKB6_hftkpjJEyfK9gKI=/53x0:1042x659/750x500/data/photo/2021/03/18/60530cade9899.png", Surga yang tak dirindukan 3
-http://mantul.biz.id:8888/movie/kasih/kasih/12253.mp4
+http://mantul.biz.id:8888/movie/raka/raka/12253.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Two Faced Fox
 https://calm-rain-70b4.buntai.workers.dev/Asean/gm21.link.Two.Faced.Fox.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Special Bodyguard 2
@@ -201,7 +201,7 @@ http://tvms.me:8080/movie/sukri/sukri/5167.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Nezha Conquers the Dragon King
 http://tvms.me:8080/movie/sukri/sukri/3512.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Danur 3
-http://mantul.biz.id:8888/movie/kasih/kasih/1270.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1270.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Dara 2
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/3.Dara.2.2018.WEBRip.720p.mkv?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Cowok Jagoan
@@ -211,9 +211,9 @@ https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/7.Misi.Rahasia.Sophie.(2
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", A Home With A View
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/A.Home.with.A.View.2019.720p.NF.WEB-DL.mp4?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta
-http://mantul.biz.id:8888/movie/kasih/kasih/11370.mp4
+http://mantul.biz.id:8888/movie/raka/raka/11370.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta 2
-http://mantul.biz.id:8888/movie/kasih/kasih/11371.mp4
+http://mantul.biz.id:8888/movie/raka/raka/11371.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", After Meet You
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/After.Met.You.2019.720p.WEBRip.x264.mkv?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ajari Aku Islam
@@ -227,11 +227,11 @@ https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Bisikan.Iblis.(2018).WEB
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Bukan cinta Malaikat
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Bukan.Cinta.Malaikat.2017.HDTV.1080p.mkv?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Gundala
-http://mantul.biz.id:8888/movie/kasih/kasih/1279.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1279.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Kafir
 http://tvms.me:8080/movie/sukri/sukri/3907.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lampor Keranda Terbang
-http://mantul.biz.id:8888/movie/kasih/kasih/1400.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1400.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lukisan Ratu Kidol
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Lukisan.Ratu.Kidul.2019.WEB-DL.1080p.mkv?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Perjanjian Dengan Iblis
@@ -252,13 +252,13 @@ http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/74866.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjMTAxZmQtYWZhYS00MTFjLTgzYzktMjIyMWE2ZTk4NjZjXkEyXkFqcGdeQXVyMTAwNTk4Mjg5._V1_UX182_CR0,0,182,268_AL_.jpg", Upin & Ipin: Keris Siamang Tunggal
 http://mantul.biz.id:8888/movie/gong/gong/8476.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhOWFhMjItNDYwNC00OTQyLTgwNWItYjNkNDIxYWY0OWE3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR9,0,182,268_AL_.jpg", Geng: Pengembaraan bermula
-http://mantul.biz.id:8888/movie/kasih/kasih/5314.mp4
+http://mantul.biz.id:8888/movie/raka/raka/5314.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhOWFhMjItNDYwNC00OTQyLTgwNWItYjNkNDIxYWY0OWE3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR9,0,182,268_AL_.jpg", Geng: Pengembaraan Bermula FHD
 https://misty-dust.evanwinters.workers.dev/0:/public/Geng.Pengembaraan.Bermula.2009.1080p.NF-WEB-DL.DDP2.0.x264-AON.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxOGRiNjktN2ExZC00YzFmLWEyYjQtNTY1YjEzYjNiNTI1XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_UY268_CR9,0,182,268_AL_.jpg", BoBoiBoy Movie 2
-http://mantul.biz.id:8888/movie/kasih/kasih/1322.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1322.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNkOGM3MDYtZTM4MS00ZDhlLWEwYjctYjZjMWE4MTkxMzY1XkEyXkFqcGdeQXVyNjU3NjY0NzY@._V1_UY268_CR3,0,182,268_AL_.jpg", BoBoiBoy: The Movie
-http://mantul.biz.id:8888/movie/kasih/kasih/1323.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1323.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU1NGVkYzQtNGRhYS00YWE4LWE2MGItZjhjN2EyZDYzN2M3XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_UX182_CR0,0,182,268_AL_.jpg", Ejen Ali The Movie
 https://misty-dust.evanwinters.workers.dev/0:/public/Ejen.Ali.the.Movie.2019.1080p.NF.WEB-DL.DDP.5.1.VP9.INTERNAL-PYPER.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVkYTZlZWItZTc0ZS00MTIzLThlNjItNmNkNDA5YzIwZGZjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg", Smallfoot [Multi-Subs] [2018]
@@ -268,17 +268,17 @@ http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/51791.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg", Spies In Disguise [Multi-Subs] [2019]
 http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/51792.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0ZTQ1OWYtOTcyMi00OWVmLWJkNmEtY2I5OGEwYTJmM2Q1XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg", Nezha Reborn
-http://mantul.biz.id:8888/movie/kasih/kasih/12307.mp4
+http://mantul.biz.id:8888/movie/raka/raka/12307.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg", Secret Magic Control Agency
-http://mantul.biz.id:8888/movie/kasih/kasih/11934.mp4
+http://mantul.biz.id:8888/movie/raka/raka/11934.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
-http://mantul.biz.id:8888/movie/kasih/kasih/8975.mp4
+http://mantul.biz.id:8888/movie/raka/raka/8975.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg", Standby Me 2 Doraemon
-http://mantul.biz.id:8888/movie/kasih/kasih/12162.mkv
+http://mantul.biz.id:8888/movie/raka/raka/12162.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://i.ytimg.com/vi/MdIDq6o4i-Y/movieposter_en.jpg", Frozen
-http://mantul.biz.id:8888/movie/kasih/kasih/1228.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1228.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
-http://mantul.biz.id:8888/movie/kasih/kasih/1229.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1229.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
 http://tvms.me:8080/movie/sukri/sukri/3485.mp4
 
@@ -301,7 +301,7 @@ https://calm-rain-70b4.buntai.workers.dev/India/Lion.2016.720p.BRRip.1GB.MkvCage
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Silence Can You Hear it
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Silence.Can.You.Hear.It.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Teddy
-http://mantul.biz.id:8888/movie/kasih/kasih/11581.mp4
+http://mantul.biz.id:8888/movie/raka/raka/11581.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Aelay
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Aelay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Akvsak
@@ -309,7 +309,7 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Akvsak.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MTM1Y2MtOTkzNS00YWQ1LTg2NzItMDAyMWI3MjM2NTU1XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY1200_CR168,0,630,1200_AL_.jpg", Andhaghaaram
 http://tvms.me:8080/movie/sukri/sukri/4028.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Bhoomi
-http://mantul.biz.id:8888/movie/kasih/kasih/9782.mp4
+http://mantul.biz.id:8888/movie/raka/raka/9782.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Draupadi Unleashed
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Draupadi.Unleashed.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Drishyam 2
@@ -340,11 +340,11 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.The.Wife.mp4
 -= english =-
 
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", The Godfather (1972)
-http://mantul.biz.id:8888/movie/kasih/kasih/4783.mp4
+http://mantul.biz.id:8888/movie/raka/raka/4783.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/godfather/images/8/87/The_Godfather_Part_II.jpg/revision/latest/top-crop/width/360/height/450?cb=20100520182416", The Godfather: Part II (1974)
-http://mantul.biz.id:8888/movie/kasih/kasih/4784.mp4
+http://mantul.biz.id:8888/movie/raka/raka/4784.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg", The Godfather: Part III (1990)
-http://mantul.biz.id:8888/movie/kasih/kasih/4785.mp4
+http://mantul.biz.id:8888/movie/raka/raka/4785.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p159729_p_v10_ar.jpg", Transformers
 http://tvms.me:8080/movie/sukri/sukri/4134.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p192847_p_v10_af.jpg", Transformers: Revenge of the Fallen
@@ -356,15 +356,15 @@ http://tvms.me:8080/movie/sukri/sukri/4137.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://resizing.flixster.com/E4_L4F0gBioB4edo03-Bp5fuP7M=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzQ4NTAyMjM3LWNhZWYtNDc4ZC1iMGQ4LThiYzVhZGM2YjFmZS53ZWJw", Transformers: The Last Knight
 http://tvms.me:8080/movie/sukri/sukri/4138.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Home Alone (1990)
-http://mantul.biz.id:8888/movie/kasih/kasih/9798.mp4
+http://mantul.biz.id:8888/movie/raka/raka/9798.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Home_Alone_2.jpg", Home Alone 2: Lost in New York (1992)
-http://mantul.biz.id:8888/movie/kasih/kasih/9799.mp4
+http://mantul.biz.id:8888/movie/raka/raka/9799.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJhYjVhOWMtYTUyOS00NWM0LThjNzYtZWYxOTkwN2FhODg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR86,0,630,1200_AL_.jpg", Home Alone 3 (1997)
-http://mantul.biz.id:8888/movie/kasih/kasih/9800.mp4
+http://mantul.biz.id:8888/movie/raka/raka/9800.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzNjM3OTEwNjNeQTJeQWpwZ15BbWU3MDk1ODIwMDE@._V1_UY1200_CR32,0,630,1200_AL_.jpg", Home Alone 4 (2002)
-http://mantul.biz.id:8888/movie/kasih/kasih/9801.mp4
+http://mantul.biz.id:8888/movie/raka/raka/9801.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2ZTg2MDctMmM0Zi00NmZiLTgzMzUtYmYxNjEyYTFhOWMxXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg", Home Alone: The Holiday Heist (2012)
-http://mantul.biz.id:8888/movie/kasih/kasih/9802.mp4
+http://mantul.biz.id:8888/movie/raka/raka/9802.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://d3rwyinxzcqr6y.cloudfront.net/Assets/84/092/L_p0106209284.jpg", Kursk [Multi-Subs] [2018]
 http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/50155.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg", Mortal Kombat (2021)
@@ -396,13 +396,13 @@ http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/72720.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Wrong Turn [2021]
 http://tvms.me:8080/movie/sukri/sukri/5141.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Transcendence (2014)
-http://mantul.biz.id:8888/movie/kasih/kasih/1204.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1204.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", 6 Underground (2019)
-http://mantul.biz.id:8888/movie/kasih/kasih/1205.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1205.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Ant-Man (2015)
-http://mantul.biz.id:8888/movie/kasih/kasih/1222.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1222.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Ant-Man and the Wasp (2018)
-http://mantul.biz.id:8888/movie/kasih/kasih/1223.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1223.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg", The Avengers (2012)
 https://nonton.site:8443/movie/provision/pp/8955.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg", Avengers: Age of Ultron (2015)
@@ -410,7 +410,7 @@ https://nonton.site:8443/movie/provision/pp/3000.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg", Avengers: Infinity War (2018)
 https://nonton.site:8443/movie/provision/pp/3001.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg", Avengers: Endgame (2019)
-http://mantul.biz.id:8888/movie/kasih/kasih/1227.mp4
+http://mantul.biz.id:8888/movie/raka/raka/1227.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZDg1MmMtNjJkYS00NmEzLTk0ZjAtMGUxOTIyMDVlNzM1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX182_CR0,0,182,268_AL_.jpg", Shiva baby
 https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Shiva.Baby.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg4ZDVkM2YtOGFhYi00ZjM5LTlhMWEtNzhjZTMxOTUwMzFlXkEyXkFqcGdeQXVyNjUzMzExOTM@._V1_UY268_CR4,0,182,268_AL_.jpg", Original Gangster
@@ -448,9 +448,9 @@ http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/70356.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Project Power
 http://cloudcdn.tk:80/movie/9nMUZd6cFl9888/sJUEzi3235/51865.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Equalizer
-http://mantul.biz.id:8888/movie/kasih/kasih/4671.mp4
+http://mantul.biz.id:8888/movie/raka/raka/4671.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Equalizer 2
-http://mantul.biz.id:8888/movie/kasih/kasih/4672.mp4
+http://mantul.biz.id:8888/movie/raka/raka/4672.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Enforcement
 https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Enforcement.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Hotel Coppelia

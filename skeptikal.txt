@@ -31,7 +31,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg",TVS
-http://mantul.biz.id:8888/kasih/kasih/1219
+http://mantul.biz.id:8888/raka/raka/1219
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
@@ -45,9 +45,9 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", Ria
 http://tvms.me:8080/norazah/norazah/239
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [B]
-http://mantul.biz.id:8888/kasih/kasih/1105
+http://mantul.biz.id:8888/raka/raka/1105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
-http://mantul.biz.id:8888/kasih/kasih/2555
+http://mantul.biz.id:8888/raka/raka/2555
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
 http://geostream.me:8080/lasse6/lasse6/9612
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://pictr.com/images/2020/03/24/5Odfkn.md.png", Astro First 2021
@@ -92,7 +92,7 @@ https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png", GTV HD
-http://mantul.biz.id:8888/kasih/kasih/192
+http://mantul.biz.id:8888/raka/raka/192
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png", GTV (B)
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-gtv_fta-mp4a_64000=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png", NET TV
@@ -100,15 +100,15 @@ http://tvms.me:8080/norazah/norazah/340
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png", NET TV FHD
 https://nonton.site:8443/provision/pp/78
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png", MNC TV
-http://mantul.biz.id:8888/kasih/kasih/191
+http://mantul.biz.id:8888/raka/raka/191
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png", MNC TV HD
 https://home-tv.web.id/kicau/pilatkau.m3u8?channel=@lokal-mnctv
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png", RTV
 http://tvms.me:8080/norazah/norazah/2977
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png", RTV HD
-http://mantul.biz.id:8888/kasih/kasih/217
+http://mantul.biz.id:8888/raka/raka/217
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV
-http://mantul.biz.id:8888/kasih/kasih/32
+http://mantul.biz.id:8888/raka/raka/32
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV HD
 https://nonton.site:8443/provision/pp/931
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13", Trans 7
@@ -142,36 +142,36 @@ https://nonton.site:8443/provision/pp/1772
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png", U Channel
 https://nonton.site:8443/provision/pp/1208
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png", RCTI
-http://mantul.biz.id:8888/kasih/kasih/190
+http://mantul.biz.id:8888/raka/raka/190
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png", RCTI HD
 http://mantul.biz.id:8888/raka/raka/4906
 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO FHD
-http://mantul.biz.id:8888/kasih/kasih/1
+http://mantul.biz.id:8888/raka/raka/1
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature FHD
-http://mantul.biz.id:8888/kasih/kasih/1019
+http://mantul.biz.id:8888/raka/raka/1019
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits FHD
-http://mantul.biz.id:8888/kasih/kasih/4
+http://mantul.biz.id:8888/raka/raka/4
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family FHD
-http://mantul.biz.id:8888/kasih/kasih/6
+http://mantul.biz.id:8888/raka/raka/6
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax FHD
-http://mantul.biz.id:8888/kasih/kasih/89
+http://mantul.biz.id:8888/raka/raka/89
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg", Red HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg", Red HBO FHD
-http://mantul.biz.id:8888/kasih/kasih/11539
+http://mantul.biz.id:8888/raka/raka/11539
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
 http://tvms.me:8080/norazah/norazah/223
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png", FOX ACTION
@@ -185,7 +185,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/prive-hd-koi0zljfpawd.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", Sony PixHD
-http://mantul.biz.id:8888/kasih/kasih/6699
+http://mantul.biz.id:8888/raka/raka/6699
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg", tVN Movies HD
 http://tvms.me:8080/norazah/norazah/262
 #EXTINF:-1 group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png",Celestial Classic 天映经典
@@ -239,7 +239,7 @@ https://nonton.site:8443/provision/pp/729
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 https://nonton.site:8443/provision/pp/299
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj", UFC Fight
-http://mantul.biz.id:8888/kasih/kasih/2045
+http://mantul.biz.id:8888/raka/raka/2045
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 1
 http://tvms.me:8080/norazah/norazah/302
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 2
@@ -375,7 +375,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://banner2.cleanpng.com/20181106/wx/kisspng-public-television-company-of-armenia-armenia-tv-pu-file1tv-am-logo-png-wikimedia-commons-5be1f8b62c46c0.3528177015415359261814.jpg", Tuntunik
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://rstatic.akamaized.net/media/500/files/fta_rcti/Landscape/upin_dan_ipin/upinipinnew_L.jpg", 24/7 Upin Ipin
-http://mantul.biz.id:8888/kasih/kasih/8246
+http://mantul.biz.id:8888/raka/raka/8246
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Hi-5_Logo_2009.png", Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Hi-5_Logo_2009.png", TV One Kids
@@ -454,7 +454,7 @@ http://tvms.me:8080/norazah/norazah/350
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png", Syfy HD UK
 http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/16727
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png", Star World
-http://mantul.biz.id:8888/kasih/kasih/6676
+http://mantul.biz.id:8888/raka/raka/6676
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill
 http://tvms.me:8080/norazah/norazah/343
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://img.favpng.com/11/2/5/warner-tv-television-channel-wb-channel-warner-bros-png-favpng-RRxix5SbNQwxyqFhPGfrmDjJN.jpg", Warner TV
@@ -486,71 +486,71 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Angry Birds Toons
-http://mantul.biz.id:8888/kasih/kasih/8381
+http://mantul.biz.id:8888/raka/raka/8381
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Baby Bus Indonesia
-http://mantul.biz.id:8888/kasih/kasih/1013
+http://mantul.biz.id:8888/raka/raka/1013
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7: 9-1-1 Collection
 http://geostream.me:8080/khalid/khalid/69516
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bruce Lee Collection
-http://mantul.biz.id:8888/kasih/kasih/10690
+http://mantul.biz.id:8888/raka/raka/10690
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bubble Guppies Collection
-http://mantul.biz.id:8888/kasih/kasih/10718
+http://mantul.biz.id:8888/raka/raka/10718
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Cow & Chicken
-http://mantul.biz.id:8888/kasih/kasih/8463
+http://mantul.biz.id:8888/raka/raka/8463
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Disney Short Collections
-http://mantul.biz.id:8888/kasih/kasih/10689
+http://mantul.biz.id:8888/raka/raka/10689
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Donald Duck Collection
-http://mantul.biz.id:8888/kasih/kasih/10691
+http://mantul.biz.id:8888/raka/raka/10691
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Doraemon
-http://mantul.biz.id:8888/kasih/kasih/124
+http://mantul.biz.id:8888/raka/raka/124
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Gigantosaurus Collection
-http://mantul.biz.id:8888/kasih/kasih/9271
+http://mantul.biz.id:8888/raka/raka/9271
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 He-Man and the Masters of the Universe Collection
-http://mantul.biz.id:8888/kasih/kasih/11159
+http://mantul.biz.id:8888/raka/raka/11159
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Just For Laughs
-http://mantul.biz.id:8888/kasih/kasih/8466
+http://mantul.biz.id:8888/raka/raka/8466
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Mickey Mouse
-http://mantul.biz.id:8888/kasih/kasih/1214
+http://mantul.biz.id:8888/raka/raka/1214
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Mr Bean Cartoon Collection
-http://mantul.biz.id:8888/kasih/kasih/10692
+http://mantul.biz.id:8888/raka/raka/10692
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Mr. Bean
-http://mantul.biz.id:8888/kasih/kasih/8464
+http://mantul.biz.id:8888/raka/raka/8464
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Paw Patrol Collection
-http://mantul.biz.id:8888/kasih/kasih/10714
+http://mantul.biz.id:8888/raka/raka/10714
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Peppa Pig Collection
-http://mantul.biz.id:8888/kasih/kasih/8462
+http://mantul.biz.id:8888/raka/raka/8462
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 PJ Masks Collection
-http://mantul.biz.id:8888/kasih/kasih/10716
+http://mantul.biz.id:8888/raka/raka/10716
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 PokÃ©mon Collection
-http://mantul.biz.id:8888/kasih/kasih/10717
+http://mantul.biz.id:8888/raka/raka/10717
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Puppy Dog Pals Collection
-http://mantul.biz.id:8888/kasih/kasih/11028
+http://mantul.biz.id:8888/raka/raka/11028
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Shaun the Sheep
-http://mantul.biz.id:8888/kasih/kasih/4536
+http://mantul.biz.id:8888/raka/raka/4536
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Superman Collection
-http://mantul.biz.id:8888/kasih/kasih/10853
+http://mantul.biz.id:8888/raka/raka/10853
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Talking Tom
-http://mantul.biz.id:8888/kasih/kasih/579
+http://mantul.biz.id:8888/raka/raka/579
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Talking Tom and Friends Movie
-http://mantul.biz.id:8888/kasih/kasih/602
+http://mantul.biz.id:8888/raka/raka/602
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Talking Tom Heroes
-http://mantul.biz.id:8888/kasih/kasih/1126
+http://mantul.biz.id:8888/raka/raka/1126
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Teen Titans Go Collection
-http://mantul.biz.id:8888/kasih/kasih/8595
+http://mantul.biz.id:8888/raka/raka/8595
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Thomas & Friends Collection
-http://mantul.biz.id:8888/kasih/kasih/9621
+http://mantul.biz.id:8888/raka/raka/9621
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Tom Y Jerry
-http://mantul.biz.id:8888/kasih/kasih/8461
+http://mantul.biz.id:8888/raka/raka/8461
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Tom Y Jerry Kids
-http://mantul.biz.id:8888/kasih/kasih/8408
+http://mantul.biz.id:8888/raka/raka/8408
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Upin Ipin
-http://mantul.biz.id:8888/kasih/kasih/8246
+http://mantul.biz.id:8888/raka/raka/8246
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Vampirina Collection
-http://mantul.biz.id:8888/kasih/kasih/11029
+http://mantul.biz.id:8888/raka/raka/11029
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Warkop DKI
-http://mantul.biz.id:8888/kasih/kasih/8459
+http://mantul.biz.id:8888/raka/raka/8459
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Wu-Tang: An American Saga
-http://mantul.biz.id:8888/kasih/kasih/6573
+http://mantul.biz.id:8888/raka/raka/6573
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix -Bollywood UHD
 http://sonyiptv.net:8080/1255/1255/27413
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix Action 1
@@ -733,19 +733,19 @@ https://tv.cpdev.us/Playlist/o/cetv1.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png", TVE Asia
 https://tv.cpdev.us/Playlist/o/tveasia.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
-http://mantul.biz.id:8888/kasih/kasih/1038
+http://mantul.biz.id:8888/raka/raka/1038
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://icivil.org/wp-content/uploads/elementor/thumbs/AVM-TV5-Monde-oii1g48wxdx13ksaos2hia0q1jyienkektncnkshoo.jpg", TV5 Monde
 https://tv.cpdev.us/Playlist/o/TV5 Monde.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest/scale-to-width-down/340?cb=20140725194555", Nippon TV
 https://tv.cpdev.us/Playlist/o/nihontv.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_3.png?itok=Fy7INNpu", Al Jazeera
-http://mantul.biz.id:8888/kasih/kasih/202
+http://mantul.biz.id:8888/raka/raka/202
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.trtworld.com/images/share-1000x500.png", TRT World
 https://tv.cpdev.us/Playlist/o/trtworld.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1200px-Phoenix_HK.svg.png", Phoenix Chinese
-http://mantul.biz.id:8888/kasih/kasih/10841
+http://mantul.biz.id:8888/raka/raka/10841
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png", CGTN
-http://mantul.biz.id:8888/kasih/kasih/148
+http://mantul.biz.id:8888/raka/raka/148
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", Animal Planet
 http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", Animal Planet VN
@@ -756,9 +756,9 @@ https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Discovery Asia
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="Lifestyle",H2
-http://mantul.biz.id:8888/kasih/kasih/10879
+http://mantul.biz.id:8888/raka/raka/10879
 #EXTINF:-1 group-title="Lifestyle",History
-http://mantul.biz.id:8888/kasih/kasih/10
+http://mantul.biz.id:8888/raka/raka/10
 
 
 #EXTINF:-1 group-title="Berita" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" , Berita RTM  
