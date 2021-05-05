@@ -494,7 +494,7 @@ http://mantul.biz.id:8888/kasih/kasih/8381
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Baby Bus Indonesia
 http://mantul.biz.id:8888/kasih/kasih/1013
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7: 9-1-1 Collection
-http://geostream.me:8080/khalid/khalid/69516
+http://geostream.me:8080/karim/karim/69516
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bruce Lee Collection
 http://mantul.biz.id:8888/kasih/kasih/10690
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bubble Guppies Collection
