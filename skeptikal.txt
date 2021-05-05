@@ -69,7 +69,7 @@ http://hottest.fit:8080/zain/zain123/33275
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Astro 小太阳 (Astro Xiao Tai Yang)
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Astro 欢喜台 (Astro Hua Hee Dai)
-http://hottest.fit:8080/rock/rock/28702
+http://hottest.fit:8080/zain/zain123/28702
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",TVB Xing He 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",QIYI
@@ -84,7 +84,7 @@ http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna Delay
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA", Pertiwi TV
-http://tvms.me:8080/kc6/kc8/239
+http://tvms.me:8080/ahmad5/ahmad5/1958
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png",RTM Parlimen (Dewan Rakyat) (1080p)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
