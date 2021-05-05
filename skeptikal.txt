@@ -69,7 +69,7 @@ http://hottest.fit:8080/zain/zain123/33275
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Astro 小太阳 (Astro Xiao Tai Yang)
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Astro 欢喜台 (Astro Hua Hee Dai)
-http://198.16.106.58:8278/streams/d/Huahee/playlist.m3u8
+http://hottest.fit:8080/rock/rock/28702
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",TVB Xing He 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",QIYI
