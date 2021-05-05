@@ -727,13 +727,13 @@ https://tv.cpdev.us/Playlist/o/france24.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl.jpg", Arirang World
 https://tv.cpdev.us/Playlist/o/arirangworld.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://videotron.com/vtrn/images/channels/logos/cctv4/cctv4_moyenne.png", CCTV 4
-http://mantul.biz.id:8888/gibran/gibran/1038
+http://mantul.biz.id:8888/gibran/gibran/2555
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png", VOA
 https://tv.cpdev.us/Playlist/o/voa.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png", Rai Italia
 https://tv.cpdev.us/Playlist/o/raiitalia.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv1.jpg", Cetv 1 azka
-http://mantul.biz.id:8888/azja/azka/1038
+http://mantul.biz.id:8888/azka/azka/2555
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png", TVE Asia
 https://tv.cpdev.us/Playlist/o/tveasia.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
