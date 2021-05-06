@@ -578,3 +578,73 @@ https://nonton.site:8443/series/6894864475/7163819284/29686.mkv
 https://nonton.site:8443/series/6894864475/7163819284/29687.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHUuUN70yMUDDo4tpJNwq1SPuAX.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E26
 https://nonton.site:8443/series/6894864475/7163819284/29688.mkv
+
+-= Startup =-
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E01
+http://mantul.biz.id:8888/series/gibran/gibran/5326.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E02
+http://mantul.biz.id:8888/series/gibran/gibran/5327.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E03
+http://mantul.biz.id:8888/series/gibran/gibran/5328.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E04
+http://mantul.biz.id:8888/series/gibran/gibran/5329.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E05
+http://mantul.biz.id:8888/series/gibran/gibran/5330.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E06
+http://mantul.biz.id:8888/series/gibran/gibran/5331.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E07
+http://mantul.biz.id:8888/series/gibran/gibran/5483.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E08
+http://mantul.biz.id:8888/series/gibran/gibran/5503.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E09
+http://mantul.biz.id:8888/series/gibran/gibran/5591.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E10
+http://mantul.biz.id:8888/series/gibran/gibran/5705.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E11
+http://mantul.biz.id:8888/series/gibran/gibran/6081.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E12
+http://mantul.biz.id:8888/series/gibran/gibran/6082.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E13
+http://mantul.biz.id:8888/series/gibran/gibran/6546.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E14
+http://mantul.biz.id:8888/series/gibran/gibran/6561.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E15
+http://mantul.biz.id:8888/series/gibran/gibran/8273.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Start-Up_2020.jpg", Start-Up (2020) S01 E16
+http://mantul.biz.id:8888/series/gibran/gibran/8274.mp4
+
+-= Tale of nine tailed =-
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E01
+http://mantul.biz.id:8888/series/gibran/gibran/5332.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E02
+http://mantul.biz.id:8888/series/gibran/gibran/5333.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E03
+http://mantul.biz.id:8888/series/gibran/gibran/5334.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E04
+http://mantul.biz.id:8888/series/gibran/gibran/5335.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E05
+http://mantul.biz.id:8888/series/gibran/gibran/5336.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E06
+http://mantul.biz.id:8888/series/gibran/gibran/5337.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E07
+http://mantul.biz.id:8888/series/gibran/gibran/5338.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E08
+http://mantul.biz.id:8888/series/gibran/gibran/5339.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E09
+http://mantul.biz.id:8888/series/gibran/gibran/5340.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E10
+http://mantul.biz.id:8888/series/gibran/gibran/5385.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E11
+http://mantul.biz.id:8888/series/gibran/gibran/5575.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E12
+http://mantul.biz.id:8888/series/gibran/gibran/5589.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E13
+http://mantul.biz.id:8888/series/gibran/gibran/6483.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E14
+http://mantul.biz.id:8888/series/gibran/gibran/6484.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E15
+http://mantul.biz.id:8888/series/gibran/gibran/8262.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/1/19/Tale_of_the_Nine_Tailed-P1.jpg", Tale of the Nine Tailed (2020) S01 E16
+http://mantul.biz.id:8888/series/gibran/gibran/8263.mp4
