@@ -527,57 +527,57 @@ http://tvms.me:8080/series/sukri/sukri/4614.mp4
 -= Kimetsu No Yaiba =-
 
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBBiqP5rAhIpZt54b5fA0DFuhCQ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E01
-https://nonton.site:8443/series/6894864475/7163819284/29663.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~001%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6FDohDeTXr5fFygIEO0EOQmhq0.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E02
-https://nonton.site:8443/series/6894864475/7163819284/29664.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~002%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYvDOjBfqszsqaYDL1QAuys9nwk.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E03
-https://nonton.site:8443/series/6894864475/7163819284/29665.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~003%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH6Ir9EWGoqkTMoiQnx5fJmwY2I.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E04
-https://nonton.site:8443/series/6894864475/7163819284/29666.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~004%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWsUsEVYaOHh6bPkgH7HeQxotmP.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E05
-https://nonton.site:8443/series/6894864475/7163819284/29667.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~005%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GeXmmkzRBduK2KXMGMrLlKYg44.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E06
-https://nonton.site:8443/series/6894864475/7163819284/29668.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~006%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR1bB3ltg1FjGc6N3xBpiYz7Huo.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E07
-https://nonton.site:8443/series/6894864475/7163819284/29669.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~007%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6orKoKUg6wJnN6kUGaj4Kyc8lun.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E08
-https://nonton.site:8443/series/6894864475/7163819284/29670.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~008%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjxjHKtLXARZBCxNuhNv3xnKKGc.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E09
-https://nonton.site:8443/series/6894864475/7163819284/29671.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~009%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGY2yG4LTa2f08kYVMZwgAnIOHp.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E10
-https://nonton.site:8443/series/6894864475/7163819284/29672.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~010%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNfZtrFIS6KvbrIdLoEC9rukdBH.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E11
-https://nonton.site:8443/series/6894864475/7163819284/29673.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~011%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3hf3WvBpkAd8EWtUZnu1IEgNpr.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E12
-https://nonton.site:8443/series/6894864475/7163819284/29674.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~012%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ixd8rC1tTDHf5kSo5o7hbghpOi.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E13
-https://nonton.site:8443/series/6894864475/7163819284/29675.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~013%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgDZ0yW2Me7pB7ZLVb4ynbBxRZp.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E14
-https://nonton.site:8443/series/6894864475/7163819284/29676.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~014%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9pDyziP2Ei46chtM2hPNvG3y9i.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E15
-https://nonton.site:8443/series/6894864475/7163819284/29677.mkv
+https://nonton.site:8443/series/6894864475/https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~015%2520Kimetsu%2520no%2520Yaiba.mp4/29677.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swSQtQPgFpqjw3s0LNtUMWyHFnU.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E16
-https://nonton.site:8443/series/6894864475/7163819284/29678.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~016%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90tULC43KSoUhj4raAkBch7HGdx.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E17
-https://nonton.site:8443/series/6894864475/7163819284/29679.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~017%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra7dCRS9E39fnhHieFKF47ldESl.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E18
-https://nonton.site:8443/series/6894864475/7163819284/29680.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~018%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vg9JoSWWijdQOFub5JpRhC2uq9.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E19
-https://nonton.site:8443/series/6894864475/7163819284/29681.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~019%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r85lQ8ed7qyeHiaphhM1riN1XGQ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E20
-https://nonton.site:8443/series/6894864475/7163819284/29682.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~020%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVTy2o3fuLqreWU9QKcPWZ7ZMQJ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E21
-https://nonton.site:8443/series/6894864475/7163819284/29683.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~021%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55LBvmeV95M4XZqrobj1xhVjzES.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E22
-https://nonton.site:8443/series/6894864475/7163819284/29684.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~022%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szeEDxTKmg7OSYNqT8nghqaBF8o.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E23
-https://nonton.site:8443/series/6894864475/7163819284/29685.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~023%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhZsnP34Tjx568RJwSTN9nkkCcX.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E24
-https://nonton.site:8443/series/6894864475/7163819284/29686.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~024%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBuZWzkmNAMALWqtCKrQ0n41ERL.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E25
-https://nonton.site:8443/series/6894864475/7163819284/29687.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~025%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHUuUN70yMUDDo4tpJNwq1SPuAX.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E26
-https://nonton.site:8443/series/6894864475/7163819284/29688.mkv
+https://calm-rain-70b4.buntai.workers.dev/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~026%2520Kimetsu%2520no%2520Yaiba.mp4
 
 -= Startup =-
 
