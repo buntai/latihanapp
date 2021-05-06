@@ -231,21 +231,21 @@ https://nonton.site:8443/series/6894864475/7163819284/18623.mkv
 -= Alice in Borderland =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E01
-http://mantul.biz.id:8888/series/kasih/kasih/8502.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8502.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E02
-http://mantul.biz.id:8888/series/kasih/kasih/8503.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8503.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E03
-http://mantul.biz.id:8888/series/kasih/kasih/8504.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8504.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E04
-http://mantul.biz.id:8888/series/kasih/kasih/8534.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8534.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E05
-http://mantul.biz.id:8888/series/kasih/kasih/8535.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8535.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E06
-http://mantul.biz.id:8888/series/kasih/kasih/8536.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8536.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E07
-http://mantul.biz.id:8888/series/kasih/kasih/8537.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8537.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg", Alice in Borderland (2020) S01 E08
-http://mantul.biz.id:8888/series/kasih/kasih/8538.mp4
+http://mantul.biz.id:8888/series/gibran/gibran/8538.mp4
 
 -=911=-
 
@@ -523,3 +523,58 @@ http://tvms.me:8080/series/sukri/sukri/4424.mp4
 http://tvms.me:8080/series/sukri/sukri/4551.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E21
 http://tvms.me:8080/series/sukri/sukri/4614.mp4
+
+-= Kimetsu No Yaiba =-
+
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBBiqP5rAhIpZt54b5fA0DFuhCQ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E01
+https://nonton.site:8443/series/6894864475/7163819284/29663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6FDohDeTXr5fFygIEO0EOQmhq0.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E02
+https://nonton.site:8443/series/6894864475/7163819284/29664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYvDOjBfqszsqaYDL1QAuys9nwk.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E03
+https://nonton.site:8443/series/6894864475/7163819284/29665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH6Ir9EWGoqkTMoiQnx5fJmwY2I.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E04
+https://nonton.site:8443/series/6894864475/7163819284/29666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWsUsEVYaOHh6bPkgH7HeQxotmP.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E05
+https://nonton.site:8443/series/6894864475/7163819284/29667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GeXmmkzRBduK2KXMGMrLlKYg44.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E06
+https://nonton.site:8443/series/6894864475/7163819284/29668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR1bB3ltg1FjGc6N3xBpiYz7Huo.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E07
+https://nonton.site:8443/series/6894864475/7163819284/29669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6orKoKUg6wJnN6kUGaj4Kyc8lun.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E08
+https://nonton.site:8443/series/6894864475/7163819284/29670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjxjHKtLXARZBCxNuhNv3xnKKGc.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E09
+https://nonton.site:8443/series/6894864475/7163819284/29671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGY2yG4LTa2f08kYVMZwgAnIOHp.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E10
+https://nonton.site:8443/series/6894864475/7163819284/29672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNfZtrFIS6KvbrIdLoEC9rukdBH.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E11
+https://nonton.site:8443/series/6894864475/7163819284/29673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3hf3WvBpkAd8EWtUZnu1IEgNpr.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E12
+https://nonton.site:8443/series/6894864475/7163819284/29674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ixd8rC1tTDHf5kSo5o7hbghpOi.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E13
+https://nonton.site:8443/series/6894864475/7163819284/29675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgDZ0yW2Me7pB7ZLVb4ynbBxRZp.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E14
+https://nonton.site:8443/series/6894864475/7163819284/29676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9pDyziP2Ei46chtM2hPNvG3y9i.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E15
+https://nonton.site:8443/series/6894864475/7163819284/29677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swSQtQPgFpqjw3s0LNtUMWyHFnU.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E16
+https://nonton.site:8443/series/6894864475/7163819284/29678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90tULC43KSoUhj4raAkBch7HGdx.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E17
+https://nonton.site:8443/series/6894864475/7163819284/29679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra7dCRS9E39fnhHieFKF47ldESl.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E18
+https://nonton.site:8443/series/6894864475/7163819284/29680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vg9JoSWWijdQOFub5JpRhC2uq9.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E19
+https://nonton.site:8443/series/6894864475/7163819284/29681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r85lQ8ed7qyeHiaphhM1riN1XGQ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E20
+https://nonton.site:8443/series/6894864475/7163819284/29682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVTy2o3fuLqreWU9QKcPWZ7ZMQJ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E21
+https://nonton.site:8443/series/6894864475/7163819284/29683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55LBvmeV95M4XZqrobj1xhVjzES.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E22
+https://nonton.site:8443/series/6894864475/7163819284/29684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szeEDxTKmg7OSYNqT8nghqaBF8o.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E23
+https://nonton.site:8443/series/6894864475/7163819284/29685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhZsnP34Tjx568RJwSTN9nkkCcX.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E24
+https://nonton.site:8443/series/6894864475/7163819284/29686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBuZWzkmNAMALWqtCKrQ0n41ERL.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E25
+https://nonton.site:8443/series/6894864475/7163819284/29687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHUuUN70yMUDDo4tpJNwq1SPuAX.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E26
+https://nonton.site:8443/series/6894864475/7163819284/29688.mkv
