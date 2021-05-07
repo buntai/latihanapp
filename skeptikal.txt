@@ -575,7 +575,7 @@ http://sonyiptv.net:8080/1255/1255/27418
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png", Channel V 
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
 #EXTINF:-1 group-title="Music" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_mus_0.jpg", MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Music",Go-rtv Music
@@ -597,106 +597,13 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Music",PortalFoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="", 4 MUSIC UHD
-http://185.66.90.179:8080/james2/james2/223339
-#EXTINF:-1 group-title="Music" tvg-logo="", TRACE URBAN (CHART SHOW TV )
-http://185.66.90.179:8080/james2/james2/223340
-#EXTINF:-1 group-title="Music" tvg-logo="", KERRANG
-http://185.66.90.179:8080/james2/james2/223341
-#EXTINF:-1 group-title="Music" tvg-logo="", KISS TV
-http://185.66.90.179:8080/james2/james2/223342
-#EXTINF:-1 group-title="Music" tvg-logo="", MAGIC
-http://185.66.90.179:8080/james2/james2/223343
-#EXTINF:-1 group-title="Music" tvg-logo="", MTV BASE
-http://185.66.90.179:8080/james2/james2/223344
-#EXTINF:-1 group-title="Music" tvg-logo="", MTV CLASSIC
-http://185.66.90.179:8080/james2/james2/223345
-#EXTINF:-1 group-title="Music" tvg-logo="", MTV HITS
-http://185.66.90.179:8080/james2/james2/223346
-#EXTINF:-1 group-title="Music" tvg-logo="", MTV MUSIC
-http://185.66.90.179:8080/james2/james2/223347
-#EXTINF:-1 group-title="Music" tvg-logo="", MTV LIVE
-http://185.66.90.179:8080/james2/james2/223348
-#EXTINF:-1 group-title="Music" tvg-logo="", VOX AFRICA
-http://185.66.90.179:8080/james2/james2/223349
-#EXTINF:-1 group-title="Music" tvg-logo="", NOW XMAS
-http://185.66.90.179:8080/james2/james2/223350
-#EXTINF:-1 group-title="Music" tvg-logo="", NOW 90s
-http://185.66.90.179:8080/james2/james2/223351
-#EXTINF:-1 group-title="Music" tvg-logo="", NOW 70's
-http://185.66.90.179:8080/james2/james2/223352
-#EXTINF:-1 group-title="Music" tvg-logo="", TRACE HITS
-http://185.66.90.179:8080/james2/james2/223353
-#EXTINF:-1 group-title="Music" tvg-logo="", Box Hits 
-http://185.66.90.179:8080/james2/james2/223354
-#EXTINF:-1 group-title="Music" tvg-logo="", NOW 80s
-http://185.66.90.179:8080/james2/james2/223355
-#EXTINF:-1 group-title="Music" tvg-logo="", CLUBLAND
-http://185.66.90.179:8080/james2/james2/223356
-#EXTINF:-1 group-title="Music" tvg-logo="", THE BOX
-http://185.66.90.179:8080/james2/james2/223357
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Holiday Yule Logs
-http://185.66.90.179:8080/james2/james2/223365
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Hit List
-http://185.66.90.179:8080/james2/james2/223366
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Hip-Hop and R&B
-http://185.66.90.179:8080/james2/james2/223367
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Teen Beats
-http://185.66.90.179:8080/james2/james2/223368
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Today's Country: CMA Awards
-http://185.66.90.179:8080/james2/james2/223369
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Pop Hits
-http://185.66.90.179:8080/james2/james2/223370
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Pop & Country
-http://185.66.90.179:8080/james2/james2/223371
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | 90's
-http://185.66.90.179:8080/james2/james2/223372
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | R&B Soul
-http://185.66.90.179:8080/james2/james2/223373
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Rock
-http://185.66.90.179:8080/james2/james2/223374
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | R&B Soul
-http://185.66.90.179:8080/james2/james2/223375
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Music Choice Max
-http://185.66.90.179:8080/james2/james2/223376
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Dance / EDM
-http://185.66.90.179:8080/james2/james2/223377
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Y2K
-http://185.66.90.179:8080/james2/james2/223378
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Brits + Hits
-http://185.66.90.179:8080/james2/james2/223379
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Pop Latino
-http://185.66.90.179:8080/james2/james2/223380
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Rap
-http://185.66.90.179:8080/james2/james2/223381
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Throwback Jamz
-http://185.66.90.179:8080/james2/james2/223382
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Rap 2K
-http://185.66.90.179:8080/james2/james2/223383
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Musica Urbana
-http://185.66.90.179:8080/james2/james2/223384
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Tropicales
-http://185.66.90.179:8080/james2/james2/223385
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Mexicana
-http://185.66.90.179:8080/james2/james2/223386
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Metal
-http://185.66.90.179:8080/james2/james2/223387
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Alternative
-http://185.66.90.179:8080/james2/james2/223388
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Indie
-http://185.66.90.179:8080/james2/james2/223389
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Kidz Only!
-http://185.66.90.179:8080/james2/james2/223390
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Kidz Bop
-http://185.66.90.179:8080/james2/james2/223391
-#EXTINF:-1 group-title="Music" tvg-logo="", Music Choice | Toddler Tunes
-http://185.66.90.179:8080/james2/james2/223392
+
 
 
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg", NHK World
 http://1.9.58.102/PLTV/88888888/224/3221227626/3221227626.mpd
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="", Fishing TV
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fishing_tv_kr.png", Fishing TV
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Nat Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
