@@ -294,6 +294,8 @@ http://tvms.me:8080/movie/sukri/sukri/2872.mp4
 http://tvms.me:8080/movie/sukri/sukri/2873.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUxMzU4MTctNWJlZS00ZGUxLWJjMWItYWYyYmU2MDhhYTM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg", Eeswaran
 http://tvms.me:8080/movie/sukri/sukri/5680.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/gabbar-is-back-20150428135944-12691.jpg", Gabbar Is Back (2015)
+http://iptv.tvmalaysia.cc:80/movie/babi1/babi1/311.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Barot House
 https://calm-rain-70b4.buntai.workers.dev/India/Barot%2520House%2520%5B2019%5D%2520Hindi_x264.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lion
