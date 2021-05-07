@@ -298,6 +298,12 @@ http://tvms.me:8080/movie/sukri/sukri/5680.mp4
 http://iptv.tvmalaysia.cc:80/movie/babi1/babi1/311.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Barot House
 https://calm-rain-70b4.buntai.workers.dev/India/Barot%2520House%2520%5B2019%5D%2520Hindi_x264.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg", 3 Idiots (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/297.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/95001-96000/95033.jpg", Mersal (2017)
+http://iptvtree.net:8080/movie/mariconigliar0/30d5055e/102098.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://i.pinimg.com/originals/09/35/a2/0935a27610f867d9dbda3b9d6b555880.jpg", K.G.F Chaper 1 (2018)
+http://iptvtree.net:8080/movie/mariconigliar0/30d5055e/102361.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lion
 https://calm-rain-70b4.buntai.workers.dev/India/Lion.2016.720p.BRRip.1GB.MkvCage.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Silence Can You Hear it
