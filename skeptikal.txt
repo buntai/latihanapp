@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Event" tvg-logo="https://static.businessworld.in/article/article_extra_large_image/1592807382_73a4cc_test_kits_2.jpg", Events: Corona Virus - Covid 19
-http://hottest.fit:8080/zain/zain123/38446
+http://hottest.fit:8080/movie/zain/zain123/8400.mkv
 
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
