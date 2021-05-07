@@ -54,6 +54,8 @@ http://mantul.biz.id:8888/gibran/gibran/1105
 http://mantul.biz.id:8888/gibran/gibran/2555
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
 http://tvms.me:8080/ihsan/ihsan/380
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://pictr.com/images/2020/03/24/5Odfkn.md.png", Astro First 2021
 http://207.244.239.77:25461/free/free/7825
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
@@ -217,11 +219,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i1.wp.com/www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358.png?fit=636%2C358&ssl=1", Sky Sports Main Event FHD
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/14651
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7115
 #EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png", Sky Sports Premier League FHD
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/14655
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6621
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/20024
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6620
 #EXTINF:-1 group-title="Sports" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports 
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8#https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png", TVRI Sport
