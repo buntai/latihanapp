@@ -235,9 +235,9 @@ https://tv.cpdev.us/Playlist/o/sportone.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png", BeinSports Extra
 https://nonton.site:8443/provision/pp/38735
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS MAX MY
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27937
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/27937
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS HD MY
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27938
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/27938
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 1
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 2
@@ -458,7 +458,7 @@ http://tvms.me:8080/norazah/norazah/273
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN 
 http://tvms.me:8080/norazah/norazah/350
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png", Syfy HD UK
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/16727
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/16727
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png", Star World
 http://mantul.biz.id:8888/gibran/gibran/6676
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill
