@@ -7,7 +7,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 group-title="Event" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://kuda@3.alhawalouh.xyz/live/88824257/index.m3u8
 #EXTINF:-1 group-title="Event" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
-http://mantul.biz.id:8888/kasih/kasih/4817
+http://mantul.biz.id:8888/gibran/gibran/7
 
 
 
