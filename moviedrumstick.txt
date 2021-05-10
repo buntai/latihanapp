@@ -130,6 +130,16 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1NDZmMDQtZjkxOS00YTQzLTk5ZjgtZjQ2MTRjYjQ2NGNmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg", The Thunderbolt (1995)
+https://calm-rain-70b4.buntai.workers.dev/movie/THUNDERBOLT1995.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR85,0,630,1200_AL_.jpg", Ip Man (2008)
+http://mantul.biz.id:8888/movie/gibran/gibran/1296.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM2MTcyMDgtZTZkNS00NTg5LWIwNzEtMmY1Y2I1MTZjYTE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Ip Man 2 (2010)
+http://mantul.biz.id:8888/movie/gibran/gibran/1297.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/IpMan3.jpg", Ip Man 3 (2015)
+http://mantul.biz.id:8888/movie/gibran/gibran/1298.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ip_Man_4_poster.png/220px-Ip_Man_4_poster.png", Ip Man 4: The Finale (2019)
+http://mantul.biz.id:8888/movie/gibran/gibran/1299.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://1.bp.blogspot.com/-K8aY9t6IyKg/Xd5DpUg40VI/AAAAAAAABs8/304WiFW9oKsgIfMbZBvnMwip_jXd7-s-QCNcBGAsYHQ/s1600/imdb.jpg", Rumah Kentang: The Beginning
 http://tvms.me:8080/movie/sukri/sukri/3615.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://static.wikia.nocookie.net/netflix/images/a/aa/What_Happened_to_Mr._Cha%3F.jpg/revision/latest?cb=20210102055625", What Happened to Mr Cha?
@@ -244,7 +254,7 @@ http://tvms.me:8080/movie/sukri/sukri/3851.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.cinema.com.my/images/movies/2018/7horahoreydidi00_450.jpg", Konsert Hora Horey Wayang Didi & Friends
 http://tvms.me:8080/movie/sukri/sukri/5670.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg", Demon Slayer the Movie: Mugen Train
-https://calm-rain-70b4.buntai.workers.dev/movie/DSMT.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Mugentrain.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/netflix/images/9/96/Secret_Magic_Control_Agency.png", Secret Magic Control Agency
 http://tvms.me:8080/movie/sukri/sukri/6170.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Raya and the Last Dragon [2021] [SE]
