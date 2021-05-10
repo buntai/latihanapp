@@ -41,8 +41,6 @@ http://tvms.me:8080/movie/sukri/sukri/5865.mp4
 http://tvms.me:8080/movie/sukri/sukri/5885.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://cintatv3.com/wp-content/uploads/2021/03/Alif-Ba-Ta-Aku-Cinta-Kamu.jpg", Alif Ba Ta Aku Cinta Kamu
 http://tvms.me:8080/movie/sukri/sukri/5886.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://1.bp.blogspot.com/-siOtokmVBJM/YHqvNWECWEI/AAAAAAAALfM/-m4Nqf0m9ZkKTL60QbLoXkNemJvTMkVBwCLcBGAsYHQ/s16000/Ayat%2BDari%2BLangit.jpg", Ayat Dari Langit
-http://tvms.me:8080/movie/sukri/sukri/6133.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", 18 Puasa
 https://calm-rain-70b4.buntai.workers.dev/movie/18PDKP.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vr60hHWj4K8woFDtpAWk01qQQO8.jpg", 17 Puasa
@@ -146,6 +144,8 @@ http://tvms.me:8080/movie/sukri/sukri/3615.mp4
 http://tvms.me:8080/movie/sukri/sukri/4636.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://pic.subimdb.com/i/my-sassy-girl-2021.207525.jpg", My Sassy Girl
 http://tvms.me:8080/movie/sukri/sukri/6119.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://1.bp.blogspot.com/-siOtokmVBJM/YHqvNWECWEI/AAAAAAAALfM/-m4Nqf0m9ZkKTL60QbLoXkNemJvTMkVBwCLcBGAsYHQ/s16000/Ayat%2BDari%2BLangit.jpg", Ayat Dari Langit
+http://tvms.me:8080/movie/sukri/sukri/6133.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/2/1/0/3/9/721039-ghostbuser-misteri-desa-penari-0-230-0-345-crop.jpg", Ghostbuser: Misteri Desa Penari (2021)
 http://mantul.biz.id:8888/movie/gibran/gibran/12159.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFhZjdlZTMtNDBjMC00MDdlLThkNmItMTM2ZjM3NDNjNGM5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Fabricated City
