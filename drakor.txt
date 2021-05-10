@@ -683,3 +683,176 @@ http://mantul.biz.id:8888/series/gibran/gibran/1467.mp4
 http://mantul.biz.id:8888/series/gibran/gibran/1468.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://1739752386.rsc.cdn77.org/data/images/full/235777/the-king-eternal-monarch-makes-it-to-top-10-most-popular-tv-shows-in-28-countries-on-netflix.jpg", The King: Eternal Monarch (2020) S01 E16
 http://mantul.biz.id:8888/series/gibran/gibran/1521.mp4
+
+-= Haikyuu! =-
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E01
+http://mantul.biz.id:8888/series/gibran/gibran/8682.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E02
+http://mantul.biz.id:8888/series/gibran/gibran/8683.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E03
+http://mantul.biz.id:8888/series/gibran/gibran/8684.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E04
+http://mantul.biz.id:8888/series/gibran/gibran/8685.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E05
+http://mantul.biz.id:8888/series/gibran/gibran/8686.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E06
+http://mantul.biz.id:8888/series/gibran/gibran/8687.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E07
+http://mantul.biz.id:8888/series/gibran/gibran/8688.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E08
+http://mantul.biz.id:8888/series/gibran/gibran/8689.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E09
+http://mantul.biz.id:8888/series/gibran/gibran/8690.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E10
+http://mantul.biz.id:8888/series/gibran/gibran/8691.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E11
+http://mantul.biz.id:8888/series/gibran/gibran/8692.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E12
+http://mantul.biz.id:8888/series/gibran/gibran/8693.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E13
+http://mantul.biz.id:8888/series/gibran/gibran/8694.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E14
+http://mantul.biz.id:8888/series/gibran/gibran/8695.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E15
+http://mantul.biz.id:8888/series/gibran/gibran/8696.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E16
+http://mantul.biz.id:8888/series/gibran/gibran/8697.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E17
+http://mantul.biz.id:8888/series/gibran/gibran/8698.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E18
+http://mantul.biz.id:8888/series/gibran/gibran/8699.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E19
+http://mantul.biz.id:8888/series/gibran/gibran/8700.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E20
+http://mantul.biz.id:8888/series/gibran/gibran/8701.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E21
+http://mantul.biz.id:8888/series/gibran/gibran/8702.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E22
+http://mantul.biz.id:8888/series/gibran/gibran/8703.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E23
+http://mantul.biz.id:8888/series/gibran/gibran/8704.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E24
+http://mantul.biz.id:8888/series/gibran/gibran/8705.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S01 E25
+http://mantul.biz.id:8888/series/gibran/gibran/8706.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E01
+http://mantul.biz.id:8888/series/gibran/gibran/8707.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E02
+http://mantul.biz.id:8888/series/gibran/gibran/8708.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E03
+http://mantul.biz.id:8888/series/gibran/gibran/8709.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E04
+http://mantul.biz.id:8888/series/gibran/gibran/8710.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E05
+http://mantul.biz.id:8888/series/gibran/gibran/8711.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E06
+http://mantul.biz.id:8888/series/gibran/gibran/8712.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E07
+http://mantul.biz.id:8888/series/gibran/gibran/8713.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E08
+http://mantul.biz.id:8888/series/gibran/gibran/8714.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E09
+http://mantul.biz.id:8888/series/gibran/gibran/8715.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E10
+http://mantul.biz.id:8888/series/gibran/gibran/8716.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E11
+http://mantul.biz.id:8888/series/gibran/gibran/8717.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E12
+http://mantul.biz.id:8888/series/gibran/gibran/8718.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E13
+http://mantul.biz.id:8888/series/gibran/gibran/8719.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E14
+http://mantul.biz.id:8888/series/gibran/gibran/8720.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E15
+http://mantul.biz.id:8888/series/gibran/gibran/8721.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E16
+http://mantul.biz.id:8888/series/gibran/gibran/8722.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E17
+http://mantul.biz.id:8888/series/gibran/gibran/8723.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E18
+http://mantul.biz.id:8888/series/gibran/gibran/8724.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E19
+http://mantul.biz.id:8888/series/gibran/gibran/8725.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E20
+http://mantul.biz.id:8888/series/gibran/gibran/8726.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E21
+http://mantul.biz.id:8888/series/gibran/gibran/8727.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E22
+http://mantul.biz.id:8888/series/gibran/gibran/8728.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E23
+http://mantul.biz.id:8888/series/gibran/gibran/8729.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E24
+http://mantul.biz.id:8888/series/gibran/gibran/8730.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S02 E25
+http://mantul.biz.id:8888/series/gibran/gibran/8731.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E01
+http://mantul.biz.id:8888/series/gibran/gibran/8732.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E02
+http://mantul.biz.id:8888/series/gibran/gibran/8733.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E03
+http://mantul.biz.id:8888/series/gibran/gibran/8734.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E04
+http://mantul.biz.id:8888/series/gibran/gibran/8735.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E05
+http://mantul.biz.id:8888/series/gibran/gibran/8736.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E06
+http://mantul.biz.id:8888/series/gibran/gibran/8737.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E07
+http://mantul.biz.id:8888/series/gibran/gibran/8738.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E08
+http://mantul.biz.id:8888/series/gibran/gibran/8739.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E09
+http://mantul.biz.id:8888/series/gibran/gibran/8740.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S03 E10
+http://mantul.biz.id:8888/series/gibran/gibran/8741.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E01
+http://mantul.biz.id:8888/series/gibran/gibran/8754.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E02
+http://mantul.biz.id:8888/series/gibran/gibran/8755.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E03
+http://mantul.biz.id:8888/series/gibran/gibran/8756.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E04
+http://mantul.biz.id:8888/series/gibran/gibran/8757.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E05
+http://mantul.biz.id:8888/series/gibran/gibran/8758.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E06
+http://mantul.biz.id:8888/series/gibran/gibran/8759.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E07
+http://mantul.biz.id:8888/series/gibran/gibran/8760.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E08
+http://mantul.biz.id:8888/series/gibran/gibran/8761.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E09
+http://mantul.biz.id:8888/series/gibran/gibran/8762.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E10
+http://mantul.biz.id:8888/series/gibran/gibran/8763.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E11
+http://mantul.biz.id:8888/series/gibran/gibran/8764.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E12
+http://mantul.biz.id:8888/series/gibran/gibran/8765.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E13
+http://mantul.biz.id:8888/series/gibran/gibran/8766.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E14
+http://mantul.biz.id:8888/series/gibran/gibran/8742.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E15
+http://mantul.biz.id:8888/series/gibran/gibran/8743.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E16
+http://mantul.biz.id:8888/series/gibran/gibran/8744.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E17
+http://mantul.biz.id:8888/series/gibran/gibran/8745.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E18
+http://mantul.biz.id:8888/series/gibran/gibran/8746.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E19
+http://mantul.biz.id:8888/series/gibran/gibran/8747.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E20
+http://mantul.biz.id:8888/series/gibran/gibran/8748.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E21
+http://mantul.biz.id:8888/series/gibran/gibran/8749.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E22
+http://mantul.biz.id:8888/series/gibran/gibran/8750.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E23
+http://mantul.biz.id:8888/series/gibran/gibran/8751.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E24
+http://mantul.biz.id:8888/series/gibran/gibran/8752.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E25
+http://mantul.biz.id:8888/series/gibran/gibran/8753.mkv

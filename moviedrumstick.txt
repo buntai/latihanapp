@@ -128,6 +128,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://bevsgirlfilms.files.wordpress.com/2020/10/the-paper-tigers.jpg", The Paper Tiger
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Paper%2520Tigers.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdhMDY2OWQtZDBjOC00ZTJiLTkzMTktODA3MDJkMTJkOGJkXkEyXkFqcGdeQXVyNjkzMzA2Njk@._V1_.jpg", Detective Chinatown 3
+https://calm-rain-70b4.buntai.workers.dev/movie/Detective%2520Chinatown%25203.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1NDZmMDQtZjkxOS00YTQzLTk5ZjgtZjQ2MTRjYjQ2NGNmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg", The Thunderbolt (1995)
 https://calm-rain-70b4.buntai.workers.dev/movie/THUNDERBOLT1995.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR85,0,630,1200_AL_.jpg", Ip Man (2008)
@@ -294,6 +298,8 @@ http://tvms.me:8080/movie/sukri/sukri/3485.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2M2E3NTEtYWMyNy00NGMyLWJjNzgtYWIyZjBiM2I2ZGRkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg", Chaavu kaburu challaga
+https://calm-rain-70b4.buntai.workers.dev/movie/Chaavu%2520Kaburu%2520Challaga.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZlNmE2YjAtM2NhOC00YTYwLWJhYzgtMTI3YjFhYTFlNDg3XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg", Halahal (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6674.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kick_%282014_film%29_Official_release_poster.jpg", Kick (2014)
