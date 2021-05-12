@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+http://hottest.fit:8080/zain/zain123/4110
 #EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://mantul.biz.id:8888/gibran/gibran/10460
 #EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
@@ -63,7 +63,7 @@ http://mantul.biz.id:8888/gibran/gibran/2555
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
 http://tvms.me:8080/ihsan/ihsan/380
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD
-http://ip.xtremetv.eu:8000/DgcrwTmJ9X/rrW722qh1i/49660
+http://hottest.fit:8080/zain/zain123/28691
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://pictr.com/images/2020/03/24/5Odfkn.md.png", Astro First 2021
 http://207.244.239.77:25461/free/free/7825
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
