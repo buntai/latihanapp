@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
 http://hottest.fit:8080/zain/zain123/4110
-#EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://mantul.biz.id:8888/gibran/gibran/10460
-#EXTINF:-1 group-title="Live Event🔥" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u
 
 
