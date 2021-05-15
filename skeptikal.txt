@@ -5,7 +5,7 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
 http://hottest.fit:8080/zain/zain123/4110
 #EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
-http://kuda@3.alhawalouh.xyz/live/88824257/index.m3u8
+http://mantul.biz.id:8888/gibran/gibran/10460
 #EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u
 
@@ -510,8 +510,10 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 http://mantul.biz.id:8888/gibran/gibran/8381
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Baby Bus Indonesia
 http://mantul.biz.id:8888/gibran/gibran/1013
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7: 9-1-1 Collection
-http://geostream.me:8080/karim/karim/69516
+#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7: Adam Sandler Collection
+http://hottest.fit:8080/zain/zain123/69526
+#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Back to The Future Collection
+http://hottest.fit:8080/zain/zain123/69561
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bruce Lee Collection
 http://mantul.biz.id:8888/gibran/gibran/10690
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bubble Guppies Collection
@@ -542,8 +544,6 @@ http://mantul.biz.id:8888/gibran/gibran/10714
 http://mantul.biz.id:8888/gibran/gibran/8462
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 PJ Masks Collection
 http://mantul.biz.id:8888/gibran/gibran/10716
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 PokÃ©mon Collection
-http://mantul.biz.id:8888/gibran/gibran/10717
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Puppy Dog Pals Collection
 http://mantul.biz.id:8888/gibran/gibran/11028
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Shaun the Sheep
