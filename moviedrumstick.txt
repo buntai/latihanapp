@@ -298,6 +298,10 @@ http://tvms.me:8080/movie/sukri/sukri/3485.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg", Radhe
+https://calm-rain-70b4.buntai.workers.dev/movie/Radhe.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg/220px-Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg", Main Pren Ki Diwani Hoon
+https://calm-rain-70b4.buntai.workers.dev/movie/MainPremKiDiwaniHoon.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2M2E3NTEtYWMyNy00NGMyLWJjNzgtYWIyZjBiM2I2ZGRkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg", Chaavu kaburu challaga
 https://calm-rain-70b4.buntai.workers.dev/movie/Chaavu%2520Kaburu%2520Challaga.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZlNmE2YjAtM2NhOC00YTYwLWJhYzgtMTI3YjFhYTFlNDg3XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg", Halahal (2020)
