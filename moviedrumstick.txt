@@ -1,6 +1,33 @@
 -= Melayu =-
 
-
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
+http://tvms.me:8080/movie/norazah/norazah/1438.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/s1600/Korban%2BPenunggu%2BHospital.jpg", Korban Penunggu Hospital
+http://tvms.me:8080/movie/norazah/norazah/1439.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-SOCA_bY7MwM/W_50sqXSPNI/AAAAAAAAHOA/XFK7yU2vI042kCYiBmXFbtncRyAv2a8iwCLcBGAs/s1600/Kau%2BRoadblock%2BHatiku.jpg", Kau Roadblock Hatiku
+http://tvms.me:8080/movie/norazah/norazah/1440.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-YngiezalJP0/W6BTQcSLAHI/AAAAAAAAG8k/TZh7uYbRSNUBCbRO53w38-1nToGaNaB0QCLcBGAs/s1600/I%2BHeart%2BYou%2BCik%2BYah.jpg", I Heart You Cik Yah
+http://tvms.me:8080/movie/norazah/norazah/1441.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://fiksyenshasha.com/blog/wp-content/uploads/2018/11/Cinta-Elevator.jpg", Cinta Elevator
+http://tvms.me:8080/movie/norazah/norazah/1442.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/u0ShdOTxpSHN4iDo4j4NIE9X1EK.jpg", Baik Punya Konsert 4D
+http://tvms.me:8080/movie/norazah/norazah/1443.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://d2j1wkp1bavyfs.cloudfront.net/image-assets/561583/e4lbLcnWGzGKv8P1AiEaSmZGWNv.jpg", 30 Hari Membunuh Cinta
+http://tvms.me:8080/movie/norazah/norazah/1444.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-7llewRNLMdw/WySoKrqcgxI/AAAAAAAAGm8/bAjg2518GNUaURuDGw0prCQaAGzfBG6MgCLcBGAs/s1600/Istana%2BFirdaus.jpg", Istana Firdaus
+http://tvms.me:8080/movie/norazah/norazah/1445.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-_MfpEAkmAwg/WyHXMyHlMtI/AAAAAAAAGmE/llN64NozQgkvZJkjwHt_BOR4JFQAEccGwCLcBGAs/s1600/Din%2BSardin%2BBeraya.jpg", Din Sardin Beraya
+http://tvms.me:8080/movie/norazah/norazah/1446.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/6/0/2/6/5/460265-selirat-0-230-0-345-crop.jpg?k=440d18147c", Selirat
+http://tvms.me:8080/movie/norazah/norazah/1447.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-Oe1ZGRZGQ-Q/Wmxqq1C2knI/AAAAAAAAF9k/ioTFKOY7PRgmcznf0FgfCq9Y08pSiFj1QCLcBGAs/s1600/TeksiLove.jpg", Teksi Love
+http://tvms.me:8080/movie/norazah/norazah/1448.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-nuwUmC_ZS_Y/XR7QiHYs-7I/AAAAAAAAINM/IyR5Tbsu758A3nZ-n9cNnQJXtmVlj7ATgCLcBGAs/s1600/Tok%2BSiah.jpg", Tok Siah
+http://tvms.me:8080/movie/norazah/norazah/1449.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://4.bp.blogspot.com/-iW-KnpIys-A/XDhKCW73qkI/AAAAAAAACPk/81Ja8k4doPw0sflz71EcQ_Ihp1iX1bAygCLcBGAs/s640/telefilem%2BPotret%2BMoyang.jpg", Potret Moyang
+http://tvms.me:8080/movie/norazah/norazah/1450.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk0NmI3ZTUtMmY2OS00N2MxLWFiZTctYjU0NDJhOWEzNGFhXkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_.jpg", Kekasih Elektrik
+http://tvms.me:8080/movie/norazah/norazah/1451.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2ZDM2NDUtNDI5Yi00ZTQ3LWIwMDktYzczODY0MmZjYzg3XkEyXkFqcGdeQXVyMTA0NDQ0Mzc4._V1_.jpg", Zombitopia
 http://tvms.me:8080/movie/sukri/sukri/5901.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://4.bp.blogspot.com/-BjPZxj8ZORo/UjDFi8_fmaI/AAAAAAAAAhE/Nb8K8qiN3Sw/s1600/Siapa+Dapat+Lisa+Movie+Online+dfm2u.com+%5Bdfm2u%5D.jpg", Siapa Dapat Lisa
@@ -128,6 +155,18 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
+http://tvms.me:8080/movie/norazah/norazah/885.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://miro.medium.com/max/1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg", God of Gamblers II
+http://tvms.me:8080/movie/norazah/norazah/683.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/GodofGamblersReturn.jpg", God of Gamblers' Return
+http://tvms.me:8080/movie/norazah/norazah/886.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg/220px-God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg", God of Gamblers 3: The Early Stage
+http://tvms.me:8080/movie/norazah/norazah/887.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDZkZDMtNjM0Yi00OTk1LWE3ZjEtNTFjZTFjNzJjMzIwXkEyXkFqcGdeQXVyMTE5MTU3MjU0._V1_.jpg", God of Gamblers 2020
+http://tvms.me:8080/movie/norazah/norazah/888.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Take_Point.jpg/220px-Take_Point.jpg", Take Point
+http://tvms.me:8080/movie/norazah/norazah/3951.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://bevsgirlfilms.files.wordpress.com/2020/10/the-paper-tigers.jpg", The Paper Tiger
 https://calm-rain-70b4.buntai.workers.dev/movie/Thepapertiger.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdhMDY2OWQtZDBjOC00ZTJiLTkzMTktODA3MDJkMTJkOGJkXkEyXkFqcGdeQXVyNjkzMzA2Njk@._V1_.jpg", Detective Chinatown 3
@@ -255,6 +294,26 @@ http://tvms.me:8080/movie/sukri/sukri/3851.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg", Finding Dory
+http://tvms.me:8080/movie/norazah/norazah/3311.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg", Finding Nemo
+http://tvms.me:8080/movie/norazah/norazah/3312.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Rise_of_the_Guardians_poster.jpg/220px-Rise_of_the_Guardians_poster.jpg", Rise of the Guardians
+http://tvms.me:8080/movie/norazah/norazah/3024.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MxY2QwYTAtMDM1My00MTc0LWEwZjktMDdjODY2NWJiNDg2XkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_.jpg", One Piece: Stampede
+http://tvms.me:8080/movie/norazah/norazah/3025.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e9/Heroes_Rising_Promotional_Poster_2.png", My Hero Academia: Heroes Rising
+http://tvms.me:8080/movie/norazah/norazah/3026.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U3NTkxNjctMWEwMy00MmNiLTg0OTMtZTc3NzI1MGNmYWVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UY1200_CR110,0,630,1200_AL_.jpg", Latte & the Magic Waterstone
+http://tvms.me:8080/movie/norazah/norazah/3027.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg", Up
+http://tvms.me:8080/movie/norazah/norazah/3029.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NjE2ODM2OV5BMl5BanBnXkFtZTgwMjQyNDUzNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", UglyDolls
+http://tvms.me:8080/movie/norazah/norazah/3030.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://flxt.tmsimg.com/assets/p11822260_p_v13_am.jpg", The Good Dinosaur
+http://tvms.me:8080/movie/norazah/norazah/3033.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Charlie_and_the_Chocolate_Factory_%28film%29.png", Charlie and the Chocolate Factory
+http://tvms.me:8080/movie/norazah/norazah/3034.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.cinema.com.my/images/movies/2018/7horahoreydidi00_450.jpg", Konsert Hora Horey Wayang Didi & Friends
 http://tvms.me:8080/movie/sukri/sukri/5670.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg", Demon Slayer the Movie: Mugen Train
@@ -298,6 +357,12 @@ http://tvms.me:8080/movie/sukri/sukri/3485.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBiYzZhMWUtNzgzNS00ZjkzLTgxZjQtMGZmYjNhYzE1ODdlXkEyXkFqcGdeQXVyNDQ3Njc5MzM@._V1_.jpg", 122
+http://tvms.me:8080/movie/norazah/norazah/3054.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Guna_369_film_poster.jpg", Guna 369
+http://tvms.me:8080/movie/norazah/norazah/2910.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Raat_Akeli_Hai_film_poster.jpg", Raat Akeli Hai
+http://tvms.me:8080/movie/norazah/norazah/2667.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg", Radhe
 https://calm-rain-70b4.buntai.workers.dev/movie/Radhe.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg/220px-Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg", Main Pren Ki Diwani Hoon
@@ -387,6 +452,26 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.The.Wife.mp4
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMzNjE4NjE2MV5BMl5BanBnXkFtZTgwOTc1NjE4NTM@._V1_.jpg", Father of the Year
+http://tvms.me:8080/movie/norazah/norazah/3896.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ1ZTVkMWMtNmU5Yi00YzkwLTk2OWUtY2Q1OWUzOTYyNmJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Mark of the Devil
+http://tvms.me:8080/movie/norazah/norazah/3897.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Jiu_Jitsu_film_poster.png", Jiu Jitsu
+http://tvms.me:8080/movie/norazah/norazah/3909.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_37cd35c0.jpeg", Mike and Dave Need Wedding Dates
+http://tvms.me:8080/movie/norazah/norazah/3910.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rogue_City.jpg/220px-Rogue_City.jpg", Rogue City
+http://tvms.me:8080/movie/norazah/norazah/3913.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Seventeen_%282019%29_Film_Poster.jpg", Seventeen 
+http://tvms.me:8080/movie/norazah/norazah/3914.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/TheBoy_2016-OfficialPoster.jpg/220px-TheBoy_2016-OfficialPoster.jpg", The Boy
+http://tvms.me:8080/movie/norazah/norazah/3915.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", The Nun 
+http://tvms.me:8080/movie/norazah/norazah/3917.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU3NGRmMmItYzc2OS00NDZiLThhZTctMmY0OTk1MjFjNTM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg", The Ruthless 
+http://tvms.me:8080/movie/norazah/norazah/3918.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk5ZjFiNWItMTRhMS00NWM2LWExMjItNjM1MzU2ODFmZDhkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", A Twelve-Year Night
+http://tvms.me:8080/movie/norazah/norazah/3931.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", The Godfather (1972)
 http://mantul.biz.id:8888/movie/gibran/gibran/4783.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/godfather/images/8/87/The_Godfather_Part_II.jpg/revision/latest/top-crop/width/360/height/450?cb=20100520182416", The Godfather: Part II (1974)

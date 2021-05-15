@@ -856,3 +856,81 @@ http://mantul.biz.id:8888/series/gibran/gibran/8751.mkv
 http://mantul.biz.id:8888/series/gibran/gibran/8752.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MmJjZDUtMmI5OC00ZDk2LThkODQtODgwYmU0MTIzNDhmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Anime",Haikyuu!! S04 E25
 http://mantul.biz.id:8888/series/gibran/gibran/8753.mkv
+
+-= Sisyphus: The Myth =-
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E01
+http://tvms.me:8080/series/norazah/norazah/5262.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E02
+http://tvms.me:8080/series/norazah/norazah/5285.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E03
+http://tvms.me:8080/series/norazah/norazah/5332.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E04
+http://tvms.me:8080/series/norazah/norazah/5353.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E05
+http://tvms.me:8080/series/norazah/norazah/5501.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E06
+http://tvms.me:8080/series/norazah/norazah/5539.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E07
+http://tvms.me:8080/series/norazah/norazah/5696.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E08
+http://tvms.me:8080/series/norazah/norazah/5710.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E09
+http://tvms.me:8080/series/norazah/norazah/5774.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E10
+http://tvms.me:8080/series/norazah/norazah/5785.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E11
+http://tvms.me:8080/series/norazah/norazah/5861.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E12
+http://tvms.me:8080/series/norazah/norazah/5873.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E13
+http://tvms.me:8080/series/norazah/norazah/5989.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E14
+http://tvms.me:8080/series/norazah/norazah/6059.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E15
+http://tvms.me:8080/series/norazah/norazah/6126.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E16
+http://tvms.me:8080/series/norazah/norazah/6127.mp4
+
+-= Vincenzo =-
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E01
+http://tvms.me:8080/series/norazah/norazah/5284.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E02
+http://tvms.me:8080/series/norazah/norazah/5296.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E03
+http://tvms.me:8080/series/norazah/norazah/5351.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E04
+http://tvms.me:8080/series/norazah/norazah/5500.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E05
+http://tvms.me:8080/series/norazah/norazah/5546.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E06
+http://tvms.me:8080/series/norazah/norazah/5694.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E07
+http://tvms.me:8080/series/norazah/norazah/5773.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E08
+http://tvms.me:8080/series/norazah/norazah/5781.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E09
+http://tvms.me:8080/series/norazah/norazah/5793.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E10
+http://tvms.me:8080/series/norazah/norazah/5862.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E11
+http://tvms.me:8080/series/norazah/norazah/5869.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E12
+http://tvms.me:8080/series/norazah/norazah/5976.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E13
+http://tvms.me:8080/series/norazah/norazah/5987.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E14
+http://tvms.me:8080/series/norazah/norazah/6056.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E15
+http://tvms.me:8080/series/norazah/norazah/6124.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E16
+http://tvms.me:8080/series/norazah/norazah/6125.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E17
+http://tvms.me:8080/series/norazah/norazah/6226.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E18
+http://tvms.me:8080/series/norazah/norazah/6303.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E19
+http://tvms.me:8080/series/norazah/norazah/6308.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E20
+http://tvms.me:8080/series/norazah/norazah/6320.mp4
