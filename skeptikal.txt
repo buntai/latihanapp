@@ -8,6 +8,10 @@ http://hottest.fit:8080/zain/zain123/4110
 http://mantul.biz.id:8888/gibran/gibran/10460
 #EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Event⚽" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
@@ -395,6 +399,8 @@ http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/33973
 
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Ceria [B]
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://banner2.cleanpng.com/20181106/wx/kisspng-public-television-company-of-armenia-armenia-tv-pu-file1tv-am-logo-png-wikimedia-commons-5be1f8b62c46c0.3528177015415359261814.jpg", Tuntunik
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://rstatic.akamaized.net/media/500/files/fta_rcti/Landscape/upin_dan_ipin/upinipinnew_L.jpg", 24/7 Upin Ipin
@@ -620,8 +626,10 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg", NHK World
-http://1.9.58.102/PLTV/88888888/224/3221227626/3221227626.mpd
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png", Crime + Investigation HD
+http://mantul.biz.id:8888/gibran/gibran/8316
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", Discovery SCI
+http://mantul.biz.id:8888/gibran/gibran/5016
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fishing_tv_kr.png", Fishing TV
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Nat Geo
@@ -646,6 +654,8 @@ https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/failarmy.jpg", Fail Army TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg", DMAX
+http://mantul.biz.id:8888/gibran/gibran/5022
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg", DMAX Turki
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW TV Asia (Backup)
@@ -687,9 +697,9 @@ https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Discovery Asia
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 group-title="Lifestyle",H2
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", H2
 http://mantul.biz.id:8888/gibran/gibran/10879
-#EXTINF:-1 group-title="Lifestyle",History
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://customercarecontacts.com/wp-content/uploads/2019/05/history-channel-logo.jpg", History
 http://mantul.biz.id:8888/gibran/gibran/10
 
 
