@@ -102,7 +102,7 @@ http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna Backup
 http://hottest.fit:8080/zain/zain123/9612
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA", Pertiwi TV
-http://ip.xtremetv.eu:8000/DgcrwTmJ9X/rrW722qh1i/49728
+http://tvms.me:8080/zulfiqar/zulfiqar/247
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png",RTM Parlimen (Dewan Rakyat) (1080p)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
