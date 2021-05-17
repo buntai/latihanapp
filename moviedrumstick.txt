@@ -454,6 +454,8 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.The.Wife.mp4
 
 -= english =-
 
+#EXTINF:-1 tvg-ID="" tvg-name="Gifted" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Gifted_poster.jpeg/220px-Gifted_poster.jpeg" group-title="EnglishMovies",Gifted
+http://hottest.fit:8080/movie/itzik/itzik3/12470.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJhNzU2MjYtZWYxNy00YjQ1LWEwMDYtMTlkMjliNmQxNDA0XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg", The Heiress
 http://tvms.me:8080/movie/zulfiqar/zulfiqar/5756.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYzViMWYtMmJmZS00YjE0LTgwZWEtYzU2ZmMyNjdkNTUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", A Babysitter's Guide to Monster Hunting
