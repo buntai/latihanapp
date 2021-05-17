@@ -155,6 +155,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="hhttps://m.media-amazon.com/images/M/MV5BMjYwY2RlMDEtZWFiMC00ZjdjLTllZDMtYzA0NmRhODYzOWJkXkEyXkFqcGdeQXVyMTI0MDMyMTg4._V1_UY1200_CR97,0,630,1200_AL_.jpg", Monster Run
+http://tvms.me:8080/movie/zulfiqar/zulfiqar/4373.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
 http://tvms.me:8080/movie/sukri/sukri/885.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://miro.medium.com/max/1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg", God of Gamblers II
@@ -452,6 +454,10 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.The.Wife.mp4
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJhNzU2MjYtZWYxNy00YjQ1LWEwMDYtMTlkMjliNmQxNDA0XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg", The Heiress
+http://tvms.me:8080/movie/zulfiqar/zulfiqar/5756.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYzViMWYtMmJmZS00YjE0LTgwZWEtYzU2ZmMyNjdkNTUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", A Babysitter's Guide to Monster Hunting
+http://tvms.me:8080/movie/zulfiqar/zulfiqar/3403.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://i1.wp.com/www.bulletproofaction.com/wp-content/uploads/2021/03/ww-1.jpg", Willy's Wonderland
 http://tvms.me:8080/movie/zulfiqar/zulfiqar/5258.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMzNjE4NjE2MV5BMl5BanBnXkFtZTgwOTc1NjE4NTM@._V1_.jpg", Father of the Year
