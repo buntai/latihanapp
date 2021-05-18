@@ -440,7 +440,7 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.London.Confidential.mp
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Maara
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.MAARA.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Master_2021_poster.jpg/220px-Master_2021_poster.jpg", Master
-http://tvms.me:8080/movie/marisa/marisa/5669.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil6/MASTER%20(2021)ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", RED
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.RED.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Sir
