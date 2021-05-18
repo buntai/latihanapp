@@ -1,73 +1,73 @@
 -= Melayu =-
 
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
-http://tvms.me:8080/movie/sukri/sukri/1438.mp4
+http://tvms.me:8080/movie/marisa/marisa/1438.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/s1600/Korban%2BPenunggu%2BHospital.jpg", Korban Penunggu Hospital
-http://tvms.me:8080/movie/sukri/sukri/1439.mp4
+http://tvms.me:8080/movie/marisa/marisa/1439.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-SOCA_bY7MwM/W_50sqXSPNI/AAAAAAAAHOA/XFK7yU2vI042kCYiBmXFbtncRyAv2a8iwCLcBGAs/s1600/Kau%2BRoadblock%2BHatiku.jpg", Kau Roadblock Hatiku
-http://tvms.me:8080/movie/sukri/sukri/1440.mp4
+http://tvms.me:8080/movie/marisa/marisa/1440.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-YngiezalJP0/W6BTQcSLAHI/AAAAAAAAG8k/TZh7uYbRSNUBCbRO53w38-1nToGaNaB0QCLcBGAs/s1600/I%2BHeart%2BYou%2BCik%2BYah.jpg", I Heart You Cik Yah
-http://tvms.me:8080/movie/sukri/sukri/1441.mp4
+http://tvms.me:8080/movie/marisa/marisa/1441.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://fiksyenshasha.com/blog/wp-content/uploads/2018/11/Cinta-Elevator.jpg", Cinta Elevator
-http://tvms.me:8080/movie/sukri/sukri/1442.mp4
+http://tvms.me:8080/movie/marisa/marisa/1442.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/u0ShdOTxpSHN4iDo4j4NIE9X1EK.jpg", Baik Punya Konsert 4D
-http://tvms.me:8080/movie/sukri/sukri/1443.mp4
+http://tvms.me:8080/movie/marisa/marisa/1443.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://d2j1wkp1bavyfs.cloudfront.net/image-assets/561583/e4lbLcnWGzGKv8P1AiEaSmZGWNv.jpg", 30 Hari Membunuh Cinta
-http://tvms.me:8080/movie/sukri/sukri/1444.mp4
+http://tvms.me:8080/movie/marisa/marisa/1444.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-7llewRNLMdw/WySoKrqcgxI/AAAAAAAAGm8/bAjg2518GNUaURuDGw0prCQaAGzfBG6MgCLcBGAs/s1600/Istana%2BFirdaus.jpg", Istana Firdaus
-http://tvms.me:8080/movie/sukri/sukri/1445.mp4
+http://tvms.me:8080/movie/marisa/marisa/1445.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-_MfpEAkmAwg/WyHXMyHlMtI/AAAAAAAAGmE/llN64NozQgkvZJkjwHt_BOR4JFQAEccGwCLcBGAs/s1600/Din%2BSardin%2BBeraya.jpg", Din Sardin Beraya
-http://tvms.me:8080/movie/sukri/sukri/1446.mp4
+http://tvms.me:8080/movie/marisa/marisa/1446.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/6/0/2/6/5/460265-selirat-0-230-0-345-crop.jpg?k=440d18147c", Selirat
-http://tvms.me:8080/movie/sukri/sukri/1447.mp4
+http://tvms.me:8080/movie/marisa/marisa/1447.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-Oe1ZGRZGQ-Q/Wmxqq1C2knI/AAAAAAAAF9k/ioTFKOY7PRgmcznf0FgfCq9Y08pSiFj1QCLcBGAs/s1600/TeksiLove.jpg", Teksi Love
-http://tvms.me:8080/movie/sukri/sukri/1448.mp4
+http://tvms.me:8080/movie/marisa/marisa/1448.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-nuwUmC_ZS_Y/XR7QiHYs-7I/AAAAAAAAINM/IyR5Tbsu758A3nZ-n9cNnQJXtmVlj7ATgCLcBGAs/s1600/Tok%2BSiah.jpg", Tok Siah
-http://tvms.me:8080/movie/sukri/sukri/1449.mp4
+http://tvms.me:8080/movie/marisa/marisa/1449.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://4.bp.blogspot.com/-iW-KnpIys-A/XDhKCW73qkI/AAAAAAAACPk/81Ja8k4doPw0sflz71EcQ_Ihp1iX1bAygCLcBGAs/s640/telefilem%2BPotret%2BMoyang.jpg", Potret Moyang
-http://tvms.me:8080/movie/sukri/sukri/1450.mp4
+http://tvms.me:8080/movie/marisa/marisa/1450.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk0NmI3ZTUtMmY2OS00N2MxLWFiZTctYjU0NDJhOWEzNGFhXkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_.jpg", Kekasih Elektrik
-http://tvms.me:8080/movie/sukri/sukri/1451.mp4
+http://tvms.me:8080/movie/marisa/marisa/1451.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2ZDM2NDUtNDI5Yi00ZTQ3LWIwMDktYzczODY0MmZjYzg3XkEyXkFqcGdeQXVyMTA0NDQ0Mzc4._V1_.jpg", Zombitopia
-http://tvms.me:8080/movie/sukri/sukri/5901.mp4
+http://tvms.me:8080/movie/marisa/marisa/5901.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://4.bp.blogspot.com/-BjPZxj8ZORo/UjDFi8_fmaI/AAAAAAAAAhE/Nb8K8qiN3Sw/s1600/Siapa+Dapat+Lisa+Movie+Online+dfm2u.com+%5Bdfm2u%5D.jpg", Siapa Dapat Lisa
-http://tvms.me:8080/movie/sukri/sukri/6155.mp4
+http://tvms.me:8080/movie/marisa/marisa/6155.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3ZjgxNWMtY2I0MS00NTMwLTkyYjEtODA5NWZhNmI2Njg0XkEyXkFqcGdeQXVyMjAwMzU2MDY@._V1_UY1200_CR105,0,630,1200_AL_.jpg", Keramat
-http://tvms.me:8080/movie/sukri/sukri/5112.mp4
+http://tvms.me:8080/movie/marisa/marisa/5112.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1c/Longkai2013.jpg", Longkai
-http://tvms.me:8080/movie/sukri/sukri/5113.mp4
+http://tvms.me:8080/movie/marisa/marisa/5113.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/42/Kongsi01.jpg", Kongsi
-http://tvms.me:8080/movie/sukri/sukri/5114.mp4
+http://tvms.me:8080/movie/marisa/marisa/5114.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-mH4Wldzw1c4/WXXZZUwLo-I/AAAAAAAAE9w/fkz3GyJDNU4z3hyQIXL2ZO38Uxd3ogUmACLcBGAs/s1600/MuliakahAku.jpg", Muliakah Aku
-http://tvms.me:8080/movie/sukri/sukri/5799.mp4
+http://tvms.me:8080/movie/marisa/marisa/5799.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-Tm6Jxq0nKTk/Wq_Qsk_CKeI/AAAAAAAAHVU/JyirXCju2Yodxk8XCZ_UIZsiN1QRwCRNgCLcBGAs/s1600/Cekelat%2BTak%2BSemanis%2BHoney.jpg", Cekelat Tak Semanis Honey
-http://tvms.me:8080/movie/sukri/sukri/5800.mp4
+http://tvms.me:8080/movie/marisa/marisa/5800.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-HIQp1mNk9Y4/XPxRDh9xf2I/AAAAAAAAKfo/2BrCUqs7D00EHnopgs8rqrR3Qe0TCTBMQCLcBGAs/s1600/Cerita%2BRaya%2BLuar%2BBiasa.JPG", Cerita Raya Luar Biasa
-http://tvms.me:8080/movie/sukri/sukri/5801.mp4
+http://tvms.me:8080/movie/marisa/marisa/5801.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-aUFnd2hGooQ/YEXwwsJb9-I/AAAAAAAALQA/00FYJmKVVhoVgm4Ry_mo1CK1ADvsp3eSACLcBGAsYHQ/s16000/Matilah%2BNak%2BKembali.jpg", Matilah Nak Kembali
-http://tvms.me:8080/movie/sukri/sukri/5730.mp4
+http://tvms.me:8080/movie/marisa/marisa/5730.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://2.bp.blogspot.com/-_DsOSVtEr2o/XFWfxCRO2NI/AAAAAAAAHjY/RuhSf9jPbdQ6WgyVIgFlm6IRIaqv-5gaACLcBGAs/s1600/Dia%2BTak%2BBerdosa.jpg", Dia Tak Berdosa
-http://tvms.me:8080/movie/sukri/sukri/5731.mp4
+http://tvms.me:8080/movie/marisa/marisa/5731.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-PaMybrrYT1k/YCuA0vgEo_I/AAAAAAAALJI/6uTetNiye1svIJ-7XDEDQAfZuRj6LrkLACLcBGAsYHQ/s16000/Selamat%2BHari%2BX%2BJadi.jpg", Selamat Hari X Jadi
-http://tvms.me:8080/movie/sukri/sukri/5677.mp4
+http://tvms.me:8080/movie/marisa/marisa/5677.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUxY2ZhODMtYjVhYi00ZjNlLTkyZjktMzZkYzMyMTc4Njk4XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_.jpg", Kenderaan Berat Ikut Kiri
-http://tvms.me:8080/movie/sukri/sukri/5678.mp4
+http://tvms.me:8080/movie/marisa/marisa/5678.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://odisi.my/app/uploads/2020/12/Angkara-Dendam-Naskhah-Baru-Penuh-Suspen-Lakonan-Amerul-Affendi-738x1024.jpg", Angkara Dendam
-http://tvms.me:8080/movie/sukri/sukri/4574.mp4
+http://tvms.me:8080/movie/marisa/marisa/4574.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.finas.gov.my/wp-content/uploads/2019/06/SK-Poster-27x39-T-copy4-crop.jpg", Suatu Ketika
-http://tvms.me:8080/movie/sukri/sukri/4579.mp4
+http://tvms.me:8080/movie/marisa/marisa/4579.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-9jc_I4sVHHo/X8opYRujydI/AAAAAAAAKqo/qsaQwXynKo8sfw9Qxkh3TXcjBkllBVPbQCLcBGAsYHQ/s16000/Saka%2BNan%2BSepi.jpg", Saka Nan Sepi
-http://tvms.me:8080/movie/sukri/sukri/4601.mp4
+http://tvms.me:8080/movie/marisa/marisa/4601.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vr60hHWj4K8woFDtpAWk01qQQO8.jpg", Mael Totey The Movie
-http://tvms.me:8080/movie/sukri/sukri/4599.mp4
+http://tvms.me:8080/movie/marisa/marisa/4599.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-uTsOuLnYFwA/X9n9fusUZpI/AAAAAAAAKv4/iIC5vCY1TlInNqdzWuZ8L_ZPBuBeTo30wCLcBGAsYHQ/s16000/Mohon%2BHantuan.jpg", Mohon Hantuan
-http://tvms.me:8080/movie/sukri/sukri/4339.mp4
+http://tvms.me:8080/movie/marisa/marisa/4339.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/01/gadis-muka-surat-3-1024x1024.jpg", Gadis Muka Surat
-http://tvms.me:8080/movie/sukri/sukri/5865.mp4
+http://tvms.me:8080/movie/marisa/marisa/5865.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-eP1ldBe7xM4/YFimRUbIc7I/AAAAAAAALVo/5D_qMKRCnQMjchLOuc0DNtC3SGGXNZ6gACLcBGAsYHQ/s16000/6%2BLangkah%2BMenghancurkan%2BEx-boyfriend.jpg", 6 Langkah Menghancurkan Ex-boyfriend
-http://tvms.me:8080/movie/sukri/sukri/5885.mp4
+http://tvms.me:8080/movie/marisa/marisa/5885.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://cintatv3.com/wp-content/uploads/2021/03/Alif-Ba-Ta-Aku-Cinta-Kamu.jpg", Alif Ba Ta Aku Cinta Kamu
-http://tvms.me:8080/movie/sukri/sukri/5886.mp4
+http://tvms.me:8080/movie/marisa/marisa/5886.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", 18 Puasa
 https://calm-rain-70b4.buntai.workers.dev/movie/18PDKP.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vr60hHWj4K8woFDtpAWk01qQQO8.jpg", 17 Puasa
@@ -77,17 +77,17 @@ https://calm-rain-70b4.buntai.workers.dev/movie/16P.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mNOoDq2UFcXJVJ9roAdBTp4G4M.jpg", 15 Puasa 1971
 https://calm-rain-70b4.buntai.workers.dev/movie/15%2520P1971.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJiODExNDUtZTFlZi00ZWZmLWEwNjMtOWE1YTY5NWJmYzc2XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY1200_CR165,0,630,1200_AL_.jpg", Hantu Bonceng 2.0
-http://tvms.me:8080/movie/sukri/sukri/5679.mp4
+http://tvms.me:8080/movie/marisa/marisa/5679.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sVuEDOks5HMDyNwXgV6W2dUain9.jpg", Kampung Kuala Lambat
-http://tvms.me:8080/movie/sukri/sukri/1452.mp4
+http://tvms.me:8080/movie/marisa/marisa/1452.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NQT8m7ukQ851IweWMrzpPB5jqZ.jpg", Aku Posmen
-http://tvms.me:8080/movie/sukri/sukri/1454.mp4
+http://tvms.me:8080/movie/marisa/marisa/1454.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lcLHTYBgFM5AnvEsTbVk9wd4QZa.jpg", Penunggang Agama
 https://calm-rain-70b4.buntai.workers.dev/movie/PA2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eTXl4uCDm4N0Cr2RV4qpnnKf1Q5.jpg", Bulan dan Pria Terhebat
-http://tvms.me:8080/movie/sukri/sukri/5671.mp4
+http://tvms.me:8080/movie/marisa/marisa/5671.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Polis_Evo_2_poster.jpg", Polis Evo 2
-http://tvms.me:8080/movie/sukri/sukri/2993.mp4
+http://tvms.me:8080/movie/marisa/marisa/2993.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wJRsDjQPiZbLYG6RmQirFS7ssTQ.jpg", Desolasi
 https://misty-dust.evanwinters.workers.dev/0:/public/Desolasi.2016.1080p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlZmRhOGItYTMyOC00ODQzLTk2OWMtYmJkNjJlYzUxYzk4XkEyXkFqcGdeQXVyODQ0NDE3MjM@._V1_UX182_CR0,0,182,268_AL_.jpg", 7ujuh
@@ -158,17 +158,17 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="hhttps://m.media-amazon.com/images/M/MV5BMjYwY2RlMDEtZWFiMC00ZjdjLTllZDMtYzA0NmRhODYzOWJkXkEyXkFqcGdeQXVyMTI0MDMyMTg4._V1_UY1200_CR97,0,630,1200_AL_.jpg", Monster Run
 http://tvms.me:8080/movie/zulfiqar/zulfiqar/4373.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
-http://tvms.me:8080/movie/sukri/sukri/885.mp4
+http://tvms.me:8080/movie/marisa/marisa/885.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://miro.medium.com/max/1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg", God of Gamblers II
-http://tvms.me:8080/movie/sukri/sukri/683.mp4
+http://tvms.me:8080/movie/marisa/marisa/683.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/GodofGamblersReturn.jpg", God of Gamblers' Return
-http://tvms.me:8080/movie/sukri/sukri/886.mp4
+http://tvms.me:8080/movie/marisa/marisa/886.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg/220px-God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg", God of Gamblers 3: The Early Stage
-http://tvms.me:8080/movie/sukri/sukri/887.mp4
+http://tvms.me:8080/movie/marisa/marisa/887.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDZkZDMtNjM0Yi00OTk1LWE3ZjEtNTFjZTFjNzJjMzIwXkEyXkFqcGdeQXVyMTE5MTU3MjU0._V1_.jpg", God of Gamblers 2020
-http://tvms.me:8080/movie/sukri/sukri/888.mp4
+http://tvms.me:8080/movie/marisa/marisa/888.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Take_Point.jpg/220px-Take_Point.jpg", Take Point
-http://tvms.me:8080/movie/sukri/sukri/3951.mp4
+http://tvms.me:8080/movie/marisa/marisa/3951.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://bevsgirlfilms.files.wordpress.com/2020/10/the-paper-tigers.jpg", The Paper Tiger
 https://calm-rain-70b4.buntai.workers.dev/movie/Thepapertiger.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdhMDY2OWQtZDBjOC00ZTJiLTkzMTktODA3MDJkMTJkOGJkXkEyXkFqcGdeQXVyNjkzMzA2Njk@._V1_.jpg", Detective Chinatown 3
@@ -184,25 +184,25 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1298.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ip_Man_4_poster.png/220px-Ip_Man_4_poster.png", Ip Man 4: The Finale (2019)
 http://mantul.biz.id:8888/movie/gibran/gibran/1299.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://1.bp.blogspot.com/-K8aY9t6IyKg/Xd5DpUg40VI/AAAAAAAABs8/304WiFW9oKsgIfMbZBvnMwip_jXd7-s-QCNcBGAsYHQ/s1600/imdb.jpg", Rumah Kentang: The Beginning
-http://tvms.me:8080/movie/sukri/sukri/3615.mp4
+http://tvms.me:8080/movie/marisa/marisa/3615.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://static.wikia.nocookie.net/netflix/images/a/aa/What_Happened_to_Mr._Cha%3F.jpg/revision/latest?cb=20210102055625", What Happened to Mr Cha?
-http://tvms.me:8080/movie/sukri/sukri/4636.mp4
+http://tvms.me:8080/movie/marisa/marisa/4636.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://pic.subimdb.com/i/my-sassy-girl-2021.207525.jpg", My Sassy Girl
-http://tvms.me:8080/movie/sukri/sukri/6119.mp4
+http://tvms.me:8080/movie/marisa/marisa/6119.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://1.bp.blogspot.com/-siOtokmVBJM/YHqvNWECWEI/AAAAAAAALfM/-m4Nqf0m9ZkKTL60QbLoXkNemJvTMkVBwCLcBGAsYHQ/s16000/Ayat%2BDari%2BLangit.jpg", Ayat Dari Langit
-http://tvms.me:8080/movie/sukri/sukri/6133.mp4
+http://tvms.me:8080/movie/marisa/marisa/6133.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/2/1/0/3/9/721039-ghostbuser-misteri-desa-penari-0-230-0-345-crop.jpg", Ghostbuser: Misteri Desa Penari (2021)
 http://mantul.biz.id:8888/movie/gibran/gibran/12159.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFhZjdlZTMtNDBjMC00MDdlLThkNmItMTM2ZjM3NDNjNGM5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Fabricated City
-http://tvms.me:8080/movie/sukri/sukri/548.mp4
+http://tvms.me:8080/movie/marisa/marisa/548.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUyNWVlZDMtYmVjMy00Nzc2LThhYWQtZGQ1YTlmNzQ4ZDRkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UY268_CR2,0,182,268_AL_.jpg", Tersanjung the Movie [Multi-Subs] [2021]
-http://tvms.me:8080/movie/sukri/sukri/6171.mp4
+http://tvms.me:8080/movie/marisa/marisa/6171.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFhN2FjYTYtOTNmMy00ZmFkLWIyNmMtYWI3YWEzZWMwODY1XkEyXkFqcGdeQXVyOTkwMDYwOTk@._V1_UY268_CR4,0,182,268_AL_.jpg", The Yin Yang Master [Multi-Subs] [2021]
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/75724.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzlmNmNhYWQtYzc4NS00ZmI5LWE2ZjUtNzcxZjdmMjNlMzliXkEyXkFqcGdeQXVyNTI2MzI4NTU@._V1_UX182_CR0,0,182,268_AL_.jpg", The Yin-Yang Master Dream of Eternity [Multi-Subs] [2021]
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/73797.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://flxt.tmsimg.com/assets/p30276_p_v10_ab.jpg", Shaolin Soccer
-http://tvms.me:8080/movie/sukri/sukri/2956.mp4
+http://tvms.me:8080/movie/marisa/marisa/2956.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1b/Poster_film_Stop_On_You.jpg/220px-Poster_film_Stop_On_You.jpg", BerhentiDiKamu
 http://mantul.biz.id:8888/movie/gibran/gibran/10694.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJhZmI5ZWUtYjgyNy00NTk1LWIzODktYTE3NzQzNzJlOTgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Police Story (1985)
@@ -212,35 +212,35 @@ http://mantul.biz.id:8888/movie/gibran/gibran/10532.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNmNmI3ZjQtY2FhNy00YThjLWIxNDItZjUwZjY5Zjk3OTYyXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg", First Strike (1996)
 http://mantul.biz.id:8888/movie/gibran/gibran/10533.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyYWU4ZmItOWNhYi00YmJmLWFkMTItZjQwODU4ZWY5YTdkXkEyXkFqcGdeQXVyMzU0NDE5MjU@._V1_.jpg", Monkey King Reincarnation
-http://tvms.me:8080/movie/sukri/sukri/2944.mp4
+http://tvms.me:8080/movie/marisa/marisa/2944.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM5ZDk2Y2YtMWU2Yy00ZjBmLWE5ODMtNDA0YjkwMjEwOTE4XkEyXkFqcGdeQXVyMjMxMTE2MTQ@._V1_.jpg", Monster Hunters
-http://tvms.me:8080/movie/sukri/sukri/2945.mp4
+http://tvms.me:8080/movie/marisa/marisa/2945.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc4ZjA0MzktMTFlNS00N2MyLWE2NTctNDUxMTNiNWExOTVjXkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_UY1200_CR105,0,630,1200_AL_.jpg", My Beloved Bodyguard
-http://tvms.me:8080/movie/sukri/sukri/2946.mp4
+http://tvms.me:8080/movie/marisa/marisa/2946.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGIyN2NjYWUtYjExMC00MmFlLWFkYWMtMmNjZGFlMjMxZmFhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg", Maria
-http://tvms.me:8080/movie/sukri/sukri/2947.mp4
+http://tvms.me:8080/movie/marisa/marisa/2947.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Okja.png", Okja
-http://tvms.me:8080/movie/sukri/sukri/2948.mp4
+http://tvms.me:8080/movie/marisa/marisa/2948.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAyMjRjMjQtNTFmNC00NDdmLTg5YzYtZmRkNmQ3NTY1MGI5XkEyXkFqcGdeQXVyNTQyODc1OTY@._V1_.jpg", Once Upon a Time in Shanghai
-http://tvms.me:8080/movie/sukri/sukri/2949.mp4
+http://tvms.me:8080/movie/marisa/marisa/2949.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Operation_Red_Sea_poster.jpg/220px-Operation_Red_Sea_poster.jpg", Operation Red Sea
-http://tvms.me:8080/movie/sukri/sukri/2950.mp4
+http://tvms.me:8080/movie/marisa/marisa/2950.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/PeaceBraeker.jpg", Peace Breaker
-http://tvms.me:8080/movie/sukri/sukri/2951.mp4
+http://tvms.me:8080/movie/marisa/marisa/2951.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwODUyNDM3NV5BMl5BanBnXkFtZTgwNzk0MzA2NTE@._V1_.jpg", Police Story: Lockdown
-http://tvms.me:8080/movie/sukri/sukri/2952.mp4
+http://tvms.me:8080/movie/marisa/marisa/2952.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/ProjectGutenberg.jpg/220px-ProjectGutenberg.jpg", Project Gutenberg
-http://tvms.me:8080/movie/sukri/sukri/2953.mp4
+http://tvms.me:8080/movie/marisa/marisa/2953.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Rise_of_the_Legend_poster.jpg/220px-Rise_of_the_Legend_poster.jpg", Rise of the Legend
-http://tvms.me:8080/movie/sukri/sukri/2954.mp4
+http://tvms.me:8080/movie/marisa/marisa/2954.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/My_Wife_is_a_Gangster_movie_poster.jpg", My Wife Is a Gangster
-http://tvms.me:8080/movie/sukri/sukri/2529.mp4
+http://tvms.me:8080/movie/marisa/marisa/2529.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/My_Wife_is_a_Gangster_2_movie_poster.jpg/220px-My_Wife_is_a_Gangster_2_movie_poster.jpg", My Wife Is a Gangster 2
-http://tvms.me:8080/movie/sukri/sukri/2530.mp4
+http://tvms.me:8080/movie/marisa/marisa/2530.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/My_Wife_Is_a_Gangster_3.jpg", My Wife Is a Gangster 3
-http://tvms.me:8080/movie/sukri/sukri/2531.mp4
+http://tvms.me:8080/movie/marisa/marisa/2531.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://i.mydramalist.com/XgWBgf.jpg", Ne Zha 
-http://tvms.me:8080/movie/sukri/sukri/3512.mp4
+http://tvms.me:8080/movie/marisa/marisa/3512.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://asset.kompas.com/crops/yBF9IqDqKB6_hftkpjJEyfK9gKI=/53x0:1042x659/750x500/data/photo/2021/03/18/60530cade9899.png", Surga yang tak dirindukan 3
 http://mantul.biz.id:8888/movie/gibran/gibran/12253.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Two Faced Fox
@@ -248,13 +248,13 @@ https://calm-rain-70b4.buntai.workers.dev/Asean/gm21.link.Two.Faced.Fox.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Special Bodyguard 2
 https://calm-rain-70b4.buntai.workers.dev/Asean/gm21.link.Special.Bodyguard2.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Gangster The Cop The Devil
-http://tvms.me:8080/movie/sukri/sukri/522.mp4
+http://tvms.me:8080/movie/marisa/marisa/522.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Air Girl
 https://calm-rain-70b4.buntai.workers.dev/Asean/gm21.link.Air.Girl.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Space Sweeper
-http://tvms.me:8080/movie/sukri/sukri/5167.mp4
+http://tvms.me:8080/movie/marisa/marisa/5167.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Nezha Conquers the Dragon King
-http://tvms.me:8080/movie/sukri/sukri/3512.mp4
+http://tvms.me:8080/movie/marisa/marisa/3512.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Danur 3
 http://mantul.biz.id:8888/movie/gibran/gibran/1270.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Dara 2
@@ -284,44 +284,44 @@ https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Bukan.Cinta.Malaikat.201
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Gundala
 http://mantul.biz.id:8888/movie/gibran/gibran/1279.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Kafir
-http://tvms.me:8080/movie/sukri/sukri/3907.mp4
+http://tvms.me:8080/movie/marisa/marisa/3907.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lampor Keranda Terbang
 http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lukisan Ratu Kidol
 https://calm-rain-70b4.buntai.workers.dev/FILM%2520INDO/Lukisan.Ratu.Kidul.2019.WEB-DL.1080p.mkv?rootId=0AAZHmABXDp_uUk9PVA
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Perjanjian Dengan Iblis
-http://tvms.me:8080/movie/sukri/sukri/646.mp4
+http://tvms.me:8080/movie/marisa/marisa/646.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Satu Suro
-http://tvms.me:8080/movie/sukri/sukri/3851.mp4
+http://tvms.me:8080/movie/marisa/marisa/3851.mp4
 
 -= Toon =-
 
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg", Finding Dory
-http://tvms.me:8080/movie/sukri/sukri/3311.mp4
+http://tvms.me:8080/movie/marisa/marisa/3311.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg", Finding Nemo
-http://tvms.me:8080/movie/sukri/sukri/3312.mp4
+http://tvms.me:8080/movie/marisa/marisa/3312.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Rise_of_the_Guardians_poster.jpg/220px-Rise_of_the_Guardians_poster.jpg", Rise of the Guardians
-http://tvms.me:8080/movie/sukri/sukri/3024.mp4
+http://tvms.me:8080/movie/marisa/marisa/3024.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MxY2QwYTAtMDM1My00MTc0LWEwZjktMDdjODY2NWJiNDg2XkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_.jpg", One Piece: Stampede
-http://tvms.me:8080/movie/sukri/sukri/3025.mp4
+http://tvms.me:8080/movie/marisa/marisa/3025.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e9/Heroes_Rising_Promotional_Poster_2.png", My Hero Academia: Heroes Rising
-http://tvms.me:8080/movie/sukri/sukri/3026.mp4
+http://tvms.me:8080/movie/marisa/marisa/3026.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U3NTkxNjctMWEwMy00MmNiLTg0OTMtZTc3NzI1MGNmYWVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UY1200_CR110,0,630,1200_AL_.jpg", Latte & the Magic Waterstone
-http://tvms.me:8080/movie/sukri/sukri/3027.mp4
+http://tvms.me:8080/movie/marisa/marisa/3027.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg", Up
-http://tvms.me:8080/movie/sukri/sukri/3029.mp4
+http://tvms.me:8080/movie/marisa/marisa/3029.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NjE2ODM2OV5BMl5BanBnXkFtZTgwMjQyNDUzNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", UglyDolls
-http://tvms.me:8080/movie/sukri/sukri/3030.mp4
+http://tvms.me:8080/movie/marisa/marisa/3030.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://flxt.tmsimg.com/assets/p11822260_p_v13_am.jpg", The Good Dinosaur
-http://tvms.me:8080/movie/sukri/sukri/3033.mp4
+http://tvms.me:8080/movie/marisa/marisa/3033.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Charlie_and_the_Chocolate_Factory_%28film%29.png", Charlie and the Chocolate Factory
 https://calm-rain-70b4.buntai.workers.dev/movie/CharlieandtheChocolate.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.cinema.com.my/images/movies/2018/7horahoreydidi00_450.jpg", Konsert Hora Horey Wayang Didi & Friends
-http://tvms.me:8080/movie/sukri/sukri/5670.mp4
+http://tvms.me:8080/movie/marisa/marisa/5670.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg", Demon Slayer the Movie: Mugen Train
 https://calm-rain-70b4.buntai.workers.dev/movie/Mugentrain.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/netflix/images/9/96/Secret_Magic_Control_Agency.png", Secret Magic Control Agency
-http://tvms.me:8080/movie/sukri/sukri/6170.mp4
+http://tvms.me:8080/movie/marisa/marisa/6170.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Raya and the Last Dragon [2021] [SE]
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/74866.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjMTAxZmQtYWZhYS00MTFjLTgzYzktMjIyMWE2ZTk4NjZjXkEyXkFqcGdeQXVyMTAwNTk4Mjg5._V1_UX182_CR0,0,182,268_AL_.jpg", Upin & Ipin: Keris Siamang Tunggal
@@ -355,16 +355,16 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1228.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
 http://mantul.biz.id:8888/movie/gibran/gibran/1229.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
-http://tvms.me:8080/movie/sukri/sukri/3485.mp4
+http://tvms.me:8080/movie/marisa/marisa/3485.mp4
 
 -= indian =-
 
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBiYzZhMWUtNzgzNS00ZjkzLTgxZjQtMGZmYjNhYzE1ODdlXkEyXkFqcGdeQXVyNDQ3Njc5MzM@._V1_.jpg", 122
-http://tvms.me:8080/movie/sukri/sukri/3054.mp4
+http://tvms.me:8080/movie/marisa/marisa/3054.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Guna_369_film_poster.jpg", Guna 369
-http://tvms.me:8080/movie/sukri/sukri/2910.mp4
+http://tvms.me:8080/movie/marisa/marisa/2910.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Raat_Akeli_Hai_film_poster.jpg", Raat Akeli Hai
-http://tvms.me:8080/movie/sukri/sukri/2667.mp4
+http://tvms.me:8080/movie/marisa/marisa/2667.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg", Radhe
 https://calm-rain-70b4.buntai.workers.dev/movie/Radhe.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg/220px-Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg", Main Pren Ki Diwani Hoon
@@ -398,15 +398,15 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7316.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Veer-Zaara.jpg/220px-Veer-Zaara.jpg", Veer-Zaara (2004)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Ponmagal_Vandhal.jpg", Ponmagal Vandhal
-http://tvms.me:8080/movie/sukri/sukri/647.mp4
+http://tvms.me:8080/movie/marisa/marisa/647.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Vanjagar_Ulagam.jpg/220px-Vanjagar_Ulagam.jpg", Vanjagar Ulagam 
-http://tvms.me:8080/movie/sukri/sukri/2877.mp4
+http://tvms.me:8080/movie/marisa/marisa/2877.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Romeo_Akbar_Walter_poster.jpg", Romeo Akbar Walter
-http://tvms.me:8080/movie/sukri/sukri/2872.mp4
+http://tvms.me:8080/movie/marisa/marisa/2872.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://static.toiimg.com/thumb/msid-72527457,width-219,height-317,imgsize-51964/72527457.jpg", Thambi
-http://tvms.me:8080/movie/sukri/sukri/2873.mp4
+http://tvms.me:8080/movie/marisa/marisa/2873.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUxMzU4MTctNWJlZS00ZGUxLWJjMWItYWYyYmU2MDhhYTM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg", Eeswaran
-http://tvms.me:8080/movie/sukri/sukri/5680.mp4
+http://tvms.me:8080/movie/marisa/marisa/5680.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/gabbar-is-back-20150428135944-12691.jpg", Gabbar Is Back (2015)
 http://iptv.tvmalaysia.cc:80/movie/babi1/babi1/311.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Barot House
@@ -422,7 +422,7 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Aelay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Akvsak
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Akvsak.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MTM1Y2MtOTkzNS00YWQ1LTg2NzItMDAyMWI3MjM2NTU1XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY1200_CR168,0,630,1200_AL_.jpg", Andhaghaaram
-http://tvms.me:8080/movie/sukri/sukri/4028.mp4
+http://tvms.me:8080/movie/marisa/marisa/4028.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Bhoomi
 http://mantul.biz.id:8888/movie/gibran/gibran/9782.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Draupadi Unleashed
@@ -440,7 +440,7 @@ https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.London.Confidential.mp
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Maara
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.MAARA.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Master_2021_poster.jpg/220px-Master_2021_poster.jpg", Master
-http://tvms.me:8080/movie/sukri/sukri/5669.mp4
+http://tvms.me:8080/movie/marisa/marisa/5669.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", RED
 https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.RED.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Sir
@@ -463,25 +463,25 @@ http://tvms.me:8080/movie/zulfiqar/zulfiqar/3403.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://i1.wp.com/www.bulletproofaction.com/wp-content/uploads/2021/03/ww-1.jpg", Willy's Wonderland
 http://tvms.me:8080/movie/zulfiqar/zulfiqar/5258.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMzNjE4NjE2MV5BMl5BanBnXkFtZTgwOTc1NjE4NTM@._V1_.jpg", Father of the Year
-http://tvms.me:8080/movie/sukri/sukri/3896.mp4
+http://tvms.me:8080/movie/marisa/marisa/3896.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ1ZTVkMWMtNmU5Yi00YzkwLTk2OWUtY2Q1OWUzOTYyNmJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Mark of the Devil
-http://tvms.me:8080/movie/sukri/sukri/3897.mp4
+http://tvms.me:8080/movie/marisa/marisa/3897.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Jiu_Jitsu_film_poster.png", Jiu Jitsu
-http://tvms.me:8080/movie/sukri/sukri/3909.mp4
+http://tvms.me:8080/movie/marisa/marisa/3909.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_37cd35c0.jpeg", Mike and Dave Need Wedding Dates
-http://tvms.me:8080/movie/sukri/sukri/3910.mp4
+http://tvms.me:8080/movie/marisa/marisa/3910.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rogue_City.jpg/220px-Rogue_City.jpg", Rogue City
-http://tvms.me:8080/movie/sukri/sukri/3913.mp4
+http://tvms.me:8080/movie/marisa/marisa/3913.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Seventeen_%282019%29_Film_Poster.jpg", Seventeen 
-http://tvms.me:8080/movie/sukri/sukri/3914.mp4
+http://tvms.me:8080/movie/marisa/marisa/3914.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/TheBoy_2016-OfficialPoster.jpg/220px-TheBoy_2016-OfficialPoster.jpg", The Boy
-http://tvms.me:8080/movie/sukri/sukri/3915.mp4
+http://tvms.me:8080/movie/marisa/marisa/3915.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", The Nun 
-http://tvms.me:8080/movie/sukri/sukri/3917.mp4
+http://tvms.me:8080/movie/marisa/marisa/3917.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU3NGRmMmItYzc2OS00NDZiLThhZTctMmY0OTk1MjFjNTM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg", The Ruthless 
-http://tvms.me:8080/movie/sukri/sukri/3918.mp4
+http://tvms.me:8080/movie/marisa/marisa/3918.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk5ZjFiNWItMTRhMS00NWM2LWExMjItNjM1MzU2ODFmZDhkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", A Twelve-Year Night
-http://tvms.me:8080/movie/sukri/sukri/3931.mp4
+http://tvms.me:8080/movie/marisa/marisa/3931.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", The Godfather (1972)
 http://mantul.biz.id:8888/movie/gibran/gibran/4783.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/godfather/images/8/87/The_Godfather_Part_II.jpg/revision/latest/top-crop/width/360/height/450?cb=20100520182416", The Godfather: Part II (1974)
@@ -489,15 +489,15 @@ http://mantul.biz.id:8888/movie/gibran/gibran/4784.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg", The Godfather: Part III (1990)
 http://mantul.biz.id:8888/movie/gibran/gibran/4785.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p159729_p_v10_ar.jpg", Transformers
-http://tvms.me:8080/movie/sukri/sukri/4134.mp4
+http://tvms.me:8080/movie/marisa/marisa/4134.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p192847_p_v10_af.jpg", Transformers: Revenge of the Fallen
-http://tvms.me:8080/movie/sukri/sukri/4135.mp4
+http://tvms.me:8080/movie/marisa/marisa/4135.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p8176375_p_v10_aw.jpg", Transformers: Dark of the Moon
-http://tvms.me:8080/movie/sukri/sukri/4136.mp4
+http://tvms.me:8080/movie/marisa/marisa/4136.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p10024445_p_v10_aj.jpg", Transformers: Age of Extinction
-http://tvms.me:8080/movie/sukri/sukri/4137.mp4
+http://tvms.me:8080/movie/marisa/marisa/4137.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://resizing.flixster.com/E4_L4F0gBioB4edo03-Bp5fuP7M=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzQ4NTAyMjM3LWNhZWYtNDc4ZC1iMGQ4LThiYzVhZGM2YjFmZS53ZWJw", Transformers: The Last Knight
-http://tvms.me:8080/movie/sukri/sukri/4138.mp4
+http://tvms.me:8080/movie/marisa/marisa/4138.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Home Alone (1990)
 http://mantul.biz.id:8888/movie/gibran/gibran/9798.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Home_Alone_2.jpg", Home Alone 2: Lost in New York (1992)
@@ -513,9 +513,9 @@ http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/50155.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg", Mortal Kombat (2021)
 https://calm-rain-70b4.buntai.workers.dev/movie/MK21.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_UY1200_CR89,0,630,1200_AL_.jpg", RED
-http://tvms.me:8080/movie/sukri/sukri/4631.mp4
+http://tvms.me:8080/movie/marisa/marisa/4631.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_.jpg", RED 2
-http://tvms.me:8080/movie/sukri/sukri/4632.mp4
+http://tvms.me:8080/movie/marisa/marisa/4632.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg", Kingsman: The Secret Service (2014)
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/53214.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_UX182_CR0,0,182,268_AL_.jpg", Kingsman: The Golden Circle (2017)
@@ -525,7 +525,7 @@ http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/73782.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVkMWEyMDUtZTVmOC00MTYxLWE1ZTUtNjk4M2IzMjY2OTIxXkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Love and Monsters [Multi-Subs] [2020]
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/61196.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY1200_CR64,0,630,1200_AL_.jpg", Nobody
-http://tvms.me:8080/movie/sukri/sukri/6110.mp4
+http://tvms.me:8080/movie/marisa/marisa/6110.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/eK57azV2cy28NyziNhGFYwTAtNX.jpg", Thunder Force
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/76830.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwOTA4NTE4Ml5BMl5BanBnXkFtZTcwOTI2NTg1MQ@@._V1_.jpg", The Chronicles of Narnia: Prince Caspian (2008)
@@ -537,7 +537,7 @@ https://nonton.site:8443/movie/provision/pp/39010.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Locked Down [Multi-Subs] [2021]
 http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/72720.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Wrong Turn [2021]
-http://tvms.me:8080/movie/sukri/sukri/5141.mp4
+http://tvms.me:8080/movie/marisa/marisa/5141.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Transcendence (2014)
 http://mantul.biz.id:8888/movie/gibran/gibran/1204.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", 6 Underground (2019)
