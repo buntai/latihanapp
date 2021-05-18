@@ -113,31 +113,33 @@ https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png", Citra Bioskop
-http://mantul.biz.id:8888/gibran/gibran/5284
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png", Citra Dangdut
 http://mantul.biz.id:8888/gibran/gibran/301
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG", Citra Drama
-http://mantul.biz.id:8888/gibran/gibran/5285
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-entertainment-id.png", Citra entertainment
-http://mantul.biz.id:8888/gibran/gibran/10702
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-entertainment-id.png", Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png", GTV HD
-http://mantul.biz.id:8888/gibran/gibran/192
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png", GTV (B)
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-gtv_fta-mp4a_64000=2.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png", NET TV
-http://tvms.me:8080/marisa/marisa/340
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png", NET TV FHD
 https://nonton.site:8443/provision/pp/78
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png", MNC TV
-http://mantul.biz.id:8888/gibran/gibran/191
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png", MNC TV HD
 https://home-tv.web.id/kicau/pilatkau.m3u8?channel=@lokal-mnctv
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RCTI_Logo_2012_New.gif", RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png", RTV
 http://tvms.me:8080/marisa/marisa/2977
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png", RTV HD
 http://mantul.biz.id:8888/gibran/gibran/217
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV
-http://mantul.biz.id:8888/gibran/gibran/32
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV HD
 https://nonton.site:8443/provision/pp/931
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13", Trans 7
