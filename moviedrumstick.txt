@@ -156,7 +156,7 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 -= aseanmovie =-
 
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="hhttps://m.media-amazon.com/images/M/MV5BMjYwY2RlMDEtZWFiMC00ZjdjLTllZDMtYzA0NmRhODYzOWJkXkEyXkFqcGdeQXVyMTI0MDMyMTg4._V1_UY1200_CR97,0,630,1200_AL_.jpg", Monster Run
-http://tvms.me:8080/movie/zulfiqar/zulfiqar/4373.mp4
+http://tvms.me:8080/movie/marisa/marisa/4373.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
 http://tvms.me:8080/movie/marisa/marisa/885.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://miro.medium.com/max/1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg", God of Gamblers II
