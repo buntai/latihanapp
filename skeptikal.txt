@@ -218,7 +218,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", Sony PixHD
 http://mantul.biz.id:8888/gibran/gibran/6699
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg", tVN Movies HD
-http://tvms.me:8080/marisa/marisa/262
+http://hottest.fit:8080/itzik/itzik3/9595
 #EXTINF:-1 group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png",Celestial Classic 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",Celestial Movies 天映频道
@@ -272,13 +272,13 @@ https://nonton.site:8443/provision/pp/299
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj", UFC Fight
 http://mantul.biz.id:8888/gibran/gibran/2045
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 1
-http://tvms.me:8080/marisa/marisa/302
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 2
-http://tvms.me:8080/marisa/marisa/303
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 3
-http://tvms.me:8080/marisa/marisa/304
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 4
-http://tvms.me:8080/marisa/marisa/305
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 1
 http://89.216.39.29:13005
 #EXTINF:-1 group-title="Sports" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 2
@@ -479,11 +479,11 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World (Backup)
 http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.ohk-tv.com/img/logo.png", OH! K
-http://tvms.me:8080/marisa/marisa/275
+http://hottest.fit:8080/itzik/itzik3/28653
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png", K Plus
-http://tvms.me:8080/marisa/marisa/273
+http://hottest.fit:8080/itzik/itzik3/33268
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN 
-http://tvms.me:8080/marisa/marisa/350
+http://hottest.fit:8080/itzik/itzik3/9611
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png", Syfy HD UK
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/16727
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png", Star World
@@ -493,7 +493,7 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill (B)
 http://tvms.me:8080/marisa/marisa/343
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://img.favpng.com/11/2/5/warner-tv-television-channel-wb-channel-warner-bros-png-favpng-RRxix5SbNQwxyqFhPGfrmDjJN.jpg", Warner TV
-http://tvms.me:8080/marisa/marisa/398
+http://hottest.fit:8080/itzik/itzik3/33255
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
 https://nonton.site:8443/provision/pp/9
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX HD
@@ -586,18 +586,7 @@ http://mantul.biz.id:8888/gibran/gibran/11029
 http://mantul.biz.id:8888/gibran/gibran/8459
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Wu-Tang: An American Saga
 http://mantul.biz.id:8888/gibran/gibran/6573
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix -Bollywood UHD
-http://mantul.biz.id:8888/gibran/gibran/6723
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix Action 1
-http://sonyiptv.net:8080/1255/1255/27414
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix Action 2 HD
-http://sonyiptv.net:8080/1255/1255/27415
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix - Marvel  HD
-http://sonyiptv.net:8080/1255/1255/27416
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix - Sci-Fi HD
-http://sonyiptv.net:8080/1255/1255/27417
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", Netflix - Comedy
-http://sonyiptv.net:8080/1255/1255/27418
+
 
 
 
