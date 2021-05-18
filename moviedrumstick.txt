@@ -296,34 +296,40 @@ http://tvms.me:8080/movie/marisa/marisa/3851.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7124.jpg", The Legend of Hei
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/The%20Legend%20of%20Hei%20(2019).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6841.jpg", Justice Society: World War II
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20Society%20World%20War%20II%202021.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7083.jpg", Felix and the Treasure of Morgäa
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Felix%20and%20the%20Hidden%20Treasure%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg", Finding Dory
-http://tvms.me:8080/movie/marisa/marisa/3311.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Finding.Dory.2016.720p.BRRip.x264.AAC-ETRG.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg", Finding Nemo
-http://tvms.me:8080/movie/marisa/marisa/3312.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Finding.Nemo.2003.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Rise_of_the_Guardians_poster.jpg/220px-Rise_of_the_Guardians_poster.jpg", Rise of the Guardians
-http://tvms.me:8080/movie/marisa/marisa/3024.mp4
-#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MxY2QwYTAtMDM1My00MTc0LWEwZjktMDdjODY2NWJiNDg2XkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_.jpg", One Piece: Stampede
-http://tvms.me:8080/movie/marisa/marisa/3025.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/35/Rise%20of%20the%20Guardians%20(2012).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/835.jpg", One Piece Film: GOLD
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/One%20Piece%20Film.%20Gold%20(2016)%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e9/Heroes_Rising_Promotional_Poster_2.png", My Hero Academia: Heroes Rising
-http://tvms.me:8080/movie/marisa/marisa/3026.mp4
-#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U3NTkxNjctMWEwMy00MmNiLTg0OTMtZTc3NzI1MGNmYWVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UY1200_CR110,0,630,1200_AL_.jpg", Latte & the Magic Waterstone
-http://tvms.me:8080/movie/marisa/marisa/3027.mp4
-#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg", Up
-http://tvms.me:8080/movie/marisa/marisa/3029.mp4
-#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NjE2ODM2OV5BMl5BanBnXkFtZTgwMjQyNDUzNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", UglyDolls
-http://tvms.me:8080/movie/marisa/marisa/3030.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/29/My%20Hero%20Academiaheroes%20Rising%202019.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6129.jpg", Dragon Rider
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Dragon%20Rider%20(2020).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6232.jpg", Tom & Jerry
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Tom%20&%20Jerry%20(2021).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6794.jpg", Wish Dragon
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Wish%20Dragon%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://flxt.tmsimg.com/assets/p11822260_p_v13_am.jpg", The Good Dinosaur
-http://tvms.me:8080/movie/marisa/marisa/3033.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/The%20Good%20Dinosaur%20(2015)%20720p%20Brrip%20Malay%20hardsub.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Charlie_and_the_Chocolate_Factory_%28film%29.png", Charlie and the Chocolate Factory
 https://calm-rain-70b4.buntai.workers.dev/movie/CharlieandtheChocolate.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.cinema.com.my/images/movies/2018/7horahoreydidi00_450.jpg", Konsert Hora Horey Wayang Didi & Friends
-http://tvms.me:8080/movie/marisa/marisa/5670.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Konsert%20Hora%20Horey%20Didi%20&%20Friends%20[2018].mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg", Demon Slayer the Movie: Mugen Train
 https://calm-rain-70b4.buntai.workers.dev/movie/Mugentrain.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/netflix/images/9/96/Secret_Magic_Control_Agency.png", Secret Magic Control Agency
-http://tvms.me:8080/movie/marisa/marisa/6170.mp4
-#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Raya and the Last Dragon [2021] [SE]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/74866.mkv
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Secret%20Magic%20Control%20Agency%20(2021).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Raya and the Last Dragon [2021]
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/Raya%20and%20the%20Last%20Dragon%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjMTAxZmQtYWZhYS00MTFjLTgzYzktMjIyMWE2ZTk4NjZjXkEyXkFqcGdeQXVyMTAwNTk4Mjg5._V1_UX182_CR0,0,182,268_AL_.jpg", Upin & Ipin: Keris Siamang Tunggal
 http://mantul.biz.id:8888/movie/gong/gong/8476.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhOWFhMjItNDYwNC00OTQyLTgwNWItYjNkNDIxYWY0OWE3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR9,0,182,268_AL_.jpg", Geng: Pengembaraan bermula
@@ -349,13 +355,13 @@ http://mantul.biz.id:8888/movie/gibran/gibran/11934.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
 http://mantul.biz.id:8888/movie/gibran/gibran/8975.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg", Standby Me 2 Doraemon
-http://mantul.biz.id:8888/movie/gibran/gibran/12162.mkv
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Doraemon%20Stand%20By%20Me%202%20(2021)ok.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://i.ytimg.com/vi/MdIDq6o4i-Y/movieposter_en.jpg", Frozen
 http://mantul.biz.id:8888/movie/gibran/gibran/1228.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
 http://mantul.biz.id:8888/movie/gibran/gibran/1229.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
-http://tvms.me:8080/movie/marisa/marisa/3485.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016.mp4
 
 -= indian =-
 
@@ -477,25 +483,27 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 #EXTINF:-1 tvg-ID="" tvg-name="Gifted" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Gifted_poster.jpeg/220px-Gifted_poster.jpeg" group-title="EnglishMovies",Gifted
 https://calm-rain-70b4.buntai.workers.dev/movie/Gifted.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJhNzU2MjYtZWYxNy00YjQ1LWEwMDYtMTlkMjliNmQxNDA0XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg", The Heiress
-http://tvms.me:8080/movie/zulfiqar/zulfiqar/5756.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/The%20Heiress%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYzViMWYtMmJmZS00YjE0LTgwZWEtYzU2ZmMyNjdkNTUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", A Babysitter's Guide to Monster Hunting
-http://tvms.me:8080/movie/zulfiqar/zulfiqar/3403.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44-1/A%20Babysitter%20s%20Guide%20to%20Monster%20Hunting%202020.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://i1.wp.com/www.bulletproofaction.com/wp-content/uploads/2021/03/ww-1.jpg", Willy's Wonderland
-http://tvms.me:8080/movie/zulfiqar/zulfiqar/5258.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMzNjE4NjE2MV5BMl5BanBnXkFtZTgwOTc1NjE4NTM@._V1_.jpg", Father of the Year
-http://tvms.me:8080/movie/marisa/marisa/3896.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ1ZTVkMWMtNmU5Yi00YzkwLTk2OWUtY2Q1OWUzOTYyNmJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Mark of the Devil
-http://tvms.me:8080/movie/marisa/marisa/3897.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Willy%20s%20Wonderland%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7143.jpg", Wrong Place Wrong Time
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Wrong%20Place%20Wrong%20Time%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7141.jpg", Woman in the Woods
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Woman%20in%20the%20Woods%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Jiu_Jitsu_film_poster.png", Jiu Jitsu
-http://tvms.me:8080/movie/marisa/marisa/3909.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_37cd35c0.jpeg", Mike and Dave Need Wedding Dates
-http://tvms.me:8080/movie/marisa/marisa/3910.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rogue_City.jpg/220px-Rogue_City.jpg", Rogue City
-http://tvms.me:8080/movie/marisa/marisa/3913.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Seventeen_%282019%29_Film_Poster.jpg", Seventeen 
-http://tvms.me:8080/movie/marisa/marisa/3914.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/TheBoy_2016-OfficialPoster.jpg/220px-TheBoy_2016-OfficialPoster.jpg", The Boy
-http://tvms.me:8080/movie/marisa/marisa/3915.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru1/Jiu%20Jitsu%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7137.jpg", Vanquish
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Vanquish%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7136.jpg", Trigger Point
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Trigger%20Point%20(2021)%20(1).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3198.jpg", Seventh Son 
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/36/Seventh%20Son%202014.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/15/The%20Boy%202016.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy II
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/1/Brahms-%20The%20Boy%20II%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", The Nun 
 http://tvms.me:8080/movie/marisa/marisa/3917.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU3NGRmMmItYzc2OS00NDZiLThhZTctMmY0OTk1MjFjNTM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg", The Ruthless 
