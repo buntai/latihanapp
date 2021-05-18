@@ -359,98 +359,118 @@ http://tvms.me:8080/movie/marisa/marisa/3485.mp4
 
 -= indian =-
 
-#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBiYzZhMWUtNzgzNS00ZjkzLTgxZjQtMGZmYjNhYzE1ODdlXkEyXkFqcGdeQXVyNDQ3Njc5MzM@._V1_.jpg", 122
-http://tvms.me:8080/movie/marisa/marisa/3054.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6619.jpg", Mandela
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/Mandela%20(2021)ok.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1277.jpg", Drishyam [2015]
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/3/Drishyam%20(2015)%20720p%20BluRay%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7055.jpg", Sulthan
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil12/ok/Sulthan%20(2021)ok.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/22.jpg", 100
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil1/100%20HDRip%20(2019).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/54.jpg", Bahubali: The Beginning
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil1/Bahubali%20-%20The%20Beginning%20Web-DL%20(2015).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/379.jpg", K.G.F Chapter 1
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil2/K.G.F%20Chapter%201%20HD%20AVC%20(2018).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/379.jpg", Theri
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Theri%20Web-DL%20(2016).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/340.jpg", Sarkar
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Sarkar%20HDRip%20(2018).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/604.jpg", Mersal
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil3/Mersal%20HD%20AVC%20(2017).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/485.jpg", Bigil
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Bigil%20(2019)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Guna_369_film_poster.jpg", Guna 369
-http://tvms.me:8080/movie/marisa/marisa/2910.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Guna%20369%20(2019)%20.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Raat_Akeli_Hai_film_poster.jpg", Raat Akeli Hai
-http://tvms.me:8080/movie/marisa/marisa/2667.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/34/Raat%20Akeli%20Hai%202020-indo.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg", Radhe
-https://calm-rain-70b4.buntai.workers.dev/movie/Radhe.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil12/ok/Radhe%202021ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg/220px-Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg", Main Pren Ki Diwani Hoon
 https://calm-rain-70b4.buntai.workers.dev/movie/MainPremKiDiwaniHoon.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2M2E3NTEtYWMyNy00NGMyLWJjNzgtYWIyZjBiM2I2ZGRkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg", Chaavu kaburu challaga
 https://calm-rain-70b4.buntai.workers.dev/movie/Chaavu%2520Kaburu%2520Challaga.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZlNmE2YjAtM2NhOC00YTYwLWJhYzgtMTI3YjFhYTFlNDg3XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg", Halahal (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6674.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/41/HALAHAL%202020.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kick_%282014_film%29_Official_release_poster.jpg", Kick (2014)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6675.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kick.2014.BluRay.720p%20.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg", 3 Idiots (2009)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/297.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Idiots%202009.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/589.jpg", Ratsasan
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Ratsasan%20HDRip%20(2018).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Raatchasi_Poster.jpg", Raatchasi (2019)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6564.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Raatchasi%20HDRip%20(2019).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/169001-170000/169160.jpg", Darbar (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6565.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil8/Darbar%20(2019)%20HDRip.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc2ZTlmYmItMDBhYS00YmMzLWI4ZjAtMTI5YTBjOTFiMGEwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg", Soorarai Pottru (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6566.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil1/Soorarai%20Pottru%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE4M2ZlZjEtYmRjMS00YzUzLTgzZmItZjZhNjk1N2RjMTg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg", Bhoothnath (2008)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6567.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Bhoothnath%20(2008)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk1MTMyMjAxMV5BMl5BanBnXkFtZTgwMDA1Mzc0MTE@._V1_.jpg", Bhoothnath Returns (2014)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6568.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Bhoothnath%20Return%20(2014)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RlOWVmOTgtOGExMC00M2Y0LTgwNDUtOTYwZjg4N2UwZjNjXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UX182_CR0,0,182,268_AL_.jpg", Miss India (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6641.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45-1/Miss%20India%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg", Slumdog Millionaire (2008)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6642.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Slumdog%20Millionaire%20(2008)%20Bluray%20720p%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg", PK (2014)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7310.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/PK%20(2014).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Vaastu_Shastra.jpg", Vaastu Shastra (2004)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7316.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/8/Vaastu%20Shastra%20(2004).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Veer-Zaara.jpg/220px-Veer-Zaara.jpg", Veer-Zaara (2004)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil9/2/Veer-Zaara%20(2004)%20malaysub.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Ponmagal_Vandhal.jpg", Ponmagal Vandhal
-http://tvms.me:8080/movie/marisa/marisa/647.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/20/Ponmagal%20Vandhal%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Vanjagar_Ulagam.jpg/220px-Vanjagar_Ulagam.jpg", Vanjagar Ulagam 
-http://tvms.me:8080/movie/marisa/marisa/2877.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Vanjagar%20Ulagam%20HDTV%20(2018).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Romeo_Akbar_Walter_poster.jpg", Romeo Akbar Walter
-http://tvms.me:8080/movie/marisa/marisa/2872.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/ROMEO%20AKBAR%20WALTER%20(2019)-indo.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://static.toiimg.com/thumb/msid-72527457,width-219,height-317,imgsize-51964/72527457.jpg", Thambi
-http://tvms.me:8080/movie/marisa/marisa/2873.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil8/Thambi%20(2019)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUxMzU4MTctNWJlZS00ZGUxLWJjMWItYWYyYmU2MDhhYTM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg", Eeswaran
-http://tvms.me:8080/movie/marisa/marisa/5680.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil7/Eeswaran%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/gabbar-is-back-20150428135944-12691.jpg", Gabbar Is Back (2015)
-http://iptv.tvmalaysia.cc:80/movie/babi1/babi1/311.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Gabbar%20is%20Back%20(2015)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Barot House
 https://calm-rain-70b4.buntai.workers.dev/movie/Barot%2520House.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lion
-https://calm-rain-70b4.buntai.workers.dev/India/Lion.2016.720p.BRRip.1GB.MkvCage.mkv
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Lion(2016)720p%20brrip%20Hardsub.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Silence Can You Hear it
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Silence.Can.You.Hear.It.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/Silence%20Can%20You%20Hear%20It%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Teddy
-http://mantul.biz.id:8888/movie/gibran/gibran/11581.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil10/Teddy%202021ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Aelay
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Aelay.mp4
-#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Akvsak
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Akvsak.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil10/Aelay%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ak vs Ak
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil4/AK%20vs%20AK.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY2MTM1Y2MtOTkzNS00YWQ1LTg2NzItMDAyMWI3MjM2NTU1XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY1200_CR168,0,630,1200_AL_.jpg", Andhaghaaram
-http://tvms.me:8080/movie/marisa/marisa/4028.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil2/Andhaghaaram%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Bhoomi
-http://mantul.biz.id:8888/movie/gibran/gibran/9782.mp4
-#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Draupadi Unleashed
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Draupadi.Unleashed.mp4
-#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Drishyam 2
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Drishyam.2.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil5/Bhoomi%202021.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3869.jpg", Drishyam
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/Drishyam%20(2013).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5971.jpg", Drishyam 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil8/Drishyam%202%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", G Zombie
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.G.Zombie.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/G-Zombie%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Harami The Bastard
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Harami.The.Bastard.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil4/Harami%20(2020)%20(1).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", KRACK
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.KRACK.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil7/KRACK%20(2021)ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", London Confidential
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.London.Confidential.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/London%20Confidential%202020.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Maara
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.MAARA.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil5/Maara%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Master_2021_poster.jpg/220px-Master_2021_poster.jpg", Master
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil6/MASTER%20(2021)ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", RED
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.RED.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/RED%20(2021)ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Sir
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.Sir.2020.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Sir%20(2018)-hindi.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Power
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.The.Power.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil5/THE%20POWER%20(2021)%20Hindi.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg", The White Tiger
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/72737.mkv
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil6/The%20White%20Tiger%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Wife
-https://calm-rain-70b4.buntai.workers.dev/India/gm21.link.The.Wife.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wife%202021.mp4
 
 -= english =-
 
