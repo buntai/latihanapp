@@ -497,113 +497,111 @@ https://calm-rain-70b4.buntai.workers.dev/movie/MK21.mp4
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Red%20(2010)720p%20brrip%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_.jpg", RED 2
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Red%202%20(2013)720p%20bluray%20Malay%20Hardsub.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg", Kingsman: The Secret Service (2014)
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/53214.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_UX182_CR0,0,182,268_AL_.jpg", Kingsman: The Golden Circle (2017)
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/53395.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk2NDhmNDgtNzQ2ZS00YzU1LTljNjgtY2ZjM2M3OTVlNTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Finding Ohana [Multi-Subs] [2021]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/73782.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVkMWEyMDUtZTVmOC00MTYxLWE1ZTUtNjk4M2IzMjY2OTIxXkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Love and Monsters [Multi-Subs] [2020]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/61196.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY1200_CR64,0,630,1200_AL_.jpg", Nobody
-http://tvms.me:8080/movie/marisa/marisa/6110.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/eK57azV2cy28NyziNhGFYwTAtNX.jpg", Thunder Force
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/76830.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwOTA4NTE4Ml5BMl5BanBnXkFtZTcwOTI2NTg1MQ@@._V1_.jpg", The Chronicles of Narnia: Prince Caspian (2008)
-https://nonton.site:8443/movie/provision/pp/39008.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-krs4g5_e30802d9.jpeg?region=0%2C0%2C1000%2C1409", The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
-https://nonton.site:8443/movie/provision/pp/39009.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ2MDQzMzExNl5BMl5BanBnXkFtZTcwMTYzOTc5Mw@@._V1_UY1200_CR89,0,630,1200_AL_.jpg", The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
-https://nonton.site:8443/movie/provision/pp/39010.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Locked Down [Multi-Subs] [2021]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/72720.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Wrong Turn [2021]
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2239.jpg", Kingsman: The Secret Service (2014)
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/22/Kingsman%20The%20Secret%20Service%202014.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2238.jpg", Kingsman: The Golden Circle (2017)
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/22/Kingsman%20The%20Golden%20Circle%202017.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6022.jpg", Finding Ohana [2021]
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Finding%20Ohana%20(2021)ok.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4192.jpg", Love and Monsters [2020]
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44-1/Love%20and%20Monsters%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6726.jpg", Nobody
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nobody%202021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6784.jpg", Thunder Force
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Thunder%20Force%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4127.jpg", The Chronicles of Narnia: Prince Caspian (2008)
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/The%20Chronicles%20Of%20Narnia%20Prince.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4128.jpg", The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/The%20Chronicles%20Of%20Narnia%20The%20Lion.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4129.jpg", The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/The%20Chronicles%20Of%20Narnia%20The%20Voyage.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5604.jpg", Locked Down [Multi-Subs] [2021]
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru7/Locked%20Down%202021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6230.jpg", Wrong Turn [2021]
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Wrong%20Turn%20(2021).mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Transcendence (2014)
-http://mantul.biz.id:8888/movie/gibran/gibran/1204.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", 6 Underground (2019)
-http://mantul.biz.id:8888/movie/gibran/gibran/1205.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Ant-Man (2015)
-http://mantul.biz.id:8888/movie/gibran/gibran/1222.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Ant-Man and the Wasp (2018)
-http://mantul.biz.id:8888/movie/gibran/gibran/1223.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg", The Avengers (2012)
-https://nonton.site:8443/movie/provision/pp/8955.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg", Avengers: Age of Ultron (2015)
-https://nonton.site:8443/movie/provision/pp/3000.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg", Avengers: Infinity War (2018)
-https://nonton.site:8443/movie/provision/pp/3001.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg", Avengers: Endgame (2019)
-http://mantul.biz.id:8888/movie/gibran/gibran/1227.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZDg1MmMtNjJkYS00NmEzLTk0ZjAtMGUxOTIyMDVlNzM1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX182_CR0,0,182,268_AL_.jpg", Shiva baby
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Shiva.Baby.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg4ZDVkM2YtOGFhYi00ZjM5LTlhMWEtNzhjZTMxOTUwMzFlXkEyXkFqcGdeQXVyNjUzMzExOTM@._V1_UY268_CR4,0,182,268_AL_.jpg", Original Gangster
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Original.Gangster.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI4NjA3OTUtMTdiMy00OTk3LWIwYjQtNDIxNGEyMTM1NmYwXkEyXkFqcGdeQXVyMjUzMTYzMDI@._V1_UX182_CR0,0,182,268_AL_.jpg", Britt Marie Was Here
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Britt.Marie.Was.Here.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFiNDBkYTYtZWY5My00ZTZjLWJiZWEtNmRkNjY0MjRmMWFhXkEyXkFqcGdeQXVyNDAzNDkxNTU@._V1_UY268_CR3,0,182,268_AL_.jpg", The Day i Died Unclosed Case
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.thedayidead.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY2YmI0MjQtNGVjMC00MGY4LThiZmItOTk5Y2M3NWIwNDZkXkEyXkFqcGdeQXVyNDg3MDYwMTY@._V1_UY268_CR2,0,182,268_AL_.jpg", Like a House in Fire
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Like.a.House.on.Fire.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Chaos Walking
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Chaos.Walking.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The Dry
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.The.Dry.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Godzilla vs Kingkong
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/76760.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The Founder
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.The.Founder.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Console Wars
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Console.Wars.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Yesterday
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/49181.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Yes Day
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/75725.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Not A Game
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Not.A.Game.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Instant Family
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.Instant.Family.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The Furnace
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.The.Furnace.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The Resort
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.The.Resort.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Coming 2 America
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/70356.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Project Power
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/51865.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Equalizer
-http://mantul.biz.id:8888/movie/gibran/gibran/4671.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Equalizer 2
-http://mantul.biz.id:8888/movie/gibran/gibran/4672.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Enforcement
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Enforcement.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Hotel Coppelia
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Hotel.Coppelia.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", A Week Away
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/76763.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Jumbo
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Jumbo.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg", Outside The Wire
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/71470.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Violation
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Violation.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Way Down
-https://calm-rain-70b4.buntai.workers.dev/Barat/gm21.link.Way.Down.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg", Zack Snyders Justice League
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/75711.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4378.jpg", Transcendence (2014)
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Transcendence.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1566.jpg", 6 Underground (2019)
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/8/6%20Underground%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2786.jpg", Ant-Man (2015)
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/31/Antman%202015.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3262.jpg", Ant-Man and the Wasp (2018)
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Antman%20And%20The%20Wasp%202018.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/955.jpg", The Avengers (2012)
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/The%20Avengers%20(2012)720p%20Bluray%20Malay%20Hardsub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1806.jpg", Avengers: Age of Ultron (2015)
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/13/Avengers%20Age%20of%20Ultron%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1041.jpg", Avengers: Infinity War (2018)
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Avengers%20Infinity%20War%20(2018)%201080pwebdlx264_T1_C1-20.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/638.jpg", Avengers: Endgame (2019)
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Avengers%20Endgame%20(2019)720p%20Bluray%20Malay%20Hardsub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6745.jpg", Shiva baby
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Shiva%20Baby%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6730.jpg", Original Gangster
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Original%20Gangster%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6667.jpg", Britt Marie Was Here
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Britt-Marie%20Was%20Here%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6764.jpg", The Day i Died Unclosed Case
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/The%20Day%20I%20Died%20Unclosed%20Case%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6711.jpg", Like a House in Fire
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Like%20a%20House%20on%20Fire%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6670.jpg", Chaos Walking
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Chaos%20Walking%20(2021)ok.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6766.jpg", The Dry
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/The%20Dry%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6557.jpg", Godzilla vs Kingkong
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Godzilla%20vs%20Kong%2020212.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5498.jpg", The Founder
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/51/The%20Founder%20(2016).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6675.jpg", Console Wars
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Console%20Wars%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/988.jpg", Yesterday
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Yesterday.2019.720p.BluRay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6536.jpg", Yes Day
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/Yes%20Day%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6727.jpg", Not A Game
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Not%20A%20Game%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1543.jpg", Instant Family
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/7/Instant.Family.2018.720p.BRRip.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6769.jpg", The Furnace
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/The%20Furnace%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6778.jpg", The Resort
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/The%20Resort%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6415.jpg", Coming 2 America
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/Coming%202%20America%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3194.jpg", Project Power
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/36/Project%20Power%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1513.jpg", Equalizer
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45-1/The%20Equalizer%20(2014)%20BluRay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1514.jpg", Equalizer 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45-1/The%20Equalizer%202%20(2018)%20BluRay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6431.jpg", Enforcement
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/Enforcement%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6705.jpg", Hotel Coppelia
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Hotel%20Coppelia%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6659.jpg", A Week Away
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/A%20Week%20Away%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5613.jpg", Outside The Wire
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru7/Outside%20the%20Wire%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6789.jpg", Violation
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Violation%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/630.jpg", Black Hawk Down
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Black%20Hawk%20Down%20(2001)%20Bluray%20Malay%20hardsub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6388.jpg", Zack Snyders Justice League
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20League%20-%20Synder%20Cut%20(2021)3.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2MTE0NTY0MF5BMl5BanBnXkFtZTcwOTE0NzcyMQ@@._V1_.jpg", Doppleganger
 https://misty-dust.evanwinters.workers.dev/0:/public/Doppelganger.2003.720p.WEB.2CH.x264-PYPER.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Fly by Night
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5822.jpg", Fly by Night
 https://misty-dust.evanwinters.workers.dev/0:/public/Fly.by.Night.2019.1080p.NF.WEB-DL.DDP2.0.x264-AON.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Project Almanac
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p10172962_p_v13_ba.jpg", Project Almanac
 https://misty-dust.evanwinters.workers.dev/0:/public/Project.Almanac.2015.1080p.AMZN.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The King
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/The_King_poster.jpeg/220px-The_King_poster.jpeg", The King
 https://misty-dust.evanwinters.workers.dev/0:/public/The.King.2019.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The Social Dilemma
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Social_dilemma_xlg.jpg", The Social Dilemma
 https://misty-dust.evanwinters.workers.dev/0:/public/The.Social.Dilemma.2020.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", The Platform
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/netflix/images/1/13/The_Platform.jpg", The Platform
 https://misty-dust.evanwinters.workers.dev/0:/public/The.Platform.2019.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://muar2u.com/gambo/englishmovie.png", Spirited Away
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png", Spirited Away
 https://misty-dust.evanwinters.workers.dev/0:/public/Spirited.Away.2001.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
 
 
