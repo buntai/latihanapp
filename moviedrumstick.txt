@@ -1,7 +1,7 @@
 -= Melayu =-
 
-
-
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7173.jpg", Pondok Buruk 1
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/6/Pondok%20Buruk%201.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7043.jpg", Wan Peah Balik Beraya
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20Balik%20Beraya%20[2018]%20HDTV-VOD@KT.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
@@ -320,6 +320,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/239.jpg", Maharshi
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil3/Maharshi%20(2019)%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6619.jpg", Mandela
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/Mandela%20(2021)ok.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6585.jpg", Pagglait
@@ -437,6 +439,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3825.jpg", Cut Throat City
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43/Cut%20Throat%20City%202020.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Gifted" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Gifted_poster.jpeg/220px-Gifted_poster.jpeg" group-title="EnglishMovies",Gifted
 https://calm-rain-70b4.buntai.workers.dev/movie/Gifted.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJhNzU2MjYtZWYxNy00YjQ1LWEwMDYtMTlkMjliNmQxNDA0XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg", The Heiress
