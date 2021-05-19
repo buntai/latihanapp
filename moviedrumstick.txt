@@ -1,7 +1,20 @@
 -= Melayu =-
 
+
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6941.jpg", Lagenda Budak Hostel
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Lagenda%20Budak%20Hostel%20.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6993.jpg", Rock
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%202005.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6994.jpg", Rock Bro
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Bro%202016.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6995.jpg", Rock Oo! Rimba Bara is back
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Oo%202013.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7013.jpg", Sepahtu Kepok Bonda
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7173.jpg", Pondok Buruk 1
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/6/Pondok%20Buruk%201.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7174.jpg", Pondok Buruk 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/6/Pondok%20Buruk%202.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7043.jpg", Wan Peah Balik Beraya
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20Balik%20Beraya%20[2018]%20HDTV-VOD@KT.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
@@ -137,6 +150,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7110.jpg", Seobok
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Seobok%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1792.jpg", The Outlaws
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/12/The%20Outlaws%20(2017)%20malaysub.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5396.jpg", Monster Run
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru6/Monster%20Run%20(2020).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
@@ -174,7 +191,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/My%20Sassy
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7032.jpg", Terbaik Dari Langit
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Terbaik%20Dari%20Langit%20(2014)%20Hdtv%20480p.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/7/2/1/0/3/9/721039-ghostbuser-misteri-desa-penari-0-230-0-345-crop.jpg", Ghostbuser: Misteri Desa Penari (2021)
-http://mantul.biz.id:8888/movie/gibran/gibran/12159.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Ghostbuser%20Misteri%20Desa%20Penari%202021-indoDub.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2262.jpg", The Sacred Riana: Beginning
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/22/The%20Sacred%20Riana%20Beginning%20(2019).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUyNWVlZDMtYmVjMy00Nzc2LThhYWQtZGQ1YTlmNzQ4ZDRkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UY268_CR2,0,182,268_AL_.jpg", Tersanjung the Movie
@@ -320,6 +337,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6340.jpg", Thirumalai
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/Thirumalai%20(2003).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/239.jpg", Maharshi
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil3/Maharshi%20(2019)%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6619.jpg", Mandela
@@ -439,6 +458,22 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4366.jpg", Rush Hour 1
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%201%201998.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4367.jpg", Rush Hour 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202%202001.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4513.jpg", Bruce Almighty
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5201.jpg", Going in Style
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/50/Going%20In%20Style%202017.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5223.jpg", The Game Plan
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/50/The%20Game%20Plan%20(2007).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4526.jpg", Hot Tub Time Machine
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Hot%20Tub%20Time%20Machine%202010.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2166.jpg", Click
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/21/Click%20(2006).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3825.jpg", Cut Throat City
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43/Cut%20Throat%20City%202020.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Gifted" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Gifted_poster.jpeg/220px-Gifted_poster.jpeg" group-title="EnglishMovies",Gifted
