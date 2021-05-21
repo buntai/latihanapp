@@ -45,7 +45,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg",TVS
-http://mantul.biz.id:8888/gibran/gibran/1219
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra [B]
@@ -53,6 +53,8 @@ http://mantul.biz.id:8888/gibran/gibran/195
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Prima [B]
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
@@ -65,13 +67,19 @@ http://hottest.fit:8080/itzik/itzik3/9613
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [B]
 http://mantul.biz.id:8888/gibran/gibran/1105
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
-http://mantul.biz.id:8888/gibran/gibran/2555
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
-http://hottest.fit:8080/itzik/itzik3/9612
+http://mantul.biz.id:8888/gibran/gibran/2555
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD [B]
 http://hottest.fit:8080/zain/zain123/28691
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png", Dunia Sinema
-http://hottest.fit:8080/itzik/itzik3/28681
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", Tayangan Hebat
+http://tvms.me:8080/marisa/marisa/1958
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png", Vaanavil 
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1, group-title="Malaysia" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg", Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD HD 311
@@ -176,16 +184,18 @@ http://mantul.biz.id:8888/gibran/gibran/190
 http://mantul.biz.id:8888/gibran/gibran/4906
 
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO FHD
 http://mantul.biz.id:8888/gibran/gibran/1
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature FHD
 http://mantul.biz.id:8888/gibran/gibran/1019
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits 
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits [B}
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits FHD
 http://mantul.biz.id:8888/gibran/gibran/4
@@ -194,6 +204,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family FHD
 http://mantul.biz.id:8888/gibran/gibran/6
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax [B]
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax FHD
 http://mantul.biz.id:8888/gibran/gibran/89
@@ -202,7 +214,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg", Red HBO FHD
 http://mantul.biz.id:8888/gibran/gibran/11539
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
-http://hottest.fit:8080/itzik/itzik3/28676
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png", FOX ACTION
 http://hottest.fit:8080/itzik/itzik3/28670
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png", FOX FAMILY
@@ -480,16 +492,20 @@ http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-One-HD-Ch393-300x185.png", One HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-One-HD-Ch393-300x185.png", One HD [B]
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg", KBS World (Backup)
 http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.ohk-tv.com/img/logo.png", OH! K
 http://hottest.fit:8080/itzik/itzik3/28653
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.ohk-tv.com/img/logo.png", OH! K [B]
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png", K Plus
 http://hottest.fit:8080/itzik/itzik3/33268
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN 
-http://hottest.fit:8080/itzik/itzik3/9611
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN [B]
 http://tvms.me:8080/marisa/marisa/350
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png", Syfy HD UK
@@ -640,7 +656,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg?fit=900%2C675&ssl=1", Discovery Channel
 http://84.22.33.210:8000/DiscoveryCH/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png", HGTV
-http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/19
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", Fashion TV
