@@ -1,6 +1,9 @@
 -= Melayu =-
 
-
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg", Abang Long Fadil
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Abang%20Long%20Fadil%202014%20@MovieStars.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6851.jpg", Abang Long Fadil 2
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Abang%20Long%20Fadil%202%20(2017).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7221.jpg", Tiada Tajuk
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/7/Tiada%20Tajuk%202019%20PPVRip.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6941.jpg", Lagenda Budak Hostel
@@ -351,8 +354,47 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 
 -= indian =-
 
+
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2245.jpg", Main Hoon Na
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/22/Main%20Hoon%20Na%202004.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/385.jpg", Toilet - Ek Prem Katha
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Toilet%20-%20Ek%20Prem%20Katha%20HDTV%20(2017).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1711.jpg", Dulhan Hum Le Jayenge
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/11/Dulhan%20Hum%20Le%20Jayenge%202000-indon.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/484.jpg", Dangal
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Dangal%20(2016)%20HDRip.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/522.jpg", Kal Ho Naa Ho
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kal%20Ho%20Naa%20Ho%20(2003)%20HDRip.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3925.jpg", Hum Saath Saath Hain
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/Hum%20Saath%20-%20Saath%20Hain%20(1999).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/619.jpg", Happy New Year
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Happy%20New%20Year%20(2014)%20SUB.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/525.jpg", Mohabbatein
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Mohabbatein%20(2000).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3431.jpg", Bang Bang!
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/39/Bang%20Bang%202014.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/502.jpg", Kabhi Khushi Kabhie Gham
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kabhi%20Khushi%20Kabhie%20Gham%20(2001).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1084.jpg", Om Shanti Om
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Om%20Shanti%20Om%202007%20Hindi%20Brrip%20720p%20Hardsub.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/618.jpg", Dilwale
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Dilwale%20(2015)%20sub.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/617.jpg", Dilwale Dulhania Le Jayenge
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Dilwale%20Dulhania%20Le%20Jayenge%20(1995).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4036.jpg", Mujhse Dosti Karoge!
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43/Mujse%20Dosti%20Karoge.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1546.jpg", Mujhse Shaadi Karogi
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/7/Mujhse%20Shaadi%20Karogi%20(2004)-indon.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/489.jpg", Har Dil Jo Pyar Karega
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Har%20Dil%20Jo%20Pyar%20Karega%20(2000)%20HD.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/483.jpg", Bajrangi Bhaijaan
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Bajrangi%20Bhaijaan%20(2015)%20HDRip.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/620.jpg", Kuch Kuch Hota Hai
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch%20Kuch%20Hota%20Hai%20(1998)%20SUB.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2133.jpg", Rakshasi
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/20/Rakshasi%20(2017)%20Telugu.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/503.jpg", Kaho Naa... Pyaar Hai
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kaho%20Na%20Pyaar%20Hai%20(2000)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6340.jpg", Thirumalai
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/Thirumalai%20(2003).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/239.jpg", Maharshi
@@ -510,6 +552,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/8.%20Harry%20Pott
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2776.jpg", 127 Hours
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/31/127%20Hours%202010.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Operator-movie-poster-md.jpg", Operator
+https://calm-rain-70b4.buntai.workers.dev/movie/Operator.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/876.jpg", Peppermint
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Peppermint2018720pbluray%20Malayhardsub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5201.jpg", Going in Style
