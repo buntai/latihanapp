@@ -150,6 +150,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2522.jpg", Metamorphosis
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/27/Metamorphosis%202019.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7110.jpg", Seobok
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Seobok%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1792.jpg", The Outlaws
@@ -464,6 +466,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%201
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202%202001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://4.bp.blogspot.com/-KzYXSo8xluY/VheHx3A6HYI/AAAAAAAACkg/ea47rzrwXmc/s1600/1.jpg", Operator
+https://www93.uptostream.com/44u4qr5a7df/360/0/video.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4513.jpg", Bruce Almighty
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5201.jpg", Going in Style
