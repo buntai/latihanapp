@@ -76,9 +76,9 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 http://hottest.fit:8080/zain/zain123/28691
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", Tayangan Hebat
 http://tvms.me:8080/marisa/marisa/1958
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png", Vaanavil 
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png", Vaanavil 
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg", Hello
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg", Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
@@ -518,6 +518,8 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://tvms.me:8080/marisa/marisa/343
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://img.favpng.com/11/2/5/warner-tv-television-channel-wb-channel-warner-bros-png-favpng-RRxix5SbNQwxyqFhPGfrmDjJN.jpg", Warner TV
 http://hottest.fit:8080/itzik/itzik3/33255
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", Warner [B]
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
 https://nonton.site:8443/provision/pp/9
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX HD
