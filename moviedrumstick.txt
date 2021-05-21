@@ -1,6 +1,8 @@
 -= Melayu =-
 
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7221.jpg", Tiada Tajuk
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/7/Tiada%20Tajuk%202019%20PPVRip.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6941.jpg", Lagenda Budak Hostel
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Lagenda%20Budak%20Hostel%20.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6993.jpg", Rock
@@ -65,6 +67,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/KL%20Gangster%
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/2/Kanang%20Anak%20Langkau%20The%20Iban%20Warrior%202017%20WEB-DL%20720P.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6914.jpg", J Revolution
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/2/J%20Revolusi.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7236.jpg", Leftenan Adnan
+https://api1.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/8/Leftenan%20Adnan%20[2000].mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", 18 Puasa
 https://calm-rain-70b4.buntai.workers.dev/movie/18PDKP.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vr60hHWj4K8woFDtpAWk01qQQO8.jpg", 17 Puasa
@@ -270,6 +274,14 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4204.jpg", Over the Moon
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44-1/Over%20the%20Moon%20(2020).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4123.jpg", Ratatouille
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/Ratatouille%202007.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4615.jpg", Sing
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/47/Sing%20(2016).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3116.jpg", Deathstroke: Knights & Dragons - The Movie
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/35/Deathstroke%20Knights%20And%20Dragons%202020.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7124.jpg", The Legend of Hei
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/The%20Legend%20of%20Hei%20(2019).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6841.jpg", Justice Society: World War II
@@ -299,15 +311,15 @@ https://calm-rain-70b4.buntai.workers.dev/movie/CharlieandtheChocolate.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.cinema.com.my/images/movies/2018/7horahoreydidi00_450.jpg", Konsert Hora Horey Wayang Didi & Friends
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Konsert%20Hora%20Horey%20Didi%20&%20Friends%20[2018].mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg", Demon Slayer the Movie: Mugen Train
-https://calm-rain-70b4.buntai.workers.dev/movie/Mugentrain.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Kimetsu%20no%20Yaiba%20Movie%20(2020).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://static.wikia.nocookie.net/netflix/images/9/96/Secret_Magic_Control_Agency.png", Secret Magic Control Agency
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Secret%20Magic%20Control%20Agency%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg", Raya and the Last Dragon [2021]
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/Raya%20and%20the%20Last%20Dragon%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjMTAxZmQtYWZhYS00MTFjLTgzYzktMjIyMWE2ZTk4NjZjXkEyXkFqcGdeQXVyMTAwNTk4Mjg5._V1_UX182_CR0,0,182,268_AL_.jpg", Upin & Ipin: Keris Siamang Tunggal
-http://mantul.biz.id:8888/movie/gong/gong/8476.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru2/Upin%20%26%20Ipin-Keris%20Siamang%20Tunggal%202019.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhOWFhMjItNDYwNC00OTQyLTgwNWItYjNkNDIxYWY0OWE3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR9,0,182,268_AL_.jpg", Geng: Pengembaraan bermula
-http://mantul.biz.id:8888/movie/gibran/gibran/5314.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/7/Geng%20Pengembaraan%20Bermula%20[2009].mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhOWFhMjItNDYwNC00OTQyLTgwNWItYjNkNDIxYWY0OWE3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR9,0,182,268_AL_.jpg", Geng: Pengembaraan Bermula FHD
 https://misty-dust.evanwinters.workers.dev/0:/public/Geng.Pengembaraan.Bermula.2009.1080p.NF-WEB-DL.DDP2.0.x264-AON.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxOGRiNjktN2ExZC00YzFmLWEyYjQtNTY1YjEzYjNiNTI1XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_UY268_CR9,0,182,268_AL_.jpg", BoBoiBoy Movie 2
@@ -317,28 +329,30 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1323.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU1NGVkYzQtNGRhYS00YWE4LWE2MGItZjhjN2EyZDYzN2M3XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_UX182_CR0,0,182,268_AL_.jpg", Ejen Ali The Movie
 https://misty-dust.evanwinters.workers.dev/0:/public/Ejen.Ali.the.Movie.2019.1080p.NF.WEB-DL.DDP.5.1.VP9.INTERNAL-PYPER.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVkYTZlZWItZTc0ZS00MTIzLThlNjItNmNkNDA5YzIwZGZjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg", Smallfoot [Multi-Subs] [2018]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/51790.mkv
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Smallfoot%20(2018)%20720p%20Malay%20hardsub.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX182_CR0,0,182,268_AL_.jpg", Spider-Man Into The Spider-Verse [Multi-Subs] [2018]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/51791.mkv
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Spider_Man_Into_the_Spider.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg", Spies In Disguise [Multi-Subs] [2019]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/51792.mkv
+https://api1.ohflix.workers.dev/0:/ohflix342/two/Random4%20Movies%20Malay%20Sub/Spies_in_Disguise_2019_720p_BluRay.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0ZTQ1OWYtOTcyMi00OWVmLWJkNmEtY2I5OGEwYTJmM2Q1XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg", Nezha Reborn
-http://mantul.biz.id:8888/movie/gibran/gibran/12307.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg", Secret Magic Control Agency
-http://mantul.biz.id:8888/movie/gibran/gibran/11934.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Secret%20Magic%20Control%20Agency%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
 http://mantul.biz.id:8888/movie/gibran/gibran/8975.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg", Standby Me 2 Doraemon
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Doraemon%20Stand%20By%20Me%202%20(2021)ok.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://i.ytimg.com/vi/MdIDq6o4i-Y/movieposter_en.jpg", Frozen
-http://mantul.biz.id:8888/movie/gibran/gibran/1228.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/Random5%20Movies%20Malay%20Sub/Frozen.2013.BluRay.720p.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
-http://mantul.biz.id:8888/movie/gibran/gibran/1229.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/Random5%20Movies%20Malay%20Sub/Frozen.II.2019.720p.BluRay.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2133.jpg", Rakshasi
+https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/20/Rakshasi%20(2017)%20Telugu.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6340.jpg", Thirumalai
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil9/Thirumalai%20(2003).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/239.jpg", Maharshi
@@ -460,16 +474,44 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1035.jpg", Back to the Future
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Backtothefuture1985%20720p%20Malayhardsub.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1037.jpg", Back to the Future Part II
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Backtothefuturepartii1989720p%20Malayhardsub.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1036.jpg", Back to the Future Part III
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Backtothefutureiii1990720p%20Malayhardsub.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1300.jpg", Fantastic Beasts and Where to Find Them
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/Fantastic_Beasts_And_Where.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1301.jpg", Fantastic Beasts: The Crimes of Grindelwald
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/Fantastic_Beasts_The_Crimes.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4366.jpg", Rush Hour 1
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%201%201998.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4367.jpg", Rush Hour 2
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202%202001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://4.bp.blogspot.com/-KzYXSo8xluY/VheHx3A6HYI/AAAAAAAACkg/ea47rzrwXmc/s1600/1.jpg", Operator
-https://www93.uptostream.com/44u4qr5a7df/360/0/video.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1915.jpg", Harry Potter and the Philosopher's Stone
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/1.%20Harry%20Potter%20and%20the%20Sorcerer_s%20Stone%20(2001)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1916.jpg", Harry Potter and the Chamber of Secrets
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/2.%20Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(2002)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1917.jpg", Harry Potter and the Prisoner of Azkaban
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/3.%20Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(2004)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1918.jpg", Harry Potter and the Goblet of Fire
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/4.%20Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1919.jpg", Harry Potter and the Order of the Phoenix
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/5.%20Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1920.jpg", Harry Potter and the Half-Blood Prince
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/6.%20Harry%20Potter%20and%20the%20Half-Blood%20Prince%20(2009)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1921.jpg", Harry Potter and the Deathly Hallows: Part 1
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/7.%20Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20(2010)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1922.jpg", Harry Potter and the Deathly Hallows: Part 2
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/8.%20Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%20(2011)%20malaysub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4513.jpg", Bruce Almighty
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2776.jpg", 127 Hours
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/31/127%20Hours%202010.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/876.jpg", Peppermint
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Peppermint2018720pbluray%20Malayhardsub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5201.jpg", Going in Style
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/50/Going%20In%20Style%202017.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5223.jpg", The Game Plan
