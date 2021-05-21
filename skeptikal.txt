@@ -36,6 +36,8 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8 
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
+http://tvms.me:8080/marisa/marisa/366
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png", TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png",TV Ikim (1080p)
@@ -205,6 +207,12 @@ http://hottest.fit:8080/itzik/itzik3/28676
 http://hottest.fit:8080/itzik/itzik3/28670
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png", FOX FAMILY
 http://hottest.fit:8080/itzik/itzik3/28669
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES [B]
+http://tvms.me:8080/marisa/marisa/223
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png", FOX ACTION [B]
+http://tvms.me:8080/marisa/marisa/224
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png", FOX FAMILY [B]
+http://tvms.me:8080/marisa/marisa/225
 #EXTINF:-1 group-title="Movies" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/halloween-movies-1600459548.jpg", TV ONE 7 HD
 http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/flix-hd-cbml28uzorko.png", &FLix
@@ -215,6 +223,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 http://mantul.biz.id:8888/gibran/gibran/6699
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg", tVN Movies HD
 http://hottest.fit:8080/itzik/itzik3/9595
+#EXTINF:-1 group-title="Movies" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg", tVN Movies HD [B]
+http://tvms.me:8080/marisa/marisa/262
 #EXTINF:-1 group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png",Celestial Classic 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",Celestial Movies 天映频道
