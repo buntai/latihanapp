@@ -216,7 +216,7 @@ http://mantul.biz.id:8888/gibran/gibran/11539
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png", FOX ACTION
-http://hottest.fit:8080/itzik/itzik3/28670
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png", FOX FAMILY
 http://hottest.fit:8080/itzik/itzik3/28669
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", FOX MOVIES [B]
@@ -233,6 +233,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", Sony PixHD
 http://mantul.biz.id:8888/gibran/gibran/6699
+#EXTINF:-1 group-title="Movies" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png", Hits Movie
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg", tVN Movies HD
 http://hottest.fit:8080/itzik/itzik3/9595
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg", tVN Movies HD [B]
@@ -525,11 +527,11 @@ https://nonton.site:8443/provision/pp/9
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX HD
 http://tvms.me:8080/marisa/marisa/261
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif", FOX CRIME
-http://tvms.me:8080/marisa/marisa/335
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX
 http://tvms.me:8080/marisa/marisa/291
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOX LIFE
-http://tvms.me:8080/marisa/marisa/290
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", Fox Life TH
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_Movies_logo.png", Blue Ant Entertainment TH
@@ -645,6 +647,12 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png", Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://telegra.ph/file/afa7944f2ef89c711d58c.png", HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png", Crime + Investigation HD
 http://mantul.biz.id:8888/gibran/gibran/8316
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", Discovery SCI
@@ -653,12 +661,8 @@ http://mantul.biz.id:8888/gibran/gibran/5016
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Nat Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg?fit=900%2C675&ssl=1", Discovery Channel
 http://84.22.33.210:8000/DiscoveryCH/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png", HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", Fashion TV
@@ -730,60 +734,26 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 group-title="Berita" tvg-logo="https://www.bernama.com/tv/img/bernama.png",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png", Aljazeera EN
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png", CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Berita" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen (Dewan Rakyat)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 #EXTINF:-1 group-title="Berita" tvg-logo="https://cdn-static.metube.id//live/image/KfR5iWbuZJ4vPJWMHJ1O.png", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="Berita" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ihIBkRjcFXxRzI1f46o30k1-lA0=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg", Kompas TV
-https://tv.cpdev.us/Playlist/o/kompastv.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ihIBkRjcFXxRzI1f46o30k1-lA0=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg", Kompas TV (Backup)
-https://tv.cpdev.us/Playlist/r/80027.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Berita" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png", TV One
 https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Berita" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Indonesia_Stock_Exchange_%28logo%29.svg/1200px-Indonesia_Stock_Exchange_%28logo%29.svg.png", IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 group-title="Berita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logoelshinta.png/400px-Logoelshinta.png", Elshinta
-https://tv.cpdev.us/Playlist/o/elshinta.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", Channel News Asia
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Berita" tvg-logo="", Russia Today
-https://tv.cpdev.us/Playlist/o/russiatoday.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", Phoenix Info News
-https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Berita" tvg-logo="", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 group-title="Berita" tvg-logo="https://cdn-static.metube.id//live/logo/ulUpzOCTxPYHPHBUpNcj.png", Inews TV
-https://tv.cpdev.us/Playlist/o/inews.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="https://cdn-static.metube.id//live/logo/ulUpzOCTxPYHPHBUpNcj.png", Inews TV (Backup)
-https://tv.cpdev.us/Playlist/r/80033.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", CNBC Indonesia
-https://tv.cpdev.us/Playlist/o/cnbcindonesia.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", CNBC
-https://tv.cpdev.us/Playlist/o/cnbc.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", Euro News
-https://tv.cpdev.us/Playlist/o/euronewsasia.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", Bloomberg
-https://tv.cpdev.us/Playlist/o/bloomberg.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", DW English
-https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", DW English (Backup)
-https://tv.cpdev.us/Playlist/r/80039.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", Phoenix Info News
-https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", TVB News
-https://tv.cpdev.us/Playlist/o/tvbnews.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
-#EXTINF:-1 group-title="Berita" tvg-logo="", Phoenix Info News
-https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Berita" tvg-logo="", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8 
 #EXTINF:-1 group-title="Berita" tvg-logo="", CNN Indonesia (Backup)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1955868477_b384000_sleng.m3u8
-
-
-#EXTINF:-1 group-title="Berita" tvg-logo="", Aljazeera EN
-https://nonton.site:8443/provision/pp/89
 #EXTINF:-1 group-title="Berita" tvg-logo="", BBC World News HD
 https://nonton.site:8443/provision/pp/789
 #EXTINF:-1 group-title="Berita" tvg-logo="", Berita Satu News
