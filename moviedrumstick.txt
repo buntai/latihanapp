@@ -458,7 +458,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45-1/Miss%20India%
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg", Slumdog Millionaire (2008)
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Slumdog%20Millionaire%20(2008)%20Bluray%20720p%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg", PK (2014)
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/PK%20(2014).mkv
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7310.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Vaastu_Shastra.jpg", Vaastu Shastra (2004)
 https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/8/Vaastu%20Shastra%20(2004).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Veer-Zaara.jpg/220px-Veer-Zaara.jpg", Veer-Zaara (2004)
