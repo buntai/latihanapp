@@ -53,7 +53,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Remp-It%20[200
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6983.jpg", Polis Evo 2
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Polis%20Evo%202%202018%20WEBRip%20HC%20985MB%20ASPM%20SMM%20Official%E2%84%A2.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6976.jpg", Paskal
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Paskal%20The%20Movie%202018%201080p%20PPVHD.mp4
+http://tvms.me:8080/movie/lynda/lynda/1268.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6955.jpg", Mael Lambong
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Mael%20lambong%20(2012).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6975.jpg", Pada Suatu Cinta Dahulu
