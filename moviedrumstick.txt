@@ -520,6 +520,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Army_of_the_Dead_%282021_film%29.png", Army of The Dead
+https://calm-rain-70b4.buntai.workers.dev/movie/Armyofthedead.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/17again.jpg", 17 Again
+https://calm-rain-70b4.buntai.workers.dev/movie/17Again.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3N2EzNjYtMzgwYS00YjdmLThmOTUtMzc4NDUxZjZkY2RhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg", Oxygen
 https://calm-rain-70b4.buntai.workers.dev/movie/Oxygen.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1035.jpg", Back to the Future
