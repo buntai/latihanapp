@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Dhani" tvg-logo="https://e1.pngegg.com/pngimages/576/404/png-clipart-tv-channel-icons-movies-movie-mix.png", TV1
-http://tvms.me:8080/lynda/lynda/226
+https://dtacmuar.sharepoint.com/:v:/s/TheWorldoftheMarried/ETSZh1xyJPtCkzSKiSnZ4iABb-zhOE7KY6VTqK32tMVkKg?e=OC6UBH
 #EXTINF:-1 group-title="Dhani" tvg-logo="https://e1.pngegg.com/pngimages/576/404/png-clipart-tv-channel-icons-movies-movie-mix.png", TV2
 http://tvms.me:8080/lynda/lynda/227
 #EXTINF:-1 group-title="Dhani" tvg-logo="https://e1.pngegg.com/pngimages/576/404/png-clipart-tv-channel-icons-movies-movie-mix.png", TV3
