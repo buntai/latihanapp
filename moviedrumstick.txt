@@ -440,7 +440,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/41/HALAHAL%202020.
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kick_%282014_film%29_Official_release_poster.jpg", Kick (2014)
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kick.2014.BluRay.720p%20.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg", 3 Idiots (2009)
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Idiots%202009.mp4
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/297.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/589.jpg", Ratsasan
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Ratsasan%20HDRip%20(2018).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Raatchasi_Poster.jpg", Raatchasi (2019)
