@@ -169,11 +169,11 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/12/The%20Outlaws%2
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5396.jpg", Monster Run
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru6/Monster%20Run%20(2020).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
-http://tvms.me:8080/movie/lynda/lynda/885.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/GOG1.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://miro.medium.com/max/1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg", God of Gamblers II
-http://tvms.me:8080/movie/lynda/lynda/683.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/GOG2.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/GodofGamblersReturn.jpg", God of Gamblers' Return
-http://tvms.me:8080/movie/lynda/lynda/886.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/GOGR.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg/220px-God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg", God of Gamblers 3: The Early Stage
 http://tvms.me:8080/movie/marisa/marisa/887.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDZkZDMtNjM0Yi00OTk1LWE3ZjEtNTFjZTFjNzJjMzIwXkEyXkFqcGdeQXVyMTE5MTU3MjU0._V1_.jpg", God of Gamblers 2020
