@@ -1,5 +1,8 @@
 -= Melayu =-
 
+
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-1YhPy_hVMGA/YJlFnSSIuoI/AAAAAAAALns/TZc7ty7kQ_w0BaNHhUcp_42LXXhIQPAagCLcBGAsYHQ/s16000/Dekatnya%2BCinta.jpg", Dekatnya Cinta
+https://calm-rain-70b4.buntai.workers.dev/movie/DekatnyaCinta.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg", Abang Long Fadil
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Abang%20Long%20Fadil%202014%20@MovieStars.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6851.jpg", Abang Long Fadil 2
@@ -53,7 +56,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Remp-It%20[200
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6983.jpg", Polis Evo 2
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Polis%20Evo%202%202018%20WEBRip%20HC%20985MB%20ASPM%20SMM%20Official%E2%84%A2.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6976.jpg", Paskal
-http://tvms.me:8080/movie/marisa/marisa/1268.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Paskal%20The%20Movie%202018%201080p%20PPVHD.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6955.jpg", Mael Lambong
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Mael%20lambong%20(2012).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6975.jpg", Pada Suatu Cinta Dahulu
