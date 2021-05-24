@@ -160,6 +160,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Recalled_film.jpg/220px-Recalled_film.jpg", Recalled
+https://calm-rain-70b4.buntai.workers.dev/movie/Recalled.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2522.jpg", Metamorphosis
 https://calm-rain-70b4.buntai.workers.dev/movie/Metamorphosis.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7110.jpg", Seobok
@@ -233,7 +235,7 @@ http://tvms.me:8080/movie/marisa/marisa/2947.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Okja.png", Okja
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/27/Okja%20[2017].mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAyMjRjMjQtNTFmNC00NDdmLTg5YzYtZmRkNmQ3NTY1MGI5XkEyXkFqcGdeQXVyNTQyODc1OTY@._V1_.jpg", Once Upon a Time in Shanghai
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/52/Once%20Upon%20a%20Time%20in%20Shanghai%20(2014).mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Once%2520Upon%2520a%2520Time%2520in%2520Shanghai.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Operation_Red_Sea_poster.jpg/220px-Operation_Red_Sea_poster.jpg", Operation Red Sea
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Operation%20Red%20Sea%202018%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2391.jpg", Gundala
@@ -370,7 +372,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Dangal%20(20
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/522.jpg", Kal Ho Naa Ho
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kal%20Ho%20Naa%20Ho%20(2003)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3925.jpg", Hum Saath Saath Hain
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/Hum%20Saath%20-%20Saath%20Hain%20(1999).mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Hum%2520Saath%2520Saath%2520Hain.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/619.jpg", Happy New Year
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Happy%20New%20Year%20(2014)%20SUB.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/525.jpg", Mohabbatein
@@ -743,7 +745,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/The.Platform.2019.1080p.NF.
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png", Spirited Away
 https://misty-dust.evanwinters.workers.dev/0:/public/Spirited.Away.2001.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
 
+-= Pramlee =-
 
+#EXTINF:-1 group-title="Pramlee" tvg-logo="https://static.wikia.nocookie.net/netflix/images/1/13/The_Platform.jpg", Pendekar Bujang Lapok [Warna]
+https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/p%20ramlee%20warna/Pendekar%20Bujang%20Lapok%20(1959).mp4
 
 
 
