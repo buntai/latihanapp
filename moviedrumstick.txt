@@ -353,12 +353,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Doraemon%2
 #EXTINF:-1 group-title="Toons" tvg-logo="https://i.ytimg.com/vi/MdIDq6o4i-Y/movieposter_en.jpg", Frozen
 https://calm-rain-70b4.buntai.workers.dev/movie/Frozen.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
-https://api1.ohflix.workers.dev/0:/ohflix342/two/Random5%20Movies%20Malay%20Sub/Frozen.II.2019.720p.BluRay.mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Frozen%2520II.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3970.jpg", Rostum
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/Rustom%202016.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://tamilrockerss.co.in/wp-content/uploads/2019/11/Shylock-Tamil-Dubbed-TamilRockers.jpg", Shylock
 https://calm-rain-70b4.buntai.workers.dev/movie/Shylock.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/844.jpg", Big Brother
@@ -414,7 +416,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/Pagglait%
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1277.jpg", Drishyam [2015]
 https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/3/Drishyam%20(2015)%20720p%20BluRay%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7055.jpg", Sulthan
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil12/ok/Sulthan%20(2021)ok.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Sulthan.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/22.jpg", 100
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil1/100%20HDRip%20(2019).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/54.jpg", Bahubali: The Beginning
