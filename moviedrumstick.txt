@@ -532,6 +532,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 https://calm-rain-70b4.buntai.workers.dev/movie/Welcome%2520to%2520Sudden%2520Death.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Army_of_the_Dead_%282021_film%29.png", Army of The Dead
 https://calm-rain-70b4.buntai.workers.dev/movie/Armyofthedead.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://miro.medium.com/max/3016/0*5RLp-IJkJC6dLHvV.jpg", TEST NEW SERVER
+https://crewplayer.fun/ts/gAAAAABgrQ4ffMELXWYkCsPGb0U7ZJFJIjvixZfZNFABvHXlkN4ibOh0XP5TSFFB2nwU_v1QzIl_8vB7lqwSv-_Tv41pgUviwkxHIAcOXLwLmFeVNbSP7GsxhCrLddahdAI77vPcZdCyxsjGibyogJK5vNU0HPe7hpEbucbyK5aMWrEOAM1oKpw=/1080.m3u8
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/17again.jpg", 17 Again
 https://calm-rain-70b4.buntai.workers.dev/movie/17Again.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3N2EzNjYtMzgwYS00YjdmLThmOTUtMzc4NDUxZjZkY2RhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg", Oxygen
