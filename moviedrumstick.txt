@@ -351,7 +351,7 @@ http://mantul.biz.id:8888/movie/gibran/gibran/8975.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg", Standby Me 2 Doraemon
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Doraemon%20Stand%20By%20Me%202%20(2021)ok.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://i.ytimg.com/vi/MdIDq6o4i-Y/movieposter_en.jpg", Frozen
-https://api1.ohflix.workers.dev/0:/ohflix342/two/Random5%20Movies%20Malay%20Sub/Frozen.2013.BluRay.720p.mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Frozen.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
 https://api1.ohflix.workers.dev/0:/ohflix342/two/Random5%20Movies%20Malay%20Sub/Frozen.II.2019.720p.BluRay.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
@@ -359,6 +359,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://tamilrockerss.co.in/wp-content/uploads/2019/11/Shylock-Tamil-Dubbed-TamilRockers.jpg", Shylock
+https://calm-rain-70b4.buntai.workers.dev/movie/Shylock.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/844.jpg", Big Brother
 https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil9/1/Big%20Brother%20(2020)%20HDRip.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2245.jpg", Main Hoon Na
