@@ -678,7 +678,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW TV Asia
 https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg", TV ONE Discovery
-http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/3431df36-e861-4903-ba02-1f563db4f2ff/0.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/failarmy.jpg", Fail Army TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg", DMAX
