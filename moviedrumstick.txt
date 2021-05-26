@@ -170,6 +170,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Seobok%20(
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/12/The%20Outlaws%20(2017)%20malaysub.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5396.jpg", Monster Run
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru6/Monster%20Run%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png", Spirited Away
+https://misty-dust.evanwinters.workers.dev/0:/public/Spirited.Away.2001.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
 https://calm-rain-70b4.buntai.workers.dev/movie/GOG1.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://miro.medium.com/max/1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg", God of Gamblers II
@@ -758,8 +760,16 @@ https://misty-dust.evanwinters.workers.dev/0:/public/The.King.2019.1080p.NF.WEB-
 https://misty-dust.evanwinters.workers.dev/0:/public/The.Social.Dilemma.2020.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/netflix/images/1/13/The_Platform.jpg", The Platform
 https://misty-dust.evanwinters.workers.dev/0:/public/The.Platform.2019.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png", Spirited Away
-https://misty-dust.evanwinters.workers.dev/0:/public/Spirited.Away.2001.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ6", The Incredible Hulk
+https://dl.dropboxusercontent.com/s/ic4littizw9k2zm/-%20The%20Incredible%20Hulk%20%282008%29%20jf.mp4?dl=0
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ7", Iron Man
+https://dl.dropboxusercontent.com/s/wjygq8gdl6d9xb7/-%20Iron%20Man%20%282008%29%20jf.mp4?dl=0
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ8", Iron Man 2
+https://dl.dropboxusercontent.com/s/qdix7rehc2x52t2/-%20Iron%20Man%202%20%282010%29%20jf.mp4?dl=0
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ9", THOR
+https://dl.dropboxusercontent.com/s/mata5nd6kp3nklc/-%20Thor%20%282011%29%20jf.mp4?dl=0
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQa", Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
 
 -= Pramlee =-
 
