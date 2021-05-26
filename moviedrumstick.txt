@@ -530,6 +530,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", Wrath Of Man
+https://calm-rain-70b4.buntai.workers.dev/movie/WRATH%2520OF%2520MAN.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Without_Remorse_poster.jpg/220px-Without_Remorse_poster.jpg", Tom Clancy's Without Remorse
 https://calm-rain-70b4.buntai.workers.dev/movie/Tom.Clancys.Without.Remorse.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3732.jpg", Welcome to Sudden Death
