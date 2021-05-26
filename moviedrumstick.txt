@@ -177,6 +177,18 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQB", Extreme Job
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Extreme.Job.2019.720p.BluRay.x264.950MB-Tv21.biz.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQA", Exit
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/EXIT.2019.720p.HDRip.H264.AAC-Tv21.biz.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQv", Brother of the Year
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Brother.of.the.Year.2018.720p.WEBRip.x264.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQu", Mangkujiwo
+https://sagiri-chan.scoxy.workers.dev/0:/Film/Horror/Kuntilanak%20:%20Mangkujiwo%C2%A0(2020)%20Indonesian%20720p%20WEB-DL.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQt", Gang
+https://sagiri-chan.scoxy.workers.dev/0:/Film/Horror/Gang%20(2019)%20Korea.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQs", Bad Genius
+https://sagiri-chan.scoxy.workers.dev/0:/Film/--%20BOX%20OFFICE%20--/BAD%20GENIUS%20(%202017%20)/Copy%20of%20Bad.Genius.2017.720p.BluRay.x264-%5Bkitafilm%5D.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Recalled_film.jpg/220px-Recalled_film.jpg", Recalled
 https://calm-rain-70b4.buntai.workers.dev/movie/Recalled.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2522.jpg", Metamorphosis
@@ -260,7 +272,7 @@ https://calm-rain-70b4.buntai.workers.dev/movie/Once%2520Upon%2520a%2520Time%252
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Operation_Red_Sea_poster.jpg/220px-Operation_Red_Sea_poster.jpg", Operation Red Sea
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Operation%20Red%20Sea%202018%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2391.jpg", Gundala
-https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Gundala%202019.mp4
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MIX%20MOVIE/Gundala.2019.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwODUyNDM3NV5BMl5BanBnXkFtZTgwNzk0MzA2NTE@._V1_.jpg", Police Story: Lockdown
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Police%20Story%20Lockdown%20(2013).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3280.jpg", New Police Story
@@ -352,7 +364,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/7/Geng%20Pengemb
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhOWFhMjItNDYwNC00OTQyLTgwNWItYjNkNDIxYWY0OWE3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR9,0,182,268_AL_.jpg", Geng: Pengembaraan Bermula FHD
 https://misty-dust.evanwinters.workers.dev/0:/public/Geng.Pengembaraan.Bermula.2009.1080p.NF-WEB-DL.DDP2.0.x264-AON.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxOGRiNjktN2ExZC00YzFmLWEyYjQtNTY1YjEzYjNiNTI1XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_UY268_CR9,0,182,268_AL_.jpg", BoBoiBoy Movie 2
-http://mantul.biz.id:8888/movie/gibran/gibran/1322.mp4
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/BoBoiBoy.Movie.2.2019.720p.WEBRip.x264.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNkOGM3MDYtZTM4MS00ZDhlLWEwYjctYjZjMWE4MTkxMzY1XkEyXkFqcGdeQXVyNjU3NjY0NzY@._V1_UY268_CR3,0,182,268_AL_.jpg", BoBoiBoy: The Movie
 http://mantul.biz.id:8888/movie/gibran/gibran/1323.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU1NGVkYzQtNGRhYS00YWE4LWE2MGItZjhjN2EyZDYzN2M3XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_UX182_CR0,0,182,268_AL_.jpg", Ejen Ali The Movie
@@ -380,6 +392,16 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQC", Gunjan Saxena
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Gunjan.Saxena.The.Kargil.Girl.2020.720p.WEBRip.x264.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQz", De De Pyar De
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/De.De.Pyaar.De.2019.720p.WEBRip.x264.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQy", Chhichhore
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Chhichhore.2019.720p.WEBRip.x264.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQx", Chopstick
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Chopsticks.2019.720p.WEBRip.x264.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQw", Chhapaak
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Chhapaak.2020.720p.WEBRip.x264.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3970.jpg", Rostum
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/Rustom%202016.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3970.jpg", Rostum [B]
@@ -389,7 +411,7 @@ https://calm-rain-70b4.buntai.workers.dev/movie/Shylock.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Chak_De%21_India.jpg", Chak De! India
 https://calm-rain-70b4.buntai.workers.dev/movie/Chak%2520de!%2520India.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/844.jpg", Big Brother
-https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil9/1/Big%20Brother%20(2020)%20HDRip.mp4
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Big.Brother.2018.720p.BluRay.x264.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2245.jpg", Main Hoon Na
 https://calm-rain-70b4.buntai.workers.dev/movie/Main%2520Hoon%2520Na.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/385.jpg", Toilet - Ek Prem Katha
@@ -477,7 +499,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Ratsasan%20H
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Raatchasi_Poster.jpg", Raatchasi (2019)
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Raatchasi%20HDRip%20(2019).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/169001-170000/169160.jpg", Darbar (2020)
-https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil8/Darbar%20(2019)%20HDRip.mp4
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Darbar.2020.720p.WERip.x264.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc2ZTlmYmItMDBhYS00YmMzLWI4ZjAtMTI5YTBjOTFiMGEwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg", Soorarai Pottru (2020)
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil1/Soorarai%20Pottru%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE4M2ZlZjEtYmRjMS00YzUzLTgzZmItZjZhNjk1N2RjMTg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg", Bhoothnath (2008)
@@ -638,7 +660,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/36/Seventh%20Son%2
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/15/The%20Boy%202016.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy II
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/1/Brahms-%20The%20Boy%20II%20(2020).mp4
+https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Brahms.The.Boy.II.2020.720p.BluRay.x264.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", The Nun 
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/The%20Nun(2018)720p%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", The Godfather (1972)
