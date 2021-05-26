@@ -70,6 +70,10 @@ http://mantul.biz.id:8888/gibran/gibran/1105
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
 http://mantul.biz.id:8888/gibran/gibran/2555
+#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png", Aura
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png", Aura [B]
+http://mantul.biz.id:8888/gibran/gibran/5010
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD [B]
