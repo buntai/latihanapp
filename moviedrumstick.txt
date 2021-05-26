@@ -170,7 +170,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Seobok%20(
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/12/The%20Outlaws%20(2017)%20malaysub.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5396.jpg", Monster Run
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru6/Monster%20Run%20(2020).mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png", Spirited Away
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png", Spirited Away
 https://misty-dust.evanwinters.workers.dev/0:/public/Spirited.Away.2001.1080p.NF.WEB-DL.AAC.5.1.VP9.INTERNAL-AON.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5MTZiOTctYWNmNy00M2E2LTliM2QtM2JmNmFiYWVkMDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg", God of Gamblers
 https://calm-rain-70b4.buntai.workers.dev/movie/GOG1.mp4
