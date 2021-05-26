@@ -198,9 +198,9 @@ https://calm-rain-70b4.buntai.workers.dev/movie/GOG2.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/GodofGamblersReturn.jpg", God of Gamblers' Return
 https://calm-rain-70b4.buntai.workers.dev/movie/GOGR.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg/220px-God_of_Gamblers_3-_The_Early_Stage_DVD_cover.jpg", God of Gamblers 3: The Early Stage
-http://tvms.me:8080/movie/marisa/marisa/887.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/God%2520of%2520Gamblers%25203.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDZkZDMtNjM0Yi00OTk1LWE3ZjEtNTFjZTFjNzJjMzIwXkEyXkFqcGdeQXVyMTE5MTU3MjU0._V1_.jpg", God of Gamblers 2020
-http://tvms.me:8080/movie/marisa/marisa/888.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/God%2520of%2520Gamblers%25202020.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Take_Point.jpg/220px-Take_Point.jpg", Take Point
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Take%20Point.2019.1080p.BDRip.X264.AC3.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://bevsgirlfilms.files.wordpress.com/2020/10/the-paper-tigers.jpg", The Paper Tiger
