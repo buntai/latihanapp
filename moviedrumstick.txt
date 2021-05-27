@@ -191,7 +191,7 @@ https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQB", Extreme Job
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Extreme_Job_2019_KOREAN_720p.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQA", Exit
-https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/EXIT.2019.720p.HDRip.H264.AAC-Tv21.biz.mkv
+https://nonton.site:8443/movie/rachman/rachman123/35784.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQv", Brother of the Year
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Brother%20Of%20The%20Year%20(2018)720p%20Malay%20Hardsub.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQu", Mangkujiwo
@@ -262,10 +262,6 @@ http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/73797.mkv
 http://tvms.me:8080/movie/marisa/marisa/2956.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1b/Poster_film_Stop_On_You.jpg/220px-Poster_film_Stop_On_You.jpg", BerhentiDiKamu
 http://mantul.biz.id:8888/movie/gibran/gibran/10694.mkv
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJhZmI5ZWUtYjgyNy00NTk1LWIzODktYTE3NzQzNzJlOTgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Police Story (1985)
-http://mantul.biz.id:8888/movie/gibran/gibran/10246.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZjOTYwMjAtOWQ5YS00MjVhLTlkMmEtMjUyYTczYTk1YjkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR74,0,630,1200_AL_.jpg", Police Story 2 (1988)
-http://mantul.biz.id:8888/movie/gibran/gibran/10532.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNmNmI3ZjQtY2FhNy00YThjLWIxNDItZjUwZjY5Zjk3OTYyXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg", First Strike (1996)
 http://mantul.biz.id:8888/movie/gibran/gibran/10533.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyYWU4ZmItOWNhYi00YmJmLWFkMTItZjQwODU4ZWY5YTdkXkEyXkFqcGdeQXVyMzU0NDE5MjU@._V1_.jpg", Monkey King Reincarnation
@@ -582,6 +578,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil6/The%20White
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Wife
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wife%202021.mp4
 
+
 -= english =-
 
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", Wrath Of Man
@@ -830,6 +827,10 @@ http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp
 http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQS", Swordfish (2001)
 http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ-", Grown Ups - 2010
+https://nonton.site:8443/movie/rachman/rachman123/9232.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQZ", Grown Ups 2 - 2013
+https://nonton.site:8443/movie/rachman/rachman123/9233.mp4
 
 -= Pramlee =-
 
