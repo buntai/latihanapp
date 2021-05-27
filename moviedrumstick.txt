@@ -178,6 +178,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 -= aseanmovie =-
 
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oR6", Unbending Fang Shiyu
+https://calm-rain-70b4.buntai.workers.dev/movie/Unbending%2520Fang%2520Shiyu.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQT", Tunnel (Teo-neol)
 https://www.googleapis.com/drive/v3/files/1Wzl1VJnrncB0BZad_377awDcZj6DX8oG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQU", Dorm (2006)
