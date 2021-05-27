@@ -177,18 +177,29 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQT", Tunnel (Teo-neol)
+https://www.googleapis.com/drive/v3/files/1Wzl1VJnrncB0BZad_377awDcZj6DX8oG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQU", Dorm (2006)
+https://www.googleapis.com/drive/v3/files/1L6HtY85Xt0lbPm6RqUsX8CoNadMdlQc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQV", Countdown (2012)
+https://www.googleapis.com/drive/v3/files/1RAqWtug7WmtmrfzwvohJG9_n9iXk1CCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQW", Best of Times (2009)
+https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQX", Yo Wes Ben 2 (2019)
+https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQB", Extreme Job
-https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Extreme.Job.2019.720p.BluRay.x264.950MB-Tv21.biz.mkv
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Extreme_Job_2019_KOREAN_720p.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQA", Exit
 https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/EXIT.2019.720p.HDRip.H264.AAC-Tv21.biz.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQv", Brother of the Year
-https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Brother.of.the.Year.2018.720p.WEBRip.x264.mkv
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Brother%20Of%20The%20Year%20(2018)720p%20Malay%20Hardsub.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQu", Mangkujiwo
 https://sagiri-chan.scoxy.workers.dev/0:/Film/Horror/Kuntilanak%20:%20Mangkujiwo%C2%A0(2020)%20Indonesian%20720p%20WEB-DL.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQt", Gang
 https://sagiri-chan.scoxy.workers.dev/0:/Film/Horror/Gang%20(2019)%20Korea.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQs", Bad Genius
-https://sagiri-chan.scoxy.workers.dev/0:/Film/--%20BOX%20OFFICE%20--/BAD%20GENIUS%20(%202017%20)/Copy%20of%20Bad.Genius.2017.720p.BluRay.x264-%5Bkitafilm%5D.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/10/Bad%20Genius%20(2017).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Recalled_film.jpg/220px-Recalled_film.jpg", Recalled
 https://calm-rain-70b4.buntai.workers.dev/movie/Recalled.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2522.jpg", Metamorphosis
@@ -393,15 +404,15 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 -= indian =-
 
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQC", Gunjan Saxena
-https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Gunjan.Saxena.The.Kargil.Girl.2020.720p.WEBRip.x264.mp4
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Extreme_Job_2019_KOREAN_720p.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQz", De De Pyar De
 https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/De.De.Pyaar.De.2019.720p.WEBRip.x264.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQy", Chhichhore
 https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Chhichhore.2019.720p.WEBRip.x264.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQx", Chopstick
-https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Chopsticks.2019.720p.WEBRip.x264.mp4
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil4/Chopsticks.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQw", Chhapaak
-https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Chhapaak.2020.720p.WEBRip.x264.mkv
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/37/Chhapaak%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3970.jpg", Rostum
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/Rustom%202016.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3970.jpg", Rostum [B]
@@ -807,10 +818,18 @@ https://dl.dropboxusercontent.com/s/ic4littizw9k2zm/-%20The%20Incredible%20Hulk%
 https://dl.dropboxusercontent.com/s/wjygq8gdl6d9xb7/-%20Iron%20Man%20%282008%29%20jf.mp4?dl=0
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ8", Iron Man 2
 https://dl.dropboxusercontent.com/s/qdix7rehc2x52t2/-%20Iron%20Man%202%20%282010%29%20jf.mp4?dl=0
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQY", Iron Man 3 (2013)
+http://www.deadlyblogger.com/NewRelease/ironman3.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ9", THOR
 https://dl.dropboxusercontent.com/s/mata5nd6kp3nklc/-%20Thor%20%282011%29%20jf.mp4?dl=0
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQa", Doctor Strange (2016)
 http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQQ", Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQR", The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQS", Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
 
 -= Pramlee =-
 
