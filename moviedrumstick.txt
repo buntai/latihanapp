@@ -613,6 +613,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%201
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202%202001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Things_Heard_and_Seen_poster.jpeg", Heard and Seen
+https://www.ohflix.com/files/g5dkg1ff4x/3-4/NewVersion2/baru13/Things%20Heard%20And%20Seen%202021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1915.jpg", Harry Potter and the Philosopher's Stone
 https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/1.%20Harry%20Potter%20and%20the%20Sorcerer_s%20Stone%20(2001)%20malaysub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1916.jpg", Harry Potter and the Chamber of Secrets
