@@ -19,7 +19,7 @@ https://calm-rain-70b4.buntai.workers.dev/movie/DekatnyaCinta.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQj", XX Ray III
 https://misty-dust.evanwinters.workers.dev/0:/public/XX.Ray.III.2019.720p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg", Abang Long Fadil
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Abang%20Long%20Fadil%202014%20@MovieStars.mp4
+https://www.ohflix.com/files/g5dkg1ff4x/3-2/KoleksiMalay/1/Abang%20Long%20Fadil%202014%20@MovieStars.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6851.jpg", Abang Long Fadil 2
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Abang%20Long%20Fadil%202%20(2017).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7221.jpg", Tiada Tajuk
@@ -583,8 +583,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", The Unholy
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Unholy.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", Wrath Of Man
 https://calm-rain-70b4.buntai.workers.dev/movie/WRATH%2520OF%2520MAN.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Things_Heard_and_Seen_poster.jpeg", Heard and Seen
+https://www.ohflix.com/files/g5dkg1ff4x/3-4/NewVersion2/baru13/Things%20Heard%20And%20Seen%202021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Without_Remorse_poster.jpg/220px-Without_Remorse_poster.jpg", Tom Clancy's Without Remorse
 https://calm-rain-70b4.buntai.workers.dev/movie/Tom.Clancys.Without.Remorse.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3732.jpg", Welcome to Sudden Death
@@ -613,8 +617,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%201
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202%202001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Things_Heard_and_Seen_poster.jpeg", Heard and Seen
-https://www.ohflix.com/files/g5dkg1ff4x/3-4/NewVersion2/baru13/Things%20Heard%20And%20Seen%202021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1915.jpg", Harry Potter and the Philosopher's Stone
 https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/1.%20Harry%20Potter%20and%20the%20Sorcerer_s%20Stone%20(2001)%20malaysub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1916.jpg", Harry Potter and the Chamber of Secrets
