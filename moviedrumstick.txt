@@ -16,7 +16,7 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Pulang.2018.1080p.NF.WEB-DL
 https://misty-dust.evanwinters.workers.dev/0:/public/Tiada.Esok.Bagimu.1980.1080p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-1YhPy_hVMGA/YJlFnSSIuoI/AAAAAAAALns/TZc7ty7kQ_w0BaNHhUcp_42LXXhIQPAagCLcBGAsYHQ/s16000/Dekatnya%2BCinta.jpg", Dekatnya Cinta
 https://calm-rain-70b4.buntai.workers.dev/movie/DekatnyaCinta.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQj", XX Ray III
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIxNTAxZGUtYWNjYS00N2UyLTlhODAtNzQ3YzA3OTZkNDEyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", XX Ray III
 https://misty-dust.evanwinters.workers.dev/0:/public/XX.Ray.III.2019.720p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg", Abang Long Fadil
 https://www.ohflix.com/files/g5dkg1ff4x/3-2/KoleksiMalay/1/Abang%20Long%20Fadil%202014%20@MovieStars.mp4
@@ -177,7 +177,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
-
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/The_Box_2021_film.jpg/220px-The_Box_2021_film.jpg", The Box
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Box.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oR6", Unbending Fang Shiyu
 https://calm-rain-70b4.buntai.workers.dev/movie/Unbending%2520Fang%2520Shiyu.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQT", Tunnel (Teo-neol)
@@ -583,6 +584,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg", Ready Player One
+https://calm-rain-70b4.buntai.workers.dev/movie/Ready%2520Player%2520One.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/uBonbeQzXcSNGPdyXVNVRap9sFS.jpg", Nail Bomber: Manhunt
+https://calm-rain-70b4.buntai.workers.dev/movie/nailbombermanhunt.mp4.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", The Unholy
 https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Unholy.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", Wrath Of Man
