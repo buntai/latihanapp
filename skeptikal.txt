@@ -284,9 +284,11 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B]
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6707
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B2]
-http://hottest.fit:8080/zain/zain123/9616
+http://mantul.biz.id:8888/oke/oke/4985
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B3]
+https://nonton.site:8443/rachman/rachman123/37422
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
-http://hottest.fit:8080/zain/zain123/56307
+https://nonton.site:8443/rachman/rachman123/37421
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png", BeinSports Extra
 https://nonton.site:8443/provision/pp/38735
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS MAX MY
