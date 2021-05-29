@@ -18,11 +18,9 @@ http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/3639
 
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
+#EXTINF:-1 group-title="Malaysia" tvg-id="1101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png",RTM TV 1 (1080p)
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2
+#EXTINF:-1 group-title="Malaysia" tvg-id="1102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY 
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
