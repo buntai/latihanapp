@@ -42,6 +42,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/6/Pondok%20Buruk
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20Balik%20Beraya%20[2018]%20HDTV-VOD@KT.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
 https://calm-rain-70b4.buntai.workers.dev/movie/Syirik.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.utusanborneo.com.my/sites/default/files/images/article/20210524/p12grtr3poster-kpmr.jpg", Kampong Pisang Muzikal Raya
+https://calm-rain-70b4.buntai.workers.dev/movie/KamPisMuzRa.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/s1600/Korban%2BPenunggu%2BHospital.jpg", Korban Penunggu Hospital
 https://calm-rain-70b4.buntai.workers.dev/movie/Korban%2520Penunggu%2520Hospital.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-9dOKaafT6vM/W_s353NvMAI/AAAAAAAAHL4/oT2RqRNGcRQna9ZHWgv89St50Fyt4UaRACLcBGAs/s1600/30%2BHari%2BMembunuh%2BCinta.jpg", 30 Hari Membunuh Cinta
@@ -177,6 +179,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+
+
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/5eLNJYehI3VwIe5S7Yz3uxVWVOa.jpg", Ghost Lab
+https://calm-rain-70b4.buntai.workers.dev/movie/GhostLab.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/The_Box_2021_film.jpg/220px-The_Box_2021_film.jpg", The Box
 https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Box.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oR6", Unbending Fang Shiyu
@@ -402,6 +408,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://image.tmdb.org/t/p/w185/dCM95fp1xEaPIXZar6WEuovznNL.jpg", Kala
+https://calm-rain-70b4.buntai.workers.dev/movie/Kala.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQC", Gunjan Saxena
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Extreme_Job_2019_KOREAN_720p.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQz", De De Pyar De
@@ -584,6 +592,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Welcome_Home_2018_poster.jpg/220px-Welcome_Home_2018_poster.jpg", Welcome Home
+https://calm-rain-70b4.buntai.workers.dev/movie/Welcome%2520Home.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg", Ready Player One
 https://calm-rain-70b4.buntai.workers.dev/movie/Ready%2520Player%2520One.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/uBonbeQzXcSNGPdyXVNVRap9sFS.jpg", Nail Bomber: Manhunt
