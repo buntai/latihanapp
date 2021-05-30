@@ -82,7 +82,7 @@ http://mantul.biz.id:8888/eko2/eko2/5010
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 #EXTINF:-1 group-title="Malaysia" tvg-id="251" tvg-chno="251" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD [B]
 http://hottest.fit:8080/zain/zain123/28691
-#EXTINF:-1 group-title="Malaysia" tvg-id="115" tvg-chno="115" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", Tayangan Hebat
+#EXTINF:-1 group-title="Malaysia" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema
 http://geostream.me:8080/lasse6/lasse6/28681
 #EXTINF:-1 group-title="Malaysia" tvg-id="201" tvg-chno="201" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png", Vaanavil 
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
@@ -455,24 +455,44 @@ http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 http://tvms.me:8080/lynda/lynda/253
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png", CARTOON NETWORK
 http://tvms.me:8080/lynda/lynda/257
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png", CARTOON NETWORK[B]
+http://geostream.me:8080/lasse6/lasse6/28689
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", NICKELODEON
 http://tvms.me:8080/lynda/lynda/254
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", NICKELODEON [B]
+http://geostream.me:8080/lasse6/lasse6/28655
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BABY FIRST
+http://geostream.me:8080/lasse6/lasse6/28695
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BABY TV
 http://tvms.me:8080/lynda/lynda/258
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR
 http://tvms.me:8080/lynda/lynda/255
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR [B]
+http://geostream.me:8080/lasse6/lasse6/28684
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL
 http://tvms.me:8080/lynda/lynda/367
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL [B]
+http://geostream.me:8080/lasse6/lasse6/28685
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png", DISNEY XD
 http://tvms.me:8080/lynda/lynda/256
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png", DISNEY XD [B]
+http://geostream.me:8080/lasse6/lasse6/28683
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 http://tvms.me:8080/lynda/lynda/406
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG [B]
+http://geostream.me:8080/lasse6/lasse6/28690
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png", NICK JR
 http://tvms.me:8080/lynda/lynda/407
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png", NICK JR [B]
+http://geostream.me:8080/lasse6/lasse6/28656
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png", ANIMAX
 http://tvms.me:8080/lynda/lynda/351
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png", ANIMAX [B]
+http://geostream.me:8080/lasse6/lasse6/28706
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
 http://tvms.me:8080/lynda/lynda/408
+#EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS [B]
+http://geostream.me:8080/lasse6/lasse6/28708
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Ceria Delay
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 group-title="Anak dan Anime" tvg-logo="https://www.babyfirsttv.com/wp-content/uploads/2019/08/babyfirst_logo_2019_BabyFirst-Vertical-1.png", Baby First
