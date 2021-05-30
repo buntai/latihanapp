@@ -592,6 +592,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/eZGTHXup6fB5gjQgak7SLJfo01p.jpg", Cruella
+https://calm-rain-70b4.buntai.workers.dev/movie/Cruella.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Welcome_Home_2018_poster.jpg/220px-Welcome_Home_2018_poster.jpg", Welcome Home
 https://calm-rain-70b4.buntai.workers.dev/movie/Welcome%2520Home.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg", Ready Player One
