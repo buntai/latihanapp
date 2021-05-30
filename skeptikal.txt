@@ -192,32 +192,12 @@ http://mantul.biz.id:8888/eko2/eko2/190
 http://mantul.biz.id:8888/eko2/eko2/4906
 
 ==============================================================
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 1
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 2
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 3
-http://121.12.115.15/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 4
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 5
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 6
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 7
-http://dl.zhoujie218.top/dl/youku.php?id=8022366
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 8
-http://dl.zhoujie218.top/dl/youku.php?id=8020331
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 9
-http://dl.zhoujie218.top/dl/youku.php?id=8031710
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 10
-http://dl.zhoujie218.top/dl/youku.php?id=8031574
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 11
-http://dl.zhoujie218.top/dl/youku.php?id=8020409
-#EXTINF:-1 group-title="apFlix Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 12
-http://dl.zhoujie218.top/dl/youku.php?id=8035190
-==============================================================
 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO FHD
