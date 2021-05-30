@@ -44,6 +44,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20B
 https://calm-rain-70b4.buntai.workers.dev/movie/Syirik.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.utusanborneo.com.my/sites/default/files/images/article/20210524/p12grtr3poster-kpmr.jpg", Kampong Pisang Muzikal Raya
 https://calm-rain-70b4.buntai.workers.dev/movie/KamPisMuzRa.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.utusanborneo.com.my/sites/default/files/images/article/20210524/p12grtr3poster-kpmr.jpg", Kampong Pisang Muzikal Raya 360P
+https://ohflix.site/stream/360/SNVQwyZmPmnVeAD/gdrive
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/s1600/Korban%2BPenunggu%2BHospital.jpg", Korban Penunggu Hospital
 https://calm-rain-70b4.buntai.workers.dev/movie/Korban%2520Penunggu%2520Hospital.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-9dOKaafT6vM/W_s353NvMAI/AAAAAAAAHL4/oT2RqRNGcRQna9ZHWgv89St50Fyt4UaRACLcBGAs/s1600/30%2BHari%2BMembunuh%2BCinta.jpg", 30 Hari Membunuh Cinta
@@ -398,13 +400,13 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Secret%20M
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
 http://mantul.biz.id:8888/movie/gibran/gibran/8975.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg", Standby Me 2 Doraemon
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Doraemon%20Stand%20By%20Me%202%20(2021)ok.mp4
+http://103.222.20.150/ftpdata/Movies/animation/2021/Stand%20by%20Me%20Doraemon%202%20%282020%29/Stand%20by%20Me%20Doraemon%202%20%282020%29.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://i.ytimg.com/vi/MdIDq6o4i-Y/movieposter_en.jpg", Frozen
 https://calm-rain-70b4.buntai.workers.dev/movie/Frozen.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
 https://calm-rain-70b4.buntai.workers.dev/movie/Frozen%2520II.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
-https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/25/Zootopia%202016.mp4
+http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Zootopia%202016.mkv
 
 -= indian =-
 
@@ -541,7 +543,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Vanjagar%20U
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Romeo_Akbar_Walter_poster.jpg", Romeo Akbar Walter
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43-1/ROMEO%20AKBAR%20WALTER%20(2019)-indo.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://static.toiimg.com/thumb/msid-72527457,width-219,height-317,imgsize-51964/72527457.jpg", Thambi
-https://api1.ohflix.workers.dev/0:/ohflix342/two/Tamil-Hindi/Tamil8/Thambi%20(2019)%20HDRip.mkv
+http://103.222.20.150/ftpdata/Movies/Tamil/South%20Indian%20Movies%20%282019%29/Thambi%20%282019%29/THAMBI%20%282020%29%20Tamil%C2%A0%28Org%20Vers%29%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20%28AAC%202.0%20-%20288Kbps%29%C2%A0-%202.6GB.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUxMzU4MTctNWJlZS00ZGUxLWJjMWItYWYyYmU2MDhhYTM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg", Eeswaran
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil7/Eeswaran%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/gabbar-is-back-20150428135944-12691.jpg", Gabbar Is Back (2015)
@@ -667,7 +669,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Hot%20Tub%20Tim
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2166.jpg", Click
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/21/Click%20(2006).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3825.jpg", Cut Throat City
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/43/Cut%20Throat%20City%202020.mp4
+http://103.222.20.150/ftpdata/Movies/Hollywood/2020/Cut%20Throat%20City%20%282020%29/Cut.Throat.City.2020.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Gifted" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Gifted_poster.jpeg/220px-Gifted_poster.jpeg" group-title="EnglishMovies",Gifted
 https://calm-rain-70b4.buntai.workers.dev/movie/Gifted.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJhNzU2MjYtZWYxNy00YjQ1LWEwMDYtMTlkMjliNmQxNDA0XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg", The Heiress
