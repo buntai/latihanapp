@@ -673,7 +673,7 @@ https://calm-rain-70b4.buntai.workers.dev/movie/Gifted.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJhNzU2MjYtZWYxNy00YjQ1LWEwMDYtMTlkMjliNmQxNDA0XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg", The Heiress
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/The%20Heiress%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYzViMWYtMmJmZS00YjE0LTgwZWEtYzU2ZmMyNjdkNTUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", A Babysitter's Guide to Monster Hunting
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44-1/A%20Babysitter%20s%20Guide%20to%20Monster%20Hunting%202020.mp4
+http://s27.bitdl.ir/Movies/A.Babysitters.Guide.To.Monster.Hunting.2020/A.Babysitters.Guide.To.Monster.Hunting.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://i1.wp.com/www.bulletproofaction.com/wp-content/uploads/2021/03/ww-1.jpg", Willy's Wonderland
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Willy%20s%20Wonderland%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7143.jpg", Wrong Place Wrong Time
