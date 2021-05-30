@@ -309,15 +309,15 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/Nezha_Birth_of_the_Demon.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://asset.kompas.com/crops/yBF9IqDqKB6_hftkpjJEyfK9gKI=/53x0:1042x659/750x500/data/photo/2021/03/18/60530cade9899.png", Surga yang tak dirindukan 3
 http://mantul.biz.id:8888/movie/gibran/gibran/12253.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Two Faced Fox
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM0Yzk0N2MtY2U2YS00ODdlLTg2ZTctYjhkOThjODdlOTZkXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg", Two Faced Fox
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Two%20Faced%20Fox%202020.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Special Bodyguard 2
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w116_and_h174_face/q2pykzAIkvTHOE6YRuWgJRjvZss.jpg", Special Bodyguard 2
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Special%20Bodyguard%202%202020.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", The Gangster The Cop The Devil
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/79Xg1goTSBCc95EOVt61elsXhaI.jpg", The Gangster The Cop The Devil
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/The_Gangster_The_Cop_The.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Space Sweeper
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p9YDHJKvUoi7v2SCd3vLGPae1Xp.jpg", Space Sweeper
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Space%20Sweepers%20(2021).mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Nezha Conquers the Dragon King
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hNf8rQoICiK0ujDhnBWStrXbsc1.jpg", Nezha Conquers the Dragon King
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nezha%20Conquers%20the%20Dragon%20King%20(2019).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rqTxkcoq31q3mRJMV1iXexTanIE.jpg", Danur
 https://tutu.yuhuu.workers.dev/Indonesia/Danur%2520(2017)/Danur.2017.WEB-DL.720p.mp4
@@ -329,12 +329,10 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1270.mp4
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Ada%20Apa%20Dengan%20Cinta%20[2002]%20DVDrip-HD@KT.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/AADC_2_poster.jpg", Ada Apa Dengan Cinta 2
 https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%25202%2520(2016)/Ada.Apa.Dengan.Cinta.2.(2016)%2520.720p.WEB-DL.UNCENSORED.mkv.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Gundala
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rBjJIKnJCmpp7HHmmwME1kGyfWf.jpg", Gundala
 https://tutu.yuhuu.workers.dev/Indonesia/Gundala%2520(2019)/Gundala.2019.WEB-DL.720p.FMZM.mkv
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lampor Keranda Terbang
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3v22y85Wv0N84fzFvNZxyBrZKYG.jpg", Lampor Keranda Terbang
 http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Test
-https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%2520(2002)/ada.apa.dengan.Cinta.MildMovie.com.avi
 
 
 -= Toon =-
