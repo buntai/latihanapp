@@ -19,13 +19,13 @@ https://calm-rain-70b4.buntai.workers.dev/movie/DekatnyaCinta.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIxNTAxZGUtYWNjYS00N2UyLTlhODAtNzQ3YzA3OTZkNDEyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", XX Ray III
 https://misty-dust.evanwinters.workers.dev/0:/public/XX.Ray.III.2019.720p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg", Abang Long Fadil
-https://www.ohflix.com/files/g5dkg1ff4x/3-2/KoleksiMalay/1/Abang%20Long%20Fadil%202014%20@MovieStars.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/AbangLongFadil.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6851.jpg", Abang Long Fadil 2
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Abang%20Long%20Fadil%202%20(2017).mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Abang.Long.Fadil.2.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7221.jpg", Tiada Tajuk
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/7/Tiada%20Tajuk%202019%20PPVRip.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/TiadaTajuk.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6941.jpg", Lagenda Budak Hostel
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Lagenda%20Budak%20Hostel%20.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/LagendaBudakHostel.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6993.jpg", Rock
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%202005.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6994.jpg", Rock Bro
@@ -44,8 +44,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20B
 https://calm-rain-70b4.buntai.workers.dev/movie/Syirik.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.utusanborneo.com.my/sites/default/files/images/article/20210524/p12grtr3poster-kpmr.jpg", Kampong Pisang Muzikal Raya
 https://calm-rain-70b4.buntai.workers.dev/movie/KamPisMuzRa.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.utusanborneo.com.my/sites/default/files/images/article/20210524/p12grtr3poster-kpmr.jpg", Kampong Pisang Muzikal Raya 360P
-https://ohflix.site/stream/360/SNVQwyZmPmnVeAD/gdrive
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/s1600/Korban%2BPenunggu%2BHospital.jpg", Korban Penunggu Hospital
 https://calm-rain-70b4.buntai.workers.dev/movie/Korban%2520Penunggu%2520Hospital.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-9dOKaafT6vM/W_s353NvMAI/AAAAAAAAHL4/oT2RqRNGcRQna9ZHWgv89St50Fyt4UaRACLcBGAs/s1600/30%2BHari%2BMembunuh%2BCinta.jpg", 30 Hari Membunuh Cinta
@@ -77,7 +75,7 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Polis.Evo.2.2018.1080p.NF.W
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Polis_Evo.jpg/220px-Polis_Evo.jpg", Polis Evo
 https://misty-dust.evanwinters.workers.dev/0:/public/Polis.Evo.2015.1080p.NF.WEB-DL.DDP5.1.x264-AON.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6976.jpg", Paskal
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Paskal%20The%20Movie%202018%201080p%20PPVHD.mp4
+https://misty-dust.evanwinters.workers.dev/0:/public/Paskal.2018.1080p.NF.WEB-DL.DDP5.1.x264-AON.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6955.jpg", Mael Lambong
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Mael%20lambong%20(2012).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6975.jpg", Pada Suatu Cinta Dahulu
@@ -324,7 +322,7 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1270.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Ada%20Apa%20Dengan%20Cinta%20[2002]%20DVDrip-HD@KT.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta 2
-http://mantul.biz.id:8888/movie/gibran/gibran/11371.mp4
+https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%25202%2520(2016)/Ada.Apa.Dengan.Cinta.2.(2016)%2520.720p.WEB-DL.UNCENSORED.mkv.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Gundala
 http://mantul.biz.id:8888/movie/gibran/gibran/1279.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lampor Keranda Terbang
@@ -606,6 +604,8 @@ https://calm-rain-70b4.buntai.workers.dev/movie/Constantine.mp4
 https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Unholy.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", Wrath Of Man
 https://calm-rain-70b4.buntai.workers.dev/movie/WRATH%2520OF%2520MAN.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1618876896-wrath-of.jpg", Wrath Of Man SD
+https://ohflix.site/stream/360/SNVQwyZmPmnVeAD/gdrive
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Things_Heard_and_Seen_poster.jpeg", Heard and Seen
 https://www.ohflix.com/files/g5dkg1ff4x/3-4/NewVersion2/baru13/Things%20Heard%20And%20Seen%202021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Without_Remorse_poster.jpg/220px-Without_Remorse_poster.jpg", Tom Clancy's Without Remorse
