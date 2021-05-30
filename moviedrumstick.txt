@@ -179,8 +179,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
-
-
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg", The Raid - Redemption
+https://tutu.yuhuu.workers.dev/Indonesia/The%2520Raid%2520-%2520Redemption%2520(2012)/The.Raid.Redemption.2011.720p.BluRay.x264-www.300mbunited.me--scOrp.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/olA39iaXISiKEkACdELgr0ZRvIF.jpg", The Raid 2 - Berandal
+https://tutu.yuhuu.workers.dev/Indonesia/The%2520Raid%25202%2520-%2520Berandal%2520(2014)/The.Raid.2.2014.All.BluRayRIP.and.Ganool.For.Non-Indo.Part.erickjiwono.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/5eLNJYehI3VwIe5S7Yz3uxVWVOa.jpg", Ghost Lab
 https://calm-rain-70b4.buntai.workers.dev/movie/GhostLab.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/The_Box_2021_film.jpg/220px-The_Box_2021_film.jpg", The Box
@@ -317,16 +319,22 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Space%20Sweepers%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Nezha Conquers the Dragon King
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nezha%20Conquers%20the%20Dragon%20King%20(2019).mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Danur 3
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rqTxkcoq31q3mRJMV1iXexTanIE.jpg", Danur
+https://tutu.yuhuu.workers.dev/Indonesia/Danur%2520(2017)/Danur.2017.WEB-DL.720p.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vSPOypl1SdtkzXzByNSR9RTK9yq.jpg", Danur 2
+https://tutu.yuhuu.workers.dev/Indonesia/Danur%25202%2520-%2520Maddah%2520(2018)/Danur.2.Maddah.2018.720p.WEB-DL.FMZM.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fNmBS1j1sL512fttvw8d1WSg4E3.jpg", Danur 3
 http://mantul.biz.id:8888/movie/gibran/gibran/1270.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vhl4FQTkUnlGCCCjyNyQFYYgVGE.jpg", Ada Apa Dengan Cinta
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/1/Ada%20Apa%20Dengan%20Cinta%20[2002]%20DVDrip-HD@KT.mp4
-#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Ada Apa Dengan Cinta 2
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/AADC_2_poster.jpg", Ada Apa Dengan Cinta 2
 https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%25202%2520(2016)/Ada.Apa.Dengan.Cinta.2.(2016)%2520.720p.WEB-DL.UNCENSORED.mkv.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Gundala
-http://mantul.biz.id:8888/movie/gibran/gibran/1279.mp4
+https://tutu.yuhuu.workers.dev/Indonesia/Gundala%2520(2019)/Gundala.2019.WEB-DL.720p.FMZM.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lampor Keranda Terbang
 http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Test
+https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%2520(2002)/ada.apa.dengan.Cinta.MildMovie.com.avi
 
 
 -= Toon =-
