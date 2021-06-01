@@ -55,7 +55,7 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra [B]
 http://mantul.biz.id:8888/eko2/eko2/195
 #EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Citra [TEST]
-http://geostream.me:8080/lasse6/lasse6/50888
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 #EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-chno="108" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", BOX OFFICE [TEST]
 http://geostream.me:8080/lasse6/lasse6/50889
 #EXTINF:-1 group-title="Malaysia" tvg-id="106" tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
@@ -659,10 +659,6 @@ http://mantul.biz.id:8888/eko2/eko2/8408
 http://mantul.biz.id:8888/eko2/eko2/8246
 #EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Vampirina Collection
 http://mantul.biz.id:8888/eko2/eko2/11029
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Warkop DKI
-http://mantul.biz.id:8888/eko2/eko2/8459
-#EXTINF:-1 group-title="24/7" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Wu-Tang: An American Saga
-http://mantul.biz.id:8888/eko2/eko2/6573
 
 
 
@@ -704,6 +700,8 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png", Crime + Investigation HD
 http://mantul.biz.id:8888/eko2/eko2/8316
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Nat Geo [B]
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", Discovery SCI
 http://mantul.biz.id:8888/eko2/eko2/5016
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fishing_tv_kr.png", Fishing TV
