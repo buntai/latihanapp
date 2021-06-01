@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oTv", Tanah Kubur Peneman
+https://calm-rain-70b4.buntai.workers.dev/movie/Tanah.Kubur.Peneman.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQo", Roh
 https://misty-dust.evanwinters.workers.dev/0:/public/Roh.2019.1080p.MUBI.WEB-DL.AAC.2.0.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQn", Senario Lang Buana
@@ -179,6 +181,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wFJujmOPJTMuH4zZ9HJT3feYKYx.jpg", The Con-Heartist
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Con-Heartist.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg", The Raid - Redemption
 https://tutu.yuhuu.workers.dev/Indonesia/The%2520Raid%2520-%2520Redemption%2520(2012)/The.Raid.Redemption.2011.720p.BluRay.x264-www.300mbunited.me--scOrp.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/olA39iaXISiKEkACdELgr0ZRvIF.jpg", The Raid 2 - Berandal
@@ -414,6 +418,10 @@ http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Z
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oTr", Karnan
+https://calm-rain-70b4.buntai.workers.dev/movie/Karnan.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oTp", Check
+https://calm-rain-70b4.buntai.workers.dev/movie/CHECK.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://image.tmdb.org/t/p/w185/dCM95fp1xEaPIXZar6WEuovznNL.jpg", Kala
 https://calm-rain-70b4.buntai.workers.dev/movie/Kala.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oQC", Gunjan Saxena
@@ -469,7 +477,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/7/Mujhse%20Shaadi%20
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/489.jpg", Har Dil Jo Pyar Karega
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Har%20Dil%20Jo%20Pyar%20Karega%20(2000)%20HD.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/483.jpg", Bajrangi Bhaijaan
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Bajrangi%20Bhaijaan%20(2015)%20HDRip.mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Bajrangi%2520Bhaijan.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/620.jpg", Kuch Kuch Hota Hai
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Kuch%20Kuch%20Hota%20Hai%20(1998)%20SUB.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2133.jpg", Rakshasi
@@ -598,6 +606,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7yxdEkfTIBtKF7JbGMq7Hp6KCKf.jpg", The Water Man
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Water%2520Man.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oTo", Bo Burnham Inside
+https://calm-rain-70b4.buntai.workers.dev/movie/boburnhaminside.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oTq", Baggio The Devine Ponytail
+https://calm-rain-70b4.buntai.workers.dev/movie/Baggio%2520The%2520Devine%2520Ponytail.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rugsj14joeOgy08WpHr3AvjCYSv.jpg", 616 Wilford Lane
+https://calm-rain-70b4.buntai.workers.dev/movie/616wilfordlane.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/eZGTHXup6fB5gjQgak7SLJfo01p.jpg", Cruella
 https://calm-rain-70b4.buntai.workers.dev/movie/Cruella.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Welcome_Home_2018_poster.jpg/220px-Welcome_Home_2018_poster.jpg", Welcome Home
