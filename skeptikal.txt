@@ -54,6 +54,10 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra [B]
 http://mantul.biz.id:8888/eko2/eko2/195
+#EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Citra [TEST]
+http://geostream.me:8080/lasse6/lasse6/50888
+#EXTINF:-1 group-title="Malaysia" tvg-id="108" tvg-chno="108" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", BOX OFFICE [TEST]
+http://geostream.me:8080/lasse6/lasse6/50889
 #EXTINF:-1 group-title="Malaysia" tvg-id="106" tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="105" tvg-chno="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Prima
