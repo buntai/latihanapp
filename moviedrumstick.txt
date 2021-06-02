@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg", J Revolusi
+https://calm-rain-70b4.buntai.workers.dev/movie/J.Revolution.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oTv", Tanah Kubur Peneman
 https://calm-rain-70b4.buntai.workers.dev/movie/Tanah.Kubur.Peneman.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQo", Roh
@@ -37,7 +39,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Oo%2020
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7013.jpg", Sepahtu Kepok Bonda
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7173.jpg", Pondok Buruk 1
-https://calm-rain-70b4.buntai.workers.dev/movie/Pondok%2520Buruk.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/PondokBuruk1.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7174.jpg", Pondok Buruk 2
 https://calm-rain-70b4.buntai.workers.dev/movie/Pondok%2520Buruk%25202.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7043.jpg", Wan Peah Balik Beraya
@@ -341,6 +343,8 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://image.tmdb.org/t/p/w185/wRX1MWRsgaylNspU24csq1Nipaa.jpg", Yakari
+https://calm-rain-70b4.buntai.workers.dev/movie/Yakari.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://image.tmdb.org/t/p/w185/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO.jpg", The Mitchells vs. The Machines
 https://calm-rain-70b4.buntai.workers.dev/movie/themitchellvsthemachine.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4204.jpg", Over the Moon
@@ -418,6 +422,8 @@ http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Z
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://img.hindilinks4u.to/2018/10/Meow-2016-206x300.jpg", Meow
+https://calm-rain-70b4.buntai.workers.dev/movie/Meow.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oTr", Karnan
 https://calm-rain-70b4.buntai.workers.dev/movie/Karnan.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oTp", Check
@@ -499,7 +505,9 @@ https://calm-rain-70b4.buntai.workers.dev/movie/Sulthan.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/22.jpg", 100
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil1/100%20HDRip%20(2019).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/54.jpg", Bahubali: The Beginning
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil1/Bahubali%20-%20The%20Beginning%20Web-DL%20(2015).mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Baahubali%2520The%2520Beginning.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://img.etimg.com/thumb/msid-58237253,width-640,resizemode-4,imgsize-106584/the-truth-unfolds.jpg", Bahubali: The Conclusion
+https://calm-rain-70b4.buntai.workers.dev/movie/Baahubali%25202%2520The%2520Conclusion.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/176.jpg", K.G.F Chapter 1
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil2/K.G.F%20Chapter%201%20HD%20AVC%20(2018).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/379.jpg", Theri
@@ -606,6 +614,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://img.yts.mx/assets/images/movies/potters_ground_2021/medium-cover.jpg", Potter's Ground
+https://calm-rain-70b4.buntai.workers.dev/movie/Potter%2527s%2520Ground.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7yxdEkfTIBtKF7JbGMq7Hp6KCKf.jpg", The Water Man
 https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Water%2520Man.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oTo", Bo Burnham Inside
