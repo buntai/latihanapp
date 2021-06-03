@@ -196,7 +196,39 @@ http://mantul.biz.id:8888/eko2/eko2/190
 http://mantul.biz.id:8888/eko2/eko2/4906
 
 ==============================================================
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg", CH-5
+http://geostream.me:8080/lasse6/lasse6/9604
+#EXTINF:-1,VIP SG: CH-8
+http://geostream.me:8080/lasse6/lasse6/9603
+#EXTINF:-1,VIP SG: CH-U
+http://geostream.me:8080/lasse6/lasse6/9602
+#EXTINF:-1,VIP SG: CHANNEL NEWS ASIA
+http://geostream.me:8080/lasse6/lasse6/9601
+#EXTINF:-1,VIP SG: Eleven Sport HD
+http://geostream.me:8080/lasse6/lasse6/5106
+#EXTINF:-1,VIP SG: Fox Sports FHD
+http://geostream.me:8080/lasse6/lasse6/30038
+#EXTINF:-1,VIP SG: FOX SPORTS 1 HD
+http://geostream.me:8080/lasse6/lasse6/7652
+#EXTINF:-1,VIP SG: FOX SPORTS 2
+http://geostream.me:8080/lasse6/lasse6/7653
+#EXTINF:-1,VIP SG: FOX SPORTS 3
+http://geostream.me:8080/lasse6/lasse6/7654
+#EXTINF:-1,VIP SG: HBO ASIA
+http://geostream.me:8080/lasse6/lasse6/9596
+#EXTINF:-1,VIP SG: MIAO MI
+http://geostream.me:8080/lasse6/lasse6/9600
+#EXTINF:-1,VIP SG: OKTO
+http://geostream.me:8080/lasse6/lasse6/9599
+#EXTINF:-1,VIP SG: SURIA
+http://geostream.me:8080/lasse6/lasse6/9598
+#EXTINF:-1,VIP SG: TVN HD
+http://geostream.me:8080/lasse6/lasse6/9611
+#EXTINF:-1,VIP SG: VASANTHAM
+http://geostream.me:8080/lasse6/lasse6/9597
 
+
+=============================================================
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
