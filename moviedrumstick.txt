@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://i.imgur.com/Tpb8AOD.png", Rompak Raya
+https://calm-rain-70b4.buntai.workers.dev/movie/RompakRaya.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg", J Revolusi
 https://calm-rain-70b4.buntai.workers.dev/movie/J.Revolution.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oTv", Tanah Kubur Peneman
@@ -392,7 +394,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/35/Deathstroke%20K
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7124.jpg", The Legend of Hei
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/The%20Legend%20of%20Hei%20(2019).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6841.jpg", Justice Society: World War II
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20Society%20World%20War%20II%202021.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Justice%2520Society-%2520World%2520War%2520II.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7083.jpg", Felix and the Treasure of Morgäa
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Felix%20and%20the%20Hidden%20Treasure%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg", Finding Dory
@@ -614,6 +616,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/2RxmOqqO78O5QE2QqMFO1gG1O5N.jpg", Spiral:From The Book of SAW
+https://calm-rain-70b4.buntai.workers.dev/movie/Spiral.From.The.Book.Of.Saw.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://img.yts.mx/assets/images/movies/potters_ground_2021/medium-cover.jpg", Potter's Ground
 https://calm-rain-70b4.buntai.workers.dev/movie/Potter%2527s%2520Ground.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7yxdEkfTIBtKF7JbGMq7Hp6KCKf.jpg", The Water Man
