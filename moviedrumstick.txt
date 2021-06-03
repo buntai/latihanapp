@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="http://1.bp.blogspot.com/-nKTVb3ntetg/Uz_uxbGX-5I/AAAAAAAAANw/fzGg4KGAguE/s1600/Kata+Samseng+Full+Movie+.png", Kata Samseng
+https://calm-rain-70b4.buntai.workers.dev/movie/Kata.Samseng.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://i.imgur.com/Tpb8AOD.png", Rompak Raya
 https://calm-rain-70b4.buntai.workers.dev/movie/RompakRaya.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg", J Revolusi
@@ -459,7 +461,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Toilet%20-%2
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1711.jpg", Dulhan Hum Le Jayenge
 https://calm-rain-70b4.buntai.workers.dev/movie/Dulhan%2520Hum%2520Le%2520Jayenge.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/484.jpg", Dangal
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Dangal%20(2016)%20HDRip.mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Dangal.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/522.jpg", Kal Ho Naa Ho
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kal%20Ho%20Naa%20Ho%20(2003)%20HDRip.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3925.jpg", Hum Saath Saath Hain
