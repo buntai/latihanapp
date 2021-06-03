@@ -208,17 +208,17 @@ https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQX", Yo Wes Ben 2 (2019)
 https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQB", Extreme Job
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Extreme_Job_2019_KOREAN_720p.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Extreme%2520Job.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQA", Exit
-https://nonton.site:8443/movie/rachman/rachman123/35784.mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/EXIT.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQv", Brother of the Year
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Brother%20Of%20The%20Year%20(2018)720p%20Malay%20Hardsub.mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Brother.of.the.Year.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQu", Mangkujiwo
 https://sagiri-chan.scoxy.workers.dev/0:/Film/Horror/Kuntilanak%20:%20Mangkujiwo%C2%A0(2020)%20Indonesian%20720p%20WEB-DL.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQt", Gang
 https://sagiri-chan.scoxy.workers.dev/0:/Film/Horror/Gang%20(2019)%20Korea.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://tny.im/oQs", Bad Genius
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/10/Bad%20Genius%20(2017).mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Bad.Genius.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Recalled_film.jpg/220px-Recalled_film.jpg", Recalled
 https://calm-rain-70b4.buntai.workers.dev/movie/Recalled.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2522.jpg", Metamorphosis
