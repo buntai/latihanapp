@@ -187,6 +187,18 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Fight_Back_to_School_DVD_cover.jpg/190px-Fight_Back_to_School_DVD_cover.jpg", Fight Back to School
+https://calm-rain-70b4.buntai.workers.dev/movie/SCM/Fight%2520back%2520to%2520school%25201.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://d3rwyinxzcqr6y.cloudfront.net/Assets/31/594/L_p0038159431.jpg", Fight Back to School 2
+https://calm-rain-70b4.buntai.workers.dev/movie/SCM/Fight%2520Back%2520to%2520School%2520II.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Fight_Back_to_School_3_DVD_cover.jpg", Fight Back to School 3
+https://calm-rain-70b4.buntai.workers.dev/movie/SCM/Fight%2520Back%2520To%2520School%25203.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDcxODcyYzctMTQzOC00MjkxLTg2YTktOTI2MTFlM2E2MDRjXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_.jpg", Hail to the Judge
+https://calm-rain-70b4.buntai.workers.dev/movie/SCM/hail%2520the%2520judge.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/GodOfCookery.jpg", The God of Cookery
+https://calm-rain-70b4.buntai.workers.dev/movie/SCM/The%2520God%2520of%2520Cookery.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TrickyBrains.jpg/220px-TrickyBrains.jpg", Tricky Brain
+https://calm-rain-70b4.buntai.workers.dev/movie/SCM/Tricky%2520Brains.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wFJujmOPJTMuH4zZ9HJT3feYKYx.jpg", The Con-Heartist
 https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Con-Heartist.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg", The Raid - Redemption
@@ -467,11 +479,11 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kal%20Ho%20N
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3925.jpg", Hum Saath Saath Hain
 https://calm-rain-70b4.buntai.workers.dev/movie/Hum%2520Saath%2520Saath%2520Hain.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/619.jpg", Happy New Year
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/TamilsBolly/Happy%20New%20Year%20(2014)%20SUB.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Happy%2520New%2520Year.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/525.jpg", Mohabbatein
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Mohabbatein%20(2000).mkv
+https://calm-rain-70b4.buntai.workers.dev/movie/Mohabbatein.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3431.jpg", Bang Bang!
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/39/Bang%20Bang%202014.mp4
+https://calm-rain-70b4.buntai.workers.dev/movie/Bang%2520Bang.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/502.jpg", Kabhi Khushi Kabhie Gham
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kabhi%20Khushi%20Kabhie%20Gham%20(2001).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1084.jpg", Om Shanti Om
