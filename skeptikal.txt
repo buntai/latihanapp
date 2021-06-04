@@ -495,20 +495,7 @@ http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23452
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23451
 #EXTINF:-1 group-title="Sports🏆",Astro Supersports 4 MY
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/33973
-#EXTINF:-1 group-title="Sports🏆",AL KASS 1 HD
-http://aumaletv.com:25461/jawad/jawad1/48892
-#EXTINF:-1 group-title="Sports🏆",AL KASS 2 HD
-http://aumaletv.com:25461/jawad/jawad1/48893
-#EXTINF:-1 group-title="Sports🏆",AL KASS 3 HD
-http://aumaletv.com:25461/jawad/jawad1/48894
-#EXTINF:-1 group-title="Sports🏆",AL KASS 4 HD
-http://aumaletv.com:25461/jawad/jawad1/48895
-#EXTINF:-1 group-title="Sports🏆",AL KASS 5 HD
-http://aumaletv.com:25461/jawad/jawad1/48896
-#EXTINF:-1 group-title="Sports🏆",AL KASS Online HD
-http://aumaletv.com:25461/jawad/jawad1/48897
-#EXTINF:-1 group-title="Sports🏆",ARENA TEST
-http://ip.xtremetv.eu:8000/DgcrwTmJ9X/rrW722qh1i/49647
+
 
 
 ====================================================
@@ -854,7 +841,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 #EXTINF:-1 group-title="Berita📰" tvg-logo="https://cdn-static.metube.id//live/image/KfR5iWbuZJ4vPJWMHJ1O.png", Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png", Fox Sports News
+#EXTINF:-1 group-title="Berita📰" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="Berita📰" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_big1.png", TV One
 https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
