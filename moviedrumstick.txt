@@ -442,6 +442,10 @@ http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Z
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Dil_Kya_Kare.png/220px-Dil_Kya_Kare.png", Dil Kya Kare
+https://calm-rain-70b4.buntai.workers.dev/movie/Dil%2520Kya%2520Kare.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Dhadkan_poster.jpg/220px-Dhadkan_poster.jpg", Dhadkan
+https://calm-rain-70b4.buntai.workers.dev/movie/Dhadkan.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2rJYiH0rGugxuTY8hffJLuCuF01.jpg", Raazi
 https://calm-rain-70b4.buntai.workers.dev/movie/Raazi.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://bestoftheyear.in/wp-content/uploads/2017/05/paheli.jpg", Paheli
@@ -638,6 +642,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="shorturl.at/cjsF6", Xtreme [MalayDub]
+https://calm-rain-70b4.buntai.workers.dev/movie/XtremeMalayDub.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pJcYCZF90VaFNOxMxuBCSWvc9Ca.jpg", Idiocracy
+https://calm-rain-70b4.buntai.workers.dev/movie/Idiocracy.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/The_Conjuring_-_The_Devil_Made_Me_Do_It.png", The Conjuring [2021]
 https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Conjuring%2520The%2520Devil%2520Made%2520Me%2520Do%2520It.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/mQ8vALvqA0z0qglG3gI6xpVcslo.jpg", Benny Loves You
