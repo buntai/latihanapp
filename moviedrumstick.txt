@@ -191,6 +191,14 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fCRe2bn9BaKzaHXunknZ53BOfpS.jpg", The One [2017]
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520One2017.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uraW1Xn1uMH7TG9yfaV7kIJnkYC.jpg", Gatao
+https://calm-rain-70b4.buntai.workers.dev/movie/GATAO.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/omb6P8eaFH6PzLlX1ii1pV9wFUd.jpg", Gatao 2
+https://calm-rain-70b4.buntai.workers.dev/movie/Gatao%25202.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w116_and_h174_face/sUAAIH5BrR31aBDfzSjWI5Lorqd.jpg", Gatao The Last Stray
+https://calm-rain-70b4.buntai.workers.dev/movie/GataoTheLastStray.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Fight_Back_to_School_DVD_cover.jpg/190px-Fight_Back_to_School_DVD_cover.jpg", Fight Back to School
 https://calm-rain-70b4.buntai.workers.dev/movie/SCM/Fight%2520back%2520to%2520school%25201.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://d3rwyinxzcqr6y.cloudfront.net/Assets/31/594/L_p0038159431.jpg", Fight Back to School 2
@@ -442,6 +450,9 @@ http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Z
 
 -= indian =-
 
+
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Befikre_poster.jpg", Befikre
+https://calm-rain-70b4.buntai.workers.dev/movie/Befikre.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Dil_Kya_Kare.png/220px-Dil_Kya_Kare.png", Dil Kya Kare
 https://calm-rain-70b4.buntai.workers.dev/movie/Dil%2520Kya%2520Kare.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Dhadkan_poster.jpg/220px-Dhadkan_poster.jpg", Dhadkan
