@@ -345,6 +345,12 @@ https://nonton.site:8443/provision/pp/38735
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/27937
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS HD MY
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/27938
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 1 FHD
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/75533
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 2 FHD
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/75534
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 3 FHD
+http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/75535
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 1
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 2
@@ -365,6 +371,10 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://89.216.39.29:13005
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 2
 http://89.216.39.29:13009
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png",Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png",Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ad_sports.jpg", Abu Dhabi Sports 1 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ad_sports.jpg", Abu Dhabi Sports 2 
@@ -404,11 +414,11 @@ http://rv.flysat.live:80/307201145224/307201145224/163921
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD7 HD
 http://rv.flysat.live:80/307201145224/307201145224/163920
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg", BT Sport 1 [B]
-http://iptv.tvmalaysia.cc:80/titi3/titi3/6610
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 1
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/1991
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 2
-http://iptv.tvmalaysia.cc:80/titi3/titi3/6611
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 2 [B]
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/1992
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/sm/setanta-sports-1.png", Setanta
@@ -487,13 +497,13 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="Sports🏆",Astro Supersports 1 MY
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ,Astro Supersports 1 MY
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23453
-#EXTINF:-1 group-title="Sports🏆",Astro Supersports 2 MY
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ,Astro Supersports 2 MY
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23452
-#EXTINF:-1 group-title="Sports🏆",Astro Supersports 3 MY
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ,Astro Supersports 3 MY
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/23451
-#EXTINF:-1 group-title="Sports🏆",Astro Supersports 4 MY
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ,Astro Supersports 4 MY
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/33973
 
 
