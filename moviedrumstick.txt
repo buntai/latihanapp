@@ -24,6 +24,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Pulang.2018.1080p.NF.WEB-DL
 https://misty-dust.evanwinters.workers.dev/0:/public/Tiada.Esok.Bagimu.1980.1080p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-1YhPy_hVMGA/YJlFnSSIuoI/AAAAAAAALns/TZc7ty7kQ_w0BaNHhUcp_42LXXhIQPAagCLcBGAsYHQ/s16000/Dekatnya%2BCinta.jpg", Dekatnya Cinta
 https://calm-rain-70b4.buntai.workers.dev/movie/DekatnyaCinta.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/79/Poster_filem_XX_Ray.jpg", XX Ray
+https://calm-rain-70b4.buntai.workers.dev/movie/XX%2520Ray.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/b/bd/Poster_XX_Ray_2.jpg", XX Ray II
+https://calm-rain-70b4.buntai.workers.dev/movie/XX%2520Ray%2520II.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIxNTAxZGUtYWNjYS00N2UyLTlhODAtNzQ3YzA3OTZkNDEyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", XX Ray III
 https://misty-dust.evanwinters.workers.dev/0:/public/XX.Ray.III.2019.720p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg", Abang Long Fadil
@@ -438,6 +442,10 @@ http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Z
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2rJYiH0rGugxuTY8hffJLuCuF01.jpg", Raazi
+https://calm-rain-70b4.buntai.workers.dev/movie/Raazi.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://bestoftheyear.in/wp-content/uploads/2017/05/paheli.jpg", Paheli
+https://calm-rain-70b4.buntai.workers.dev/movie/paheli.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://img.hindilinks4u.to/2018/10/Meow-2016-206x300.jpg", Meow
 https://calm-rain-70b4.buntai.workers.dev/movie/Meow.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://tny.im/oTr", Karnan
@@ -630,6 +638,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/The_Conjuring_-_The_Devil_Made_Me_Do_It.png", The Conjuring [2021]
+https://calm-rain-70b4.buntai.workers.dev/movie/The%2520Conjuring%2520The%2520Devil%2520Made%2520Me%2520Do%2520It.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/mQ8vALvqA0z0qglG3gI6xpVcslo.jpg", Benny Loves You
+https://calm-rain-70b4.buntai.workers.dev/movie/Benny%2520Loves%2520You.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww4.ohflix.com/uploads/video_thumb/6043.jpg", Monster Hunter
+https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Monster%20Hunter%20(2020)1.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/2RxmOqqO78O5QE2QqMFO1gG1O5N.jpg", Spiral:From The Book of SAW
 https://calm-rain-70b4.buntai.workers.dev/movie/Spiral.From.The.Book.Of.Saw.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://img.yts.mx/assets/images/movies/potters_ground_2021/medium-cover.jpg", Potter's Ground
