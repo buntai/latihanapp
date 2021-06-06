@@ -539,13 +539,13 @@ http://tvms.me:8080/lynda/lynda/255
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR [B]
 http://hottest.fit:8080/zain/zain123/28789
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL
-http://hottest.fit:8080/zain/zain123/28790
+http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL [B]
 http://hottest.fit:8080/zain/zain123/28791
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png", DISNEY XD
 http://hottest.fit:8080/zain/zain123/28788
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png", DISNEY XD [B]
-http://geostream.me:8080/lasse6/lasse6/28683
+http://stream.tvtap.live:8081/live/disneyxd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 http://tvms.me:8080/lynda/lynda/406
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG [B]
