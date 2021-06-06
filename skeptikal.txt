@@ -441,10 +441,10 @@ http://cloudcdn.tk:80/januzahv/lJwZE9510/75533
 http://cloudcdn.tk:80/januzahv/lJwZE9510/75534
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 3 FHD
 http://cloudcdn.tk:80/januzahv/lJwZE9510/75535
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 1
-http://cloudcdn.tk:80/januzahv/lJwZE9510/33648
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 2
-http://cloudcdn.tk:80/januzahv/lJwZE9510/33649
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 1
+http://sharkiptvpro.xyz:80/live/nd77bd82hsb2/bbdjjd8273ibd/30496.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 2
+http://sharkiptvpro.xyz:80/live/nd77bd82hsb2/bbdjjd8273ibd/30495.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 https://nonton.site:8443/provision/pp/299
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj", UFC Fight
