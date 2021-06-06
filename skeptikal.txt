@@ -308,7 +308,97 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMovies-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png", Fox Family TH
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
-
+================================================
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", AXN
+https://nonton.site:8443/evan/evan/9
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Bioskop Indonesia
+https://nonton.site:8443/evan/evan/908
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Blue Ant Extreme HD
+https://nonton.site:8443/evan/evan/811
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", CCM
+https://nonton.site:8443/evan/evan/2118
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Celestial Movies
+https://nonton.site:8443/evan/evan/5
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Cinema World
+https://nonton.site:8443/evan/evan/1194
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Cinemax FHD
+https://nonton.site:8443/evan/evan/30185
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Cinemax ID
+https://nonton.site:8443/evan/evan/2156
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Cinemax SD
+https://nonton.site:8443/evan/evan/26599
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FLIK HD
+https://nonton.site:8443/evan/evan/29592
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX Action Movies FHD
+https://nonton.site:8443/evan/evan/1478
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX Action Movies HD
+https://nonton.site:8443/evan/evan/99
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX Crime HD
+https://nonton.site:8443/evan/evan/763
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX Family Movies ID
+https://nonton.site:8443/evan/evan/14994
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX HD
+https://nonton.site:8443/evan/evan/95
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX Life HD
+https://nonton.site:8443/evan/evan/94
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", FOX Movies HD
+https://nonton.site:8443/evan/evan/98
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Galaxy Premium SD
+https://nonton.site:8443/evan/evan/29603
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Galaxy SD
+https://nonton.site:8443/evan/evan/29604
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Family FHD
+https://nonton.site:8443/evan/evan/30184
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Family HD
+https://nonton.site:8443/evan/evan/592
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Family SD
+https://nonton.site:8443/evan/evan/26598
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO FHD
+https://nonton.site:8443/evan/evan/1496
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO HD
+https://nonton.site:8443/evan/evan/210
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Hits FHD
+https://nonton.site:8443/evan/evan/11492
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Hits HD
+https://nonton.site:8443/evan/evan/591
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Hits SD
+https://nonton.site:8443/evan/evan/26596
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO SD
+https://nonton.site:8443/evan/evan/26595
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Signature FHD
+https://nonton.site:8443/evan/evan/1498
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Signature HD
+https://nonton.site:8443/evan/evan/873
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HBO Signature SD
+https://nonton.site:8443/evan/evan/26597
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", HITS HD
+https://nonton.site:8443/evan/evan/1195
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Hits Movie SD
+https://nonton.site:8443/evan/evan/957
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", IMC SD
+https://nonton.site:8443/evan/evan/35484
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", IN: & Picture
+https://nonton.site:8443/evan/evan/31875
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", IN: &TV HD
+https://nonton.site:8443/evan/evan/31876
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", KIX HD
+https://nonton.site:8443/evan/evan/8
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", LifeTime HD
+https://nonton.site:8443/evan/evan/866
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Red By HBO HD
+https://nonton.site:8443/evan/evan/4832
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Reserved
+https://nonton.site:8443/evan/evan/776
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Star Chinese Movies HD
+https://nonton.site:8443/evan/evan/780
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Star Chinese Movies Legend
+https://nonton.site:8443/evan/evan/1859
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Star World
+https://nonton.site:8443/evan/evan/381
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Thrill
+https://nonton.site:8443/evan/evan/4
+#EXTINF:-1 group-title="MovieTEST" tvg-logo="https://appdevelopermagazine.com/images/news_images/Making-Application-Testing-a-First-Class-Citizen-App-Developer-Magazine_gd5jd6gn.jpg", Warner TV ID HD
+https://nonton.site:8443/evan/evan/1533
 
 
 ================================================
