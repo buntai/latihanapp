@@ -15,7 +15,7 @@ http://iptv.tvmalaysia.cc:80/jaja8/jaja8/6576
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
-http://tv.rebeliptv.com:83/91595487/07862755/386724.ts
+http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
 
 
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
@@ -240,7 +240,7 @@ http://mantul.biz.id:8888/eko2/eko2/1
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO [B]
-https://nonton.site:8443/evan/evan/1496
+http://hottest.fit:8080/zain/zain123/34793
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature FHD
@@ -318,7 +318,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i1.wp.com/www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358.png?fit=636%2C358&ssl=1", Sky Sports Main Event FHD
 http://cloudcdn.tk:80/januzahv/lJwZE9510/5600
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png", Sky Sports Premier League FHD
-http://sonyiptv.net:8080/saeed/saeed/83677
+http://cloudcdn.tk:80/januzahv/lJwZE9510/4458
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
 http://cloudcdn.tk:80/januzahv/lJwZE9510/16970
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports 
@@ -352,9 +352,9 @@ http://cloudcdn.tk:80/januzahv/lJwZE9510/75534
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 3 FHD
 http://cloudcdn.tk:80/januzahv/lJwZE9510/75535
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 1
-https://nonton.site:8443/provision/pp/728
+http://cloudcdn.tk:80/januzahv/lJwZE9510/33648
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports 2
-https://nonton.site:8443/provision/pp/729
+http://cloudcdn.tk:80/januzahv/lJwZE9510/33649
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 https://nonton.site:8443/provision/pp/299
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj", UFC Fight
