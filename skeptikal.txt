@@ -15,7 +15,7 @@ http://iptv.tvmalaysia.cc:80/jaja8/jaja8/6576
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
-http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
+http://tv.rebeliptv.com:83/91595487/07862755/386724.ts
 
 
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
@@ -316,11 +316,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i1.wp.com/www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358.png?fit=636%2C358&ssl=1", Sky Sports Main Event FHD
-http://cloudcdn.tk:80/januzahv/lJwZE9510/14753
+http://cloudcdn.tk:80/januzahv/lJwZE9510/5600
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png", Sky Sports Premier League FHD
-http://cloudcdn.tk:80/januzahv/lJwZE9510/14742
+http://sonyiptv.net:8080/saeed/saeed/83677
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
-http://cloudcdn.tk:80/januzahv/lJwZE9510/20024
+http://cloudcdn.tk:80/januzahv/lJwZE9510/16970
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports 
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports [B]
@@ -400,32 +400,32 @@ http://geostream.me:8080/lasse6/lasse6/19172
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 4 B
 http://geostream.me:8080/lasse6/lasse6/19173
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD1 HD
-http://rv.flysat.live:80/307201145224/307201145224/163926
+http://sonyiptv.net:8080/saeed/saeed/133186
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD2 HD
-http://rv.flysat.live:80/307201145224/307201145224/163925
+http://sonyiptv.net:8080/saeed/saeed/133187
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD3 HD
-http://rv.flysat.live:80/307201145224/307201145224/163924
+http://sonyiptv.net:8080/saeed/saeed/133188
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD4 HD
-http://rv.flysat.live:80/307201145224/307201145224/163923
+http://sonyiptv.net:8080/saeed/saeed/133189
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD5 HD
-http://rv.flysat.live:80/307201145224/307201145224/163922
+http://sonyiptv.net:8080/saeed/saeed/133190
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD6 HD
-http://rv.flysat.live:80/307201145224/307201145224/163921
+http://sonyiptv.net:8080/saeed/saeed/133191
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD7 HD
-http://rv.flysat.live:80/307201145224/307201145224/163920
+http://sonyiptv.net:8080/saeed/saeed/133192
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg", BT Sport 1 [B]
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://sonyiptv.net:8080/saeed/saeed/158764
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 1
-http://cloudcdn.tk:80/januzahv/lJwZE9510/1991
+http://sonyiptv.net:8080/saeed/saeed/158763
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 2 [B]
-http://cloudcdn.tk:80/januzahv/lJwZE9510/1992
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/sm/setanta-sports-1.png", Setanta
+http://sonyiptv.net:8080/saeed/saeed/158765
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta
 https://95-213-224-180.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/sm/setanta-sports-1.png", Setanta 1
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta 1
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/sm/setanta-sports-1.png", Setanta 2
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta 2
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png", Fox Sports 505
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
