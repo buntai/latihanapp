@@ -130,103 +130,103 @@ https://movies.ardhani.workers.dev/0:/TV%20Series/China%20Series/Wu%20Assassins%
 -= Mariagge Not Dating =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E01
-https://nonton.site:8443/series/6894864475/7163819284/15929.mp4
+https://nonton.site:8443/series/evan/evan/15929.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E02
-https://nonton.site:8443/series/6894864475/7163819284/15930.mp4
+https://nonton.site:8443/series/evan/evan/15930.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E03
-https://nonton.site:8443/series/6894864475/7163819284/15931.mp4
+https://nonton.site:8443/series/evan/evan/15931.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E04
-https://nonton.site:8443/series/6894864475/7163819284/15932.mp4
+https://nonton.site:8443/series/evan/evan/15932.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E05
-https://nonton.site:8443/series/6894864475/7163819284/15933.mp4
+https://nonton.site:8443/series/evan/evan/15933.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E06
-https://nonton.site:8443/series/6894864475/7163819284/15934.mp4
+https://nonton.site:8443/series/evan/evan/15934.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E07
-https://nonton.site:8443/series/6894864475/7163819284/15935.mp4
+https://nonton.site:8443/series/evan/evan/15935.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E08
-https://nonton.site:8443/series/6894864475/7163819284/15936.mp4
+https://nonton.site:8443/series/evan/evan/15936.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E09
-https://nonton.site:8443/series/6894864475/7163819284/15937.mp4
+https://nonton.site:8443/series/evan/evan/15937.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E10
-https://nonton.site:8443/series/6894864475/7163819284/15938.mp4
+https://nonton.site:8443/series/evan/evan/15938.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E11
-https://nonton.site:8443/series/6894864475/7163819284/15939.mp4
+https://nonton.site:8443/series/evan/evan/15939.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E12
-https://nonton.site:8443/series/6894864475/7163819284/15940.mp4
+https://nonton.site:8443/series/evan/evan/15940.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E13
-https://nonton.site:8443/series/6894864475/7163819284/15941.mp4
+https://nonton.site:8443/series/evan/evan/15941.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E14
-https://nonton.site:8443/series/6894864475/7163819284/15942.mp4
+https://nonton.site:8443/series/evan/evan/15942.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E15
-https://nonton.site:8443/series/6894864475/7163819284/15943.mp4
+https://nonton.site:8443/series/evan/evan/15943.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Marriagenotdating-poster.jpg", Marriage, Not Dating S01 E16
-https://nonton.site:8443/series/6894864475/7163819284/15944.mp4
+https://nonton.site:8443/series/evan/evan/15944.mp4
 
 -= Modern Farmer =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E01
-https://nonton.site:8443/series/6894864475/7163819284/15867.mp4
+https://nonton.site:8443/series/evan/evan/15867.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E02
-https://nonton.site:8443/series/6894864475/7163819284/15868.mp4
+https://nonton.site:8443/series/evan/evan/15868.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E03
-https://nonton.site:8443/series/6894864475/7163819284/15869.mp4
+https://nonton.site:8443/series/evan/evan/15869.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E04
-https://nonton.site:8443/series/6894864475/7163819284/15870.mp4
+https://nonton.site:8443/series/evan/evan/15870.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E05
-https://nonton.site:8443/series/6894864475/7163819284/15871.mp4
+https://nonton.site:8443/series/evan/evan/15871.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E06
-https://nonton.site:8443/series/6894864475/7163819284/15872.mp4
+https://nonton.site:8443/series/evan/evan/15872.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E07
-https://nonton.site:8443/series/6894864475/7163819284/15873.mp4
+https://nonton.site:8443/series/evan/evan/15873.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E08
-https://nonton.site:8443/series/6894864475/7163819284/15874.mp4
+https://nonton.site:8443/series/evan/evan/15874.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E09
-https://nonton.site:8443/series/6894864475/7163819284/15875.mp4
+https://nonton.site:8443/series/evan/evan/15875.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E10
-https://nonton.site:8443/series/6894864475/7163819284/15876.mp4
+https://nonton.site:8443/series/evan/evan/15876.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E11
-https://nonton.site:8443/series/6894864475/7163819284/15877.mp4
+https://nonton.site:8443/series/evan/evan/15877.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E12
-https://nonton.site:8443/series/6894864475/7163819284/15878.mp4
+https://nonton.site:8443/series/evan/evan/15878.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E13
-https://nonton.site:8443/series/6894864475/7163819284/15879.mp4
+https://nonton.site:8443/series/evan/evan/15879.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E14
-https://nonton.site:8443/series/6894864475/7163819284/15880.mp4
+https://nonton.site:8443/series/evan/evan/15880.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E15
-https://nonton.site:8443/series/6894864475/7163819284/15881.mp4
+https://nonton.site:8443/series/evan/evan/15881.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E16
-https://nonton.site:8443/series/6894864475/7163819284/15882.mp4
+https://nonton.site:8443/series/evan/evan/15882.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E17
-https://nonton.site:8443/series/6894864475/7163819284/15883.mp4
+https://nonton.site:8443/series/evan/evan/15883.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E18
-https://nonton.site:8443/series/6894864475/7163819284/15884.mp4
+https://nonton.site:8443/series/evan/evan/15884.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E19
-https://nonton.site:8443/series/6894864475/7163819284/15885.mp4
+https://nonton.site:8443/series/evan/evan/15885.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/6/62/Modern_Farmer-p1.jpg", Modern Farmer S01 E20
-https://nonton.site:8443/series/6894864475/7163819284/15886.mp4
+https://nonton.site:8443/series/evan/evan/15886.mp4
 
 -= Swamp Thing =-
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E01
-https://nonton.site:8443/series/6894864475/7163819284/18614.mkv
+https://nonton.site:8443/series/evan/evan/18614.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E02
-https://nonton.site:8443/series/6894864475/7163819284/18615.mkv
+https://nonton.site:8443/series/evan/evan/18615.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E03
-https://nonton.site:8443/series/6894864475/7163819284/18616.mkv
+https://nonton.site:8443/series/evan/evan/18616.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E04
-https://nonton.site:8443/series/6894864475/7163819284/18617.mkv
+https://nonton.site:8443/series/evan/evan/18617.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E05
-https://nonton.site:8443/series/6894864475/7163819284/18618.mkv
+https://nonton.site:8443/series/evan/evan/18618.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E06
-https://nonton.site:8443/series/6894864475/7163819284/18619.mkv
+https://nonton.site:8443/series/evan/evan/18619.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E07
-https://nonton.site:8443/series/6894864475/7163819284/18620.mkv
+https://nonton.site:8443/series/evan/evan/18620.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E08
-https://nonton.site:8443/series/6894864475/7163819284/18621.mkv
+https://nonton.site:8443/series/evan/evan/18621.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E09
-https://nonton.site:8443/series/6894864475/7163819284/18622.mkv
+https://nonton.site:8443/series/evan/evan/18622.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://resizing.flixster.com/8bo3yNJU--7LHn4UjbNk7YU56lQ=/206x305/v1.dDs0OTgxODk7ajsxODc3MDsxMjAwOzcyMDs5NjA", Swamp Thing S01 E10
-https://nonton.site:8443/series/6894864475/7163819284/18623.mkv
+https://nonton.site:8443/series/evan/evan/18623.mkv
 
 -= Alice in Borderland =-
 
@@ -357,172 +357,172 @@ http://cloudcdn.tk:80/series/9nMUZd6cFl9888/sJUEzi3235/74992.mkv
 -= Warrrior Nun =-
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E01
-https://nonton.site:8443/series/6894864475/7163819284/33584.mkv
+https://nonton.site:8443/series/evan/evan/33584.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E02
-https://nonton.site:8443/series/6894864475/7163819284/33585.mkv
+https://nonton.site:8443/series/evan/evan/33585.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E03
-https://nonton.site:8443/series/6894864475/7163819284/33586.mkv
+https://nonton.site:8443/series/evan/evan/33586.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E04
-https://nonton.site:8443/series/6894864475/7163819284/33587.mkv
+https://nonton.site:8443/series/evan/evan/33587.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E05
-https://nonton.site:8443/series/6894864475/7163819284/33588.mkv
+https://nonton.site:8443/series/evan/evan/33588.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E06
-https://nonton.site:8443/series/6894864475/7163819284/33589.mkv
+https://nonton.site:8443/series/evan/evan/33589.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E07
-https://nonton.site:8443/series/6894864475/7163819284/33590.mkv
+https://nonton.site:8443/series/evan/evan/33590.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E08
-https://nonton.site:8443/series/6894864475/7163819284/33591.mkv
+https://nonton.site:8443/series/evan/evan/33591.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E09
-https://nonton.site:8443/series/6894864475/7163819284/33592.mkv
+https://nonton.site:8443/series/evan/evan/33592.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4NTQ2ZDgtMzI5Zi00Mzc1LTk0ZWQtZTI5ODhkNWY5NzdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", Warrior Nun S01 E10
-https://nonton.site:8443/series/6894864475/7163819284/33593.mkv
+https://nonton.site:8443/series/evan/evan/33593.mkv
 
 -=mygirlfriendisgumiho=-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E01
-https://nonton.site:8443/series/6894864475/7163819284/16818.mkv
+https://nonton.site:8443/series/evan/evan/16818.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E02
-https://nonton.site:8443/series/6894864475/7163819284/16801.mkv
+https://nonton.site:8443/series/evan/evan/16801.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E03
-https://nonton.site:8443/series/6894864475/7163819284/16924.mkv
+https://nonton.site:8443/series/evan/evan/16924.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E04
-https://nonton.site:8443/series/6894864475/7163819284/16925.mkv
+https://nonton.site:8443/series/evan/evan/16925.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E05
-https://nonton.site:8443/series/6894864475/7163819284/16952.mkv
+https://nonton.site:8443/series/evan/evan/16952.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E06
-https://nonton.site:8443/series/6894864475/7163819284/16954.mkv
+https://nonton.site:8443/series/evan/evan/16954.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E07
-https://nonton.site:8443/series/6894864475/7163819284/17009.mkv
+https://nonton.site:8443/series/evan/evan/17009.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E08
-https://nonton.site:8443/series/6894864475/7163819284/17010.mkv
+https://nonton.site:8443/series/evan/evan/17010.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E09
-https://nonton.site:8443/series/6894864475/7163819284/17011.mkv
+https://nonton.site:8443/series/evan/evan/17011.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E10
-https://nonton.site:8443/series/6894864475/7163819284/17012.mkv
+https://nonton.site:8443/series/evan/evan/17012.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E11
-https://nonton.site:8443/series/6894864475/7163819284/17013.mkv
+https://nonton.site:8443/series/evan/evan/17013.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E12
-https://nonton.site:8443/series/6894864475/7163819284/17014.mkv
+https://nonton.site:8443/series/evan/evan/17014.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E13
-https://nonton.site:8443/series/6894864475/7163819284/17015.mkv
+https://nonton.site:8443/series/evan/evan/17015.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E14
-https://nonton.site:8443/series/6894864475/7163819284/17016.mkv
+https://nonton.site:8443/series/evan/evan/17016.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E15
-https://nonton.site:8443/series/6894864475/7163819284/17017.mkv
+https://nonton.site:8443/series/evan/evan/17017.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/400px-MyGirlfriendGumiho.jpg", My Girlfriend is a Gumiho S01 E16
-https://nonton.site:8443/series/6894864475/7163819284/17018.mkv
+https://nonton.site:8443/series/evan/evan/17018.mkv
 
 -=KampungPisangbersirisiri=-
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E01
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4221.mp4
+http://tvms.me:8080/series/lynda/lynda/4221.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E02
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4272.mp4
+http://tvms.me:8080/series/lynda/lynda/4272.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E03
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4353.mp4
+http://tvms.me:8080/series/lynda/lynda/4353.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E04
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4482.mp4
+http://tvms.me:8080/series/lynda/lynda/4482.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E05
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4583.mp4
+http://tvms.me:8080/series/lynda/lynda/4583.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E06
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4673.mp4
+http://tvms.me:8080/series/lynda/lynda/4673.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E07
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4763.mp4
+http://tvms.me:8080/series/lynda/lynda/4763.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E08
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4875.mp4
+http://tvms.me:8080/series/lynda/lynda/4875.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E09
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5024.mp4
+http://tvms.me:8080/series/lynda/lynda/5024.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E10
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5097.mp4
+http://tvms.me:8080/series/lynda/lynda/5097.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E11
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5156.mp4
+http://tvms.me:8080/series/lynda/lynda/5156.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E12
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5307.mp4
+http://tvms.me:8080/series/lynda/lynda/5307.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E13
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5438.mp4
+http://tvms.me:8080/series/lynda/lynda/5438.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E14
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5569.mp4
+http://tvms.me:8080/series/lynda/lynda/5569.mp4
 
 -= Whats Wrong With Secretary Kim =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E01
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1422.mp4
+http://tvms.me:8080/series/lynda/lynda/1422.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E02
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1423.mp4
+http://tvms.me:8080/series/lynda/lynda/1423.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E03
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1424.mp4
+http://tvms.me:8080/series/lynda/lynda/1424.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E04
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1425.mp4
+http://tvms.me:8080/series/lynda/lynda/1425.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E05
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1426.mp4
+http://tvms.me:8080/series/lynda/lynda/1426.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E06
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1427.mp4
+http://tvms.me:8080/series/lynda/lynda/1427.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E07
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1428.mp4
+http://tvms.me:8080/series/lynda/lynda/1428.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E08
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1429.mp4
+http://tvms.me:8080/series/lynda/lynda/1429.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E09
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1430.mp4
+http://tvms.me:8080/series/lynda/lynda/1430.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E10
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1431.mp4
+http://tvms.me:8080/series/lynda/lynda/1431.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E11
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1432.mp4
+http://tvms.me:8080/series/lynda/lynda/1432.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E12
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1433.mp4
+http://tvms.me:8080/series/lynda/lynda/1433.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E13
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1434.mp4
+http://tvms.me:8080/series/lynda/lynda/1434.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E14
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1435.mp4
+http://tvms.me:8080/series/lynda/lynda/1435.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E15
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1436.mp4
+http://tvms.me:8080/series/lynda/lynda/1436.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E16
-http://tvms.me:8080/series/zulfiqar/zulfiqar/1437.mp4
+http://tvms.me:8080/series/lynda/lynda/1437.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="---|Sepahtu Reunion Live 2020|---" tvg-logo="" group-title="Series",---|Sepahtu Reunion Live 2020|---
 http://mu03.wanicelife.com:8880/YA243987jhgkj/34958734958/1735
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E01
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3536.mp4
+http://tvms.me:8080/series/lynda/lynda/3536.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E02
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3537.mp4
+http://tvms.me:8080/series/lynda/lynda/3537.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E03
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3538.mp4
+http://tvms.me:8080/series/lynda/lynda/3538.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E04
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3539.mp4
+http://tvms.me:8080/series/lynda/lynda/3539.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E05
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3540.mp4
+http://tvms.me:8080/series/lynda/lynda/3540.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E06
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3541.mp4
+http://tvms.me:8080/series/lynda/lynda/3541.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E07
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3542.mp4
+http://tvms.me:8080/series/lynda/lynda/3542.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E08
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3543.mp4
+http://tvms.me:8080/series/lynda/lynda/3543.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E09
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3544.mp4
+http://tvms.me:8080/series/lynda/lynda/3544.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E10
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3545.mp4
+http://tvms.me:8080/series/lynda/lynda/3545.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E11
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3612.mp4
+http://tvms.me:8080/series/lynda/lynda/3612.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E12
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3748.mp4
+http://tvms.me:8080/series/lynda/lynda/3748.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E13
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3842.mp4
+http://tvms.me:8080/series/lynda/lynda/3842.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E14
-http://tvms.me:8080/series/zulfiqar/zulfiqar/3937.mp4
+http://tvms.me:8080/series/lynda/lynda/3937.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E15
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4011.mp4
+http://tvms.me:8080/series/lynda/lynda/4011.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E16
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4155.mp4
+http://tvms.me:8080/series/lynda/lynda/4155.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E17
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4296.mp4
+http://tvms.me:8080/series/lynda/lynda/4296.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E18
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4297.mp4
+http://tvms.me:8080/series/lynda/lynda/4297.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E19
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4424.mp4
+http://tvms.me:8080/series/lynda/lynda/4424.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E20
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4551.mp4
+http://tvms.me:8080/series/lynda/lynda/4551.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E21
-http://tvms.me:8080/series/zulfiqar/zulfiqar/4614.mp4
+http://tvms.me:8080/series/lynda/lynda/4614.mp4
 
 -= Kimetsu No Yaiba =-
 
@@ -860,77 +860,77 @@ http://mantul.biz.id:8888/series/gibran/gibran/8753.mkv
 -= Sisyphus: The Myth =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E01
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5262.mp4
+http://tvms.me:8080/series/lynda/lynda/5262.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E02
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5285.mp4
+http://tvms.me:8080/series/lynda/lynda/5285.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E03
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5332.mp4
+http://tvms.me:8080/series/lynda/lynda/5332.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E04
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5353.mp4
+http://tvms.me:8080/series/lynda/lynda/5353.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E05
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5501.mp4
+http://tvms.me:8080/series/lynda/lynda/5501.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E06
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5539.mp4
+http://tvms.me:8080/series/lynda/lynda/5539.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E07
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5696.mp4
+http://tvms.me:8080/series/lynda/lynda/5696.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E08
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5710.mp4
+http://tvms.me:8080/series/lynda/lynda/5710.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E09
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5774.mp4
+http://tvms.me:8080/series/lynda/lynda/5774.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E10
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5785.mp4
+http://tvms.me:8080/series/lynda/lynda/5785.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E11
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5861.mp4
+http://tvms.me:8080/series/lynda/lynda/5861.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E12
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5873.mp4
+http://tvms.me:8080/series/lynda/lynda/5873.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E13
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5989.mp4
+http://tvms.me:8080/series/lynda/lynda/5989.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E14
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6059.mp4
+http://tvms.me:8080/series/lynda/lynda/6059.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E15
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6126.mp4
+http://tvms.me:8080/series/lynda/lynda/6126.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E16
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6127.mp4
+http://tvms.me:8080/series/lynda/lynda/6127.mp4
 
 -= Vincenzo =-
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E01
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5284.mp4
+http://tvms.me:8080/series/lynda/lynda/5284.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E02
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5296.mp4
+http://tvms.me:8080/series/lynda/lynda/5296.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E03
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5351.mp4
+http://tvms.me:8080/series/lynda/lynda/5351.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E04
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5500.mp4
+http://tvms.me:8080/series/lynda/lynda/5500.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E05
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5546.mp4
+http://tvms.me:8080/series/lynda/lynda/5546.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E06
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5694.mp4
+http://tvms.me:8080/series/lynda/lynda/5694.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E07
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5773.mp4
+http://tvms.me:8080/series/lynda/lynda/5773.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E08
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5781.mp4
+http://tvms.me:8080/series/lynda/lynda/5781.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E09
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5793.mp4
+http://tvms.me:8080/series/lynda/lynda/5793.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E10
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5862.mp4
+http://tvms.me:8080/series/lynda/lynda/5862.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E11
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5869.mp4
+http://tvms.me:8080/series/lynda/lynda/5869.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E12
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5976.mp4
+http://tvms.me:8080/series/lynda/lynda/5976.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E13
-http://tvms.me:8080/series/zulfiqar/zulfiqar/5987.mp4
+http://tvms.me:8080/series/lynda/lynda/5987.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E14
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6056.mp4
+http://tvms.me:8080/series/lynda/lynda/6056.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E15
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6124.mp4
+http://tvms.me:8080/series/lynda/lynda/6124.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E16
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6125.mp4
+http://tvms.me:8080/series/lynda/lynda/6125.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E17
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6226.mp4
+http://tvms.me:8080/series/lynda/lynda/6226.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E18
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6303.mp4
+http://tvms.me:8080/series/lynda/lynda/6303.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E19
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6308.mp4
+http://tvms.me:8080/series/lynda/lynda/6308.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E20
-http://tvms.me:8080/series/zulfiqar/zulfiqar/6320.mp4
+http://tvms.me:8080/series/lynda/lynda/6320.mp4

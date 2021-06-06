@@ -87,7 +87,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="251" tvg-chno="251" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png", BollyOne HD [B]
 http://hottest.fit:8080/zain/zain123/28691
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema
-http://geostream.me:8080/lasse6/lasse6/28681
+http://hottest.fit:8080/zain/zain123/28681
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="201" tvg-chno="201" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png", Vaanavil 
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="702" tvg-chno="702" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg", Hello
@@ -240,7 +240,7 @@ http://mantul.biz.id:8888/eko2/eko2/1
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO [B]
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+https://nonton.site:8443/evan/evan/1496
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature FHD
@@ -456,15 +456,15 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆",TRUE SPORT HD 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆",Sport TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆",Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆",Sport TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv", Red Bull TV B
@@ -516,8 +516,6 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://banner2.cleanpng.com/20181106/wx/kisspng-public-television-company-of-armenia-armenia-tv-pu-file1tv-am-logo-png-wikimedia-commons-5be1f8b62c46c0.3528177015415359261814.jpg", Tuntunik
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://rstatic.akamaized.net/media/500/files/fta_rcti/Landscape/upin_dan_ipin/upinipinnew_L.jpg", 24/7 Upin Ipin
-http://mantul.biz.id:8888/eko2/eko2/8246
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Hi-5_Logo_2009.png", Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Hi-5_Logo_2009.png", TV One Kids
@@ -527,43 +525,43 @@ http://tvms.me:8080/lynda/lynda/253
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png", CARTOON NETWORK
 http://tvms.me:8080/lynda/lynda/257
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png", CARTOON NETWORK[B]
-http://geostream.me:8080/lasse6/lasse6/28689
+http://hottest.fit:8080/zain/zain123/28689
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", NICKELODEON
 http://tvms.me:8080/lynda/lynda/254
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", NICKELODEON [B]
-http://geostream.me:8080/lasse6/lasse6/28655
+http://hottest.fit:8080/zain/zain123/1291
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BABY FIRST
-http://geostream.me:8080/lasse6/lasse6/28695
+http://hottest.fit:8080/zain/zain123/28807
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BABY TV
 http://tvms.me:8080/lynda/lynda/258
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR
 http://tvms.me:8080/lynda/lynda/255
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR [B]
-http://geostream.me:8080/lasse6/lasse6/28684
+http://hottest.fit:8080/zain/zain123/28789
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL
-http://tvms.me:8080/lynda/lynda/367
+http://hottest.fit:8080/zain/zain123/28790
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL [B]
-http://geostream.me:8080/lasse6/lasse6/28685
+http://hottest.fit:8080/zain/zain123/28791
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png", DISNEY XD
-http://tvms.me:8080/lynda/lynda/256
+http://hottest.fit:8080/zain/zain123/28788
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png", DISNEY XD [B]
 http://geostream.me:8080/lasse6/lasse6/28683
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 http://tvms.me:8080/lynda/lynda/406
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG [B]
-http://geostream.me:8080/lasse6/lasse6/28690
+http://hottest.fit:8080/zain/zain123/28803
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png", NICK JR
 http://tvms.me:8080/lynda/lynda/407
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png", NICK JR [B]
-http://geostream.me:8080/lasse6/lasse6/28656
+http://hottest.fit:8080/zain/zain123/28747
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png", ANIMAX
 http://tvms.me:8080/lynda/lynda/351
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png", ANIMAX [B]
-http://geostream.me:8080/lasse6/lasse6/28706
+http://hottest.fit:8080/zain/zain123/28706
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
 http://tvms.me:8080/lynda/lynda/408
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS [B]
-http://geostream.me:8080/lasse6/lasse6/28708
+http://hottest.fit:8080/zain/zain123/28708
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Ceria Delay
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.babyfirsttv.com/wp-content/uploads/2019/08/babyfirst_logo_2019_BabyFirst-Vertical-1.png", Baby First
@@ -628,11 +626,11 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg", Thrill (B)
 http://tvms.me:8080/lynda/lynda/343
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://img.favpng.com/11/2/5/warner-tv-television-channel-wb-channel-warner-bros-png-favpng-RRxix5SbNQwxyqFhPGfrmDjJN.jpg", Warner TV
-http://hottest.fit:8080/itzik/itzik3/33255
-#EXTINF:-1, group-title="Variety📺" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", Warner [B]
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+http://hottest.fit:8080/zain/zain123/28733
+#EXTINF:-1 group-title="Variety📺" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", Warner TV [B]
+http://hottest.fit:8080/zain/zain123/33255
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
-https://nonton.site:8443/provision/pp/9
+http://hottest.fit:8080/zain/zain123/28816
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX HD
 http://tvms.me:8080/lynda/lynda/261
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif", FOX CRIME
