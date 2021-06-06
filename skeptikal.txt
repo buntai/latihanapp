@@ -279,9 +279,9 @@ http://tvms.me:8080/lynda/lynda/224
 http://tvms.me:8080/lynda/lynda/225
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/halloween-movies-1600459548.jpg", TV ONE 7 HD
 http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/flix-hd-cbml28uzorko.png", &FLix
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg", &FLix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/prive-hd-koi0zljfpawd.jpg", &Prive
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", Sony PixHD
 http://mantul.biz.id:8888/eko2/eko2/6699
@@ -649,7 +649,7 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png",KIX TH
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV TH
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+http://203.154.243.89:11205/
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN TH
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 
