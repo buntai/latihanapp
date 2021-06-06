@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
-http://mantul.biz.id:8888/eko2/eko2/4701
+http://77.247.109.111/hls/A2.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://mantul.biz.id:8888/eko1/eko1/7
+http://zana@4.amroutras.xyz/live/6161655/index.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://zero2.site:8080/zero/zero/3
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
