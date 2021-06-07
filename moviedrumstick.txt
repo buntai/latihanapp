@@ -193,6 +193,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/ey4jn4ZM2VDOueA0k0xA9JvmBvA.jpg", Infernal Storm
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Infernal.Storm.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/vujD7D1udOuKrIzZ8wFB38Njh0r.jpg", Sweet & Sour
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sweet.Sour.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fCRe2bn9BaKzaHXunknZ53BOfpS.jpg", The One [2017]
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%2520One2017.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uraW1Xn1uMH7TG9yfaV7kIJnkYC.jpg", Gatao
@@ -660,8 +664,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
-
-
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg", Trippin with the Kandasamys
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/trippinwiththekandasamys.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/rbUACVEXV32PfnTUrt5IwRY348k.jpg", Occupation: Rainfall
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/occupationrainfall.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg", Dancing Queen
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Dancing.Queens.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU0ZDhjMGEtOWRkNi00OWE0LTkzMzMtMzAyNDdiNDViNTZlXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg", Xtreme [MalayDub]
