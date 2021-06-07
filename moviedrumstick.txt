@@ -617,7 +617,7 @@ http://103.222.20.150/ftpdata/Movies/Tamil/South%20Indian%20Movies%20%282019%29/
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUxMzU4MTctNWJlZS00ZGUxLWJjMWItYWYyYmU2MDhhYTM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg", Eeswaran
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/tamil7/Eeswaran%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/gabbar-is-back-20150428135944-12691.jpg", Gabbar Is Back (2015)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/311.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Gabbar.is.Back.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Barot House
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Barot%2520House.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="http://muar2u.com/gambo/aseanmovie.png", Lion
