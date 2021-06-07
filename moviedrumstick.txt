@@ -38,14 +38,18 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/AbangLongFadil.mp4
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Abang.Long.Fadil.2.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7221.jpg", Tiada Tajuk
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/TiadaTajuk.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6941.jpg", Lagenda Budak Hostel
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/71c27OuHAa1uOw1nZrbsiPOIl0U.jpg", Lagenda Budak Hostel
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/LagendaBudakHostel.mkv
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6993.jpg", Rock
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%202005.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6994.jpg", Rock Bro
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Bro%202016.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6995.jpg", Rock Oo! Rimba Bara is back
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Oo%202013.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg", Rock
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock2005.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d1/Rock_Oo_Poster_01.png", Rock Oo! Rimba Bara is back
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock%20Oo2013.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAyNTg0NTAtNTRmYy00YzhkLWI3MzUtYWY1OTc1ZDE1YWY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQyMjc3ODI@._V1_.jpg", Rock Bro
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock%20Bro2016.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMGZjMDEtYTc4Yi00MzUzLWEzYjUtNWU1N2M2OWE2MmU1XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Rock 4 Rockers Never Dai
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock.4.Rockers.Never.Dai.2020.720p.WEBRip.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/d3QR2E7ITlAjx5C9rcVbFKZwKWp.jpg", Rock Sangkut
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock.Sangkut.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7013.jpg", Sepahtu Kepok Bonda
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7173.jpg", Pondok Buruk 1
