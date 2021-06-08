@@ -85,7 +85,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepah%20The%20
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6998.jpg", V3: Samseng Jalanan
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Samseng%20Jalanan%202010.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6991.jpg", Rentap
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rentap%20[2014]%20HDTV%20720px264@KT.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rentap.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6990.jpg", Remp-IT
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Remp-It%20[2007]%20SDRip.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6983.jpg", Polis Evo 2
@@ -95,19 +95,19 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Polis.Evo.2015.1080p.NF.WEB
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6976.jpg", Paskal
 https://misty-dust.evanwinters.workers.dev/0:/public/Paskal.2018.1080p.NF.WEB-DL.DDP5.1.x264-AON.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6955.jpg", Mael Lambong
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Mael%20lambong%20(2012).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Mael%20lambong%20(2012).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6975.jpg", Pada Suatu Cinta Dahulu
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Pada%20Suatu%20Cinta%20Dahulu%20(2013)%20[Malay]%20PPVRip.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Pada%20Suatu%20Cinta%20Dahulu%20(2013)%20%5BMalay%5D%20PPVRip.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6951.jpg", Langgar
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/Langgar%20(2013).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Langgar%20(2013).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6936.jpg", KL Menjerit 1
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/KL%20Menjerit%201%20(2005)%20SDTVRip-Akai.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/KL%20Menjerit%201%20(2005)%20SDTVRip-Akai.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6935.jpg", KL Menjerit
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/KL%20Menjerit%20(2002)%20SDTVRip-Akai.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6933.jpg", KL Gangster
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/3/KL%20Gangster%201.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/KL%20Gangster%201.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6923.jpg", Kanang Anak Langkau: The Iban Warrior
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/2/Kanang%20Anak%20Langkau%20The%20Iban%20Warrior%202017%20WEB-DL%20720P.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Kanang%20Anak%20Langkau%20The%20Iban%20Warrior%202017%20WEB-DL%20720P.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6914.jpg", J Revolution
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/2/J%20Revolusi.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7236.jpg", Leftenan Adnan
@@ -464,6 +464,8 @@ http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Z
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://media1.fdncms.com/connectsavannah/imager/u/zoom/8314470/249103h1.jpg", NAA PERU SURYA NAA ILLU INDIA
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Surya.the.Soldier.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhmOWUxODktYmFkNi00NWIyLWFkODEtZGFjNTM2ODMyNmQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Iru Mugan
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Iru%2520Mugan.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Befikre_poster.jpg", Befikre
@@ -668,6 +670,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.scifinow.co.uk/wp-content/uploads/2021/02/Willys-Wonderland-1.jpg", Willy's Wonderland
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Willys%20Wonderland.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg", Trippin with the Kandasamys
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/trippinwiththekandasamys.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/rbUACVEXV32PfnTUrt5IwRY348k.jpg", Occupation: Rainfall
