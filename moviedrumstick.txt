@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-_9hqa-oE9S0/YLt2BZopQ-I/AAAAAAAALxw/3vlKfRJ3QD0VL9_tKvqMhgUF7mdjX75OQCLcBGAsYHQ/s16000/Pemuja%2BKubur.jpg", Pemuja Kubur
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Pemuja.Kubur.2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/05/Takbir-Semalam_Poster_2.21-819x1024.jpg", Takbir Semalam
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Takbir.Semalam.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://1.bp.blogspot.com/-nKTVb3ntetg/Uz_uxbGX-5I/AAAAAAAAANw/fzGg4KGAguE/s1600/Kata+Samseng+Full+Movie+.png", Kata Samseng
@@ -429,6 +431,8 @@ https://api1.ohflix.workers.dev/0:/ohflix342/two/Random4%20Movies%20Malay%20Sub/
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
 http://mantul.biz.id:8888/movie/gibran/gibran/8975.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Kung_Fu_Panda_3_poster.jpg", Kung Fu Panda 3
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kung%20Fu%20Panda%203.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3116.jpg", Deathstroke: Knights & Dragons - The Movie
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/35/Deathstroke%20Knights%20And%20Dragons%202020.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7124.jpg", The Legend of Hei
@@ -460,7 +464,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Frozen.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Frozen_II_%282019_poster%29.jpg/220px-Frozen_II_%282019_poster%29.jpg", Frozen II
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Frozen%2520II.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://images.moviesanywhere.com/cac313fcf9373e9446b6bb8ff171b8d1/8b8d6a81-b8e6-49ad-b835-32c2f01a03c5.jpg", Zootopia
-http://103.222.20.150/ftpdata/Movies/animation/2011-2020/Zootopia%20%282016%29/Zootopia%202016.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
@@ -670,6 +674,16 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Planet_of_the_Apes_%282001%29_poster.jpg", The Planet of The Apes
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Planet%20of%20the%20Apes2001.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/risepota_584x800_f9d66f3c.jpeg", Rise of The Planet of The Apes
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rise%20of%20the%20Planet%20of%20the%20Apes2011.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Dawn_of_the_Planet_of_the_Apes.jpg", Dawn of The Planet of The Apes
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Dawn%20of%20the%20Planet%20of%20the%20Apes2014.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/War_for_the_Planet_of_the_Apes_poster.jpg", War for The Planet of The Apes
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/War.For.The.Planet.Of.The.Apes.2017.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/HiddenPoster2015.jpg", Hidden 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HIDDEN2015.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.scifinow.co.uk/wp-content/uploads/2021/02/Willys-Wonderland-1.jpg", Willy's Wonderland
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Willys%20Wonderland.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg", Trippin with the Kandasamys
