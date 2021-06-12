@@ -9,11 +9,15 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
-https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
+https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6
-https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
+https://d24wdkcejnhslg.cloudfront.net/out/v1/ddd945c0558843eab39baedd569b16c6/index_1.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
+#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
+#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
+https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
 http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
 
