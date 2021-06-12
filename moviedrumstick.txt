@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-xX4eD65wmNg/YLnw1wr1W9I/AAAAAAAALxo/_gGlqyVxaSQ8-30SheCQmBbdFz5wdZ_IQCLcBGAsYHQ/s16000/Arwah%2BPak%2BMat%252C%2BLif%2B%2526%2BAJK.jpg", Arwah Pak Mat Lif AJK
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Arwah.Pak.Mat.Lif.AJK.2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-_9hqa-oE9S0/YLt2BZopQ-I/AAAAAAAALxw/3vlKfRJ3QD0VL9_tKvqMhgUF7mdjX75OQCLcBGAsYHQ/s16000/Pemuja%2BKubur.jpg", Pemuja Kubur
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Pemuja.Kubur.2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/05/Takbir-Semalam_Poster_2.21-819x1024.jpg", Takbir Semalam
@@ -199,6 +201,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/gaLwScBvzN1V3eSLdJGUOqmzLNw.jpg", Riam Fighting Angel
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Riamfightingangel2020.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/3chxejrvpOU5sAc0vU1xjiyoc7m.jpg", Endgame
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Endgame2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/d50iqFp7u9GSmAgakxNfQfH89eX.jpg", Ip Man and Four Kings
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Ip%20Man%20and%20Four%20King.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6VxEvOF7QDovsG6ro9OVyjH07LF.jpg", Master Z Ip Man Legacy
@@ -700,6 +706,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://moviesreview101.files.wordpress.com/2021/05/poster.jpg", BlackStock Boneyard
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Blackstock.Boneyard.2021.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dM2bMSWlMMnmadeaX3cKwzBsS3x.jpg", Infinite
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Infinite.2021.720p.WEB-OMG.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jEuKhYfeS4dz0uQj1yTZ2Gl8yNH.jpg", The Unhealer
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%20UnHealer.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/it5qGW2iduwKgOo0CFUAcX9DMoT.jpg", Caveat
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Caveat.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Planet_of_the_Apes_%282001%29_poster.jpg", The Planet of The Apes
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Planet%20of%20the%20Apes2001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/risepota_584x800_f9d66f3c.jpeg", Rise of The Planet of The Apes
@@ -787,21 +801,21 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1915.jpg", Harry Potter and the Philosopher's Stone
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/1.%20Harry%20Potter%20and%20the%20Sorcerer_s%20Stone%20(2001)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Sorcerer's_Stone_2001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1916.jpg", Harry Potter and the Chamber of Secrets
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/2.%20Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(2002)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Chamber_Of_Secrets_2002.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1917.jpg", Harry Potter and the Prisoner of Azkaban
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/3.%20Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(2004)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Prisoner_Of_Azkaban_2004.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1918.jpg", Harry Potter and the Goblet of Fire
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/4.%20Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Goblet_Of_Fire_2005.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1919.jpg", Harry Potter and the Order of the Phoenix
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/5.%20Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Order_Of_The_Phoenix_2007.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1920.jpg", Harry Potter and the Half-Blood Prince
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/6.%20Harry%20Potter%20and%20the%20Half-Blood%20Prince%20(2009)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Half_Blood_Prince_2009.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1921.jpg", Harry Potter and the Deathly Hallows: Part 1
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/7.%20Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20(2010)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Deathly_Hallows_Part_1_2010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1922.jpg", Harry Potter and the Deathly Hallows: Part 2
-https://api1.ohflix.workers.dev/0:/ohflix342/two/NewVersion/18/8.%20Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%20(2011)%20malaysub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Deathly_Hallows_Part_2_2011.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4513.jpg", Bruce Almighty
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2776.jpg", 127 Hours
@@ -837,7 +851,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/baru1/Jiu%20Jitsu%
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7137.jpg", Vanquish
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Vanquish%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7136.jpg", Trigger Point
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Trigger%20Point%20(2021)%20(1).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trigger.Point.2021.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/3198.jpg", Seventh Son 
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/36/Seventh%20Son%202014.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy
