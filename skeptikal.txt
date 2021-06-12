@@ -11,7 +11,7 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
 https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6
-http://iptv.tvmalaysia.cc:80/jaja8/jaja8/6576
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
@@ -19,9 +19,9 @@ http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
 
 
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
-https://rtm1hdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1 [B]
-https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm1hdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="146" tvg-chno="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY 
