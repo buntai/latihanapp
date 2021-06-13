@@ -732,6 +732,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg", The Boy Who Harnessed the Wind 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%20Boy%20Who%20Harnessed%20the%20Wind%202019.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ojlXUFHo7ACmGvGcuftGQhW3EOl.jpg", Theamusement park
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Theamusementpark.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/JwCrbxaq0qdUTHF0TVG9VgGhPV.jpg", The Scary House
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%20Scary%20House%202020.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hdzhn1qgIU4NuLLZpwjZLG2hO1D.jpg", Akilla's Escape
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Akilla's%20Escape.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3FUJT82YKY1EJ1dmunQhW5PUZAT.jpg", Mechanic Resurrection
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Mechanic_%20Resurrection2016.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://moviesreview101.files.wordpress.com/2021/05/poster.jpg", BlackStock Boneyard
