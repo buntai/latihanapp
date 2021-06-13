@@ -1,5 +1,11 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-k2I5EQ5Ae20/YJ-WoxrvRiI/AAAAAAAALko/SrKD4qPuhXIND-B0xYAlJ9xMeeCCS4qHgCLcBGAsYHQ/s1350/jeti.jpg", Jeti
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Jeti.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/05/ibu-belum-mati-astro-citra-819x1024.jpg", Ibu Belum Mati
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Ibu.Belum.Mati.2021.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-YydS3dUarz0/YIPq86Rj9WI/AAAAAAAALiM/Ru3dxDbwVg4mQbQNkLtA3GGRV19vZ4YxQCLcBGAsYHQ/s16000/Ismadi%2BBelum%2BMati.jpg", Ismadi Belum Mati
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Ismadi.Belum.Mati.2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3ZmZkYzEtYzk5OC00ZTc5LThhNDktZTI1Y2UzYzAxZWM2XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_QL75_UX190_CR0,2,190,281_.jpg", Hanya Namamu Laila
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Hanya.Namamu.Laila.2021.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1616544115-salina.jpg", Salina
@@ -207,6 +213,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Kaguya-sama_live_action.jpg", Kaguya Sama Love is War
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kaguya-sama-%20Love-%20Is-War-2019.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/l2W7qEQejWlclNixeG8pbnnekkr.jpg", The City of Violence
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%20City%20of%20Violence2006.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.cinema.com.my/images/movies/2021/7jangansendirian00_450.jpg", Jangan Sendirian
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/JANGAN%20SENDIRIAN.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://asianwiki.com/images/f/f3/The_Whisperer-p01.jpg", The Whisperer
@@ -498,6 +508,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5xB47QTIZpL2POyDu04UFQL9otJ.jpg", Kavacha
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kavacha%202019.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Skater_Girl_poster.jpg/220px-Skater_Girl_poster.jpg", Sk8ter Girl
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Skater.Girl.2021.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qx3m9mRUmDZUVQeAe7CAzFX7xCB.jpg", Raid
@@ -811,11 +823,11 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1301.jpg", Fantastic Beasts: The Crimes of Grindelwald
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/Fantastic_Beasts_The_Crimes.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4366.jpg", Rush Hour 1
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%201%201998.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%201%201998.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4367.jpg", Rush Hour 2
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%202%202001.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%202%202001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4368.jpg", Rush Hour 3
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/45/Rush%20Hour%203%202007.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%203%202007.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1915.jpg", Harry Potter and the Philosopher's Stone
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_Potter_And_The_Sorcerer's_Stone_2001.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1916.jpg", Harry Potter and the Chamber of Secrets
