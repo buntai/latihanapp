@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
-http://cloudcdn.tk:80/ABattist/Hu755K4358/18805000.m3u8
+http://cloudcdn.tk:80/ABattist/Hu755K4358/18805
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
 http://cloudcdn.tk:80/ABattist/Hu755K4358/15197
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
