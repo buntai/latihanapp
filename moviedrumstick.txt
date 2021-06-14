@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU1YmQzZjAtMzkyZi00N2NhLWIzMWYtNDUzZjg1MmZkNjE5XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_.jpg", J2: J Retribusi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/J%20Retribusi.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-k2I5EQ5Ae20/YJ-WoxrvRiI/AAAAAAAALko/SrKD4qPuhXIND-B0xYAlJ9xMeeCCS4qHgCLcBGAsYHQ/s1350/jeti.jpg", Jeti
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Jeti.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/05/ibu-belum-mati-astro-citra-819x1024.jpg", Ibu Belum Mati
@@ -508,6 +510,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA5ODJhODEtZDExZC00YzE5LWI5NjktNDk3ZTM0NjIwY2VhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg", Sura
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Sura_2010.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5xB47QTIZpL2POyDu04UFQL9otJ.jpg", Kavacha
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kavacha%202019.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Skater_Girl_poster.jpg/220px-Skater_Girl_poster.jpg", Sk8ter Girl
@@ -1053,14 +1057,32 @@ http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQS", Swordfish (2001)
 http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQ-", Grown Ups - 2010
-https://nonton.site:8443/movie/rachman/rachman123/9232.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20Ups2010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="http://tny.im/oQZ", Grown Ups 2 - 2013
-https://nonton.site:8443/movie/rachman/rachman123/9233.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Grown%20Ups/Grown%20Ups%202%202013.mp4
 
 -= Pramlee =-
 
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://static.wikia.nocookie.net/netflix/images/1/13/The_Platform.jpg", Pendekar Bujang Lapok [Warna]
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/p%20ramlee%20warna/Pendekar%20Bujang%20Lapok%20(1959).mp4
+#EXTINF:-1 group-title="Pramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg", Pendekar Bujang Lapok
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Pendekar_Bujang_Lapok_1959.MP4
+#EXTINF:-1 group-title="Pramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SenimanBujangLapok.jpg/220px-SenimanBujangLapok.jpg", Seniman Bujang Lapok
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Seniman%20Bujang%20Lapok%20%5B1961%5D.MKV
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/30/Anak_Bapak.jpg/220px-Anak_Bapak.jpg", Anak Bapak [Warna]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/Anak%20Bapak%20(warna).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.discplayercdndvd.com/webshaper/pcm/gallery/lg/4b3f11e2cd8917ff5b32c72ca2fff1f31527732537-lg.jpg", Keluarga 69
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/Keluarga%2069.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://alchetron.com/cdn/Tiga-Abdul-images-f545544d-b261-4aaf-afd1-77e120800dc.jpg", Tiga Abdul
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P%20Ramlee%20%20%20Tiga%20Abdul%201964.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/IbuMertuaku.jpg/220px-IbuMertuaku.jpg", Ibu Mertuaku
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Ibu%20Mertuaku%20%5B1962%5D.MP4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2NmQyNTItNDVmNi00MmI3LTgxOWYtNzBhYWQyOWY2N2I0XkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg", Nasib Do Re Mi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Nasib%20Do%20Re%20Mi%20%5B1966%5D.MKV
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0YWUzYWQtYjU3Ny00YWVkLTlmNTgtNjIzNDZmNmE2N2ZkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY1200_CR166,0,630,1200_AL_.jpg", Laksamana Do Re Mi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Laksamana_Do_Re_Mi_1972.MP4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://popcornusa.s3.amazonaws.com/gallery/1585094464-masam-ma.jpg", Masam Masam Manis
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Masam_Masam_Manis_1965.MKV
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwMmJkNmMtNjBkYy00MTNhLTgyZWUtMmU2NDY3NTNlNDU4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Nasib Si Labu Labi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P_Ramlee_Nasib_Si_Labu_Labi_1963.MKV
 
 
 
