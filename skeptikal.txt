@@ -213,7 +213,7 @@ http://mantul.biz.id:8888/eko2/eko2/4906
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg", CH-5
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Mediacorp_Channel_8.jpg", CH-8
-http://geostream.me:8080/lasse6/lasse6/9603
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg", CH-U
 http://geostream.me:8080/lasse6/lasse6/9602
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png", CHANNEL NEWS ASIA
