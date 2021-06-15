@@ -30,6 +30,8 @@ http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [B]
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [T]
+https://rtm5hdhbbtv.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b4064000.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="146" tvg-chno="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY 
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
