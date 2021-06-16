@@ -10,8 +10,8 @@ http://live.thairath.co.th/trtv/playlist.m3u8
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
 http://cloudcdn.tk:80/ABattist/Hu755K4358/15709
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 FHD
-http://webo.asia:80/arif/arif/35920
+#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 SD
+https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 http://cloudcdn.tk:80/januzahv/lJwZE9510/10170
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
