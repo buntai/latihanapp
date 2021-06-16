@@ -69,13 +69,13 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock.4.Rockers.Never.Dai.2020
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/d3QR2E7ITlAjx5C9rcVbFKZwKWp.jpg", Rock Sangkut
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rock.Sangkut.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7013.jpg", Sepahtu Kepok Bonda
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7173.jpg", Pondok Buruk 1
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/PondokBuruk1.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7174.jpg", Pondok Buruk 2
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Pondok%2520Buruk%25202.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7043.jpg", Wan Peah Balik Beraya
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20Balik%20Beraya%20[2018]%20HDTV-VOD@KT.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Wan%20Peah%20Balik%20Beraya%20%5B2018%5D%20HDTV-VOD@KT.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Syirik.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.utusanborneo.com.my/sites/default/files/images/article/20210524/p12grtr3poster-kpmr.jpg", Kampong Pisang Muzikal Raya
@@ -89,7 +89,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/BAGINDA.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg", Kampung Zombie
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/Kampung%20zombie%20(2015)-indoDub.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7015.jpg", Siapa Dapat Lisa
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Siapa%20Dapat%20Lisa.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sepahtu%20-%20Siapa%20Dapat%20Lisa.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg", Tombiruo
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Tombiruo720.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7027.jpg", Taikun
@@ -215,6 +215,11 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nAervZUh0oosR06cZtNrRWKIGBs.jpg", Terlalu Tampan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Terlalu%20Tampan%202019.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Aqa1Yuog2OFrduwSffxZc2w4Tnk.jpg", Fist of Legend
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Fist_of_Legend_1994.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Kaguya-sama_live_action.jpg", Kaguya Sama Love is War
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kaguya-sama-%20Love-%20Is-War-2019.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/l2W7qEQejWlclNixeG8pbnnekkr.jpg", The City of Violence
@@ -510,6 +515,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ry5Vs8Zjh2yWQ1NSODpDxLfI7ok.jpg", Chalk N Duster
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/chalknduster.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA5ODJhODEtZDExZC00YzE5LWI5NjktNDk3ZTM0NjIwY2VhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg", Sura
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Sura_2010.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5xB47QTIZpL2POyDu04UFQL9otJ.jpg", Kavacha
@@ -736,6 +743,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wZNaFydEFmPs0vhRTveKz7AaY2r.jpg", Emily and The Magical Journey
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Emily.And.The.Magical.Journey.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6ASYFa7WjO6U50kgIJ5KjBm4ovH.jpg", Blast From The Past
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Blast%20from%20the%20Past%201999.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aqZHLEVl2Re8Rp3A1xjc2AokiAa.jpg", The Legends 1900
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Legend%20of%201900.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/AfybH6GbGFw1F9bcETe2yu25mIE.jpg", Den of Thieves
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Den%20of%20Thieves.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg", The Boy Who Harnessed the Wind 
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%20Boy%20Who%20Harnessed%20the%20Wind%202019.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ojlXUFHo7ACmGvGcuftGQhW3EOl.jpg", Theamusement park
