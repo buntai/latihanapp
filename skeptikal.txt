@@ -21,7 +21,6 @@ https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
 http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
 
-
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1 [B]
@@ -30,6 +29,7 @@ http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [B]
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [T]
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [T]
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM1/manifest.mpd
@@ -155,6 +155,8 @@ https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png", Citra Dangdut
 http://mantul.biz.id:8888/eko2/eko2/301
+#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png", Zaee Bioskop
+http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG", Citra Drama
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-entertainment-id.png", Citra Muslim
@@ -162,7 +164,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png", GTV HD
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png", GTV (B)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-gtv_fta-mp4a_64000=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png", NET TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png", NET TV FHD
@@ -170,7 +172,7 @@ https://nonton.site:8443/provision/pp/78
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png", MNC TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png", MNC TV HD
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=@lokal-mnctv
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RCTI_Logo_2012_New.gif", RCTI
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png", RTV
@@ -178,7 +180,7 @@ http://tvms.me:8080/lynda/lynda/2977
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png", RTV HD
 http://mantul.biz.id:8888/eko2/eko2/217
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV HD
 https://nonton.site:8443/provision/pp/931
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13", Trans 7
@@ -202,7 +204,7 @@ https://nonton.site:8443/provision/pp/910
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://res-4.cloudinary.com/amn/image/upload/v1429767868/Hope-Logo1_hkocu7.png", Hope Channel
 https://nonton.site:8443/provision/pp/30183
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png", Indosiar
-https://nonton.site:8443/provision/pp/1845
+http://nonton.wap.sh/id/002.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/8PX1m5F/jaktv.png", Jak TV
 https://nonton.site:8443/provision/pp/1210
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="http://www.jtv.co.id/image/logojtv1.png", JTV
@@ -261,11 +263,13 @@ http://mantul.biz.id:8888/eko2/eko2/1
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO [B]
-http://hottest.fit:8080/zain/zain123/34793
+http://eroz84.wap.sh/movies/hbo.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature FHD
 http://mantul.biz.id:8888/eko2/eko2/1019
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature [B]
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits 
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits [B]
@@ -328,10 +332,6 @@ http://51.52.156.22:8888/http/009
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMovies-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png", Fox Family TH
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-
-================================================
-
-
 
 ================================================
 
