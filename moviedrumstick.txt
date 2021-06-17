@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-EJ36Ae9le7U/YCuX-tTx3TI/AAAAAAAAQQw/FYhqWDMQxbc9r0C-tKvZ_GujbBoB6LkkACLcBGAsYHQ/s721/Telefilem_Rujuk_TV2.jpg", Rujuk
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Rujuk%20(2021).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU1YmQzZjAtMzkyZi00N2NhLWIzMWYtNDUzZjg1MmZkNjE5XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_.jpg", J2: J Retribusi
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/J%20Retribusi.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-k2I5EQ5Ae20/YJ-WoxrvRiI/AAAAAAAALko/SrKD4qPuhXIND-B0xYAlJ9xMeeCCS4qHgCLcBGAsYHQ/s1350/jeti.jpg", Jeti
@@ -215,7 +217,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
-
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/1T8ID5TXxuwkjQfOJDP33kG1HHl.jpg", Pawn
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Pawn%202020.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nAervZUh0oosR06cZtNrRWKIGBs.jpg", Terlalu Tampan
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Terlalu%20Tampan%202019.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Aqa1Yuog2OFrduwSffxZc2w4Tnk.jpg", Fist of Legend
@@ -515,6 +518,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/hVrC1y1lzsDuqqfM6OvxwKCFxt0.jpg", Jallikattu
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jallikattu%202019.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ry5Vs8Zjh2yWQ1NSODpDxLfI7ok.jpg", Chalk N Duster
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/chalknduster.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA5ODJhODEtZDExZC00YzE5LWI5NjktNDk3ZTM0NjIwY2VhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg", Sura
@@ -743,6 +748,34 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xKC4ko431SSrNzu2GrwcJmLujMg.jpg", SAS Red Notice
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/SAS_%20Red%20Notice%202021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/45FLfu74nXjhNHhbsTJ4ROsGLR5.jpg", Percy Jackson and The Lightning Thief
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Percy_Jackson_And_The_Lightning_Thief_2010.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/y4j0oCo6v6G3GKCumMjy4QdFlmR.jpg", Percy Jackson and Sea Of Monster
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Percy%20Jackson_%20Sea%20Of%20Monsters%202013.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg", The Conjuring
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg", The Conjuring 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Conjuring%202.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/iH3j0FXu0nlpSKBnJNraEaMUpxG.jpg", The Conjuring [2021]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%2520Conjuring%2520The%2520Devil%2520Made%2520Me%2520Do%2520It.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg", Annabelle
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Annabelle.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/tf10HmB6dojyoBcDLgx9K4m9pdR.jpg", Annabelle Creation
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Annabelle_%20Creation.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg", Annabelle Come Home
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Annabelle%20Comes%20Home.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ym7X7nlkzMSnLkHxG96iZ16zAlu.jpg", The Curse Of La Llorona
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Curse%20Of%20La%20Llorona.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg", The Nun 
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/The%20Nun(2018)720p%20Malay%20Hardsub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/John.Wick.2014.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/vn4vJSzAvkHeVp6TSnjppotoLqQ.jpg", John Wick Chapter 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/John.Wick.Chapter.2.2017.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/skprszS1enWcPFQk6eQ3k29pU29.jpg", John Wick Chapter 3 Parabellum
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/John_Wick_Chapter_3_Parabellum.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wZNaFydEFmPs0vhRTveKz7AaY2r.jpg", Emily and The Magical Journey
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Emily.And.The.Magical.Journey.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6ASYFa7WjO6U50kgIJ5KjBm4ovH.jpg", Blast From The Past
@@ -791,8 +824,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Dancing.Queens.mp4
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/XtremeMalayDub.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pJcYCZF90VaFNOxMxuBCSWvc9Ca.jpg", Idiocracy
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Idiocracy.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/The_Conjuring_-_The_Devil_Made_Me_Do_It.png", The Conjuring [2021]
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/The%2520Conjuring%2520The%2520Devil%2520Made%2520Me%2520Do%2520It.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/mQ8vALvqA0z0qglG3gI6xpVcslo.jpg", Benny Loves You
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Benny%2520Loves%2520You.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww4.ohflix.com/uploads/video_thumb/6043.jpg", Monster Hunter
@@ -913,8 +944,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/36/Seventh%20Son%2
 https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/15/The%20Boy%202016.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy II
 https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Brahms.The.Boy.II.2020.720p.BluRay.x264.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg", The Nun 
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/The%20Nun(2018)720p%20Malay%20Hardsub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", The Godfather (1972)
 http://mantul.biz.id:8888/movie/gibran/gibran/4783.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/godfather/images/8/87/The_Godfather_Part_II.jpg/revision/latest/top-crop/width/360/height/450?cb=20100520182416", The Godfather: Part II (1974)
