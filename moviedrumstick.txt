@@ -217,6 +217,14 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg", Rurouni Kenshin - The Final
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rur0un!_K3n5h!n_Th3_F!nl_2021WEB_DL.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/3sw2YRF0UR4jeZJ2yvpgk4qvMQK.jpg", Rurouni Kenshin - The Legend Ends
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rurouni%20Kenshin%20Part%20III%20-%20The%20Legend%20Ends%202014.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gI2xYpJPQOsmFblvowkW2IgEHkC.jpg", Rurouni Kenshin - Kyoto Inferno
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rurouni%20Kenshin%20Part%20II%20-%20Kyoto%20Inferno%202014.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vo3Zs07PZfKNsTrU0pcPZONJcN5.jpg", Rurouni Kenshin - The Origins
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rurouni%20Kenshin%20Part%20I%20-%20Origins%202012.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/1T8ID5TXxuwkjQfOJDP33kG1HHl.jpg", Pawn
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Pawn%202020.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nAervZUh0oosR06cZtNrRWKIGBs.jpg", Terlalu Tampan
@@ -431,6 +439,16 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/mhBqE5bFTECo3R8J2VYKB0DQwMK.jpg", Luca
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Luca%202021.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/6iHQpFiTg0QbKYac5Mprhx7tXo3.jpg", Moana
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Moana%202016.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg", Hotel Transylvania
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel.Transylvania.2012.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/wbSi1iwk1yq97Cag4Dl845LfD6q.jpg", Hotel Transylvania 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel.Transylvania.2.2015.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/s3Yg2stxcMPzCUh5dNDcEg20cuC.jpg", Hotel Transylvania 3
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel_Transylvania_3_Summer_Vacation.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/30U6ge8wGarwkr8FdBwCQ0WwmH7.jpg", Wish Dragon
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Wish.Dragon.2021.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Wreckitralphposter.jpeg", Wreck It Ralph
@@ -476,7 +494,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX182_CR0,0,182,268_AL_.jpg", Spider-Man Into The Spider-Verse [Multi-Subs] [2018]
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Spider_Man_Into_the_Spider.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg", Spies In Disguise [Multi-Subs] [2019]
-https://api1.ohflix.workers.dev/0:/ohflix342/two/Random4%20Movies%20Malay%20Sub/Spies_in_Disguise_2019_720p_BluRay.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Spies.In.Disguise.2019.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0ZTQ1OWYtOTcyMi00OWVmLWJkNmEtY2I5OGEwYTJmM2Q1XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg", Nezha Reborn
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_UY268_CR3,0,182,268_AL_.jpg", Stand by Me Doraemon (2014)
@@ -518,6 +536,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/q1USrpUYiRkAj8ArEG5jUUXCCEo.jpg", Rang De
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Rang%20De.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/hVrC1y1lzsDuqqfM6OvxwKCFxt0.jpg", Jallikattu
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jallikattu%202019.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ry5Vs8Zjh2yWQ1NSODpDxLfI7ok.jpg", Chalk N Duster
@@ -748,6 +768,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/hcEstG4Lpj9fXzR6cljQ07W4rt.jpg", Pacific Rim
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Pacific%20Rim%202013.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg", Pacific Rim Uprising
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Pacific%20Rim%20Uprising%202018.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", Transporter
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Transporter%202002.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg", Transporter 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Transporter%202%202005.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ngpLhUccj6mlvAVpiIa7jUcFxhT.jpg", Transporter 3
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Transporter%203%202008.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg", Transporter Refueled
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Transporter%20Refueled%202015.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xKC4ko431SSrNzu2GrwcJmLujMg.jpg", SAS Red Notice
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/SAS_%20Red%20Notice%202021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/45FLfu74nXjhNHhbsTJ4ROsGLR5.jpg", Percy Jackson and The Lightning Thief
