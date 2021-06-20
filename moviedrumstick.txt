@@ -536,6 +536,20 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg", Jagame Thandhiram
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jagame%20Thandhiram%202021.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2JfAO5xeAvTme6t4QUgGUQpA6S6.jpg", Govindudu Andarivadele
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Govindudu%20Andarivadele%202014.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9r4LCgznHZWg2vdxbZRqnlFpKIC.jpg", Sarrainodu
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Sarrainodu%202016.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/euSAn9sVeS4Qnaj1ZWDw56gPi9W.jpg", Yevadu
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Yevadu%202014.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX.jpg", DJ
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/DJ_Duvvada%20Jagannadham%202017.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg", Race gurram
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Race%20Gurram%202014.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bsh8YdNxq66oH0MvJFd7hjlq6Fq.jpg", Iddarammayilatho
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Iddarammayilatho%202013.mp4 
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/q1USrpUYiRkAj8ArEG5jUUXCCEo.jpg", Rang De
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Rang%20De.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/hVrC1y1lzsDuqqfM6OvxwKCFxt0.jpg", Jallikattu
@@ -768,6 +782,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6wUN67cWo6mLlhsrSVxZY0pmlSq.jpg", A Quiet Place II
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/A%20Quiet%20Place%20Part%20II%202021.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlZjUwMjItNDc3Ny00NWFhLWEwZDItMTNjMThhZGFiNjYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg", Censor
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Censor%202021.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1x4fHaDdlpWT5P2UV4ClKguWbTE.jpg", The Purge
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Purge/The%20Purge%202013.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/f2HD5iVhJWWv72QVWThUKk09zYy.jpg", The Purge Anarchy
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Purge/The%20Purge%20Anarchy%202014.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/kvrHocRBDZmfJZTVf7ksg5p5xIc.jpg", The Purge Election Year
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Purge/The%20Purge%20Election%20Year%202016.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/litjsBoiydO6JlO70uOX4N3WnNL.jpg", The First Purge
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Purge/The%20First%20Purge%202018.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/hcEstG4Lpj9fXzR6cljQ07W4rt.jpg", Pacific Rim
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Pacific%20Rim%202013.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg", Pacific Rim Uprising
@@ -909,9 +935,9 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1036.jpg", Back to the Future Part III
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Backtothefutureiii1990720p%20Malayhardsub.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1300.jpg", Fantastic Beasts and Where to Find Them
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/Fantastic_Beasts_And_Where.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Fantastic_Beasts_And_Where_To_Find_Them.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1301.jpg", Fantastic Beasts: The Crimes of Grindelwald
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random3%20Movies%20Malay%20Sub/Fantastic_Beasts_The_Crimes.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Fantastic_Beasts__The_Crimes_of_Grindelwald_2018.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4366.jpg", Rush Hour 1
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Rush%20Hour%201%201998.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4367.jpg", Rush Hour 2
