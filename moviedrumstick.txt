@@ -792,7 +792,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="hhttps://image.tmdb.org/t/p/original/Jabww5OzSZrTyovwSYQ5UAzSyQ.jpg", Fatherhood
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/original/Jabww5OzSZrTyovwSYQ5UAzSyQ.jpg", Fatherhood
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Fatherhood%202021.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/xJUILftRf6TJxloOgrilOTJfeOn.jpg", Ad Astra
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Ad%20Astra.mp4
