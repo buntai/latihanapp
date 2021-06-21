@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
 http://cloudcdn.tk:80/ABattist/Hu755K4358/18805
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://mantul.biz.id:8888/jiwa/jiwa/11986
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
@@ -11,9 +11,9 @@ http://mantul.biz.id:8888/jiwa/jiwa/11985
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
 http://mantul.biz.id:8888/jiwa/jiwa/11737
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
-http://mantul.biz.id:8888/jiwa/jiwa/11736
+https://google-me.cdn.booyah.live/hls/113130/67464000.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
-http://cloudcdn.tk:80/januzahv/lJwZE9510/10170
+https://akamai2-me.cdn.booyah.live/hls/113132/66782630.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
