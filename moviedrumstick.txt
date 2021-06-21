@@ -1,5 +1,11 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2020/7masukjawi00_450.jpg", Masuk Jawi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Masuk.Jawi.2021.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-0SAlZfQGdDM/YMc9w_br0JI/AAAAAAAALzg/fl9MhhT1nEwLmnoq8A3215MahCYdhxWqgCLcBGAsYHQ/s16000/Sumpahan%2BOrang%2BPutih.jpg", Sumpahan Orang Putih SOP
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/SOP2021.mp4 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y1NTU2NzUtN2Q5My00NmY0LTk4YmQtOGY3MTUzOTkxZDg0XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Litar Kasih 1996
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Litar%20Kasih%201996.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-EJ36Ae9le7U/YCuX-tTx3TI/AAAAAAAAQQw/FYhqWDMQxbc9r0C-tKvZ_GujbBoB6LkkACLcBGAsYHQ/s721/Telefilem_Rujuk_TV2.jpg", Rujuk
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Rujuk%20(2021).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU1YmQzZjAtMzkyZi00N2NhLWIzMWYtNDUzZjg1MmZkNjE5XkEyXkFqcGdeQXVyODk1NzMxOTE@._V1_.jpg", J2: J Retribusi
@@ -217,6 +223,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qT6KI2jNiskkB4VuNz4uN0ng4Ro.jpg", Legend Of The Fist : The Return Of Chen Zhen
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Legend_Of_The_Fist_The_Return.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4Ht6RBo4fUmSo2tWE6umtNll58z.jpg", Miracle in Cell No 7
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Miracle%20in%20Cell%20No.%207%202013.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg", Rurouni Kenshin - The Final
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rur0un!_K3n5h!n_Th3_F!nl_2021WEB_DL.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/3sw2YRF0UR4jeZJ2yvpgk4qvMQK.jpg", Rurouni Kenshin - The Legend Ends
@@ -782,6 +792,28 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="hhttps://image.tmdb.org/t/p/original/Jabww5OzSZrTyovwSYQ5UAzSyQ.jpg", Fatherhood
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Fatherhood%202021.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/xJUILftRf6TJxloOgrilOTJfeOn.jpg", Ad Astra
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Ad%20Astra.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg", Men in Black International
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men_In_Black_International.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/uonzacqljyeKnxy1ENGA3JVZcYD.jpg", Clear and Present Danger 1994
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Clear%20and%20Present%20Danger%201994.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/iOOvxhsXjovO3DcycuRMlLQJP6l.jpg", Batman (1989)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/Batman%20(1989)%20BluRay%20REMASTERED.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/kfpyy1d9ZgUzQ3KV0x2ZfR7Iuek.jpg", Batman Returns (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/Batman%20Returns%20(1992)%20BluRay%20REMASTERED.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jalleaH3GKbuQWvXqCZJFZ7i8hD.jpg", Batman Forever (1995) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/Batman%20Forever%20(1995)%20BluRay%20REMASTERED.mkv 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bsg0mrxUKyJoL4oSGP5mlhEsqp.jpg", Batman and Robin (1997)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/Batman%20and%20Robin%20(1997)%20BluRay%20REMASTERED.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg", Batman Begins (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/Batman%20Begins%20(2005)%20BluRay%20REMASTERED.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg", The Dark Knight (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/The%20Dark%20Knight%20(2008)%20BluRay%20REMASTERED.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg", The Dark Knight Rises (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Batman/The.Dark.Knight.Rises.2012.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6wUN67cWo6mLlhsrSVxZY0pmlSq.jpg", A Quiet Place II
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/A%20Quiet%20Place%20Part%20II%202021.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlZjUwMjItNDc3Ny00NWFhLWEwZDItMTNjMThhZGFiNjYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg", Censor
