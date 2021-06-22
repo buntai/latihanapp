@@ -1,5 +1,19 @@
--= vagabond =-
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", ━━━━━━━━━━━━━━━💖 Love Elsa 💖━━━━━━━━━━━━━━━ 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/LOVE%20ELSA%20MV.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP01
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP1.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP02
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP2.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP03
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP3.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP04
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP4.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP05
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP5.mp4
 
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", ━━━━━━━━━━━━━━━🔫 vagabond 🔫━━━━━━━━━━━━━━━
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Vagabond.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", VAGABOND Ep 1-2
 https://sagiri-chan.scoxy.workers.dev/0:/Drakor/25.%20Vagabond/Vagabond.E01-E02.190920.360p-NEXT.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", VAGABOND Ep 3-4
