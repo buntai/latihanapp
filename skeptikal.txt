@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
 http://cloudcdn.tk:80/ABattist/Hu755K4358/18805
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://ott-cdn.ucom.am/s83/03.m3u8
+http://mantul.biz.id:8888/jiwa/jiwa/268
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://mantul.biz.id:8888/jiwa/jiwa/11986
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
@@ -11,13 +11,13 @@ http://mantul.biz.id:8888/jiwa/jiwa/11985
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
 http://mantul.biz.id:8888/jiwa/jiwa/11737
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
-https://google-me.cdn.booyah.live/hls/113130/67464000.m3u8
+http://mantul.biz.id:8888/jiwa/jiwa/15
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 https://akamai2-me.cdn.booyah.live/hls/113132/66782630.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
-http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
+http://tv.rebeliptv.com:83/91595487/07862755/381218.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
-https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
+http://tv.rebeliptv.com:83/91595487/07862755/381217.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
 http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
 
