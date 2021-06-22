@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
 http://cloudcdn.tk:80/ABattist/Hu755K4358/18805
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://mantul.biz.id:8888/jiwa/jiwa/6274
+http://tv.rebeliptv.com:83/91595487/07862755/385813.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://mantul.biz.id:8888/jiwa/jiwa/11986
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
@@ -20,6 +20,8 @@ http://tv.rebeliptv.com:83/91595487/07862755/254102.ts
 http://tv.rebeliptv.com:83/91595487/07862755/254103.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
 http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
+
+
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1 [B]
@@ -812,6 +814,8 @@ http://mantul.biz.id:8888/jiwa/jiwa/8316
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
 #EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", Discovery SCI
 http://mantul.biz.id:8888/jiwa/jiwa/5016
+#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hu-the-fishing-hunting-channel-4312.jpg", Fishing & Hunting
+http://tv.rebeliptv.com:83/91595487/07862755/378272.ts
 #EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fishing_tv_kr.png", Fishing TV
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Nat Geo TH
