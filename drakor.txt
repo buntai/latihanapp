@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", ━━━━━━━━━━━━━━━💖 Love Elsa 💖━━━━━━━━━━━━━━━ 
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/LOVE%20ELSA%20MV.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", 💖 Love Elsa Trailer 💖 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Love%20Elsa%20Trailer.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP01
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP1.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP02
@@ -12,7 +12,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENU
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP5.mp4
 
 
-#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", ━━━━━━━━━━━━━━━🔫 vagabond 🔫━━━━━━━━━━━━━━━
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", 🔫 vagabond Trailer 🔫
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Vagabond.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", VAGABOND Ep 1-2
 https://sagiri-chan.scoxy.workers.dev/0:/Drakor/25.%20Vagabond/Vagabond.E01-E02.190920.360p-NEXT.mp4
@@ -47,8 +47,8 @@ https://sagiri-chan.scoxy.workers.dev/0:/Drakor/25.%20Vagabond/Vagabond.E29-E30.
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", VAGABOND Ep 31-32END
 https://sagiri-chan.scoxy.workers.dev/0:/Drakor/25.%20Vagabond/Vagabond.E31-E32.END.191123.360p-NEXT.mp4
 
--= Mother =-
-
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Mother_%28South_Korean_TV_series%29.jpg/250px-Mother_%28South_Korean_TV_series%29.jpg", 👩 Mother Trailer 👩
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Mothers%20(2018).mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Mother_%28South_Korean_TV_series%29.jpg/250px-Mother_%28South_Korean_TV_series%29.jpg", Mother Ep 1
 https://sagiri-chan.scoxy.workers.dev/0:/Drakor/18.%20Mother/Mother.E01.ID.360p.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Mother_%28South_Korean_TV_series%29.jpg/250px-Mother_%28South_Korean_TV_series%29.jpg", Mother Ep 2
