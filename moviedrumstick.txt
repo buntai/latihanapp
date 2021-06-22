@@ -1,5 +1,11 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y4ZDkyZGQtNjQ3ZS00ZjJiLWIwMGQtN2M4ZDg3M2I0NjM2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Longkai
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/LONGKAI.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4OTczYmQtMTQxMC00NTMxLWE2MGQtZGIyNDc0NDhlMGM4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Anak Halal
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Anak%20Halal.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="http://1.bp.blogspot.com/-4_44J6TcDok/TWPyCskdjkI/AAAAAAAAARU/XQ0NSkBHY1E/s1600/RombonganCikKiah.jpg", Rombongan Cik Kiah Ke Sukan Komanwel
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Rombongan%20Cik%20Kiah%20Ke%20Sukan%20Komanwel.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2020/7masukjawi00_450.jpg", Masuk Jawi
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Masuk.Jawi.2021.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-0SAlZfQGdDM/YMc9w_br0JI/AAAAAAAALzg/fl9MhhT1nEwLmnoq8A3215MahCYdhxWqgCLcBGAsYHQ/s16000/Sumpahan%2BOrang%2BPutih.jpg", Sumpahan Orang Putih SOP
@@ -223,6 +229,12 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8tE4MhhuWHize6pNyxAtakUyNZc.jpg", Fabricated City
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Fabricated.City.2017.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/t4zmzNkZpHxrl1RYKjG54JIQQmx.jpg", Kill Zone
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/SPL%20Kill%20Zone%20(2005).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/lTfR7rMkLSguHCfhHRqUxzd1XiO.jpg", Kill Zone 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Kill%20Zone%202%20(2015).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qT6KI2jNiskkB4VuNz4uN0ng4Ro.jpg", Legend Of The Fist : The Return Of Chen Zhen
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Legend_Of_The_Fist_The_Return.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4Ht6RBo4fUmSo2tWE6umtNll58z.jpg", Miracle in Cell No 7
@@ -546,6 +558,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNTM4Mzc5NV5BMl5BanBnXkFtZTcwNjgxMjMyMg@@._V1_.jpg", Singh is Kingg
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Singh%20Is%20Kinng.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg", Jagame Thandhiram
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jagame%20Thandhiram%202021.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2JfAO5xeAvTme6t4QUgGUQpA6S6.jpg", Govindudu Andarivadele
@@ -792,12 +806,22 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/neo50PMS8QZhl4VdzXAF1Cz3sPz.jpg", Men in Black
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men%20In%20Black%20(1997).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg", Men in Black 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men%20In%20Black%202%20(2002).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg", Men in Black 3
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men.In.Black.3.2012.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg", Men in Black International
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men_In_Black_International.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg", Sister Act
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Sister%20Act%20(1992).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dlkBp5S6Ei5f54031rAhyb4IwML.jpg", Sister Act 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Sister%20Act%202-%20Back%20in%20the%20Habit%20(1993).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/original/Jabww5OzSZrTyovwSYQ5UAzSyQ.jpg", Fatherhood
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Fatherhood%202021.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/xJUILftRf6TJxloOgrilOTJfeOn.jpg", Ad Astra
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Ad%20Astra.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg", Men in Black International
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men_In_Black_International.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/uonzacqljyeKnxy1ENGA3JVZcYD.jpg", Clear and Present Danger 1994
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Clear%20and%20Present%20Danger%201994.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/iOOvxhsXjovO3DcycuRMlLQJP6l.jpg", Batman (1989)
