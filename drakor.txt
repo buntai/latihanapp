@@ -10,6 +10,44 @@ https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENU
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP4.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP05
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP5.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP06
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP6.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP07
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP7.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP08
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP8.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP09
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP9.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP10
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP10.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP11
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP11.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP12
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP12.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP13
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP13.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP14
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP14.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP15
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP15.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP16
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP16.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP17
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP17.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP18
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP18.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP19
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP19.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP20
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP20.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP21
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP21.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP22
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP22.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP23
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP23.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP24 END
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Love%20Elsa/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP24.mp4
 
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/f/f9/Vagabond_%28Korean_Drama%29-P1.jpg", 🔫 vagabond Trailer 🔫
