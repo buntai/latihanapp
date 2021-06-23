@@ -494,15 +494,15 @@ https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/tsport2.jpg", TRUE SPORT HD 2
 https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/tsport3.jpg", TRUE SPORT HD 3
-https://sport.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/tsport4.jpg", TRUE SPORT HD 4
 http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesport5.jpg", TRUE SPORT HD 5
-https://sport.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+https://sport.livedoomovie.com/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesport6.jpg", TRUE SPORT HD 6
-https://sport.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+https://sport.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesport7.jpg", TRUE SPORT HD 7
-https://sport.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+https://sport.livedoomovie.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png", SPORTTV 1 [B]
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png", SPORTTV 2 [B]
