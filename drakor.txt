@@ -120,40 +120,40 @@ https://sagiri-chan.scoxy.workers.dev/0:/Drakor/18.%20Mother/Mother.E15.ID.360p.
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Mother_%28South_Korean_TV_series%29.jpg/250px-Mother_%28South_Korean_TV_series%29.jpg", Mother Ep 16END
 https://sagiri-chan.scoxy.workers.dev/0:/Drakor/18.%20Mother/Mother.E16.END.ID.360p.mp4
 
--= Hotel Del Luna =-
-
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", 🏨 Hotel Del Luna 🏨
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/HOTEL%20DEL%20LUNA%20(2019)%20-%20TRAILER.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP1
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E01.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E01.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP2
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E02.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E02.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP3
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E03.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E03.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP4
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E04.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E04.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP5
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E05.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E05.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP6
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E06.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E06.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP7
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E07.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E07.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP8
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E08.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E08.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP9
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E09.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E09.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP10
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E10.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E10.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP11
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E11.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E11.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP12
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E12.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E12.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP13
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E13.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E13.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP14
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E14.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E14.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP15
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E15.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E15.720p.BluRay.x264-PaHe.Bia2HD.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP16
-http://s27.bitdl.ir/Series/Hotel.Del.Luna/Hotel.Del.Luna.S01E16.720p.BluRay.x264-PaHe.Bia2HD.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E16.720p.BluRay.x264-PaHe.Bia2HD.mkv
 
 -= Wu Assassins =-
 
