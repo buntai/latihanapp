@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/36/LailaIsabella%28poster%29.jpg", Laila Isabella [2003]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Laila%20Isabella%20(2003).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y4ZDkyZGQtNjQ3ZS00ZjJiLWIwMGQtN2M4ZDg3M2I0NjM2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Longkai
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/LONGKAI.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4OTczYmQtMTQxMC00NTMxLWE2MGQtZGIyNDc0NDhlMGM4XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Anak Halal
@@ -229,6 +231,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg", Kungfu Hustle
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Kung.fu.Hustle.2004.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8tE4MhhuWHize6pNyxAtakUyNZc.jpg", Fabricated City
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Fabricated.City.2017.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/t4zmzNkZpHxrl1RYKjG54JIQQmx.jpg", Kill Zone
@@ -558,6 +562,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/acmxEkjFvnEkbcQktqNyTenBciH.jpg", English Vinglish
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/English%20Vinglish%20(2012).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNTM4Mzc5NV5BMl5BanBnXkFtZTcwNjgxMjMyMg@@._V1_.jpg", Singh is Kingg
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Singh%20Is%20Kinng.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg", Jagame Thandhiram
@@ -806,6 +812,32 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg", The mummy [1999]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/The%20Mummy%20(1999)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg", The Mummy Return [2001]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/The%20Mummy%20Returns%20(2001).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg", The Mummy Tomb of Dragon Emperor [2008]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/he_Mummy__Tomb_Of_The_Dragon_Emperor_2008.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg", The Mummy [2017]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/The%20Mummy%20(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious [2001]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/The%20Fast%20And%20The%20Furious%20(2001)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg", 2 Fast 2 Furious [2003]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/2%20Fast%202%20Furious%20(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg", The Fast and The Furious Tokyo Drift [2006]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/The_Fast_And_The_Furious__Tokyo_Drift_2006_Subs_Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg", Fast and Furious [2009]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20&%20Furious%20(2009)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg", Fast Five [2011]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20Five%20(2011)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg", Fast and Furious 6 [2013]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20&%20Furious%206%20(2013)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg", Furious 7 [2015]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast%20&%20Furious%207%20(2015)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg", The Fate Of The Furious [2017]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/The%20Fate%20Of%20The%20Furious%20(2017)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", Fast & Furious Presents Hobbs & Shaw [2019]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/Fast_&_Furious_Presents__Hobbs_&_Shaw_2019_Subs_Malay.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/neo50PMS8QZhl4VdzXAF1Cz3sPz.jpg", Men in Black
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Men%20In%20Black%20(1997).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg", Men in Black 2
