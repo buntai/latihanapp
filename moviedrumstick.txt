@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7JknHNRvsk0TkqReZlzOnpbH83g.jpg", KL Gangster 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Kl%20Gangster%202%20(2013)%20Malay.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/36/LailaIsabella%28poster%29.jpg", Laila Isabella [2003]
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Laila%20Isabella%20(2003).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y4ZDkyZGQtNjQ3ZS00ZjJiLWIwMGQtN2M4ZDg3M2I0NjM2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Longkai
@@ -231,6 +233,14 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cxYCqMGX3vlBfFNO5RrCUZ2LONS.jpg", Surga Yang Tak Dirindukan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga%20Yang%20tak%20Di%20rindukan.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ifugXbVH4OGhc1QQuGIh4QITdsU.jpg", Surga Yang Tak Dirindukan II
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga%20Yang%20Tak%20Dirindukan%202%20(2017).MP4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8eyygpvyWwFRhh5y8f6A8HKOyQe.jpg", Surga Yang Tak Dirindukan III
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Surga_Yang_Tak_Dirindukan_3_2021_.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/76ltoEkrXnNitVPgyk8uA2yVXsv.jpg", Hafalan Shalat Delisa
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Hafalan%20Shalat%20Delisa%202011.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg", Kungfu Hustle
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Kung.fu.Hustle.2004.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8tE4MhhuWHize6pNyxAtakUyNZc.jpg", Fabricated City
@@ -562,6 +572,12 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg", Ala vaikunthapurramulo
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Ala%20Vaikunthapurramuloo%20(2020).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg", Kaithi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kaithi%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg", Anjaan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Anjaan%20(2014)%20malay%20sub.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/acmxEkjFvnEkbcQktqNyTenBciH.jpg", English Vinglish
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/English%20Vinglish%20(2012).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNTM4Mzc5NV5BMl5BanBnXkFtZTcwNjgxMjMyMg@@._V1_.jpg", Singh is Kingg
@@ -812,6 +828,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/mc6B4XxCUsY29M5qU0BEBhxBa7t.jpg", The Amazing Spiderman
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Amazing%20Spider-Man%20(2012).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg", The Amazing Spiderman 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Amazing%20Spider-Man%202%20(2014).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg", The mummy [1999]
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Mummy%20Collection/The%20Mummy%20(1999)%20Subs%20Malay.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg", The Mummy Return [2001]
