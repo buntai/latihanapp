@@ -15,7 +15,7 @@ https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
-http://hottest.fit:8080/zain/zain123/34107
+http://txliveplay.vkeplus.com/tianxiatv/stream-990f35441f7b40118f2b54782cd0f843.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
 http://tv.rebeliptv.com:83/91595487/07862755/254103.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
