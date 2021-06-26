@@ -15,12 +15,11 @@ https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
-http://tv.rebeliptv.com:83/91595487/07862755/254102.ts
+http://hottest.fit:8080/zain/zain123/34107
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
 http://tv.rebeliptv.com:83/91595487/07862755/254103.ts
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
 http://cloudcdn.tk:80/januzahv/lJwZE9510/3639
-
 
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
@@ -73,7 +72,7 @@ http://mantul.biz.id:8888/jiwa/jiwa/195
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Citra [C]
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="108" tvg-chno="108" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", BOX OFFICE [TEST]
-http://geostream.me:8080/lasse6/lasse6/50889
+http://hottest.fit:8080/zain/zain123/50889
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="106" tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="105" tvg-chno="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Prima
@@ -96,6 +95,8 @@ http://mantul.biz.id:8888/jiwa/jiwa/1105
 http://tvms.me:8080/lynda/lynda/239
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [C]
 https://nonton.site:8443/irvan/irvan/37332
+#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [D]
+http://hottest.fit:8080/zain/zain123/9613
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
@@ -226,31 +227,31 @@ http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Mediacorp_Channel_8.jpg", CH-8
 http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg", CH-U
-http://geostream.me:8080/lasse6/lasse6/9602
+http://hottest.fit:8080/zain/zain123/9602
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png", CHANNEL NEWS ASIA
 http://45.126.83.51/uq2663/h/h29/01.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://pbs.twimg.com/profile_images/813353685128511488/X33CBMGa_400x400.jpg", Eleven Sport HD
 http://cloudcdn.tk:80/ABattist/Hu755K4358/15197
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", Fox Sports FHD
-http://geostream.me:8080/lasse6/lasse6/30038
+http://hottest.fit:8080/zain/zain123/30038
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS 1 HD
-http://geostream.me:8080/lasse6/lasse6/7652
+http://hottest.fit:8080/zain/zain123/7652
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS 2
-http://geostream.me:8080/lasse6/lasse6/7653
+http://hottest.fit:8080/zain/zain123/7653
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS 3
-http://geostream.me:8080/lasse6/lasse6/7654
+http://hottest.fit:8080/zain/zain123/7654
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg", HBO ASIA
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://i.ytimg.com/vi/8rzOqDvXEcI/maxresdefault.jpg", MIAO MI
-http://geostream.me:8080/lasse6/lasse6/9600
+http://hottest.fit:8080/zain/zain123/9600
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://www.mediacorp.sg/image/8917556/1x1/250/250/211e2bdeef49fedd511d766e25f00c26/ug/okto--p-.jpg", OKTO
-http://geostream.me:8080/lasse6/lasse6/9599
+http://hottest.fit:8080/zain/zain123/9599
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png", SURIA
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN HD
-http://geostream.me:8080/lasse6/lasse6/9611
+http://hottest.fit:8080/zain/zain123/9611
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://www.mediacorp.sg/image/8918492/1x1/250/250/3e3c60e584f53301004f632826ef30b0/hv/vasantham--p-.jpg", VASANTHAM
-http://geostream.me:8080/lasse6/lasse6/9597
+http://hottest.fit:8080/zain/zain123/9597
 
 ==============================================================
 
@@ -498,11 +499,11 @@ https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/tsport4.jpg", TRUE SPORT HD 4
 http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesport5.jpg", TRUE SPORT HD 5
-https://sport.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+https://sport.livedoomovie.com/02_sport5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesport6.jpg", TRUE SPORT HD 6
-https://sport.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+https://sport.livedoomovie.com/02_sport6_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesport7.jpg", TRUE SPORT HD 7
-https://sport.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+https://sport.livedoomovie.com/02_sport7_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png", SPORTTV 1 [B]
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png", SPORTTV 2 [B]
@@ -529,6 +530,8 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.tennistv.com/images/og-image.png", Tennis TV
 http://203.154.243.31:8081/live/tennis/index.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/09/Untitled-design-61.png", Samsung Plus
+https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png", Fightbox
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Stadium_logo_2017.png", Stadium
