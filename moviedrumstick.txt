@@ -737,7 +737,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Guna%20369%2
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Raat_Akeli_Hai_film_poster.jpg", Raat Akeli Hai
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/34/Raat%20Akeli%20Hai%202020-indo.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg", Radhe
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil12/ok/Radhe%202021ok.mp4#https://calm-rain-70b4.buntai.workers.dev/0:/movie/Radhe.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Radhe.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg/220px-Main_Prem_Ki_Diwani_Hoon_Film_Poster.jpg", Main Pren Ki Diwani Hoon
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/MainPremKiDiwaniHoon.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2M2E3NTEtYWMyNy00NGMyLWJjNzgtYWIyZjBiM2I2ZGRkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg", Chaavu kaburu challaga
@@ -749,7 +749,7 @@ https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil6/Kick.2014.Bl
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg", 3 Idiots (2009)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/297.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/589.jpg", Ratsasan
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Ratsasan%20HDRip%20(2018).mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Ratsasan%20(2018).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Raatchasi_Poster.jpg", Raatchasi (2019)
 https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Raatchasi%20HDRip%20(2019).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/169001-170000/169160.jpg", Darbar (2020)
