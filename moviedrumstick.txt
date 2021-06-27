@@ -165,7 +165,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/AkuPosmen.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lcLHTYBgFM5AnvEsTbVk9wd4QZa.jpg", Penunggang Agama
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/PA2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eTXl4uCDm4N0Cr2RV4qpnnKf1Q5.jpg", Bulan dan Pria Terhebat
-http://tvms.me:8080/movie/marisa/marisa/5671.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bulan.dan.Pria.Terhebat.2020.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wJRsDjQPiZbLYG6RmQirFS7ssTQ.jpg", Desolasi
 https://misty-dust.evanwinters.workers.dev/0:/public/Desolasi.2016.1080p.WEB.2CH.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlZmRhOGItYTMyOC00ODQzLTk2OWMtYmJkNjJlYzUxYzk4XkEyXkFqcGdeQXVyODQ0NDE3MjM@._V1_UX182_CR0,0,182,268_AL_.jpg", 7ujuh
