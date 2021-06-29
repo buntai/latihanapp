@@ -120,7 +120,7 @@ https://sagiri-chan.scoxy.workers.dev/0:/Drakor/18.%20Mother/Mother.E15.ID.360p.
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Mother_%28South_Korean_TV_series%29.jpg/250px-Mother_%28South_Korean_TV_series%29.jpg", Mother Ep 16END
 https://sagiri-chan.scoxy.workers.dev/0:/Drakor/18.%20Mother/Mother.E16.END.ID.360p.mp4
 
-#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", 🏨 Hotel Del Luna 🏨
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", 🏨 Hotel Del Luna Trailer 🏨
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/HOTEL%20DEL%20LUNA%20(2019)%20-%20TRAILER.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Hotel_Del_Luna.jpg", Hotel Del Luna EP1
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Hotel.Del.Luna/Hotel.Del.Luna.S01E01.720p.BluRay.x264-PaHe.Bia2HD.mkv
@@ -530,54 +530,56 @@ http://tvms.me:8080/series/lynda/lynda/1436.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="http://pm1.narvii.com/6934/10ea033d74e7bf484493f2f34a5da2d7091ad1c1r1-800-1200v2_uhq.jpg", What's Wrong With Secretary Kim S01 E16
 http://tvms.me:8080/series/lynda/lynda/1437.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="---|Sepahtu Reunion Live 2020|---" tvg-logo="" group-title="Series",---|Sepahtu Reunion Live 2020|---
-http://mu03.wanicelife.com:8880/YA243987jhgkj/34958734958/1735
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", |Sepahtu Reunion Live 2020 PROMO|
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/SEPAHTU%20REUNION%20LIVE%202020.mp4
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E01
-http://tvms.me:8080/series/lynda/lynda/3536.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2001.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E02
-http://tvms.me:8080/series/lynda/lynda/3537.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2002.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E03
-http://tvms.me:8080/series/lynda/lynda/3538.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2003.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E04
-http://tvms.me:8080/series/lynda/lynda/3539.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2004.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E05
-http://tvms.me:8080/series/lynda/lynda/3540.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2005.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E06
-http://tvms.me:8080/series/lynda/lynda/3541.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2006.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E07
-http://tvms.me:8080/series/lynda/lynda/3542.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2007.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E08
-http://tvms.me:8080/series/lynda/lynda/3543.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live/Sepahtu%20Reunion%20Live%202020%20Minggu%2008.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E09
-http://tvms.me:8080/series/lynda/lynda/3544.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%201.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E10
-http://tvms.me:8080/series/lynda/lynda/3545.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%202.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E11
-http://tvms.me:8080/series/lynda/lynda/3612.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%203.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E12
-http://tvms.me:8080/series/lynda/lynda/3748.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%204.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E13
-http://tvms.me:8080/series/lynda/lynda/3842.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%205.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E14
-http://tvms.me:8080/series/lynda/lynda/3937.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%206.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E15
-http://tvms.me:8080/series/lynda/lynda/4011.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%207.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E16
-http://tvms.me:8080/series/lynda/lynda/4155.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%208.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E17
-http://tvms.me:8080/series/lynda/lynda/4296.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%209.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E18
-http://tvms.me:8080/series/lynda/lynda/4297.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%2010.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E19
-http://tvms.me:8080/series/lynda/lynda/4424.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%2011.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E20
-http://tvms.me:8080/series/lynda/lynda/4551.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%2012.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-B9ez81phxMg/XiUzlWJ2uqI/AAAAAAABDkQ/o3vKT8WYWS42z2ns8mW7UKsGYxIUfBEIwCLcBGAsYHQ/s1600/sepahtu-reunion-live-2020-terbaru.jpg", Sepahtu Reunion LIVE 2020 S01 E21
-http://tvms.me:8080/series/lynda/lynda/4614.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2020/%5B2020%5D%20Sepahtu%20Reunion%20Live%20Part%202/Sepahtu%20Reunion%20Live%202020%20Part%202%20Minggu%2013.mkv
 
--= Kimetsu No Yaiba =-
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w500/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg" group-title="Anime", -= Kimetsu No Yaiba PROMO=-
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/kimetsu%20trailer.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBBiqP5rAhIpZt54b5fA0DFuhCQ.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E01
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%2520No%2520Yaiba/Anime%2520Lovers~001%2520Kimetsu%2520no%2520Yaiba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6FDohDeTXr5fFygIEO0EOQmhq0.jpg" group-title="Anime",Demon Slayer: Kimetsu no Yaiba S01 E02
