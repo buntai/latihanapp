@@ -235,6 +235,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fYaLA6hmXPRnJqk4XHS2O82Rzph.jpg", Water And Fire [Su ve Ateş]
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Water%20And%20Fire%20%5BSu%20ve%20Ate%C5%9F%5D%20(2013).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iTcQK4nPROXM0S20WiBYV7OVu7y.jpg", Evim Sensin-You're my home
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Evim%20Sensin-You're%20my%20home.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wK3AKi23QZ78mthGuJLPEy4DNot.jpg", The Teacher's Diary
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Teacher's%20Diary.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg", Alas Pati Hutan Mati
@@ -481,6 +485,8 @@ http://mantul.biz.id:8888/movie/gibran/gibran/1400.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg", The One And Only Ivan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/The.One.And.Only.Ivan.2020.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/mhBqE5bFTECo3R8J2VYKB0DQwMK.jpg", Luca
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Luca%202021.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/6iHQpFiTg0QbKYac5Mprhx7tXo3.jpg", Moana
