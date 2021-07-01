@@ -946,45 +946,46 @@ http://tvms.me:8080/series/lynda/lynda/6126.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg", Sisyphus: The Myth S01 E16
 http://tvms.me:8080/series/lynda/lynda/6127.mp4
 
--= Vincenzo =-
 
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", -= Vincenzo Trailer =-
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Vincenzo%20-%20Official%20Trailer.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E01
-http://tvms.me:8080/series/lynda/lynda/5284.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP1.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E02
-http://tvms.me:8080/series/lynda/lynda/5296.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP2.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E03
-http://tvms.me:8080/series/lynda/lynda/5351.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP3.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E04
-http://tvms.me:8080/series/lynda/lynda/5500.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP4.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E05
-http://tvms.me:8080/series/lynda/lynda/5546.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP5.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E06
-http://tvms.me:8080/series/lynda/lynda/5694.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP6.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E07
-http://tvms.me:8080/series/lynda/lynda/5773.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP7.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E08
-http://tvms.me:8080/series/lynda/lynda/5781.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP8.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E09
-http://tvms.me:8080/series/lynda/lynda/5793.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP9.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E10
-http://tvms.me:8080/series/lynda/lynda/5862.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP10.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E11
-http://tvms.me:8080/series/lynda/lynda/5869.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP11.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E12
-http://tvms.me:8080/series/lynda/lynda/5976.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP12.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E13
-http://tvms.me:8080/series/lynda/lynda/5987.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP13.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E14
-http://tvms.me:8080/series/lynda/lynda/6056.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP14.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E15
-http://tvms.me:8080/series/lynda/lynda/6124.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP15.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E16
-http://tvms.me:8080/series/lynda/lynda/6125.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP16.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E17
-http://tvms.me:8080/series/lynda/lynda/6226.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP17.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E18
-http://tvms.me:8080/series/lynda/lynda/6303.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP18.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E19
-http://tvms.me:8080/series/lynda/lynda/6308.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP19.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E20
-http://tvms.me:8080/series/lynda/lynda/6320.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP20.mp4
