@@ -240,14 +240,16 @@ http://hottest.fit:8080/zain/zain123/9597
 
 ==============================================================
 
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 1
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 2
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 3
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 4
 http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 5
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg", &FLix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", &Prive
