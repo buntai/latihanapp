@@ -1,5 +1,9 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/12/sikit-punya-gila.jpg", Sikit Punya Gila
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sikit.Punya.Gila.1982.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-INoli1amllM/YM3Q_BDO0LI/AAAAAAAAL1I/IVP9LcqvJG4vhyyDGSkXe_cGDuhCGrwHgCLcBGAsYHQ/s16000/Sabda%2BKekasih.jpg", Sabda Kekasih
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sabda_Kekasih_2021.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljN2FjZGYtMjZjMi00YWFlLWJiMzktMGRmOGE0YTFiODVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Ada apa dengan Dosa
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ada%20Apa%20Dengan%20Dosa%20(2020).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/AjD8P7wzoEaNZiAN0bIAfT6GgiR.jpg", Tentang Bulan
@@ -239,6 +243,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vSPoarrbwSbxRqQzaym3CR1248f.jpg", Kabir Azabi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Kabir%20Azabi%20(2018).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fYaLA6hmXPRnJqk4XHS2O82Rzph.jpg", Water And Fire [Su ve Ateş]
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Water%20And%20Fire%20%5BSu%20ve%20Ate%C5%9F%5D%20(2013).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iTcQK4nPROXM0S20WiBYV7OVu7y.jpg", Evim Sensin-You're my home
@@ -596,6 +602,16 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/a0hFV8G0ofyPgPEjVcYrueuxFex.jpg", Bharat ennum naan
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bharat%20Ennum%20Naan.%5B2018%5D.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sJoSrecqwuZMPMzUGn5jXpNwEq0.jpg", Srimanthudu
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Srimanthudu%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dYpqpA7BsDHeyAGs9AAEPhZmbck.jpg", Nenokkadine
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Nenokkadine%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4pAnEs9FUCP3ul0KN1pLYP9FSBa.jpg", Aagadu
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Aagadu%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sWxWTWCdMfjL8CmoVdQWttifBSd.jpg", Sarileru neekevvaru
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Sarileru%20Neekevvaru%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oQq3FMD952F8Rnu619O2boTK1Do.jpg", S/O SATYAMURTHY
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/O%20Satyamurthy%20(2015).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/e9xpMjUrCin4570EzfwoqNbzDUN.jpg", Simmba
@@ -864,6 +880,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lj9R6heQZ56MXGVOavm5Kwk09WY.jpg", The Tomorrow War
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Tomorrow%20War%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg", Inception
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Inception%20(2010).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg", The Help
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Help%20(2011)%20Malay%20Dubbed.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/y8JiPXEF1KbmdqajrYWCxecFN9i.jpg", The Cabin in The Woods
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Cabin%20in%20the%20Woods%20(2011).mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/a4Ce3qHqIyHM3QfGsiVTAu3YADJ.jpg", How to be Single
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/How.To.Be.Single.2016.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg", The Silence of the lambs
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Silence%20of%20the%20Lambs%20(1991).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/b1C0FuXp4wiPmHLVKq4kwtDMgK6.jpg", The Witches
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Witches%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/glABNvEPMD2563nKu4mUynR65uk.jpg", Focus
