@@ -243,6 +243,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aWb6xs97lI41XSn6BVnOZvC6aEo.jpg", Future Cops
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Future%20Cops%201993.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vSPoarrbwSbxRqQzaym3CR1248f.jpg", Kabir Azabi
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Kabir%20Azabi%20(2018).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fYaLA6hmXPRnJqk4XHS2O82Rzph.jpg", Water And Fire [Su ve Ateş]
@@ -880,6 +882,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oht9CZHNDBEu5KitgxUsb0LhQ8v.jpg", The Hitman Wife's Bodyguard
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Hitman%20Wife's%20Bodyguard.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg", The Hitman's Bodyguard
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Hitman's%20Bodyguard%20(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYxOTdkYTgtMDAzNC00ZWE4LWFmYmMtYjQwYWYxNGI2YjhmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg", Till Death
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Till_Death_(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuXslrAES0c2i2tZhjOPaeptZ6y.jpg", Superdeep
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Superdeep%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/o6EsOqITcSzcdwD1zxBM9imdxjr.jpg", What Happened To Monday 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/What%20Happened%20to%20Monday%20(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg", Chaos Walking
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Chaos%20Walking%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lj9R6heQZ56MXGVOavm5Kwk09WY.jpg", The Tomorrow War
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Tomorrow%20War%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg", Inception
