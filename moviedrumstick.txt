@@ -604,6 +604,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zejwoq3989HuprbvRr9U9nL3fDh.jpg", Haseen Dillruba
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Haseen.Dillruba.2021.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/a0hFV8G0ofyPgPEjVcYrueuxFex.jpg", Bharat ennum naan
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bharat%20Ennum%20Naan.%5B2018%5D.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sJoSrecqwuZMPMzUGn5jXpNwEq0.jpg", Srimanthudu
@@ -882,6 +884,20 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ePYagdzUwKpzTP73n9CD3D1MFn.jpg", Rogue Hostage
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Rogue%20Hostage%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bpZ7Zi9wiJ53d92uO38O2Vjhz25.jpg", Out of Death
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Out.Of.Death.2021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg", Walking Tall
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Walking%20Tall%202004.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg", Lucy
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Lucy%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xjLK0EmD0MAM7B049SRCUQaqkdL.jpg", Date Movie
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Date%20Movie%20(2006).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3J8XKUfhJiNzwobUZVtizXYPe8b.jpg", Disaster Movie
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Disaster%20Movie%20(2008).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/l0lGJiTzU2Ce6T31DIRWv7I0kaC.jpg", Epic Movie
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Epic%20Movie%20(2007).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oht9CZHNDBEu5KitgxUsb0LhQ8v.jpg", The Hitman Wife's Bodyguard
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Hitman%20Wife's%20Bodyguard.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg", The Hitman's Bodyguard
