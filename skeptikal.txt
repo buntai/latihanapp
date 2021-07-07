@@ -5,7 +5,7 @@ https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
 http://dfgseughifboesajrf.com.global.prod.fastly.net/hls/bong11.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
@@ -15,11 +15,13 @@ https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
-http://91.126.141.13:1935/live/61/1800-def.m3u8
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
-http://176.222.164.71:80/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
+http://91.126.141.13:1935/live/61/1800-def.m3u8
+#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", F1 [When Live]
+http://5.146.3.193:8000/play/a085/index.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", MotoGP [When Live]
-http://cloudcdn.tk:80/en7oOZH298/KghPDo446/3639
+http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
@@ -137,7 +139,7 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png", Prima Delay
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna Backup
-http://hottest.fit:8080/zain/zain123/9612
+http://103.153.39.34:8000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA", Pertiwi TV
 http://ip.xtremetv.eu:8000/DgcrwTmJ9X/rrW722qh1i/49728#http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png",RTM Parlimen (Dewan Rakyat) (1080p)
@@ -253,7 +255,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", Sony PixHD
-http://mantul.biz.id:8888/sora/sora/6699
+http://103.157.237.18:8000/play/711
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png", Zee TV Cinema
+http://103.157.237.18:8000/play/320
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO GO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO FHD
@@ -347,7 +351,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B]
-http://iptv.tvmalaysia.cc:80/titi3/titi3/6707
+http://3.0.20.58:8000/play/Arena/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B2]
 http://mantul.biz.id:8888/sora/sora/4985
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B3]
@@ -374,18 +378,20 @@ http://cloudcdn.tk:80/en7oOZH298/KghPDo446/75535
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 2
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://images.tapology.com/logos/2532/profile/Top_Fight_MMA-logo.png", Top Fight
+http://159.192.73.198:1072/topfight
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj", UFC Fight
 http://mantul.biz.id:8888/sora/sora/2045
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+http://3.0.20.58:8000/play/ASSP1/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://3.0.20.58:8000/play/ASSP2/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+http://3.0.20.58:8000/play/ASSP3/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+http://3.0.20.58:8000/play/ASSP4/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="Sports🏆" ,Sony Ten 1 HD
 http://103.153.39.34:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="Sports🏆",Sony Ten 2 HD
@@ -527,7 +533,7 @@ http://cloudcdn.tk:80/en7oOZH298/KghPDo446/23452
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 3 MY
 http://cloudcdn.tk:80/en7oOZH298/KghPDo446/23451
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersports 4 MY
-http://cloudcdn.tk:80/en7oOZH298/KghPDo446/33973
+http://159.192.73.198:1072/astro4
 
 
 
@@ -576,7 +582,7 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png", ANIMAX [B]
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
+http://202.158.57.131/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS [B]
 http://tvms.me:8080/lynda/lynda/408
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://banner2.cleanpng.com/20181106/wx/kisspng-public-television-company-of-armenia-armenia-tv-pu-file1tv-am-logo-png-wikimedia-commons-5be1f8b62c46c0.3528177015415359261814.jpg", Tuntunik
@@ -759,7 +765,9 @@ http://mantul.biz.id:8888/sora/sora/11029
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png", Channel V 
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png", MTV
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
+https://nonton.site:8443/irvan/irvan/9110
+#EXTINF:-1 group-title="Music🎶" tvg-logo="https://www.kpopchannel.tv/wp-content/uploads/2019/05/kpopchannel.tv-display-logo.jpg", KPOP Channel
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_mus_0.jpg", MAXSTREAM Music
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg" group-title="Music🎶",Go-rtv Music
@@ -784,7 +792,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png", NAT GEO PEOPLE
 http://mantul.biz.id:8888/sora/sora/8314
 #EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png", Nat Geo Wild
