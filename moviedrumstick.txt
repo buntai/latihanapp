@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5RiNZslaMoykZd1ZOIRQARXJhOS.jpg", Busut Bonang
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Busut%20Bonang%20-2019.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/12/sikit-punya-gila.jpg", Sikit Punya Gila
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sikit.Punya.Gila.1982.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-INoli1amllM/YM3Q_BDO0LI/AAAAAAAAL1I/IVP9LcqvJG4vhyyDGSkXe_cGDuhCGrwHgCLcBGAsYHQ/s16000/Sabda%2BKekasih.jpg", Sabda Kekasih
@@ -117,9 +119,9 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/BAGINDA.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg", Kampung Zombie
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/Kampung%20zombie%20(2015)-indoDub.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7015.jpg", Siapa Dapat Lisa
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Siapa%20Dapat%20Lisa.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sepahtu%20-%20Siapa%20Dapat%20Lisa.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg", Tombiruo
-https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Tombiruo720.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tombiruo720.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7027.jpg", Taikun
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/TAIKUN.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7019.jpg", Songlap
@@ -622,6 +624,16 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkoW88ohBHLuyCcKjE6pSPuKfyS.jpg", Bengal Tiger
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/BENGAL%20TIGER%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/j8oXBlMivUy8sb7pf2aRMpD1rmc.jpg", HouseFull
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Housefull%20(2010).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/y6L3GpfXWqfO7COtUyiEeACH35G.jpg", HouseFull 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Housefull%202%20(2012).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6Udose5F7a9SdNf8HlNMovtDMM9.jpg", HouseFull 3
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Housefull%203%20(2016).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg", HouseFull 4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Housefull%204%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zOARINtSEjagdoWtrxaxn7rMoLu.jpg", Zombie Reddy
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Hindi/Zombie%20Reddy.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zejwoq3989HuprbvRr9U9nL3fDh.jpg", Haseen Dillruba
@@ -827,7 +839,7 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/297.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/589.jpg", Ratsasan
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Ratsasan%20(2018).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Raatchasi_Poster.jpg", Raatchasi (2019)
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Tamil-Hindi/Tamil4/Raatchasi%20HDRip%20(2019).mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Raatchasi_2019_720p_HDTV_Malay_Hardsub.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/169001-170000/169160.jpg", Darbar (2020)
 https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Darbar.2020.720p.WERip.x264.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc2ZTlmYmItMDBhYS00YmMzLWI4ZjAtMTI5YTBjOTFiMGEwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg", Soorarai Pottru (2020)
@@ -904,14 +916,16 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg", The Nutty Professor
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Nutty%20Professor.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg", Lovebirds
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The%20Lovebirds.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg", Werewolves Within
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Werewolves.Within.2021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg", Under Siege
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Under.Siege.1992.1080p.BrRip.x264.YIFY.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Under%20Siege%20(1992).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gElwFCQTbSK5hdK0PVyia547nst.jpg", Under Siege 2
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Under.Siege.2.Dark.Territory.1995
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Under%20Siege%202-%20Dark%20Territory%20(1995).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg", Bloodshot
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Bloodshot.2020
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ePYagdzUwKpzTP73n9CD3D1MFn.jpg", Rogue Hostage
