@@ -69,6 +69,8 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://mantul.biz.id:8888/sora/sora/195
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Citra [C]
 https://my.odtv.uk:443/9186897972/4075991752/19
+#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="108" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Citra [D]
+http://iptv.tvmalaysia.cc:80/penang100/penang100/7267
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="108" tvg-chno="108" tvg-logo="https://static02.astro.com.my/astro/media/astromain/tayanganhebat/fbshare_thumbnail_1.jpg", BOX OFFICE [TEST]
 https://my.odtv.uk:443/9186897972/4075991752/345
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="106" tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
@@ -88,9 +90,9 @@ http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD
-http://mantul.biz.id:8888/sora/sora/1105
+http://iptv.tvmalaysia.cc:80/penang100/penang100/6730
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [B]
-http://tvms.me:8080/lynda/lynda/239
+https://my.odtv.uk:443/9186897972/4075991752/13
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [C]
 https://nonton.site:8443/irvan/irvan/37332
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [D]
@@ -340,7 +342,7 @@ https://my.odtv.uk:443/9186897972/4075991752/467
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png", Sky Sports Premier League FHD
 https://my.odtv.uk:443/9186897972/4075991752/469
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
-https://my.odtv.uk:443/9186897972/4075991752/465
+https://list.iptvcat.com/my_list/s/b1d096ff981bcd9ca1c779772072a43c.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports 
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports [B]
@@ -369,11 +371,11 @@ http://cloudcdn.tk:80/en7oOZH298/KghPDo446/27937
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS HD MY
 http://cloudcdn.tk:80/en7oOZH298/KghPDo446/27938
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 1 FHD
-http://cloudcdn.tk:80/en7oOZH298/KghPDo446/75533
+http://3.0.20.58:8000/play/Bein1Premium/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 2 FHD
-http://cloudcdn.tk:80/en7oOZH298/KghPDo446/75534
+http://3.0.20.58:8000/play/Bein2Premium/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 3 FHD
-http://cloudcdn.tk:80/en7oOZH298/KghPDo446/75535
+http://3.0.20.58:8000/play/Bein3Premium/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 2
@@ -443,19 +445,19 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 4 B
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD1 HD
-http://sonyiptv.net:8080/saeed/saeed/133186
+http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD2 HD
-http://sonyiptv.net:8080/saeed/saeed/133187
+http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD3 HD
-http://sonyiptv.net:8080/saeed/saeed/133188
+http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD4 HD
-http://sonyiptv.net:8080/saeed/saeed/133189
+http://3.0.20.58:8000/play/Bein-Sport-4/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD5 HD
-http://sonyiptv.net:8080/saeed/saeed/133190
+http://3.0.20.58:8000/play/Bein-Sport-5/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD6 HD
-http://sonyiptv.net:8080/saeed/saeed/133191
+http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD7 HD
-http://sonyiptv.net:8080/saeed/saeed/133192
+http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg", BT Sport 1 [B]
 http://sonyiptv.net:8080/saeed/saeed/158764
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 1
@@ -765,7 +767,7 @@ http://mantul.biz.id:8888/sora/sora/11029
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png", Channel V 
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png", MTV
-https://nonton.site:8443/irvan/irvan/9110
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://www.kpopchannel.tv/wp-content/uploads/2019/05/kpopchannel.tv-display-logo.jpg", KPOP Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_mus_0.jpg", MAXSTREAM Music
