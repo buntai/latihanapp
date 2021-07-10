@@ -245,6 +245,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kskfZGybEmhmI5QgZHSkMcYuY12.jpg", All for The Winner
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/All%20For%20The%20Winner%201990.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/God_of_Gamblers_III_Back_to_Shanghai_DVD_cover.jpg", God of Gamblers 3 Back to Shanghai
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Gamblers%20III-%20Back%20to%20Shanghai.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oArxvGrUMFHso168DAthArDCbzX.jpg", Pipeline
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Pipeline.2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/70boqnvvnxtOZncRUZ0ynXgCZHA.jpg", The 8th Night
@@ -515,6 +519,8 @@ http://mantul.biz.id:8888/movie/sora/sora/1400.mp4
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/nyDU092PeGGcd6wUIzlhFoaWcyX.jpg", Ainbo Spirit of the Amazon
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/ainbospiritoftheamazon.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/5dExO5G2iaaTxYnLIFKLWofDzyI.jpg", The Boss Baby Family Business
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/The.Boss.Baby.Family.Business.2021.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg", Shrek
@@ -916,6 +922,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg", Black Widow
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Black%20Widow%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2QTIZdjqhSe40phTvlH8RN8na1Z.jpg", Meander
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/meander.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/kImKATjY4EsK5MDgrmpJdGbQEbq.jpg", Powder
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Powder.1995.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6VjlQBcM5573XopM07a07dsI6BM.jpg", Seuls a.k.a Alone 360p
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/SEULS%202017.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg", The Nutty Professor
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Nutty%20Professor.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg", Lovebirds
