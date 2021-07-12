@@ -632,6 +632,14 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tOjSnrKwI3qVKMHn5ofwc2K3Sm3.jpg", Vinaya vidheya rama 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Vinaya%20Vidheya%20Rama%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/n6HGrhMvhq6tYJV4nb2ktNZWXCn.jpg", Kadaram kondan 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kadaram%20Kondan%20(2019)%20malaysub.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3RYvVIZyNfYI6DRdljL42hA8zMr.jpg", Parugu 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Parugu_2008.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/riZCmY7daTN3MrLS9SUZSs6t8E3.jpg", Lockup 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Lockup%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkoW88ohBHLuyCcKjE6pSPuKfyS.jpg", Bengal Tiger
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/BENGAL%20TIGER%20(2015).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/j8oXBlMivUy8sb7pf2aRMpD1rmc.jpg", HouseFull
@@ -924,6 +932,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/wlZHiFwnwiLB94tN9cJBI10XgJq.jpg", Major Grom: Plague Doctor
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/mayorgromplaguedoktor.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eGMmMz8kz2EdYVblhADHgQCaUda.jpg", Kon tiki 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kon-Tiki%20(2012).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/DpFMAjyE6EmIknSduykVc1pB1J.jpg", Malasana 32
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/32%20Malasana%20Street%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7BVEl2hP21VZ1ymsXlCeoH1fBG8.jpg", Alexander and the Terrible, Horrible, No Good, Very Bad Day
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alexander%20and%20the%20Terrible,%20Horrible,%20No%20Good,%20Very%20Bad%20Day%20(2014).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eGMmMz8kz2EdYVblhADHgQCaUda.jpg", Bad Teacher 
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Bad%20Teacher%20(2011).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yHnbb6z8REuFIyBLT2Nj3MX54dY.jpg", The Other Woman 
