@@ -245,6 +245,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ggtQgembIFKJcSSeuxJocOklasp.jpg", Ayla The Daughter of War
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ayla%20The%20Daughter%20of%20War%20(2017).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg", Forgotten
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Forgotten%20(2017)%20.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kskfZGybEmhmI5QgZHSkMcYuY12.jpg", All for The Winner
@@ -932,6 +934,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dPOyYnCkRbWAEem85N3VFpQODf5.jpg", The Misfits
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Misfits%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg", Fear Street Part I 1994
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fear.Street.Part.1.1994.2021.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/cQywpstS8m9VyU0ho5E0KTNqd50.jpg", Fear Street Part II 1978
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fear%20Street%20Part%20Two_%201978%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/wlZHiFwnwiLB94tN9cJBI10XgJq.jpg", Major Grom: Plague Doctor
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/mayorgromplaguedoktor.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eGMmMz8kz2EdYVblhADHgQCaUda.jpg", Kon tiki 
