@@ -634,6 +634,22 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg", Dhruva 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Dhruva%20(2016).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xh9sPcIEIdco1EzBaEXmuPlZv44.jpg", Zanjeer 2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Zanjeer%20(2013).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oz1BLUe7bC6GWQpAa1aneMQFacI.jpg", Racha 2012
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Racha%20(2012).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qNYG0NLXcdZEW56pcOjrm0w6Vos.jpg", Bruce Lee : the fighter 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bruce%20Lee_%20The%20Fighter%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yiEzDgBBFC25Zd6z0r7sMngn5vr.jpg", Rangasthalam 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Rangasthalam%20(2018).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7IMOEfZ4QBFSo2Udi5DvVbyCDBq.jpg", Tagaru 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Tagaru%202018.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8HbknP82NFye7GCsL8L9vyWzMUM.jpg", Visaranai 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Visaranai%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/166Gz2EQFwvGEyWU1sDtxOiGVAE.jpg", Helen 2019 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Helen%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tOjSnrKwI3qVKMHn5ofwc2K3Sm3.jpg", Vinaya vidheya rama 
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Vinaya%20Vidheya%20Rama%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/n6HGrhMvhq6tYJV4nb2ktNZWXCn.jpg", Kadaram kondan 
@@ -934,6 +950,22 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1G3tE98K1dtsVzSgpevzboKEyXK.jpg", Anaconda 1997
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Anaconda%20(1997).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4glaIcIRw0IVmQKWYVK6CIo0zaU.jpg", Enough 2002
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Enough%20(2002).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg", Accident Man 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Accident%20Man%20(2018).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pol4sijgitQ0NRIel81gFT2tWJj.jpg", Horrible bosses 1 2011
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Horrible%20Bosses%20(2011).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/boBOkwIqgrs8noxBUSDkkicKa4K.jpg", Horrible bosses 2 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Horrible%20Bosses%202%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://s9n2e6r4.stackpathcdn.com/wp-content/uploads/2021/04/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg", Girl in the Basement 2012
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Girl%20in%20the%20Basement%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fUnSSQukwTwBSdCbufEE36petLq.jpg", Tears of the Sun 2003
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Tears%20Of%20The%20Sun(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg", Saving Private Ryan 1998
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Saving%20Private%20Ryan%20(1998).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dPOyYnCkRbWAEem85N3VFpQODf5.jpg", The Misfits
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Misfits%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg", Fear Street Part I 1994
