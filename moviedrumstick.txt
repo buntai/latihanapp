@@ -518,7 +518,7 @@ https://tutu.yuhuu.workers.dev/Indonesia/Ada%2520Apa%2520Dengan%2520Cinta%25202%
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rBjJIKnJCmpp7HHmmwME1kGyfWf.jpg", Gundala
 https://tutu.yuhuu.workers.dev/Indonesia/Gundala%2520(2019)/Gundala.2019.WEB-DL.720p.FMZM.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3v22y85Wv0N84fzFvNZxyBrZKYG.jpg", Lampor Keranda Terbang
-http://mantul.biz.id:8888/movie/sora/sora/1400.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%20Terbang%20(2019).mp4
 
 
 -= Toon =-
@@ -950,6 +950,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6SjRpaJg43iJnY0jlJ6c61tAKOo.jpg", Frozen 2010
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Frozen%202010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1G3tE98K1dtsVzSgpevzboKEyXK.jpg", Anaconda 1997
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Anaconda%20(1997).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4glaIcIRw0IVmQKWYVK6CIo0zaU.jpg", Enough 2002
