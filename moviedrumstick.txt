@@ -950,6 +950,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg", Now You See Me
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Now%20You%20See%20Me.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A81kDB6a1K86YLlcOtZB27jriJh.jpg", Now You See Me 2
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Now%20You%20See%20Me%202.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1Xcd5ci69pVXMPP02DU11Ffq0yY.jpg", Act of Valor
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Act%20of%20Valor.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6SjRpaJg43iJnY0jlJ6c61tAKOo.jpg", Frozen 2010
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Frozen%202010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1G3tE98K1dtsVzSgpevzboKEyXK.jpg", Anaconda 1997
