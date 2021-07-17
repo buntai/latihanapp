@@ -1,5 +1,13 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://images.moviefit.me/t/o/429558-superbike.jpg", Superbike
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Superbike.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-3CpXqfQAuyw/YKOKD9GnxQI/AAAAAAAALqo/d_iy49gJytMLYJld7A4iTwhpHQWuscciwCLcBGAsYHQ/s16000/Perkahwinan%2BDari....jpg", Perkahwinan Dari Neraka
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Perkahwinan%20Dari%20Neraka%20(2021).mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-cnWj8d1tnX8/YL4EZku9AiI/AAAAAAAALyA/EjxjDHrXvS4fj0qRQGWuFipOsw5LfybBgCLcBGAsYHQ/s16000/Mr%2BDrift.jpg", Mr Drift
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Mr.Drift.2021.HDTV.1080p.Astro.Citra.x265.AAC.WMFHD.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-PaMybrrYT1k/YCuA0vgEo_I/AAAAAAAALJI/6uTetNiye1svIJ-7XDEDQAfZuRj6LrkLACLcBGAsYHQ/s16000/Selamat%2BHari%2BX%2BJadi.jpg", Selamat Hari Tak Jadi
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Selamat%20Hari%20Tak%20Jadi%20(2021).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5RiNZslaMoykZd1ZOIRQARXJhOS.jpg", Busut Bonang
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Busut%20Bonang%20-2019.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2020/12/sikit-punya-gila.jpg", Sikit Punya Gila
@@ -245,6 +253,22 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://walter.trakt.tv/images/movies/000/672/549/posters/thumb/5e3a02f4d6.jpg", Monkey King The One and Only 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Monkey%20King_%20The%20One%20And%20Only%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1OGY4OTYtZTE4OS00YzljLTlhODAtZTc1ZDU3MWM3NzQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Deep 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Deep%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9YDKLbBmWGpxG5bO3TBawtNNOAr.jpg", Who Am I 1998
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Chinese/Who%20Am%20I-.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zC5x9meihPucQuXs8Kh0P42Xpeg.jpg", The Bodyguard 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Chinese/The%20Bodyguard%20(2016).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4iXga15SGU2ZAoHkJa7tXLKLPK9.jpg", Flash Point 2007
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Chinese/Flash%20Point.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9WlIH3LOgkCDbbT6BCcJ9gdMXCZ.jpg", Mahasiswi Baru 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/indo/Mahasiswi.Baru.2019.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8yZhPXBTlmpoAfpZl1FrsrPUEkK.jpg", Unstoppable 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/korea/Unstoppable%20(2018)%20malaysub.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sN7qH8ynEmcodtgPBwKyd2VbFr6.jpg", Secret Zoo 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/korea/Secret%20Zoo.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ggtQgembIFKJcSSeuxJocOklasp.jpg", Ayla The Daughter of War
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Ayla%20The%20Daughter%20of%20War%20(2017).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg", Forgotten
@@ -634,6 +658,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZhYWQ1MDMtNGEwNS00M2Q4LTgxMzMtMmFjYmU2NmEyNmQ0XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg", Toofan 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Toofaan%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4gLBfRbIwnYuQMMYiTexd5uySzb.jpg", 118 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Hindi/118%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg", Dhruva 2016
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Dhruva%20(2016).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xh9sPcIEIdco1EzBaEXmuPlZv44.jpg", Zanjeer 2013
@@ -950,6 +978,22 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w0y7mNCiiHdyo05KlguqQS28Frn.jpg", Space Jam 1996
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Space%20Jam%20(1996).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qN3N61YvOxH0awWiA6C34jqnPXS.jpg", Space Jam A New Legacy 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Space%20Jam_%20A%20New%20Legacy%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xnxGmUof0HiugUaNbUFiS4GJPx4.jpg", A Classis Horror Story 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/A%20Classic%20Horror%20Story%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9UnFhKtmKHq1pQDKLK3BA5OLkmE.jpg", Fear Street Part III 1666 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fear_Street_Part_3_1666_2021.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg", The Evil Dead 1981
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The%20Evil%20Dead.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8dnbGCISyBRxv5eYbN903H9SV0O.jpg", Evil Dead II 1987
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Evil%20Dead%20II.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mOsWtjRGABrPrqqtm0U6WQp4GVw.jpg", Army of Darkness 1992
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Evil%20Dead%20III-%20Army%20of%20Darkness.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg", 1917 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/1917.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg", Now You See Me
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Now%20You%20See%20Me.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A81kDB6a1K86YLlcOtZB27jriJh.jpg", Now You See Me 2
@@ -976,9 +1020,9 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Tears%20Of%20The%20Su
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Saving%20Private%20Ryan%20(1998).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dPOyYnCkRbWAEem85N3VFpQODf5.jpg", The Misfits
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Misfits%20(2021).mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg", Fear Street Part I 1994
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg", Fear Street Part I 1994 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fear.Street.Part.1.1994.2021.mkv
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/cQywpstS8m9VyU0ho5E0KTNqd50.jpg", Fear Street Part II 1978
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/cQywpstS8m9VyU0ho5E0KTNqd50.jpg", Fear Street Part II 1978 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fear%20Street%20Part%20Two_%201978%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/wlZHiFwnwiLB94tN9cJBI10XgJq.jpg", Major Grom: Plague Doctor
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/mayorgromplaguedoktor.mp4
