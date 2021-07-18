@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-LIwIgWDxMEU/YOBbWhM7_gI/AAAAAAAA2yg/qmTZe0531UM9_YwDic575aupjWoKLP8PgCLcBGAsYHQ/s16000/Filem%2BJangan%2BTakut-Kau%2BTakut%2BAku%2BPun%2BTakut.jpg", Jangan Takut Kalau Kau Takut Aku Pon Takut
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Jangan_Takut_Kalau_Kau_Takut_Aku_Pun_Takut_2021.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://images.moviefit.me/t/o/429558-superbike.jpg", Superbike
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Superbike.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-3CpXqfQAuyw/YKOKD9GnxQI/AAAAAAAALqo/d_iy49gJytMLYJld7A4iTwhpHQWuscciwCLcBGAsYHQ/s16000/Perkahwinan%2BDari....jpg", Perkahwinan Dari Neraka
@@ -658,6 +660,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdjNTMzYTEtNGJiYi00YmY1LThkNjItYzMxNzgzZTA4ZTM5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY1200_CR165,0,630,1200_AL_.jpg", Collar Bomb 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Collarbomb.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZhYWQ1MDMtNGEwNS00M2Q4LTgxMzMtMmFjYmU2NmEyNmQ0XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg", Toofan 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Toofaan%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4gLBfRbIwnYuQMMYiTexd5uySzb.jpg", 118 2018
@@ -978,6 +982,13 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g410Y1U1ELbmJG14Zru3UAimm1G.jpg", Jeepers Creepers 2001
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jeepers%20Creepers%20(2001).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg", Jeepers Creepers 2 2003
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jeepers%20Creepers%202%20(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg", Jeepers Creepers 3 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jeepers%20Creepers%203%20(2017).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w0y7mNCiiHdyo05KlguqQS28Frn.jpg", Space Jam 1996
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Space%20Jam%20(1996).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qN3N61YvOxH0awWiA6C34jqnPXS.jpg", Space Jam A New Legacy 2021
