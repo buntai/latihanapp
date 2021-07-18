@@ -982,7 +982,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
-
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg", Warrior 2011
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Warrior%20(2011).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g410Y1U1ELbmJG14Zru3UAimm1G.jpg", Jeepers Creepers 2001
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jeepers%20Creepers%20(2001).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg", Jeepers Creepers 2 2003
