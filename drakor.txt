@@ -302,109 +302,109 @@ http://mantul.biz.id:8888/series/gibran/gibran/8538.mp4
 -=911=-
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E01
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27852.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27852.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E02
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27853.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27853.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E03
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27854.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27854.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E04
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27855.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27855.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E05
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27856.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27856.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E06
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27857.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27857.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E07
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27858.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27858.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E08
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27859.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27859.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E09
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27860.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27860.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S01 E10
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27861.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27861.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E01
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27862.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27862.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E02
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27863.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27863.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E03
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27864.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27864.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E04
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27865.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27865.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E05
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27866.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27866.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E06
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27867.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27867.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E07
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27868.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27868.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E08
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27869.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27869.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E09
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27870.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27870.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E10
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27871.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27871.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E11
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27872.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27872.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E12
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27873.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27873.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E13
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27874.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27874.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E14
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27875.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27875.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E15
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27876.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27876.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E16
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27877.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27877.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E17
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27878.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27878.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S02 E18
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/27879.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/27879.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E01
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29349.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29349.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E02
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29350.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29350.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E03
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29351.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29351.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E04
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29352.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29352.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E05
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29353.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29353.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E06
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29722.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29722.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E07
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29565.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29565.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E08
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29566.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29566.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E09
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29567.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29567.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E10
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/29844.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/29844.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E11
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/37125.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/37125.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E12
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/38107.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/38107.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E13
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/38108.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/38108.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E14
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/38953.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/38953.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E15
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/40033.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/40033.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E16
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/40177.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/40177.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E17
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/40484.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/40484.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S03 E18
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/41592.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/41592.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S04 E01
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/73652.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/73652.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S04 E02
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/73653.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/73653.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S04 E03
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/73654.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/73654.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S04 E04
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/74990.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/74990.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S04 E05
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/74991.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/74991.mkv
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/9-1-1_intertitle.png/250px-9-1-1_intertitle.png", 9-1-1 S04 E06
-http://cloudcdn.tk:80/series/januzahv/lJwZE9510/74992.mkv
+http://cloudcdn.tk:80/series/wn6Iah1hqc/Lx9UshoaAs/74992.mkv
 
 -= Warrrior Nun =-
 
@@ -989,3 +989,4 @@ https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP18.mp4
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP19.mp4
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://static.wikia.nocookie.net/netflix/images/2/2c/Vincenzo.jpg", Vincenzo S01 E20
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Vincenzo/Vincenzo%20EP20.mp4
+
