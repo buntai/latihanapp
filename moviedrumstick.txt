@@ -5,7 +5,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Harry%20Boy%201991.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ4ZWZkNjMtNDljNS00NGNiLTliOWUtNmM0MWYzMDc0NWFhXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg", Pecah 2013
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Pecah%20(2013).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qTQwpaPn04yOE7DXv7Z9G8q8uFs.jpg", Jangan Pandang Belakang Boleh? 2014
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/JANGAN%20PANDANG%20BELAKANG%20BOLEH.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/JANGAN%20PANDANG%20BELAKANG%20BOLEH%20B.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRmYmJhNzItZjk0MC00ODEyLTk3N2YtNmRlYjg0OWM1ZWVhXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg", Driving School 1992
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Driving%20School%20%5B1990%5D.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-LIwIgWDxMEU/YOBbWhM7_gI/AAAAAAAA2yg/qmTZe0531UM9_YwDic575aupjWoKLP8PgCLcBGAsYHQ/s16000/Filem%2BJangan%2BTakut-Kau%2BTakut%2BAku%2BPun%2BTakut.jpg", Jangan Takut Kalau Kau Takut Aku Pon Takut
