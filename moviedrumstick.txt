@@ -1,5 +1,33 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9E58SenCJWybKFyA3xUYcyzfgvz.jpg", Zombitopia 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Zombitopia%20(2020).mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RlYjUzMWQtN2E2My00ZDhmLWEwYjgtYjA3MjA4YmViMTgyXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg", Abang 92
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Abang%2092.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMwODk0NWUtZjYyMS00YzNlLWE4OWUtZTFkNWM2ZWNkNWQyXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Adik
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Adik.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fbSCOKO6VqDW4aksOnUNPJJ6YBx.jpg", Baik Punya Cilok
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Baik%20Punya%20Cilok.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIxOGMwMTAtMWQzYi00MzhiLTgzNDEtM2Y1MWM4OGYwMGYyXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg", Bujang Senang
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bujang%20Senang.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/E4tS5hrmWj2Whhzne3W2prNuTI.jpg", Bisik Pada Langit
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bisik%20Pada%20Langit.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDAzOTIzNDEtNzY2Ny00YjllLWJhYWEtZmE1NGQ4MzE3MjE1XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg", Cinta Fotokopi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Cinta%20Fotokopi.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdjZjliNmItMWU4Ni00YThmLTgxODYtNjI5NjYzNWI2M2Y4XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg", Bayangan Maut
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Bayangan%20Maut.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3Ymlcrkb1i1JdeBrsOdEicDr1DS.jpg", Cuci
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Cuci.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ycCDHp98K3qX0fP3DNlSqYpvuTD.jpg", Da Di Du
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Da%20Di%20Du.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/0/6/3/2/8/206328-dodol-si-bujang-sepah-0-230-0-345-crop.jpg", Dodol Si Bujang Sepah
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Dodol%20Si%20Bujang%20Sepah.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://muar2u.com/img/gbadul.jpg", Guru Badul
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Guru%20Badul.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2MTVkN2UtMDZiZi00ODFmLTkzMzEtMTc2ZDFkZTdjZmFjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Fenomena
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Fenomena.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8mLcZ69bdiDQapUnRgBVweDOl9T.jpg", Suatu Kala Timun Mas & Ijo
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Suatukala-%20Timun%20Mas%20&%20Ijo.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sjUXBg8j1Uyj5cRlJb4FnBaBgXw.jpg", Harry Boy 1991
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Harry%20Boy%201991.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ4ZWZkNjMtNDljNS00NGNiLTliOWUtNmM0MWYzMDc0NWFhXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg", Pecah 2013
@@ -263,6 +291,20 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/cJxH5Cg9i7AyFA3FSdNzid0j6Nk.jpg", The legend of Zhang Qian 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/thelegendofzhangqian.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/fyL5Q93th9Y69MxEkJURq4z96w4.jpg", Sword of Shennong 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/swordofshennong.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/yeJUCJVwlz2mI7mWTTCkmuklIdA.jpg", Black Fox: Age of the Ninja 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Blackfoxageoftheninja.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/twS6uxLat4fYTcsnPPpXLOdCR4M.jpg", The Warrior From Sky 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/thewariorfromthesky.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://gm21.click/wp-content/uploads/King-of-The-New-Beggars.jpg", King of The New Beggars 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/kingofthenewsbeggars.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://gm21.click/wp-content/uploads/The-Mystic-Nine.jpg", The Mystic Nine 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/themysticnine.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/lWfhrSr1gqfCIEYnZaMZOpc3F17.jpg", Deadly Puppet 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Deadly.Puppet.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/97nEMqXvr5STlFuhACmL8xSrH8f.jpg", Death Note 2006
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Death%20Note/Death%20Note%20(2006).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wd0Ri3v8tyRdWuA5PRS2rODOlIa.jpg", Death Note : The Last Name 2006
@@ -565,6 +607,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFkODAxZjEtMTYzMy00NzNmLWJhNjItOWFmNmY1NThjYzgwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", Trollhunters: Rise of the Titans 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Toon/Trollhunters_%20Rise%20of%20the%20Titans.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg", Smurfs: The Lost Village 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Toon/Smurfs-%20The%20Lost%20Village.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg", Strange Magic 2015
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Strange%20magic%202015.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg", Trolls World Tour 2020
@@ -680,6 +726,30 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE2YzJhMjYtYTk1Ni00YmIzLWFlZTItZmNlY2UwYTBlYjQyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg", Chatur Mukham 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/chaturmukham.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlOTYyMTAtZDRmZC00OTllLTgzNTUtYjFiOWYxMDQ1YTJiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg", Malik 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Malik%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM1MmFjZTYtNGUxNC00NWQ4LTgwNDEtNGRkZGZmNWFmOTE0XkEyXkFqcGdeQXVyMTMwNzExNjQ5._V1_.jpg", Kadampari 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kadampari%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Jaguar_Film_Poster.jpg", Jaguar 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jaguar%20(2016).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8vlqoi3stTEsYg4pjXlO3eeufwM.jpg", Vaazhl 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Vaazhl%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8MNVm3Nitdqv4wCRdpBNehR1e2C.jpg", Anugraheethan Antony 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Anugraheethan%20Antony%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I0NDc5YzMtODI4Yi00YjhkLWExM2EtY2FlMmEyZWQxMjJiXkEyXkFqcGdeQXVyMTE5ODUwMTkx._V1_.jpg", MMOF 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/MMOF%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/6HVhNp5ak0ch5zTswgChF5xg3pp.jpg", Setters 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Setters%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5rSRVvlIlelgKM58MAnnk4FId86.jpg", Bhoot Part One The Haunted Ship 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bhoot_Part_One__The_Haunted_Ship_2020.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vpYthNdtTwUKBs00VfnnwsKZILW.jpg", Puthiya Niyamam 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Puthiya%20Niyamam%20(2016).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6wWcgNo5MZbfMBCgRRIa4bmMM9f.jpg", Mili 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Mili%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ2MWRmZTAtODg3MS00Yjk1LTgyYzktYThmYmMzNTQzMDE0XkEyXkFqcGdeQXVyMTEwMTU5Mzk3._V1_.jpg", Anukunnadi Okati Ayinadi Okati 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Anukunnadi_Okati_Ayinadi_Okati_2020.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDcyMWJjMmUtMjBjNS00MjU5LThkMGQtN2Q2MzUxZmYzMjA2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY1200_CR165,0,630,1200_AL_.jpg", Cold Case 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Cold%20Case%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3ZmY3YzAtODIyZS00NTZlLTgxOTYtYTJiYWVkYTZmMzg2XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg", Miruugaa 2021
@@ -1006,6 +1076,16 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRlZGUyMTQtNmI3MC00OWUwLTg0ZGMtZDdkMGIxNzVhNzQ4XkEyXkFqcGdeQXVyMTc0OTU1MjI@._V1_FMjpg_UX1000_.jpg", Roller Squad 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Roller%20Squad%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wLkcqk6FIwYPcOvo8AFOaqntmpL.jpg", The Nowhere Inn 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/thenowhereinn.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wGg4KEYUJPo7NCDNpa6aMaLzesB.jpg", The Nest 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Nest.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qr9IMdzeL6UsHdwERpDuzOfPxhT.jpg", Pig 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Pig.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uHA5COgDzcxjpYSHHulrKVl6ByL.jpg", The Forever Purge 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The.Forever.Purge.2021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/d0wn9YtEnmbucx8ZUsT918ctoiK.jpg", How I Became a Superhero (2020)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Nonton%20How%20I%20Became%20a%20Superhero%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg", Kin 2018
