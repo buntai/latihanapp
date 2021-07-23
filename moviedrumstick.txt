@@ -1,5 +1,25 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gs3gEDWBsD7SROW0EN5LE3uGNME.jpg", Senario The Movie
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zYVHoH6K5G9Onx0Rs0H6Kem6EAs.jpg", Senario Lagi
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20Lagi.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zHPbGqsb25zvXLbgg90hyuHSnm4.jpg", Lagi Lagi Senario
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Lagi%20Lagi%20Senario.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vXzyhvtZdDcOT9MoWsF61NKLYsd.jpg", Senario Lang Buana
+https://misty-dust.evanwinters.workers.dev/0:/public/Senario.Lang.Buana.2003.1080p.NF.WEB-DL.AAC.2.0.VP9.INTERNAL-AON.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBjYmZhMzctYjcyMS00YzM2LTk2NTEtNzIyYTNkOTBhYTJjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg", Senario XX
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20XX.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Ac2UyNOIJa4EP6lxtUpJXdEwoB0.jpg", Senario Pemburu Emas Yamashita
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20Pemburu%20Emas%20Yamashita.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/80tF4DIsEJSxbfEhDrAxrPhlqtc.jpg", Senario The Movie Episode 1
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie%20Episode%201.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lnzWT8B3yIfKxFlLH3STOZP5T5.jpg", Senario The Movie Episode 2 Beach Boys
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie%20Episode%202%20Beach%20Boys.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yI7i2ZAXbce5hVeudpMszld1yJw.jpg", Senario Asam Garam
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20Asam%20Garam.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1h7TbApRuVEUNd8mUCy5Ez3GAFf.jpg", Senario The Movie- Ops Pocot
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie-%20Ops%20Pocot.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9E58SenCJWybKFyA3xUYcyzfgvz.jpg", Zombitopia 2020
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Zombitopia%20(2020).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RlYjUzMWQtN2E2My00ZDhmLWEwYjgtYjA3MjA4YmViMTgyXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg", Abang 92
@@ -291,6 +311,42 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://asianwiki.com/images/1/1c/Kingdom-_Ashin_of_the_North-P2.jpg", Kingdom Ashin of The North (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/korea/Kingdom_%20Ashin%20of%20the%20North.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aXO0DvxukABDf2xGFzJAw2I1gbP.jpg", The Shaolin Temple(1982)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/The%20Shaolin%20Temple%20(Shao%20Lin%20si)%20(1982).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1YJEg4kg6NbAViyO0BMHbcrVtRa.jpg", Shaolin Temple 2- Kids from Shaolin (1984)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Shaolin%20Temple%202-%20Kids%20from%20Shaolin%20(1984).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pQZVrIXzBLK3NrSqYYtw00tf81z.jpg", Dragon Fight (1989)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Dragon%20Fight%20(1989).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/j9Eji1A8AyelmdHCJTlVBCZziGK.jpg", The Master (1989)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/The%20Master%20(1989).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cXWSVoL3WrzRhjN5AfWY9kXMBWG.jpg", Born to Defence (1986)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Born%20to%20Defence%20(1986).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/crh75hlfWWH7uBCcuBaUFxB6sra.jpg", Contract Killer-Hitman (1998)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Contract%20Killer%20_%20Hitman%20(1998).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ep0JodciRWNWHDQ2ODITEdegqUh.jpg", Once Upon a Time in China (1991)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20(1991).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/32lMbbcr7I9ayirXq8HKTMlWZDj.jpg", Once Upon a Time in China II (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20II%20(1992).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJiYTQ4NjctOGEzYy00YWQ1LTkyNDEtNWQ0NTlhZjA2MGU3XkEyXkFqcGdeQXVyNzM3NDU4Njk@._V1_.jpg", Once Upon a Time in China III (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20III%20(1992).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4xxQq3mHTuPRnEBIqkVDWldq0Sk.jpg", Once Upon A Time In China IV (1993)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20A%20Time%20In%20China%204%20(1993).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gdqNcYHdv3AYuGsdKyZ1CeLdjLg.jpg", Once Upon a Time in China V
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20V.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6hSNNOwJIYkNXYjn6yhJPCd9oio.jpg", Once Upon a Time in China and America (1997)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Once%20Upon%20a%20Time%20in%20China%20and%20America%20(1997).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/original/d090U0Gt2q24qRidR69RfdtoErg.jpg", The Swordsman  (1990)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/The%20Swordsman%20%20(1990).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uDJV6ie5B9FgMnt8O5wkVlYcjXv.jpg", Swordsman II (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Swordsman%20II%20(1992).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5ztUBriRYs2Z836oaPyedIlj6Qd.jpg", Kung Fu Cult Master(1993)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Kung%20Fu%20Cult%20Master(1993).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eEmG43S9o5C6XeFschoFQU4Bcub.jpg", Black Mask (1996)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Black%20Mask%20(1996).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aLjBcVUfw3eT5csKi28pvs0V8he.jpg", Romeo Must Die (2000)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Romeo%20Must%20Die%20(2000).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/cJxH5Cg9i7AyFA3FSdNzid0j6Nk.jpg", The legend of Zhang Qian 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/thelegendofzhangqian.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://image.tmdb.org/t/p/w185/fyL5Q93th9Y69MxEkJURq4z96w4.jpg", Sword of Shennong 2020
@@ -1076,6 +1132,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pF25UeWH9HFAT0Mq4KjvielccEL.jpg", Blood Red Sky
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Blood%20Red%20Sky.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRlZGUyMTQtNmI3MC00OWUwLTg0ZGMtZDdkMGIxNzVhNzQ4XkEyXkFqcGdeQXVyMTc0OTU1MjI@._V1_FMjpg_UX1000_.jpg", Roller Squad 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Roller%20Squad%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wLkcqk6FIwYPcOvo8AFOaqntmpL.jpg", The Nowhere Inn 2021
