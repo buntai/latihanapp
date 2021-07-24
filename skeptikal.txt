@@ -23,6 +23,7 @@ http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/21927
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", F1 [When Live]
 http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
+
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
@@ -32,11 +33,11 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [B]
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="146" tvg-chno="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY 
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="146" tvg-chno="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY [B]
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.mpd
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_manifest.m3u8|referer=https://www.rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="RTMK03" tvg-chno="102" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png", TV6 
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="103" tvg-chno="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3
@@ -350,7 +351,7 @@ http://iptv.tvmalaysia.cc:80/box1/box1/6621
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
 http://iptv.tvmalaysia.cc:80/box1/box1/6620
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports 
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/02_manifest.mpd
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://variety.com/wp-content/uploads/2018/04/espn-plus-logo.jpg", ESPN +
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png", TVRI Sport
