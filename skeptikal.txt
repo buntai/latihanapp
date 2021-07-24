@@ -9,15 +9,15 @@ http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/22808
+http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28902
+http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15001
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/9013
+http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15002
+http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 10
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/21927
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", F1 [When Live]
@@ -376,16 +376,20 @@ http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/27937
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS HD MY
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/27938
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 1 FHD
-http://3.0.206.136:8000/play/Bein1Premium/index.m3u8
+http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 2 FHD
-http://3.0.206.136:8000/play/Bein2Premium/index.m3u8
+http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN SPORTS Premium 3 FHD
-http://3.0.206.136:8000/play/Bein3Premium/index.m3u8
+http://212.224.98.207:2200/EX/bein10hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports HD 2
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports FR
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports FR 1
+http://212.224.98.207:2200/EX/bein14hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports FR 2
+http://212.224.98.207:2200/EX/bein2hd-ar/index.m3u8?token=
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", BeinSports FR 3
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://images.tapology.com/logos/2532/profile/Top_Fight_MMA-logo.png", Top Fight
 http://159.192.73.198:1072/topfight
@@ -452,19 +456,19 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 4 B
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD1 HD
-http://3.0.206.136:8000/play/Bein-Sport-1/index.m3u8
+http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD2 HD
-http://3.0.206.136:8000/play/Bein-Sport-2/index.m3u8
+http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD3 HD
-http://3.0.206.136:8000/play/Bein-Sport-3/index.m3u8
+http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD4 HD
-http://3.0.206.136:8000/play/Bein-Sport-4/index.m3u8
+http://212.224.98.207:2200/EX/bein4hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD5 HD
-http://3.0.206.136:8000/play/Bein-Sport-5/index.m3u8
+http://212.224.98.207:2200/EX/bein5hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD6 HD
-http://3.0.206.136:8000/play/Bein-Sport-6/index.m3u8
+http://212.224.98.207:2200/EX/bein6hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD7 HD
-http://3.0.206.136:8000/play/Bein-Sport-7/index.m3u8
+http://212.224.98.207:2200/EX/bein7hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg", BT Sport 1 [B]
 http://sonyiptv.net:8080/saeed/saeed/158764
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 1
