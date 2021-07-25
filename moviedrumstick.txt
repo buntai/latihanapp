@@ -1,5 +1,13 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lu7sNI1GAkcwyxJXTjWiDHqvroA.jpg", Estet 2010 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Estet%20(2010).mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRhZjRkMjktNTA0My00NmQ2LWI5ZGMtMWYyOWZkMmIyMTNkXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_QL75_UX190_CR0,4,190,281_.jpg", Gemilang 1997
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/GEMILANG%201997.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBjY2UwMDQtMzMwMS00ZGVlLTgxZjktYjM3MDBhYjlhMDczXkEyXkFqcGdeQXVyMjM4MzE0OTg@._V1_FMjpg_UX1000_.jpg", Getaran 2001
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Getaran.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0ODQ3MTEtMjAwMC00NTA2LTk5MWMtNDlmOGJiZjI4NjUzXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_.jpg", Suara Kekasih 1986
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Suara%20Kekasih.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gs3gEDWBsD7SROW0EN5LE3uGNME.jpg", Senario The Movie
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Senario/Senario%20The%20Movie.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zYVHoH6K5G9Onx0Rs0H6Kem6EAs.jpg", Senario Lagi
@@ -311,6 +319,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9KWjS3xfjGKUiPQ8SQCx1KQGBPg.jpg", Si Manis Jembatan Ancol 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Si%20Manis%20Jembatan%20Ancol%20(2020).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mvTXhTddHIZbOU9pmrcPODI1kRx.jpg", Flu 2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Flu%202013.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://asianwiki.com/images/1/1c/Kingdom-_Ashin_of_the_North-P2.jpg", Kingdom Ashin of The North (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/korea/Kingdom_%20Ashin%20of%20the%20North.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aXO0DvxukABDf2xGFzJAw2I1gbP.jpg", The Shaolin Temple(1982)
@@ -782,6 +794,12 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.freshers-live.com/wp-content/uploads/2021/07/SARPATTA-2021_11zon.jpg", Sarpatta Parambarai 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Sarpatta%20Parambarai%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU5NjgyMmEtYTBkZC00ZTBmLTg5YTQtM2FlMzg1Y2Y4NWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg", Manikarnika The Queen Of Jhansi 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Manikarnika__The_Queen_Of_Jhansi_2019.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6DkO7aZTZtXNESGcSq3R1wmrb06.jpg", Dil hai Tumhara 2002
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Dil%20Hai%20Tumhaara%20(2002).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE2YzJhMjYtYTk1Ni00YmIzLWFlZTItZmNlY2UwYTBlYjQyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg", Chatur Mukham 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/chaturmukham.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlOTYyMTAtZDRmZC00OTllLTgzNTUtYjFiOWYxMDQ1YTJiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg", Malik 2021
@@ -1132,6 +1150,24 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg", Jolt 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jolt%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A8ezFMixyVkxMPptmd3dqiZUp2W.jpg", We Still Kill the Old Way 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/We%20Still%20Kill%20the%20Old%20Way%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg", Escape from Alcatraz 1979
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Escape%20from%20Alcatraz%20(1979).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4mGl52mR8rpAH5xj9Lq1KLMMcMi.jpg", After Life 2009 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/After.Life%20(2009).mp4
+#EXTINF:-1 group-title="EnglishMovies" parent-code="8484" tvg-logo="https://www.themoviedb.org/t/p/w500/dTnAYyUwp6lT0cKrt4aNujj5mdF.jpg", The Green Inferno 2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Green%20Inferno%20(2013).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rBkptJyAMqCfoMwUGQfCpubroec.jpg", Spotlight 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Spotlight.2015.mp4
+#EXTINF:-1 group-title="EnglishMovies" parent-code="8484" tvg-logo="https://www.themoviedb.org/t/p/w500/s26FysWfxekai5nJwWz8wEpy8th.jpg", Student Services 2010
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Student%20Services(2010).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/MGADip4thVSErP34FAAfzFBTZ5.jpg", Rampage 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Rampage.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/3jvAfm6caSLkDeJKsfbC1ttdLAE.jpg", KONG: SKULL ISLAND 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Kong-%20Skull%20Island.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pF25UeWH9HFAT0Mq4KjvielccEL.jpg", Blood Red Sky
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Blood%20Red%20Sky.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRlZGUyMTQtNmI3MC00OWUwLTg0ZGMtZDdkMGIxNzVhNzQ4XkEyXkFqcGdeQXVyMTc0OTU1MjI@._V1_FMjpg_UX1000_.jpg", Roller Squad 2021
