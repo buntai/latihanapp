@@ -319,6 +319,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xUAVVRNxbbI3XcwKdFTRAryQAk8.jpg", From beijing with love 1994
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/From%20Beijing%20with%20Love%20(1994).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9KWjS3xfjGKUiPQ8SQCx1KQGBPg.jpg", Si Manis Jembatan Ancol 2020
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Si%20Manis%20Jembatan%20Ancol%20(2020).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mvTXhTddHIZbOU9pmrcPODI1kRx.jpg", Flu 2013
@@ -794,6 +796,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg", Raees 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/RAEES%202017.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.freshers-live.com/wp-content/uploads/2021/07/SARPATTA-2021_11zon.jpg", Sarpatta Parambarai 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Sarpatta%20Parambarai%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU5NjgyMmEtYTBkZC00ZTBmLTg5YTQtM2FlMzg1Y2Y4NWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg", Manikarnika The Queen Of Jhansi 2019
@@ -1150,6 +1154,36 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gLZEULfcS3uhfWDSEclOUgWiN41.jpg", In the heart of the sea 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/In%20the%20Heart%20of%20the%20Sea%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg", Riot 2015
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Riot%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg", Basic instinct 1992
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Basic%20Instinct%20(1992)%20indo%20sub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fT3ZTU2K3I9WkrqnQWH68ClByyi.jpg", Basic instinct 2 2006
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Basic.Instinct.2.2006.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg", STAR WARS: EPISODE IV - A NEW HOPE (1977)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star%20Wars_%20Episode%20IV%20-%20A%20New%20Hope%20(1977).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7BuH8itoSrLExs2YZSsM01Qk2no.jpg", STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK (1980)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_V_The_Empire_Strikes_Back_1980.mp4 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg", STAR WARS: EPISODE VI - RETURN OF THE JEDI (1983)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VI_Return_of_the_Jedi_1983.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg", STAR WARS: EPISODE I – THE PHANTOM MENACE (1999)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_I_%E2%80%93_The_Phantom_Menace_1999.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg", STAR WARS: EPISODE II – ATTACK OF THE CLONES (2002)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_II_%E2%80%93_Attack_Of_The_Clones_2002.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg", STAR WARS: EPISODE III – REVENGE OF THE SITH (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_III_%E2%80%93_Revenge_of_the_Sith_2005.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg", STAR WARS: EPISODE VII - THE FORCE AWAKENS (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VII_The_Force_Awakens_2015.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg", STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VIII_The_Last_Jedi_2017.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg", STAR WARS: EPISODE IX - THE RISE OF SKYWALKER (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_IX_The_Rise_Of_Skywalker_2019.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg", ROGUE ONE: A STAR WARS STORY (2016) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Rogue%20One_%20A%20Star%20Wars%20Story%20(2016).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg", SOLO: A STAR WARS STORY (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Solo_%20A%20Star%20Wars%20Story%20(2018).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg", Jolt 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jolt%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A8ezFMixyVkxMPptmd3dqiZUp2W.jpg", We Still Kill the Old Way 2014
