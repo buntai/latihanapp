@@ -250,29 +250,29 @@ http://hottest.fit:8080/zain/zain123/9597
 ==============================================================
 
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png", SONY TV HD
-http://webo.asia:80/rashid/rashid/12591
+http://webo.asia:80/ghazanfar/ghazanfar/12591
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sony_SAB.svg/revision/latest/scale-to-width-down/200?cb=20200717140818", SONY SAB TV
-http://webo.asia:80/rashid/rashid/15217
+http://webo.asia:80/ghazanfar/ghazanfar/15217
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png", SONY MAX
-http://webo.asia:80/rashid/rashid/12604
+http://webo.asia:80/ghazanfar/ghazanfar/12604
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/scale-to-width-down/250?cb=20200125181335", SONY MAX 2
-http://webo.asia:80/rashid/rashid/20830
+http://webo.asia:80/ghazanfar/ghazanfar/20830
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png", B4U Movies
-http://webo.asia:80/rashid/rashid/15139
+http://webo.asia:80/ghazanfar/ghazanfar/15139
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Utsav_Gold_Logo.jpg", Utsav Gold
-http://webo.asia:80/rashid/rashid/12613
+http://webo.asia:80/ghazanfar/ghazanfar/12613
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png", Zee Cinema
-http://webo.asia:80/rashid/rashid/15222
+http://webo.asia:80/ghazanfar/ghazanfar/15222
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png", Colors TV
-http://webo.asia:80/rashid/rashid/12469
+http://webo.asia:80/ghazanfar/ghazanfar/12469
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg", Utsav Plus
-http://webo.asia:80/rashid/rashid/12586
+http://webo.asia:80/ghazanfar/ghazanfar/12586
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Utsav_Bharat_Logo.jpg", Utsav Bharat
-http://webo.asia:80/rashid/rashid/12492
+http://webo.asia:80/ghazanfar/ghazanfar/12492
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSRg5yGjt2-BaiMocmIxM9XSB2NN5mKGWhLozYGyA=s900-c-k-c0x00ffffff-no-rj", Colors Rishtey
-http://webo.asia:80/rashid/rashid/12476
+http://webo.asia:80/ghazanfar/ghazanfar/12476
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png", Zee TV HD
-http://webo.asia:80/rashid/rashid/15224
+http://webo.asia:80/ghazanfar/ghazanfar/15224
 
 
 
@@ -293,21 +293,21 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", SONY PIX FHD
-http://webo.asia:80/rashid/rashid/161919
+http://webo.asia:80/ghazanfar/ghazanfar/161919
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", SONY PIX HD
 http://103.157.237.18:8000/play/711
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png", STAR MOVIES FHD
-http://webo.asia:80/rashid/rashid/161932
+http://webo.asia:80/ghazanfar/ghazanfar/161932
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg", STAR MOVIES SELECT FHD
-http://webo.asia:80/rashid/rashid/161933
+http://webo.asia:80/ghazanfar/ghazanfar/161933
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png", MOVIES NOW FHD
-http://webo.asia:80/rashid/rashid/20828
+http://webo.asia:80/ghazanfar/ghazanfar/20828
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg", MNX FHD
-http://webo.asia:80/rashid/rashid/20825
+http://webo.asia:80/ghazanfar/ghazanfar/161882
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png", MN+ MOVIES FHD
-http://webo.asia:80/rashid/rashid/11834
+http://webo.asia:80/ghazanfar/ghazanfar/11834
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.eventfaqs.com/Uploads/News/Content/romedy-now-logo---21.jpg", ROMEDY NOW FHD
-http://webo.asia:80/rashid/rashid/16564
+http://webo.asia:80/ghazanfar/ghazanfar/16564
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO GO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO FHD
@@ -714,7 +714,7 @@ http://mantul.biz.id:8888/jack1/jack1/46
 #EXTINF:-1 group-title="Variety📺" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png", Syfy HD UK
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/16727
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png", STAR WORLD FHD
-http://webo.asia:80/rashid/rashid/161941
+http://webo.asia:80/ghazanfar/ghazanfar/161941
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png", Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png", Blue Ant Extreme
