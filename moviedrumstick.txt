@@ -1,5 +1,13 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-11AcCFtYI_Q/YOC62bEFpZI/AAAAAAAANWY/MpmJomje6kc9Jtp39XVd44ETK0fc45GOQCLcBGAsYHQ/s610/comel_001.jpg", Comel 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1rGPnckRSlivbKgqgiAr2a7Te09.jpg", Lagenda Budak Setan 2010
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lagenda%20Budak%20Setan.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM2MWRjOTUtMzRmMC00MmJmLWEzMDYtMTZhYmIyM2QwYjhiXkEyXkFqcGdeQXVyMzE4NjA0ODc@._V1_FMjpg_UX1000_.jpg", Lagenda Budak Setan 2: Katerina 2012
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lagenda%20Budak%20Setan%202.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/c86TXVEhn4WqOszEiWAk7ve4QFb.jpg", Lagenda Budak Setan 3: Kasyah 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lagenda%20Budak%20Setan%203-%20Kasyah.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lu7sNI1GAkcwyxJXTjWiDHqvroA.jpg", Estet 2010 
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Estet%20(2010).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRhZjRkMjktNTA0My00NmQ2LWI5ZGMtMWYyOWZkMmIyMTNkXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_QL75_UX190_CR0,4,190,281_.jpg", Gemilang 1997
@@ -319,6 +327,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6BNjjfdFJDGRF59nYNEb2i042xX.jpg", A Writers Odyssey 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/A_Writer's_Odyssey_2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xUAVVRNxbbI3XcwKdFTRAryQAk8.jpg", From beijing with love 1994
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/From%20Beijing%20with%20Love%20(1994).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9KWjS3xfjGKUiPQ8SQCx1KQGBPg.jpg", Si Manis Jembatan Ancol 2020
@@ -1154,6 +1164,22 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg", The Room 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Room%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3qIBGXM6oXOu3wBYH6QpamXdXuB.jpg", Time Trap 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/time-trap2017.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg", The Lord of the Rings: The Fellowship of the Ring 2001
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_multi_faces/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg", The Lord of the Rings: The Two Towers 2002
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The%20Lord%20of%20the%20Rings%20The%20Two%20Towers%20(2002).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg", The Lord of the Rings: The Return of the King 2003
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The_Lord_of_the_Rings_The_Return_of_the_King_2003.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg", The Hobbit: An Unexpected Journey 2012
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2012.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg", The Hobbit: The Desolation of Smaug 2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2013.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg", The Hobbit: The Battle of the Five Armies 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2014.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gLZEULfcS3uhfWDSEclOUgWiN41.jpg", In the heart of the sea 2015
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/In%20the%20Heart%20of%20the%20Sea%20(2015).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg", Riot 2015

@@ -1,24 +1,26 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/18850
+https://rtm-olympic01tv.secureswiftcontent.com/rtm/olympic01_manifest.mpd
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
+https://rtm-olympic02tv.secureswiftcontent.com/rtm/olympic02_manifest.mpd
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
+https://rtm-olympic03tv.secureswiftcontent.com/rtm/olympic03_manifest.mpd
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
+https://rtm-olympic04tv.secureswiftcontent.com/rtm/olympic04_manifest.mpd
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
-http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=
+https://rtm-olympic05tv.secureswiftcontent.com/rtm/olympic05_manifest.mpd
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
-http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
-http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15001
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
-http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
-http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/18850
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 10
+http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15001
+#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 11
 http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/21927
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", F1 [When Live]
 http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
@@ -292,22 +294,20 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", SONY PIX FHD
-http://webo.asia:80/ghazanfar/ghazanfar/161919
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", SONY PIX HD
 http://103.157.237.18:8000/play/711
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png", STAR MOVIES FHD
-http://webo.asia:80/ghazanfar/ghazanfar/161932
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png", STAR MOVIES HD
+http://103.157.237.18:8000/play/705
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg", STAR MOVIES SELECT FHD
-http://webo.asia:80/ghazanfar/ghazanfar/161933
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png", MOVIES NOW FHD
-http://webo.asia:80/ghazanfar/ghazanfar/20828
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg", MNX FHD
-http://webo.asia:80/ghazanfar/ghazanfar/161882
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png", MN+ MOVIES FHD
-http://webo.asia:80/ghazanfar/ghazanfar/11834
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.eventfaqs.com/Uploads/News/Content/romedy-now-logo---21.jpg", ROMEDY NOW FHD
-http://webo.asia:80/ghazanfar/ghazanfar/16564
+http://103.157.237.18:8000/play/707
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png", MOVIES NOW HD
+http://103.157.237.18:8000/play/725
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg", MNX HD
+http://103.157.237.18:8000/play/713
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png", MN+ MOVIES HD
+http://103.157.237.18:8000/play/730
+#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.eventfaqs.com/Uploads/News/Content/romedy-now-logo---21.jpg", ROMEDY NOW HD
+http://103.157.237.18:8000/play/727
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO GO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp", HBO FHD
