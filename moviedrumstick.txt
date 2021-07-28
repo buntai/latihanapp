@@ -1164,6 +1164,36 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fFRq98cW9lTo6di2o4lK1qUAWaN.jpg", Sentinelle (2021) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Sentinelle%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYzYjg5NTQtOGQzZC00N2YxLWIwM2UtNDc1ZTdkYjQzNWZhXkEyXkFqcGdeQXVyMTM0ODMzMDcz._V1_.jpg", The Colony 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Colony.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg", The Last Airbender (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Last%20Airbender%20(2010).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1LVGjf1QWgkNNPQssZtuT1GYKoP.jpg", Joy Ride (2001)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Joy%20Ride%20(2001).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/66HBVfCkhevEpPV2fMzt8FAF9BP.jpg", Joy Ride 2 Dead Ahead (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Joy%20Ride%202-%20Dead%20Ahead%20(2008).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg", PIRATES OF THE CARIBBEAN: THE CURSE OF THE BLACK PEARL (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Carribean__The_Curse_Of_The_Black_Pearl_2003.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ulDkOMbXN8HP3eOxQxyHlaALYTh.jpg", PIRATES OF THE CARIBBEAN: DEAD MAN'S CHEST (2006)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__Dead_Man's_Chest_2006.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8ORuWcrYPgjwUDyCzr7qsOlCdwn.jpg", PIRATES OF THE CARIBBEAN: AT WORLD'S END (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__At_Worlds_End_2007.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6WMmcLzVg1ud5xS4yY5ZtarGIZy.jpg", PIRATES OF THE CARIBBEAN: ON STRANGER TIDES (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__On_Stranger_Tides_2011.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg", PIRATES OF THE CARIBBEAN: DEAD MEN TELL NO TALES (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__Dead_Men_Tell_No_Tales_2017.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g4dkGtWdc1eQ9JL1kta6LC0DlGS.jpg", Final Destination 2000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/Final%20Destination%202000.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/lpL3Y4O9ECYsw0jd0N04abNcnQw.jpg", Final Destination 2 (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/Final%20Destination%202%20(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg", Final Destination 3 (2006)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/Final%20Destination%203%20(2006).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg", The Final Destination (2009)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/The%20Final%20Destination%20(2009).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg", Final Destination 5  (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Final%20Destination/Final%20Destination%205%20%20(2011).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg", The Room 2019
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Room%20(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3qIBGXM6oXOu3wBYH6QpamXdXuB.jpg", Time Trap 2017
