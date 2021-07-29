@@ -1,5 +1,41 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP8vEgU5Yf0tiAVKuRlEPGTalgT.jpg", Awang Spanar 1989
+https://misty-dust.evanwinters.workers.dev/0:/public/Awang.Spanar.1989.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n7Efk6Hfd9nTiku4vqxND7Wx0a.jpg", Azura 1984
+https://misty-dust.evanwinters.workers.dev/0:/public/Azura.1984.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/a/a9/Bara_01.jpg/220px-Bara_01.jpg", Bara 1999
+https://misty-dust.evanwinters.workers.dev/0:/public/Bara.1999,1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJlNjVkNjktMTEwOC00ZDdjLThkN2YtZTk1ZWQ0YzcxZmExXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Ceritaku Ceritamu 1979
+https://misty-dust.evanwinters.workers.dev/0:/public/Ceritaku.Ceritamu.1979.480p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NTU1MDYtNWVhMy00YzVlLThhODEtOTg4N2E0YmNlZDc1XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_UY1200_CR97,0,630,1200_AL_.jpg", Kanta Serigala 1991
+https://misty-dust.evanwinters.workers.dev/0:/public/Kanta.Serigala.1991.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wOcZk7FDZGGTlARBXza6KOq412E.jpg", Maria Mariana 1996
+https://misty-dust.evanwinters.workers.dev/0:/public/Maria.Mariana.1996.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/utolwYjTlupkF4CPKaSxR5OkhQI.jpg", Maria Marian 2 1998
+https://misty-dust.evanwinters.workers.dev/0:/public/Maria.Mariana.2.1998.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU4MjQwYTYtNGUxYy00Yjg5LTkxMTUtOGE3NjVkZjgxYWY2XkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_FMjpg_UX1000_.jpg", Memori 1991
+https://misty-dust.evanwinters.workers.dev/0:/public/Memori.1991.576p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/w1Krdhc6SpXxRuVrxCIawtz3h6K.jpg", Orang Kampung Otak Kimia 1990
+https://misty-dust.evanwinters.workers.dev/0:/public/OK.Orang.Kampung.Otak.Kimia.1990.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZiMWI2MDctYmVkMy00OTdmLTkxOGItNTcxYTM3ZmU1ZmE0XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Pening Lalat 1990
+https://misty-dust.evanwinters.workers.dev/0:/public/Pening.Pening.Lalat.1990.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFhZWExYWYtZDE1Mi00MjMzLTk2ODUtM2MxODJkM2M2NWE2XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg", Perempuan Melayu Terakhir 1999
+https://misty-dust.evanwinters.workers.dev/0:/public/Perempuan.Melayu.Terakhir.1999.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQyNGVhMWItM2Q3Yi00ZGJkLTkwMTktYzg3ZGQ4YTIwYTQ1XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_QL75_UY281_CR3,0,190,281_.jpg", Ringgit Kasorrga 1995
+https://misty-dust.evanwinters.workers.dev/0:/public/Ringgit.Kasorrga.1995.576p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU0ZDRiYmItYjUzYy00YTA0LWFhNDAtZjJhZDNiZDJiYmI2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg", Sayang salmah 1995
+https://misty-dust.evanwinters.workers.dev/0:/public/Sayang.Salmah.1995.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hnjzZfD81VopnRKZiGtUtLnM7FA.jpg", Sembilu 1994
+https://misty-dust.evanwinters.workers.dev/0:/public/Sembilu.1994.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/b77vNlV9bW6TAutGmKHtayJPSED.jpg", Sembilu 2 1995
+https://misty-dust.evanwinters.workers.dev/0:/public/Sembilu.II.1995.576p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyMjA5YjUtOTZmOS00ZDk0LWI4YzgtYzNiM2Y3YWI4MmUxXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Ali Setan 1985
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Ali.Setan.1985.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/0/1/5/0/9/201509-ali-setan-2-0-230-0-345-crop.jpg", Ali Setan 2 1986
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Ali%20Setan%202%20%5B1986%5D.mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYzYTc4NmEtYTAzZi00ZWJjLWJiZTMtYWZkNDkzMDYzOTRhXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_QL75_UY281_CR4,0,190,281_.jpg", Setinggan 1981
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Setinggan%20(1981).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-11AcCFtYI_Q/YOC62bEFpZI/AAAAAAAANWY/MpmJomje6kc9Jtp39XVd44ETK0fc45GOQCLcBGAsYHQ/s610/comel_001.jpg", Comel 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Comel%202021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1rGPnckRSlivbKgqgiAr2a7Te09.jpg", Lagenda Budak Setan 2010
@@ -327,6 +363,10 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKE9BxgtT5g2pE3ZKC7MnzsAbTZ.jpg", Tom Yum Goong 2005
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Tom%20Yum%20Goong%20(2005).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yViXclzp3OE3hWm4wJFkmiCsqxs.jpg", Tom Yum Goong 2  2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Tom%20Yum%20Goong%202%20%20(2013).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://ceylonstream.com/wp-content/uploads/2021/07/yoSP4Gh9sr9csceRGlnaByeQJDL.jpg", THE GROTESQUE MANSION 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/THE%20GROTESQUE%20MANSION%202021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6BNjjfdFJDGRF59nYNEb2i042xX.jpg", A Writers Odyssey 2021
@@ -1168,6 +1208,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg", F9 FHD 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/F9.the.Fast.Saga.2021.1080p.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gcphM7ZLxS5HPeCZgjZobfz907x.jpg", The Prestige 2006
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Prestige%202006.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg", The Departed 2006
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Departed%20(2006).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg", F9 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/F9.2021.720p.AMZN.WEBRip.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wi7poYZy9b4CqmPMod0n1su8Quo.jpg", Fire 2021
