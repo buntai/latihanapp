@@ -327,6 +327,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://ceylonstream.com/wp-content/uploads/2021/07/yoSP4Gh9sr9csceRGlnaByeQJDL.jpg", THE GROTESQUE MANSION 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/THE%20GROTESQUE%20MANSION%202021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6BNjjfdFJDGRF59nYNEb2i042xX.jpg", A Writers Odyssey 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/A_Writer's_Odyssey_2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xUAVVRNxbbI3XcwKdFTRAryQAk8.jpg", From beijing with love 1994
@@ -806,6 +808,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5c8G0XcXv2LFdyLAevke5ovr7lW.jpg", Flight 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Flight%20Tamil%202021.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg", Raees 2017
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/RAEES%202017.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.freshers-live.com/wp-content/uploads/2021/07/SARPATTA-2021_11zon.jpg", Sarpatta Parambarai 2021
@@ -1164,6 +1168,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg", F9 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/F9.2021.720p.AMZN.WEBRip.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wi7poYZy9b4CqmPMod0n1su8Quo.jpg", Fire 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fire.2021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fFRq98cW9lTo6di2o4lK1qUAWaN.jpg", Sentinelle (2021) 
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Sentinelle%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYzYjg5NTQtOGQzZC00N2YxLWIwM2UtNDc1ZTdkYjQzNWZhXkEyXkFqcGdeQXVyMTM0ODMzMDcz._V1_.jpg", The Colony 2021
