@@ -363,6 +363,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zYeRnmIpuJwatUIKz1XzNPJUqL8.jpg", A Man Called Hero 1999
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/A_Man_Called_Hero_Jung_Wa_Ying_Hong_1999.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKE9BxgtT5g2pE3ZKC7MnzsAbTZ.jpg", Tom Yum Goong 2005
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Tom%20Yum%20Goong%20(2005).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yViXclzp3OE3hWm4wJFkmiCsqxs.jpg", Tom Yum Goong 2  2013
@@ -1208,6 +1210,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jFo94MnRCfkjFgvvT1vVbyudKGK.jpg", Jungle Cruise 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Jungle.Cruise.2021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg", Fractured 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Fractured.2019.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hzH7fwaTyQNITLo40Hu3R7cVMqv.jpg", God of Egypt 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Gods%20Of%20Egypt%20(2016).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg", F9 FHD 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/F9.the.Fast.Saga.2021.1080p.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gcphM7ZLxS5HPeCZgjZobfz907x.jpg", The Prestige 2006
