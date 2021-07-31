@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pFrBJ6AH9m8WohNFSOEV3Bo0WWo.jpg", Ola Bola 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Ola%20Bola%20(2016).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP8vEgU5Yf0tiAVKuRlEPGTalgT.jpg", Awang Spanar 1989
 https://misty-dust.evanwinters.workers.dev/0:/public/Awang.Spanar.1989.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n7Efk6Hfd9nTiku4vqxND7Wx0a.jpg", Azura 1984
@@ -363,6 +365,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g8CBVNFdJOGINQW2KuOvl5NAPS5.jpg", Chocolate 2008
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Chocolate%20(2008).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg", Rurouni Kenshin - The Beginning
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Rurouni_Kenshin_The_Beginning_Part_2_2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zYeRnmIpuJwatUIKz1XzNPJUqL8.jpg", A Man Called Hero 1999
@@ -733,6 +737,16 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg", Barbie Princess Adventure 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Barbie%20Princess%20Adventure%20(2020).mkv
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/zKu5MNy9QW1a5ZHgv7iAp3kRZpE.jpg", Trolls 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Trolls%20(2016).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/ioEv9lRn2IXIu0Dbfo9Qyo2IKhD.jpg", Trolls Holiday 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Trolls%20Holiday%20(2017).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg", Doraemon The Movie Nobita's Treasure Island 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Doraemon_The_Movie_Nobita's_Treasure_Island_2018.mkv
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg", My Little Pony The Movie 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/My%20Little%20Pony-%20The%20Movie%20(2017)%5D.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFkODAxZjEtMTYzMy00NzNmLWJhNjItOWFmNmY1NThjYzgwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg", Trollhunters: Rise of the Titans 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Toon/Trollhunters_%20Rise%20of%20the%20Titans.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg", Smurfs: The Lost Village 2017
@@ -852,6 +866,14 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cDobSMRCguAuoubvbR6kq78S4SO.jpg", Walter 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Walter%20(2020).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/euyVCIOATR07mc7bMz8odAiItRf.jpg", Hebbuli 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Hebbuli%20(2017).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2RbZNL7JRq5GhIAPrcJlm0LgsgX.jpg", Avane srimannarayana 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Avane%20Srimannarayana%20(2019.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mzTwCl5AgWclaQ4H0h7tyFiAooD.jpg", Gentleman 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/GENTLEMAN%202020.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zz6ScNmHqYbYv6OPFQkBI01SnCy.jpg", Mimi 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Mimi%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5c8G0XcXv2LFdyLAevke5ovr7lW.jpg", Flight 2021
@@ -1214,6 +1236,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQzNzA1NGQtMGYwMS00YmMxLWI2MGUtMjRlZGZkM2RlZmMwXkEyXkFqcGdeQXVyMjA0MjA4NDk@._V1_.jpg", Joey and Ella 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/joeyandella.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg", The Meg 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Meg%20(2018)%20malaysub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg", Forbidden Empire 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Forbidden%20Empire%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/rpvvul2liWeenNtyfwf2X6HtCwe.jpg", Not Another Teen Movie 2001
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Not%20Another%20Teen%20Movie%20(2001).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/oYEORVxp2ZfknTQYhEsNkv2HYss.jpg", Below Zero 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Below%20Zero%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jip5YuuUxL8Wv510lLITiSgR27.jpg", Rising Wolf 2021
