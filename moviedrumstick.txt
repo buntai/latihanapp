@@ -1723,7 +1723,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/Annabelle%20Com
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ym7X7nlkzMSnLkHxG96iZ16zAlu.jpg", The Curse Of La Llorona
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/The%20Curse%20Of%20La%20Llorona.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg", The Nun 
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/The%20Nun(2018)720p%20Malay%20Hardsub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Nun%20(2018)%20malay%20sub.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/EnglishJune21/John.Wick.2014.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/vn4vJSzAvkHeVp6TSnjppotoLqQ.jpg", John Wick Chapter 2
@@ -1781,7 +1781,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Idiocracy.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/mQ8vALvqA0z0qglG3gI6xpVcslo.jpg", Benny Loves You
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Benny%2520Loves%2520You.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://ww4.ohflix.com/uploads/video_thumb/6043.jpg", Monster Hunter
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Monster%20Hunter%20(2020)1.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Monster%20Hunter%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://image.tmdb.org/t/p/w185/2RxmOqqO78O5QE2QqMFO1gG1O5N.jpg", Spiral:From The Book of SAW
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Spiral.From.The.Book.Of.Saw.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://img.yts.mx/assets/images/movies/potters_ground_2021/medium-cover.jpg", Potter's Ground
@@ -1818,8 +1818,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tom.Clancys.Without.Remorse.m
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Welcome%2520to%2520Sudden%2520Death.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Army_of_the_Dead_%282021_film%29.png", Army of The Dead
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Armyofthedead.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://miro.medium.com/max/3016/0*5RLp-IJkJC6dLHvV.jpg", TEST NEW SERVER
-https://crewplayer.fun/ts/gAAAAABgrQ4ffMELXWYkCsPGb0U7ZJFJIjvixZfZNFABvHXlkN4ibOh0XP5TSFFB2nwU_v1QzIl_8vB7lqwSv-_Tv41pgUviwkxHIAcOXLwLmFeVNbSP7GsxhCrLddahdAI77vPcZdCyxsjGibyogJK5vNU0HPe7hpEbucbyK5aMWrEOAM1oKpw=/1080.m3u8
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/17again.jpg", 17 Again
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/17Again.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3N2EzNjYtMzgwYS00YjdmLThmOTUtMzc4NDUxZjZkY2RhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg", Oxygen
@@ -1859,15 +1857,15 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Harry%20Potter/Harry_
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4513.jpg", Bruce Almighty
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Bruce%20Almighty%202003.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2776.jpg", 127 Hours
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/31/127%20Hours%202010.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/127.Hours.2010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Operator-movie-poster-md.jpg", Operator
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Operator.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/876.jpg", Peppermint
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Peppermint2018720pbluray%20Malayhardsub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Peppermint%20(2018).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5201.jpg", Going in Style
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/50/Going%20In%20Style%202017.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Going%20In%20Style%202017.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5223.jpg", The Game Plan
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/50/The%20Game%20Plan%20(2007).mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Game%20Plan%20(2007).mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4526.jpg", Hot Tub Time Machine
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/46/Hot%20Tub%20Time%20Machine%202010.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2166.jpg", Click
@@ -1880,8 +1878,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Gifted.mp4
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru10/The%20Heiress%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYzViMWYtMmJmZS00YjE0LTgwZWEtYzU2ZmMyNjdkNTUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg", A Babysitter's Guide to Monster Hunting
 http://s27.bitdl.ir/Movies/A.Babysitters.Guide.To.Monster.Hunting.2020/A.Babysitters.Guide.To.Monster.Hunting.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://i1.wp.com/www.bulletproofaction.com/wp-content/uploads/2021/03/ww-1.jpg", Willy's Wonderland
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru9/Willy%20s%20Wonderland%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7143.jpg", Wrong Place Wrong Time
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru12/Wrong%20Place%20Wrong%20Time%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7141.jpg", Woman in the Woods
@@ -1899,43 +1895,43 @@ https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/15/The%20Boy%20201
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/1897.jpg", The Boy II
 https://sagiri-chan.scoxy.workers.dev/0:/Film/MOVIE%202019%20-%202020/Brahms.The.Boy.II.2020.720p.BluRay.x264.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", The Godfather (1972)
-http://mantul.biz.id:8888/movie/tora3/tora/4783.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20GodFather/The.Godfather.1972.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://static.wikia.nocookie.net/godfather/images/8/87/The_Godfather_Part_II.jpg/revision/latest/top-crop/width/360/height/450?cb=20100520182416", The Godfather: Part II (1974)
-http://mantul.biz.id:8888/movie/tora3/tora/4784.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20GodFather/The.Godfather.Part.2.1974.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg", The Godfather: Part III (1990)
-http://mantul.biz.id:8888/movie/tora3/tora/4785.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20GodFather/the.godfather.part.3.1990.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p159729_p_v10_ar.jpg", Transformers
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Transformer%20(2007)%20Malay%20Hardsub-1.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformer%20(2007).mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p192847_p_v10_af.jpg", Transformers: Revenge of the Fallen
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Transformers%20Revenge%20of%20the%20Fellen%20Malay%20Hardsub.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformers%20Revenge%20of%20the%20Fellen.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p8176375_p_v10_aw.jpg", Transformers: Dark of the Moon
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Transformer%20Dark%20Of%20The%20Moon%20Malay%20Hardsub.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformer%20Dark%20Of%20The%20Moon.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://flxt.tmsimg.com/assets/p10024445_p_v10_aj.jpg", Transformers: Age of Extinction
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Transformer%20Age%20Of%20Extinction%20(2014)%20Malay%20hardsub.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/Transformer%20Age%20Of%20Extinction%20(2014).mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://resizing.flixster.com/E4_L4F0gBioB4edo03-Bp5fuP7M=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzQ4NTAyMjM3LWNhZWYtNDc4ZC1iMGQ4LThiYzVhZGM2YjFmZS53ZWJw", Transformers: The Last Knight
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/transformers%20The%20Last%20Knight%20Malay%20Hardsub.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Transformers/transformers%20The%20Last%20Knight.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg", Home Alone (1990)
-http://mantul.biz.id:8888/movie/tora3/tora/9798.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%20(1990).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Home_Alone_2.jpg", Home Alone 2: Lost in New York (1992)
-http://mantul.biz.id:8888/movie/tora3/tora/9799.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%202_%20Lost%20In%20New%20York%20(1992).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJhYjVhOWMtYTUyOS00NWM0LThjNzYtZWYxOTkwN2FhODg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR86,0,630,1200_AL_.jpg", Home Alone 3 (1997)
-http://mantul.biz.id:8888/movie/tora3/tora/9800.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%203%20(1997).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzNjM3OTEwNjNeQTJeQWpwZ15BbWU3MDk1ODIwMDE@._V1_UY1200_CR32,0,630,1200_AL_.jpg", Home Alone 4 (2002)
-http://mantul.biz.id:8888/movie/tora3/tora/9801.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%204%20Taking%20Back%20the%20House%202002.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2ZTg2MDctMmM0Zi00NmZiLTgzMzUtYmYxNjEyYTFhOWMxXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg", Home Alone: The Holiday Heist (2012)
-http://mantul.biz.id:8888/movie/tora3/tora/9802.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Home%20Alone/Home%20Alone%205_%20The%20Holiday%20Heist%20(2012).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://d3rwyinxzcqr6y.cloudfront.net/Assets/84/092/L_p0106209284.jpg", Kursk [Multi-Subs] [2018]
-http://cloudcdn.tk:80/movie/JCJd0ex114/tj6BHP7630/50155.mkv
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kursk%20(2018).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg", Mortal Kombat (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/MK21.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_UY1200_CR89,0,630,1200_AL_.jpg", RED
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Red%20(2010)720p%20brrip%20Malay%20Hardsub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Red%20(2010).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_.jpg", RED 2
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Red%202%20(2013)720p%20bluray%20Malay%20Hardsub.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Red%202%20(2013).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2239.jpg", Kingsman: The Secret Service (2014)
-https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/22/Kingsman%20The%20Secret%20Service%202014.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman%20The%20Secret%20Service%202014.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/2238.jpg", Kingsman: The Golden Circle (2017)
-https://api1.ohflix.workers.dev/0:/ohflix342/three/NewVersion/22/Kingsman%20The%20Golden%20Circle%202017.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kingsman.The.Golden.Circle.2017.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6022.jpg", Finding Ohana [2021]
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru8/Finding%20Ohana%20(2021)ok.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4192.jpg", Love and Monsters [2020]
@@ -1985,7 +1981,7 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/Chaos%20Wa
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6766.jpg", The Dry
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/baru11/The%20Dry%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6557.jpg", Godzilla vs Kingkong
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Godzilla%20vs%20Kong%2020212.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Godzilla.vs.Kong.2021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/5498.jpg", The Founder
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/51/The%20Founder%20(2016).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/6675.jpg", Console Wars
