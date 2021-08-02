@@ -365,6 +365,12 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vPzWMCAQJwte0nK1cX1GTtKHsCX.jpg", Crows Zero (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Crows%20Zero%20%20(2007).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4CPbzy00R6gwTpFoLDfFTOiaik6.jpg", Crows Zero II (2009)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Crows%20Zero%20II%20(Kur%C3%B4zu%20zero%20II)%20(2009).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/88j0nzKuBldhBwvfZBTjrwNO0UY.jpg", Crows Explode (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Crows%20Explode%20(Kur%C3%B4zu%20Explode)%20(2014).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g8CBVNFdJOGINQW2KuOvl5NAPS5.jpg", Chocolate 2008
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Chocolate%20(2008).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg", Rurouni Kenshin - The Beginning
@@ -737,6 +743,26 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg", The Croods A New Age (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/The%20Croods_%20A%20New%20Age%20(2020).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg", The Croods (2013)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/The%20Croods%20(2013).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/3fsuPpUEbN41blhbStfR3v1sbZT.jpg", Doraemon The Movie (2001)- Winged Braves
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2001)-%20Winged%20Braves%20(Malay%20Dub).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/md1FsbfZmiR8htQur952wpKoouB.jpg", Doraemon The Movie (2002)- Nobita Dan Kerajaan Robot 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2002)-%20Nobita%20Dan%20Kerajaan%20Robot%20(Malay%20Dub).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYyZjcxOTItZWJmMy00NGFmLWEzNGMtNzdhOTMzNDgzNThiXkEyXkFqcGdeQXVyNjYxMzkwODM@._V1_.jpg", Doraemon The Movie (2003)- Nobita And The Wind Wizard
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2003)-%20Nobita%20And%20The%20Wind%20Wizard%20(malay%20Dub).mp4 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/sBJDoIkcwoEwLeFtIcJ3sqVmlpx.jpg", Doraemon The Movie (2004)- Nobita In The Wan-nyan Spacetime 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2004)-%20Nobita%20In%20The%20Wan-nyan%20Spacetime%20Odyssey(1).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/jnB7HQjBSH62eSyx0oqWArn9Dca.jpg", Doraemon The Movie (2006)- Nobita's Dinosaur
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2006)-%20Nobita's%20Dinosaur%20(Malay%20Dub).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/4E0qUqbevK4DAW2RRbvZmjjPsOd.jpg", Doraemon The Movie (2007)- Nobita's The New Great Adventure Into The Underworld 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2007)-%20Nobita's%20The%20New%20Great%20Adventure%20Into%20The%20Underworld%20(Malay%20Dub).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/jbszRvlAtGGHZK4qOAREHChg2P7.jpg", Doraemon The Movie (2011)- Nobita and The New Steel Troops
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20The%20Movie%20(2011)-%20Nobita%20and%20The%20New%20Steel%20Troops.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUJGtID4UyO6nLE0Ztqq48y4Hdw.jpg", Doraemon the Movie (2012)- Nobita and the Last Haven-Animal Adventure
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Doraemon/Doraemon%20the%20Movie-%20Nobita%20and%20the%20Last%20Haven-Animal%20Adventure.mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/AwkmMTKJBAatbeAVhTwhcU3Pyp4.jpg", Barbie Princess Adventure 2020
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Barbie%20Princess%20Adventure%20(2020).mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/zKu5MNy9QW1a5ZHgv7iAp3kRZpE.jpg", Trolls 2016
@@ -1236,6 +1262,14 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2MSGZEE6XZd2r4ODNziwAw7Hpw0.jpg", Into the Wild (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Into%20the%20Wild%20(2007).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/h8z5UUWxdUa50fja6cFcIrE0UBB.jpg", Alive (1993)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alive.1993.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dt9eTT8zmydFX4VZEdEtYpBhh01.jpg", The Way Back 2010
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Way.Back.2010.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1RxhzwFkAUqMt215Brb06u8P8pn.jpg", In The Tall Grass (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/In_The_Tall_Grass_(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQzNzA1NGQtMGYwMS00YmMxLWI2MGUtMjRlZGZkM2RlZmMwXkEyXkFqcGdeQXVyMjA0MjA4NDk@._V1_.jpg", Joey and Ella 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/joeyandella.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg", The Meg 2018
