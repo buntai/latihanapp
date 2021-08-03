@@ -1,5 +1,9 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-z6NpX2TMEJY/YGLX7DSpLwI/AAAAAAAALX4/srl3bxuhuzYOrgz5RdQdCPJ3HEbeUZDIACLcBGAsYHQ/s16000/Hantu%2BSangkut%2B2.0.jpg", Hantu Sangkut 2.0 2021
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Hantu.Sangkut.2.0.2021.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d2/Kembara-seniman-jalanan-1-.jpg/220px-Kembara-seniman-jalanan-1-.jpg", Kembara Seniman Jalanan 1986
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Kembara.Seniman.Jalanan%201986.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pFrBJ6AH9m8WohNFSOEV3Bo0WWo.jpg", Ola Bola 2016
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Ola%20Bola%20(2016).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uP8vEgU5Yf0tiAVKuRlEPGTalgT.jpg", Awang Spanar 1989
@@ -892,6 +896,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE2YWJmYWMtMDhmZC00ZmM0LTk2NjQtYTdiZjViMTNiOWM5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg", Raju Chaca 2000
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Raju%20Chacha%20(2000).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cDobSMRCguAuoubvbR6kq78S4SO.jpg", Walter 2020
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Walter%20(2020).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/euyVCIOATR07mc7bMz8odAiItRf.jpg", Hebbuli 2017
@@ -1262,6 +1268,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ApfjrFsGunqLo5MKYGtFMTSTaMq.jpg", Kalashnikov AK-47 (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Kalashnikov%20AK-47%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/rPmCiHEx7pEYalXKXIno4sI1WEu.jpg", Mouse Hunt 1997
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/mousehunt-1997.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/2MSGZEE6XZd2r4ODNziwAw7Hpw0.jpg", Into the Wild (2007)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Into%20the%20Wild%20(2007).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/h8z5UUWxdUa50fja6cFcIrE0UBB.jpg", Alive (1993)
