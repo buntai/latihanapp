@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wQBqw5T8FfXys4KwHUmkqsGhVCJ.jpg", Sofaz The Movie Jiwa Kacau (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sofaz%20The%20Movie-Jiwa%20Kacau%20(2012).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-z6NpX2TMEJY/YGLX7DSpLwI/AAAAAAAALX4/srl3bxuhuzYOrgz5RdQdCPJ3HEbeUZDIACLcBGAsYHQ/s16000/Hantu%2BSangkut%2B2.0.jpg", Hantu Sangkut 2.0 2021
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Hantu.Sangkut.2.0.2021.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d2/Kembara-seniman-jalanan-1-.jpg/220px-Kembara-seniman-jalanan-1-.jpg", Kembara Seniman Jalanan 1986
@@ -369,6 +371,12 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mFnfTVADj8yOxwzprYOmTPselk8.jpg", Capernaum (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Capernaum%20(2018).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg", The Divine Fury (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Divine%20Fury%20(2019).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/c7JzcVK4OZY1u7HYiFBOASkKPP5.jpg", Ride or Die (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/RIDE%20OR%20DIE%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="http://chinesemov.com/images/2021/Crazy-Tsunami-2021-1.jpg", Crazy Tsunami (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Crazy%20Tsunami%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/neO0c69wGECyhx7XSUyDFXGgvAX.jpg", Ghibah 2021
@@ -753,6 +761,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021) MalayDub
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Vivo.2021.1080p.MALAY.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg", Shark Tale 2004
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Shark.Tale.2004.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg", The Croods A New Age (2020)
@@ -1294,6 +1304,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad FHD (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The.Suicide.Squad.2021.1080p.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Suicide.Squad.2021.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/leKQao68zra3SY2cPHZLzEbdLKT.jpg", Life of Pi (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Life%20of%20pi%20(2012).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_.jpg", The Vault (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Vault%20%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg", Alice in Wonderland (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alice%20in%20Wonderland%20(2010).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4g043PWVXkjHkxEEsEfwuAxlM8i.jpg", Alice Through the Looking Glass (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alice%20Through%20The%20Looking%20Glass%20(2016).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg", As Above, So Below (2014)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/As%20Above,%20So%20Below%20(2014).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg", Wrong Turn (2003)
