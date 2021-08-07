@@ -371,6 +371,16 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4uwxfZBJzk7d1xsbRFgG92R7JtW.jpg", Dreadout (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/DreadOut%20(2019).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg", Old boy (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Oldboy%20%20(2003).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cI9SXHxBsEF0cgUTZKDDaPC0ozT.jpg", Pieta (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Pieta%20(2012).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4bWVILPrb7gaqwA2j6xIcg4Ak3D.jpg", The chaser (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Chaser%20(2008).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk0ODMxYTgtY2I4Mi00Y2VjLWFiMzMtODc2ZWM4Mzg5N2NjXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_FMjpg_UX1000_.jpg", The yellow sea (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Yellow%20Sea%20(2010).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/mFnfTVADj8yOxwzprYOmTPselk8.jpg", Capernaum (2018)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Capernaum%20(2018).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg", The Divine Fury (2019)
@@ -761,6 +771,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Vivo%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021) MalayDub
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Vivo.2021.1080p.MALAY.mkv
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg", Shark Tale 2004
@@ -914,6 +926,14 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dN3fwrFaSqg07ACvN6HZZYbwyQr.jpg", Baaghi 2016
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%20(2016)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1E2lUedrxlzIgReszV0OuJ5JpvG.jpg", Baaghi 2 2018
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%202%20(2018)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg", Baaghi 3 2020
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%203%20(2020)%20Subs%20Malay.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg", War 2019
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/War%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNiZWUyYTEtODdiNi00YWMzLThiOTQtNzkxOGM0ZTg4YzhhXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg", Thittam Irandu (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Thittam%20Irandu%20(2021)%20Tamil%20Subs%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://image.tmdb.org/t/p/w185/tIxgBzSJp13KOTpQqY7La6S3Tdp.jpg", Bannerghatta (2021)
@@ -1304,10 +1324,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg", S.W.A.T : under siege 2017
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/S.W.A.T-_Under_Siege_(2017).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad FHD (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/The.Suicide.Squad.2021.1080p.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad (2021)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Suicide.Squad.2021.mp4
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Suicide%20Squad%20(2021)%20MHB.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/leKQao68zra3SY2cPHZLzEbdLKT.jpg", Life of Pi (2012)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Life%20of%20pi%20(2012).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_.jpg", The Vault (2021)
