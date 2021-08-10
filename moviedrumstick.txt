@@ -1,5 +1,9 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Main Main Hantu (1990)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Main-main%20Hantu.mp4
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0ZDI1YzQtZDNmYS00OTBlLWFmNTAtZjRkNzI4ZDAzMGIyXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Mat Bond Malaya (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Mat%20Bond%20Malaya%20(2021).mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wQBqw5T8FfXys4KwHUmkqsGhVCJ.jpg", Sofaz The Movie Jiwa Kacau (2012)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sofaz%20The%20Movie-Jiwa%20Kacau%20(2012).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-z6NpX2TMEJY/YGLX7DSpLwI/AAAAAAAALX4/srl3bxuhuzYOrgz5RdQdCPJ3HEbeUZDIACLcBGAsYHQ/s16000/Hantu%2BSangkut%2B2.0.jpg", Hantu Sangkut 2.0 2021
@@ -371,6 +375,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lyqkQ6y7d4YGVQrRjtmGTRMVcDY.jpg", Inuyashiki (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Inuyashiki(2018).m4v
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4uwxfZBJzk7d1xsbRFgG92R7JtW.jpg", Dreadout (2019)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/DreadOut%20(2019).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg", Old boy (2003)
@@ -926,6 +932,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRkZDA0NjAtMTgyMi00M2E4LTg3ZjYtN2FjYTdhNjIwZmRlXkEyXkFqcGdeQXVyMTA4Nzg3MTc0._V1_.jpg", Dial 100 (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20100%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iAYDZgAi5MYJbEC968LujYKaXIa.jpg", Nannaku Prematho (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Nannaku%20Prematho.mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dN3fwrFaSqg07ACvN6HZZYbwyQr.jpg", Baaghi 2016
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Baaghi%20(2016)%20Subs%20Malay.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1E2lUedrxlzIgReszV0OuJ5JpvG.jpg", Baaghi 2 2018
@@ -1324,6 +1334,24 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg", The Swarm (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Swarm%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg", It (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/It%20(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg", It Chapter Two (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/It.Chapter.Two.2019.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/1UKNef590A0ZaMnxsscIcWuK1Em.jpg", Resident Evil (2002)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil.mkv
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg", Resident Evil: Apocalypse (2004)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Apocalypse.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg", Resident Evil: Extinction (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Extinction.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xaEHOuIkoTzHQIiex0Ys306Ky05.jpg", Resident Evil: Afterlife (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Afterlife.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg", Resident Evil: Retribution (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Retribution.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg", Resident Evil: The Final Chapter (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20The%20Final%20Chapter.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg", S.W.A.T : under siege 2017
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/S.W.A.T-_Under_Siege_(2017).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg", The Suicide Squad FHD (2021)
