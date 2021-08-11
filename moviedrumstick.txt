@@ -375,6 +375,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8zWliijoTsk3kUdUJpbjqWgV617.jpg", Shinjuku Incident (2009)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Shinjuku%20Incident%20(2009).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lyqkQ6y7d4YGVQrRjtmGTRMVcDY.jpg", Inuyashiki (2018)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Inuyashiki(2018).m4v
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4uwxfZBJzk7d1xsbRFgG92R7JtW.jpg", Dreadout (2019)
@@ -932,6 +934,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/awN7MPVHcubWEqfo7T5jidx3xYY.jpg", Hichki (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Hichki.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRkZDA0NjAtMTgyMi00M2E4LTg3ZjYtN2FjYTdhNjIwZmRlXkEyXkFqcGdeQXVyMTA4Nzg3MTc0._V1_.jpg", Dial 100 (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20100%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/iAYDZgAi5MYJbEC968LujYKaXIa.jpg", Nannaku Prematho (2016)
@@ -1334,6 +1338,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg", The Shawshank Redemption (1994)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Shawshank%20Redemption%201994.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg", The Swarm (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Swarm%20(2020).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg", It (2017)
