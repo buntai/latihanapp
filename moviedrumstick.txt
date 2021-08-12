@@ -375,6 +375,30 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://cdn.kissasians.org/images/2021/05/Mouse-2021-The-Theatrical-Cut-220x320.png", Mouse (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Mouse.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p49PY98XXIXY6ZkQjeyoqDx892l.jpg", One Second Champion (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/One%20Second%20Champion%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg", CJ7 (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/CJ7.2008.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rOOfFfD3rodmIaIe0jpEiCRsHdw.jpg", Forbidden City Cop (1996)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Forbidden.City.Cop.1996.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ew5QWD64t5ngd7yKNiVIIyjAMKa.jpg", When Fortune Smiles (1990)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/When_Fortune_Smiles_1990.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/eGVEvAoAeGi33muA10xjWPh58Wj.jpg", Sixty Million Dollar Man (1995)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Sixty_Million_Dollar_Man_1995.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pJHERfFGTCm3YlbwKNkqlLxphba.jpg", A Better Tomorrow (1986)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.1986.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nlTMQXCrwInbQd0qFapPoPVsnOH.jpg", Flirting Scholar (1993)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Flirting.Scholar.1993.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dmJWvKNgeCrIwJH6AapdSMiZHop.jpg", The King of Comedy (1999)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/The_King_of_Comedy_1999.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kuQq5WL6NG89ozASyykFlgyQ0dq.jpg", JUSTICE, MY FOOT! (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Justice,_My_Foot!1992.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p2TnX8MwCM6GUjcX0R6s3wDb9En.jpg", A Chinese Odyssey: Part One - Pandora's Box (1995)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A%20Chinese%20Odyssey%20Part%201%20-%20Pandora.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4NVQ6rDjPdJ1fayNggtL87nkAuE.jpg", A Chinese Odyssey: Part Two - Cinderella (1995)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A%20Chinese%20Odyssey%20Part%202%20-%20Cinderella.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8zWliijoTsk3kUdUJpbjqWgV617.jpg", Shinjuku Incident (2009)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Shinjuku%20Incident%20(2009).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lyqkQ6y7d4YGVQrRjtmGTRMVcDY.jpg", Inuyashiki (2018)
@@ -1338,6 +1362,16 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2EzYWU0YmMtMGUwZi00YTNjLWJmM2ItOWYyMjk3NWZlYWIwXkEyXkFqcGdeQXVyMjg5NzA5Nzg@._V1_.jpg", Notorious Nick (2021) SD
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Notorious%20Nick%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3aU825BI4IsdCPGXANqH2tqePde.jpg", Munich (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Munich%20(2005).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/oo2Q3T8juOYFh2G1YJ3oSMAfUyq.jpg", Me Before You (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Me%20Before%20You%20(2016).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/csXyZ1BsDBlH0PXkOFWxggEf9WF.jpg", Street Kings (2008)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Street%20Kings%20(2008).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hAXqjMVgF6TS8oa40TIRfrNix5d.jpg", Emergo aka Apartment 143 (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Emergo%20aka%20Apartment%20143%20(2011).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg", The Shawshank Redemption (1994)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Shawshank%20Redemption%201994.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg", The Swarm (2021)
