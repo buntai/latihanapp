@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-GfuxiGRX6n0/YPQSUD3H-FI/AAAAAAAAMC0/mzPcpjqEyxgXse7Te3SzoJ2gSqYL8eXxQCLcBGAsYHQ/s16000/Sebelum%2BPulang.jpg", Sebelum Pulang (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sebelum%20Pulang%20(2021).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Main Main Hantu (1990)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Main-main%20Hantu.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0ZDI1YzQtZDNmYS00OTBlLWFmNTAtZjRkNzI4ZDAzMGIyXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Mat Bond Malaya (2021)
@@ -389,6 +391,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/When_Fortune_Smiles_1990.
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Sixty_Million_Dollar_Man_1995.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pJHERfFGTCm3YlbwKNkqlLxphba.jpg", A Better Tomorrow (1986)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.1986.mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tpnR174jTJqdduuOFGeI7RdKHZZ.jpg", A Better Tomorrow II (1987)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.II.1987..mkv
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gnBO55MPkWhoEmfSD3n675XtxEO.jpg", A Better Tomorrow III (1989)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/A.Better.Tomorrow.III.1989.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nlTMQXCrwInbQd0qFapPoPVsnOH.jpg", Flirting Scholar (1993)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/SCM/Flirting.Scholar.1993.mkv
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dmJWvKNgeCrIwJH6AapdSMiZHop.jpg", The King of Comedy (1999)
@@ -958,6 +964,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w4mMRIbFDaXnZbeu7EH05XZAbcL.jpg", Jackpot (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jackpot%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/awN7MPVHcubWEqfo7T5jidx3xYY.jpg", Hichki (2018)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Hichki.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRkZDA0NjAtMTgyMi00M2E4LTg3ZjYtN2FjYTdhNjIwZmRlXkEyXkFqcGdeQXVyMTA4Nzg3MTc0._V1_.jpg", Dial 100 (2021)
