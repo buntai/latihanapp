@@ -377,6 +377,14 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg", Serigala Langit (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/erigala%20Langit%20(2021).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hngKHgBHRD5nbTx92zatBC6eMSP.jpg", Deliver Us From Evil (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Deliver%20Us%20From%20Evil%20(2020).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ziNZV9TNICh9kOwoRK0k7UkNyKJ.jpg", The Thousand Faces Of Dunjia (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Thousand%20Faces%20Of%20Dunjia%20(2017).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hOk96JKO4fX2hK9YzxYCN0WtvFw.jpg", Brave Gunjyo Senki (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/brave%20gunjyo%20senki%202021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://cdn.kissasians.org/images/2021/05/Mouse-2021-The-Theatrical-Cut-220x320.png", Mouse (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Mouse.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/p49PY98XXIXY6ZkQjeyoqDx892l.jpg", One Second Champion (2021)
@@ -809,6 +817,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/fctSbleL7ozVcGyC163nPv4arW1.jpg", Monster Hunter Legends Of The Guild (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Monster%20Hunter%20Legends%20Of%20The%20Guild%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Vivo%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021) MalayDub
@@ -964,6 +974,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cGlDuu1i3XEXyb0ovUluo3JsCEJ.jpg", Poojai (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Poojai%20(2014).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w4mMRIbFDaXnZbeu7EH05XZAbcL.jpg", Jackpot (2019)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jackpot%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/awN7MPVHcubWEqfo7T5jidx3xYY.jpg", Hichki (2018)
@@ -1370,6 +1382,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJlODkzMDItNWI5MS00ZmVhLTkzNmUtNzExYjhhNmY4OWZjXkEyXkFqcGdeQXVyMjgxNjgxODI@._V1_.jpg", Paranormal Prison (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Paranormal%20Prison%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg", Samson (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Samson%20(2018).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/qXvOpA2nhK5HQ6I95sN3nnMtfjH.jpg", The Last Witch Hunter (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Last%20Witch%20Hunter%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ctfRTZs6n75KWAmL6kEvct0qSGx.jpg", The Lizzie McGuire Movie (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Lizzie%20McGuire%20Movie%20(2003).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ijJm0RSeKIr67qkHLtSmtigS6ra.jpg", Coma (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Coma%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/c32q7S9RJvZqPLxKEwNPXFlocJ7.jpg", Obsession (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Obsession%20(2019).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2EzYWU0YmMtMGUwZi00YTNjLWJmM2ItOWYyMjk3NWZlYWIwXkEyXkFqcGdeQXVyMjg5NzA5Nzg@._V1_.jpg", Notorious Nick (2021) SD
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Notorious%20Nick%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3aU825BI4IsdCPGXANqH2tqePde.jpg", Munich (2005)
