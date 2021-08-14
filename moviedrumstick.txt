@@ -974,6 +974,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lasy6dL6VgII8EJzvCxNhNsneuS.jpg", Jazbaa (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jazbaa%20(2015).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8slJezlw5nTNQlPgp3ubfWTUnQY.jpg", Yeh Hai Jalwa (2002)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Yeh%20Hai%20Jalwa%20(2002).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cGlDuu1i3XEXyb0ovUluo3JsCEJ.jpg", Poojai (2014)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Poojai%20(2014).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/w4mMRIbFDaXnZbeu7EH05XZAbcL.jpg", Jackpot (2019)
