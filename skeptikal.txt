@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
-https://rtm-olympic01tv.secureswiftcontent.com/rtm/olympic01_720.mpd
+http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/14651
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-https://rtm-olympic02tv.secureswiftcontent.com/rtm/olympic02_720.mpd
+http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/20024
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
-https://rtm-olympic03tv.secureswiftcontent.com/rtm/olympic03_720.mpd
+http://cbplay.site:80/live/SerraKayl/o5sh48Qs/95025.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
-https://rtm-olympic04tv.secureswiftcontent.com/rtm/olympic04_720.mpd
+http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/16970
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
-https://rtm-olympic05tv.secureswiftcontent.com/rtm/olympic05_720.mpd
+http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/15000
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
