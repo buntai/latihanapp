@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://apicms.mstar.com.my/uploads/images/2021/08/13/1254767.jpg", Ada Hantu (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/Malay/Ada%20Hantu.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://1.bp.blogspot.com/-GfuxiGRX6n0/YPQSUD3H-FI/AAAAAAAAMC0/mzPcpjqEyxgXse7Te3SzoJ2gSqYL8eXxQCLcBGAsYHQ/s16000/Sebelum%2BPulang.jpg", Sebelum Pulang (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Sebelum%20Pulang%20(2021).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg", Main Main Hantu (1990)
