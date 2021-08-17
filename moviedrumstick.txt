@@ -379,6 +379,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/rfGo5NiPfGof3BUiDM26D3EoobK.jpg", Fist of Legend (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Kungfu/Fist.of.Legend.2019.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg", Serigala Langit (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/erigala%20Langit%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/hngKHgBHRD5nbTx92zatBC6eMSP.jpg", Deliver Us From Evil (2020)
@@ -976,6 +978,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/afSVOdens3jMc1QzLA3Ps3XGSbR.jpg", Jism (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jism%20(2003).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/zmKp3tAblyhHgQOSJKkl4TntkFw.jpg", Jism 2 (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jism%202%20(2012).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lasy6dL6VgII8EJzvCxNhNsneuS.jpg", Jazbaa (2015)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jazbaa%20(2015).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8slJezlw5nTNQlPgp3ubfWTUnQY.jpg", Yeh Hai Jalwa (2002)
@@ -1388,6 +1394,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg", Snake Eyes (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Snake.Eyes.G.I.Joe.Origins.2021.1080p_1.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/bSMSO9xupd4R4vwTPqigHn2quLN.jpg", Murder Mystery (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Murder%20Mystery%20(2019).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8Lq4NXOp7I2vxVtTNeSsIpRpS4t.jpg", Stray Dogs (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Stray%20Dogs%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJlODkzMDItNWI5MS00ZmVhLTkzNmUtNzExYjhhNmY4OWZjXkEyXkFqcGdeQXVyMjgxNjgxODI@._V1_.jpg", Paranormal Prison (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Paranormal%20Prison%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg", Samson (2018)
