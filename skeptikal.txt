@@ -27,25 +27,23 @@ http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="101" tvg-chno="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png", TV1 [B]
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01_720.mpd
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [B]
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="146" tvg-chno="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY 
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_720.mpd
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="146" tvg-chno="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png", OKEY [B]
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03_manifest.m3u8|referer=https://www.rtmklik.rtm.gov.my
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8|referer=https://www.rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="RTMK03" tvg-chno="102" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png", TV6 
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="103" tvg-chno="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="103" tvg-chno="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3 (B)
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+http://198.16.106.62:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="103" tvg-chno="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3 (B2)
 http://mantul.biz.id:8888/syaiful2/syaiful2/153
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="147" tvg-chno="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png",NTV 7
@@ -93,7 +91,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo [B]
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD
 http://iptv.tvmalaysia.cc:80/penang100/penang100/6730
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [B]
@@ -101,7 +99,7 @@ http://mantul.biz.id:8888/syaiful2/syaiful2/1105
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [C]
 https://nonton.site:8443/rachman/rachman123/37332
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="1104" tvg-chno="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png", RIA HD [D]
-http://hottest.fit:8080/zain/zain123/9613
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Warna HD [B]
@@ -229,7 +227,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://pbs.twimg.com/profile_images/813353685128511488/X33CBMGa_400x400.jpg", Eleven Sport HD
 http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", Fox Sports FHD
-http://c4.ufczone.live/StormGuard/001/chunks.m3u8
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS 1 HD
 http://164.68.124.111/fs1.m3u8
 #EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS 2
@@ -274,28 +272,58 @@ http://webo.asia:80/ghazanfar/ghazanfar/12492
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSRg5yGjt2-BaiMocmIxM9XSB2NN5mKGWhLozYGyA=s900-c-k-c0x00ffffff-no-rj", Colors Rishtey
 http://webo.asia:80/ghazanfar/ghazanfar/12476
 #EXTINF:-1 group-title="India🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png", Zee TV HD
-http://webo.asia:80/ghazanfar/ghazanfar/15224
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 
 
 
 ===============================================================
 
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 1
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 1
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 2
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 2
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 3
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 4
-http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 5
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 4
+https://pull.kktv8.com/livekktv/155906661/playlist.m3u8
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 5
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/747764rfA3HOpaVl_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 7
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/4332rdOzEliVxLwT_1024p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 8
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/252802ryboKvsRTt_1024p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 9
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7888428rkAExsbsx_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 10
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7254536riuyQHxAL_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 11
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/52787r8ZChaEsamQ_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 12
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7270927reXZEug2P_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 13
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/323876reFBNcAGH9_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 14
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/6003761rr6ni86kl_1024p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 15
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/6537888rtsthXrZB_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 16
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/2793084r8UAShU2D_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 17
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/36337rV0DV1Tki6h_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 18
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7882691riyDqLrmv_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 19
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/8834003r0NGVfGiO_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 20
+http://tx2play1.douyucdn.cn:80/live/dyliveflv1a/3637778raLSXdOdu_4000p.xs
+
+==================================================================================
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg", &FLix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg", SONY PIX HD
-http://103.153.39.34:8000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.postimg.cc/q74wgGF6/galax2.png", Galaxy HD
 http://zalogitv.tech:8080/budiyanto/budiyanto/1390
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.postimg.cc/V6NFWkmY/galaxy2.png", Galaxy PremiumHD
@@ -381,9 +409,9 @@ http://134.19.182.131:8080/edg13_2.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png", TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports 
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/02_720.mpd
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports B
-https://rtmlive03.secureswiftcontent.com/rtmchannel/02_manifest.m3u8|referer=https://www.rtmklik.rtm.gov.my
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8|referer=https://www.rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports C
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena
@@ -393,7 +421,7 @@ http://zalogitv.tech:8080/budiyanto/budiyanto/1825
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B2]
 http://mantul.biz.id:8888/syaiful2/syaiful2/4985
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B3]
-https://nonton.site:8443/rachman/rachman123/37422
+http://198.16.106.62:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B4]
 http://iptv.tvmalaysia.cc:80/penang100/penang100/6707
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
@@ -405,9 +433,9 @@ http://51.210.199.25/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/04/1-2020-04-04T134730.124.jpg", beIN Sports Premium
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.racefans.net/wp-content/uploads/2017/11/f1-logo.jpg", Sky Sports F1 FHD
-http://zalogitv.tech:8080/budiyanto/budiyanto/572
+http://31.220.41.90:8081/live/skysportsf1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
-http://zalogitv.tech:8080/budiyanto/budiyanto/559
+http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://images.tapology.com/logos/2532/profile/Top_Fight_MMA-logo.png", Top Fight
 http://159.192.73.198:1072/topfight
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
@@ -437,9 +465,9 @@ http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="Sports🏆",SONY TEN 3-UHD
 http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 1
-http://webo.asia:80/arif/arif/15260
+https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 2
-http://webo.asia:80/arif/arif/15259
+https://sport.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png", SPORTTV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png", SPORTTV 2
@@ -496,8 +524,12 @@ http://zalogitv.tech:8080/budiyanto/budiyanto/1792
 http://zalogitv.tech:8080/budiyanto/budiyanto/1793
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg", Optus Sports 1
 http://zalogitv.tech:8080/budiyanto/budiyanto/11973
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.postimg.cc/YSm1BT4b/IMG-20210312-002938.jpg", Optus Sports 2
-http://zalogitv.tech:8080/budiyanto/budiyanto/11974
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://pbs.twimg.com/profile_images/1180445265737719809/yvnMUB-o_400x400.png", BT Sport 2 
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MUTV
+https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://image.discovery.indazn.com/jp/v2/jp/image?id=90777157580_image-header_pJp_1602848857000", LiverpoolTV
+http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta
 https://95-213-224-180.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta 1
@@ -612,7 +644,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", BABY TV
 http://zalogitv.tech:8080/budiyanto/budiyanto/514
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png", DISNEY JUNIOR [B]
 http://mantul.biz.id:8888/syaiful2/syaiful2/698
 #EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg", DISNEY CHANNEL
@@ -731,7 +763,7 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX
 http://tmlive.cc:8080/shah/shah/291
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOX LIFE
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", Fox Life TH
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_Movies_logo.png", Blue Ant Entertainment TH
@@ -752,10 +784,6 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 http://mantul.biz.id:8888/syaiful2/syaiful2/8381
 #EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Baby Bus Indonesia
 http://mantul.biz.id:8888/syaiful2/syaiful2/1013
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7: Adam Sandler Collection
-http://hottest.fit:8080/zain/zain123/69526
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Back to The Future Collection
-http://hottest.fit:8080/zain/zain123/69561
 #EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bruce Lee Collection
 http://mantul.biz.id:8888/syaiful2/syaiful2/10690
 #EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg", 24/7 Bubble Guppies Collection
