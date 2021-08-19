@@ -982,6 +982,30 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/call-taxi-et00309647-31-03-2021-02-12-03.jpg", Call Taxi (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20Taxi%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9e9ViB1J4rb2UKvXAEn0xilhId.jpg", Inspector Vikram (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/inspector%20Vikram%202021.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/8wlcX2ZKomm2bfTZkl84WZ3T3pt.jpg", Theevram (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Theevram%20(2012).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fTroJBj6IZE58OfCetvxRFiits5.jpg", Chanakya (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Chanakya%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/cBfNQhygQWuuKoQZUFEwhTlfpLj.jpg", Cameraman gangatho rambabu (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/CAMERAMAN%20GANGATHO%20RAMBABU.mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cFdf9OdVMYdI9UFVD9TJVYpUivw.jpg", Entha Manchivaadavuraa (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Entha%20Manchivaadavuraa%20(2020).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/6mxrEWLLEO0VcOZAbY2Fz1I9jIA.jpg", Irumbu Kuthirai (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Irumbu%20Kuthirai%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/s1VBoGTbwBuRGDxaT9YCTaGeK2n.jpg", Jai Hind 2 (2014) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Jai%20Hind%202%202014.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA2OWE0NjgtN2MxNS00OGNhLTgyZTItMmZiNjZkZWFiOTBlXkEyXkFqcGdeQXVyOTAxMTMyMjI@._V1_.jpg", Naan Sigappu Manithan (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Naan%20Sigappu%20Manithan%20(2014).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg", Parmanu: The Story of Pokhran (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Parmanu%20The%20Story%20of%20Pokhran%20(2018).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/cily2czYaIla7RoPQc8L1KO948e.jpg", Vedalam (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Vedalam%20(2015)%20Tamil.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5WguUs8Y3VwUrJ1CF81YFWswQVa.jpg", Yennai Arindhaal (2015) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Yennai%20Arindhaal%20(2015).mkv
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jGfWsWcndUpzrdxZ8uddKYlJUsk.jpg", Tango Charlie (2005)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Tango%20Charlie%20(2005)%20Hindi.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zc0OzUOF8B4x4AH4bubxw0mHCnF.jpg", Bhuj The Pride Of India (2021)
