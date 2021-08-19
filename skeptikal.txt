@@ -318,6 +318,16 @@ http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7882691riyDqLrmv_4000p.xs
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/8834003r0NGVfGiO_4000p.xs
 #EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 20
 http://tx2play1.douyucdn.cn:80/live/dyliveflv1a/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",Parkour Time
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3a/9644386rWRYVOgqk_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",Fishing Fever
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/791411rZiX9KMhg0_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",Wilderness Builder 1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/9611578r1MO3gtU3_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",Primitive Survivor
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/9612117rECrLuvU8_4000p.xs
+#EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",Wilderness Builder 2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/9616889r7omdrImg_4000p.xs
 
 ==================================================================================
 #EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg", &FLix
