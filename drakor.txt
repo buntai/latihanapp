@@ -1,3 +1,23 @@
+
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner Trailer
+https://server2.admin-ghost.workers.dev/0:/movie/Trailer/The%20Witch's%20Diner%20official%20trailer.mkv
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP1
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP1.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP2
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP2.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP3
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP3.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP4
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP4.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP5
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP5.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP6
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP6.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP7
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP7.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP8
+https://server2.admin-ghost.workers.dev/0:/series/The%20Witch's%20Diner/The%20Witch's%20Diner.EP8.mp4
+
 #EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", 💖 Love Elsa Trailer 💖 
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Love%20Elsa%20Trailer.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://muar2u.com/img/loveelsa.jpg", Love Elsa EP01
