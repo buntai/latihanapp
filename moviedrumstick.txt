@@ -383,6 +383,14 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gqyA60NtjGHYBnf20k7BHcPWvsg.jpg", My Blood & Bones in a Flowing Galaxy (2021)
+My Blood & Bones in a Flowing Galaxy (2021)
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3H97tUK5UmgOpjCh6Q7XZ4HW1cG.jpg", The Dude in Me (2019)
+https://server2.admin-ghost.workers.dev/0:/movie/Asean/The_Dude_In_Me_2019.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yt9VjqsjJznvyWdG4FXfcnCzxow.jpg", Part Time Spy (2017)
+https://server2.admin-ghost.workers.dev/0:/movie/Asean/Part%20time%20spy%202017.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w150_and_h225_bestv2/zYjFb4S1utHbXqUkhZEPDex4DI8.jpg", Escape From The Shark’s Mouth (2021)
+https://server2.admin-ghost.workers.dev/0:/movie/Asean/Escape%20From%20The%20Shark%E2%80%99s%20Mouth%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/dz0Rnu1F8LB75D54EgJSzYwuW2r.jpg", Fighter in the Wind (2004)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Fighter%20in%20the%20Wind%202004.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBmOWZmMmYtODZjZC00NGYxLWI3MTktYTk5ODQ1ZGIwZmQyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg", The Cat (2011)
@@ -1432,6 +1440,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tshCVHOq1S99mxaV5IzR0oOco9P.jpg", Sweet Girl (2021)
+https://server2.admin-ghost.workers.dev/0:/movie/English/Sweet%20Girl%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/t7ZyIR941krELzP7POiFUu0yhFq.jpg", Starbuck (2011)
+https://server2.admin-ghost.workers.dev/0:/movie/English/Starbuck%20(2011)%20malay%20sub.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ji2S3mCKNrVf2sc4asOMymKuZc6.jpg", The Dare (2019)
+https://server2.admin-ghost.workers.dev/0:/movie/English/The.Dare.2019.WEB.N3S%C3%B8.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ciTS1D4RI3thKZ2mgldQ79yP7DE.jpg", The Green Knight (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Green.Knight.2021.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg", Blood and Bone (2009)
