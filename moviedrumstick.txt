@@ -839,6 +839,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg", PAW Patrol The Movie (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Robots%20(2005).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/I/51xmwed4meL._AC_.jpg", Robot (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Robots%20(2005).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/fctSbleL7ozVcGyC163nPv4arW1.jpg", Monster Hunter Legends Of The Guild (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Monster%20Hunter%20Legends%20Of%20The%20Guild%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", Vivo (2021)
@@ -996,6 +1000,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg", Shershaah (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Shershaah%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fhWdd4obIA9ASc7xYfo38JyLqpQ.jpg", Kaashmora (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kaashmora%20(2016).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/call-taxi-et00309647-31-03-2021-02-12-03.jpg", Call Taxi (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Call%20Taxi%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9e9ViB1J4rb2UKvXAEn0xilhId.jpg", Inspector Vikram (2021)
@@ -1440,6 +1448,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gzV6cxmwsq3RDKgr9wnpn55eIpx.jpg", Stillwater (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Stillwater%20(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg", In Time (2011) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/In%20Time%20(2011)%20.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/pA2SgITmH0lzet9Nn5cxeinRKMv.jpg", Tusk (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Tusk%20%5B2014%5D.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vHqpFuguBugZZfXIyjsb4tOAXve.jpg", Ultras (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Ultras%20(2020).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/A975uoqpADhIXvREe6fNtTW3KBN.jpg", Here Alone (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Here%20Alone%20(2016).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg", Reminiscence (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Reminiscence%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tshCVHOq1S99mxaV5IzR0oOco9P.jpg", Sweet Girl (2021)
 https://server2.admin-ghost.workers.dev/0:/movie/English/Sweet%20Girl%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/t7ZyIR941krELzP7POiFUu0yhFq.jpg", Starbuck (2011)

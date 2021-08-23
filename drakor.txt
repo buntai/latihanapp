@@ -1,4 +1,19 @@
 
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki Trailer
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Marvel%20Studios'%20Loki%20Trailer.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki S1 EP1
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/series/English/Loki/Loki%20S01E01.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki S1 EP2
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/series/English/Loki/Loki%20S01E02.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki S1 EP3
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/series/English/Loki/Loki%20S01E03.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki S1 EP4
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/series/English/Loki/Loki%20S01E04.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki S1 EP5
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/series/English/Loki/Loki%20S01E05.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg", Loki S1 EP6
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/series/English/Loki/Loki%20S01E06.mp4
+
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner Trailer
 https://server2.admin-ghost.workers.dev/0:/movie/Trailer/The%20Witch's%20Diner%20official%20trailer.mkv
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2QRg85XfXgE2BdwD9RhNoEi4I5.jpg", The Witch's Diner EP1
