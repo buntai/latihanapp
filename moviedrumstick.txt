@@ -383,8 +383,11 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fuGahjI6s8MKpTUFUtuE72EMG46.jpg", Whispering Corridors 6 The Humming (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Whispering_Corridors_6__The_Humming_2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gqyA60NtjGHYBnf20k7BHcPWvsg.jpg", My Blood & Bones in a Flowing Galaxy (2021)
-My Blood & Bones in a Flowing Galaxy (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/My%20Blood%20&%20Bones%20in%20a%20Flowing%20Galaxy%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3H97tUK5UmgOpjCh6Q7XZ4HW1cG.jpg", The Dude in Me (2019)
 https://server2.admin-ghost.workers.dev/0:/movie/Asean/The_Dude_In_Me_2019.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/yt9VjqsjJznvyWdG4FXfcnCzxow.jpg", Part Time Spy (2017)
@@ -839,6 +842,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%20Keranda%2
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/BSZ2dA3G369e3pHIXGhh5orzPt.jpg", Rio (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Rio.2011.mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/tpCqpv8y0cDb7mgIPeTv70W9vmF.jpg", Rio 2 (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Rio%202%20(2014).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg", PAW Patrol The Movie (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Robots%20(2005).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://m.media-amazon.com/images/I/51xmwed4meL._AC_.jpg", Robot (2015)
@@ -1000,6 +1007,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg", Bhool Boolaiyaa (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bhool%20Bhulaiyaa%20(2007).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg", Shershaah (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Shershaah%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fhWdd4obIA9ASc7xYfo38JyLqpQ.jpg", Kaashmora (2016)
