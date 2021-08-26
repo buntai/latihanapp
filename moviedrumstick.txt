@@ -1007,6 +1007,10 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRkMTk2MzEtYmMwOS00MzhiLWFlYWQtYzc0NWM5MDQ5ODM0XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_FMjpg_UX1000_.jpg", 200 Halla Ho (2021)
+https://server2.admin-ghost.workers.dev/0:/movie/HINDI/200%20Halla%20Ho%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/j77NdrLrVhyt0e0enEG0ZzWP2v6.jpg", Kyon Ki… (2005)
+https://server2.admin-ghost.workers.dev/0:/movie/HINDI/Kyon%20Ki%E2%80%A6%20(2005).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg", Bhool Boolaiyaa (2007)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bhool%20Bhulaiyaa%20(2007).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg", Shershaah (2021)
@@ -1457,6 +1461,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyZGVhZTEtNDUyYS00YWNkLWE0YmYtOGJjNmQ0YzdhY2RiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Loving Pablo (2017)
+https://server2.admin-ghost.workers.dev/0:/movie/English/Loving%20Pablo%20(2017).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg", The Magnificent Seven (2016)
+https://server2.admin-ghost.workers.dev/0:/movie/English/The_Magnificent_Seven_2016.mkv
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gzV6cxmwsq3RDKgr9wnpn55eIpx.jpg", Stillwater (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Stillwater%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg", In Time (2011) 
