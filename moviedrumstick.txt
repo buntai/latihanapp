@@ -383,7 +383,16 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
-
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aa3THDYIUtzGduNUwONAQ5duROL.jpg", High & Low The Movie (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/High%20and%20Low/High%20&%20Low%20The%20Movie%20(2016).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ctN0RtABQBaNLDWYLk4Lb77he7i.jpg", High & Low The Red Rain (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/High%20and%20Low/High%20&%20Low%20The%20Red%20Rain%20(2016).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tdZnaktqIgFaKN00KlOj50emJn5.jpg", High & Low The Movie 2 - End of Sky (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/High%20and%20Low/High%20&%20Low%20The%20Movie%202%20-%20End%20of%20Sky%20(2017).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/vTETzlxpE3TjeRYjmWbMgUSeSrF.jpg", High & Low The Movie 3 - Final Mission (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/High%20and%20Low/High%20&%20Low%20The%20Movie%203%20-%20Final%20Mission%20(2017).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/lzdtHnMrvmhteuVepYgu3zfUuuN.jpg", High & Low The Worst (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/High%20and%20Low/High%20&%20Low%20The%20Worst%20(2019).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/fuGahjI6s8MKpTUFUtuE72EMG46.jpg", Whispering Corridors 6 The Humming (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Whispering_Corridors_6__The_Humming_2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/gqyA60NtjGHYBnf20k7BHcPWvsg.jpg", My Blood & Bones in a Flowing Galaxy (2021)
@@ -1461,6 +1470,10 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://catimage.net/images/2021/08/27/SAS--Rise-of-the-Black-Swan-2021-Hindi-Dubbed.jpg", SAS: Rise of the Black Swan (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/SAS_%20Rise%20of%20the%20Black%20Swan.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/vEA305YK7QCjK02NP5OFqYsDEVQ.jpg", Dreamcatcher (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Dreamcatcher.2003.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyZGVhZTEtNDUyYS00YWNkLWE0YmYtOGJjNmQ0YzdhY2RiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg", Loving Pablo (2017)
 https://server2.admin-ghost.workers.dev/0:/movie/English/Loving%20Pablo%20(2017).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg", The Magnificent Seven (2016)
