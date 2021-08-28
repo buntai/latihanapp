@@ -1,5 +1,7 @@
 -= Melayu =-
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3NzQ0YmQtZWM5MS00MTVlLTkxYjAtNDhkY2UyNjA2OWU0XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX1000_.jpg", Tuju Tuju (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Tuju%20Tuju%20(2021).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEyYTMzOTktMTVlNi00NWU0LWE3NTMtNmIwOTcxZGI2ODUzXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_FMjpg_UX1000_.jpg", Antaramasa (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Antaramasa.2021.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NTEzYWEtODExZC00YzgwLWI3YzItZThlNTMxNmM3MTVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX1000_.jpg", Hutang 2D (2021)
@@ -1016,6 +1018,12 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5Gg9X2BIgt05l2scUX3PuqAA4sz.jpg", 90ML (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/90ML%20(2019).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg", Jab Tak Hai Jaan (2012)
+https://server2.admin-ghost.workers.dev/0:/movie/HINDI/Jab%20Tak%20Hai%20Jaan%20%202012.mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg", Jab Tak Hai Jaan (2012)
+https://server2.admin-ghost.workers.dev/0:/movie/HINDI/Jab%20Tak%20Hai%20Jaan%20%202012.mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRkMTk2MzEtYmMwOS00MzhiLWFlYWQtYzc0NWM5MDQ5ODM0XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_FMjpg_UX1000_.jpg", 200 Halla Ho (2021)
 https://server2.admin-ghost.workers.dev/0:/movie/HINDI/200%20Halla%20Ho%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/j77NdrLrVhyt0e0enEG0ZzWP2v6.jpg", Kyon Ki… (2005)
@@ -1470,6 +1478,12 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1ODc0MDgzNV5BMl5BanBnXkFtZTgwMzcyNzE1NDE@._V1_FMjpg_UX1000_.jpg", Robot Overloads (2014)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Robot%20Overloads%20(2014).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9AGJMNrUfBMIGkCeKNccQbj0Nyg.jpg", Curve (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Curve%20(2015).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/4MP33dIRIqAUduskJvJDzeWJR9n.jpg", Coming 2 America (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Coming%202%20America%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://catimage.net/images/2021/08/27/SAS--Rise-of-the-Black-Swan-2021-Hindi-Dubbed.jpg", SAS: Rise of the Black Swan (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/SAS_%20Rise%20of%20the%20Black%20Swan.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/vEA305YK7QCjK02NP5OFqYsDEVQ.jpg", Dreamcatcher (2003)
