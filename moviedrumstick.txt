@@ -385,6 +385,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQzN2U3NGQtMjkyZS00OGNjLWFjYjItNmNjN2U5ZWEzMTQwXkEyXkFqcGdeQXVyMTMzOTUwMjkw._V1_.jpg", Midnight (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Midnight%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/aa3THDYIUtzGduNUwONAQ5duROL.jpg", High & Low The Movie (2016)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/High%20and%20Low/High%20&%20Low%20The%20Movie%20(2016).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/ctN0RtABQBaNLDWYLk4Lb77he7i.jpg", High & Low The Red Rain (2016)
@@ -1018,6 +1020,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/original/7iLUbpIBWCcQeagdgx3fC9uCoz5.jpg", Kaappaan (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Kaappaan%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/5Gg9X2BIgt05l2scUX3PuqAA4sz.jpg", 90ML (2019)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/90ML%20(2019).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg", Jab Tak Hai Jaan (2012)
@@ -1478,6 +1482,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Ae3cbmy52HKCTebvdUCCF0vZGrK.jpg", The Protage (2021)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Protage%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1ODc0MDgzNV5BMl5BanBnXkFtZTgwMzcyNzE1NDE@._V1_FMjpg_UX1000_.jpg", Robot Overloads (2014)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Robot%20Overloads%20(2014).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/9AGJMNrUfBMIGkCeKNccQbj0Nyg.jpg", Curve (2015)
