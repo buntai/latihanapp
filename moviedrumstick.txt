@@ -1482,6 +1482,18 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tM0hpWw3GONam6TKcMMciecHjhT.jpg", The Boy Next Door (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The.Boy.Next.Door.2015.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg", You Should Have Left (2020)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/You%20Should%20Have%20Left%202020.mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/KaUfT7TvsZt26OwBqmbPiMxvhO.jpg", 3 Ninjas (1992)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/3%20Ninjas/3%20Ninjas%20(1992).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kXuh3c0DyvqSGo0DBatoemBwEtz.jpg", 3 Ninjas Kick Back (1994)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/3%20Ninjas/3%20Ninjas%20Kick%20Back%20(1994).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/grCDfYf3GNaiQ74plEGmvyKUFrF.jpg", 3 Ninjas Knuckle Up (1993)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/3%20Ninjas/3%20Ninjas%20Knuckle%20Up%20(1993).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/qEkffajn9aQB17ycv2NU5M78rFi.jpg", 3 Ninjas High Noon At Mega Mountain (1998)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/3%20Ninjas/3_Ninjas__High_Noon_At_Mega_Mountain_1998.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/Ae3cbmy52HKCTebvdUCCF0vZGrK.jpg", The Protage (2021)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20Protage%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1ODc0MDgzNV5BMl5BanBnXkFtZTgwMzcyNzE1NDE@._V1_FMjpg_UX1000_.jpg", Robot Overloads (2014)
