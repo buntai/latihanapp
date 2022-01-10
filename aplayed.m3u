@@ -2331,6 +2331,8 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jFHbrNh6LMnKKSz7nlflFyrwK5T.jpg", PUSHPA THE RISE (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/PUSHPA%20THE%20RISE%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSjykY5ZuVWHK0C7k4CXZ5566No.jpg", Churuli (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Churuli20%(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/efetKFDyptrRpoHBb103Tg3Auw5.jpg", Minnal Murali (2021)
