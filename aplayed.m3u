@@ -2933,6 +2933,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 -= english =-
 
 
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/kHNWm8YDl1Pf6tyzluLagbtkU94.jpg", Eternals (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Eternals20%(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM0ODM2ZmItMjNjNS00NjI2LWFiNzQtNDVmZGRlODcwM2UwXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg", See for Me (2022)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/See20%for20%Me20%(2022).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3MjEwYzYtNTYyNC00ZWFiLWI0NGUtZTFkMGIzZjRiYTk0XkEyXkFqcGdeQXVyMjU2MDQ0OTA@._V1_.jpg", Iris Warriors (2022)
