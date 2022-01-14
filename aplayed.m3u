@@ -1555,6 +1555,9 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 
 -= aseanmovie =-
 
+
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://i.mydramalist.com/pLwd8_4f.jpg", SONG CI (2022)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/SONG%20CI%20(2022).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFjNDI0NGUtYTBlYi00MWY2LTg1ZGYtYzRlODk3NWQyZjEyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1000_.jpg", The Divine Move (2014)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/The%20Divine%20Move%20(2014).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/AcaRTiIOrkDM8vuQkDXhMgWJ2GO.jpg", The Divine Move 2 The Wrathful (2019)
@@ -2935,8 +2938,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg", Spider-Man No Way Home (2021) CAM V2
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Spider-Man%20No%20Way%20Home%20(2021)%20CAM%20V2.mp4
-#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ukMqLnPJ9qyq61SqjTChRkOirKj.jpg", Eternals (2021) CAM V2
-https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Eternals20%(2021).mp4
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ukMqLnPJ9qyq61SqjTChRkOirKj.jpg", Eternals (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Eternals20%webdl20%(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM0ODM2ZmItMjNjNS00NjI2LWFiNzQtNDVmZGRlODcwM2UwXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg", See for Me (2022)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/See20%for20%Me20%(2022).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3MjEwYzYtNTYyNC00ZWFiLWI0NGUtZTFkMGIzZjRiYTk0XkEyXkFqcGdeQXVyMjU2MDQ0OTA@._V1_.jpg", Iris Warriors (2022)
@@ -4893,7 +4896,7 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/series/MEHMETCIK%20KUTUL
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQyNDJlYTgtOWI2NC00MjAzLTg2YTItNWEzZTg4Mzg1YTE4XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg", Mehmetçik Kut'ül Amare EP31
 https://production.calm-rain-70b4.buntai.workers.dev/0:/series/MEHMETCIK%20KUTULAMARE/Mehmetcik%20Kut%C3%BCl%20Zafer%2031%20SUBIND%20360p.mp4 
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQyNDJlYTgtOWI2NC00MjAzLTg2YTItNWEzZTg4Mzg1YTE4XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg", Mehmetçik Kut'ül Amare EP32
-https://production.calm-rain-70b4.buntai.workers.dev/0:/series/MEHMETCIK%20KUTULAMARE/Mehmet%C3%A7ik%20Kut'%C3%BCl%20Amare%20Episode%2032.mp4
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/MEHMETCIK%20KUTULAMARE/Mehmetcik%20Kut%C3%BCl%20Zafer%2032%20SUBIND%20360p.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQyNDJlYTgtOWI2NC00MjAzLTg2YTItNWEzZTg4Mzg1YTE4XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg", Mehmetçik Kut'ül Amare EP33
 https://production.calm-rain-70b4.buntai.workers.dev/0:/series/MEHMETCIK%20KUTULAMARE/Mehmet%C3%A7ik%20Kut'%C3%BCl%20Amare%20Episode%2033.mp4
 
