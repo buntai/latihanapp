@@ -2114,6 +2114,9 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%
 
 -= Toon =-
 
+
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/6zt5l4DYV1kLPL5Vqz1kLq3THXD.jpg", Hotel Transylvania  Transformania (2022)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel%20Transylvania%20Transformania%20(2022).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg", Sing 2 (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Sing%202%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/original/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK.jpg", Rumble (2021)
