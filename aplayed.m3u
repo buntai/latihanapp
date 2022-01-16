@@ -1556,6 +1556,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 -= aseanmovie =-
 
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aaOeNpdcpOJf6EcP99icwZXWbYC.jpg", Tokyo Revengers Live Action (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Tokyo%20Revengers%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://i.mydramalist.com/pLwd8_4f.jpg", SONG CI (2022)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/SONG%20CI%20(2022).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFjNDI0NGUtYTBlYi00MWY2LTg1ZGYtYzRlODk3NWQyZjEyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1000_.jpg", The Divine Move (2014)
@@ -2114,7 +2116,12 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%
 
 -= Toon =-
 
-
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnDNBzt3jIOvA3xnnGXYYHnh0dZ.jpg", Detective Conan- The Scarlet Bullet (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Detective%20Conan-%20The%20Scarlet%20Bullet%20(2021).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/yn9DrhUBPrUTFEUHtdXSxgWcFTA.jpg", Riverdance- The Animated Adventure (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Riverdance-%20The%20Animated%20Adventure%20(2021).mp4
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/3vm7LOe7DhkiA7umBhslQy9MdkY.jpg", Hilda and the Mountain King (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hilda%20and%20the%20Mountain%20King%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/6zt5l4DYV1kLPL5Vqz1kLq3THXD.jpg", Hotel Transylvania  Transformania (2022)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Hotel%20Transylvania%20%20Transformania%20(2022).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg", Sing 2 (2021)
