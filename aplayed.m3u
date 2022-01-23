@@ -1128,6 +1128,9 @@ MOVIE SECTION
 
 -= Melayu =-
 
+
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://i.vimeocdn.com/vod_poster/518176_310x459", Siti Are You Ready (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Siti_%20Are%20You%20Ready_%20(2021).mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXt7gfNi3xpDBZtP2WBWKFZUA6POe-U3ue9gR42TJTt19sBU2USQl0EhsFi8fiyZnBak-Bj6IVFNhftFUWZaAh_qQaVM8dmfjOjdTxgsYdyvkBITAIfwDrxvtqUflQ1zqh-dOXU76JM5u1gpjzKTDlPAzwz4ffwMkD8X7i5DJ7c7DY36ArzHCwcMokDA", ORANG MINYAK KAMPUNG LENGGONG (2022)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/ORANG%20MINYAK%20KAMPUNG%20LENGGONG%20(2022).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNjMDlmMGUtZDFjOS00YjgzLWJlMmMtYjFhOGFjZmE1ZGMxXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Rumah Madu Ku Berhantu (2021)
@@ -1564,6 +1567,8 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 -= aseanmovie =-
 
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY5YWI2OTQtYWU1MC00MDk1LWJkYzQtNTU1YTM3YjdhY2E3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Photocopier (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Photocopier.2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aaOeNpdcpOJf6EcP99icwZXWbYC.jpg", Tokyo Revengers Live Action (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Tokyo%20Revengers%20(2021).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://i.mydramalist.com/pLwd8_4f.jpg", SONG CI (2022)
@@ -2353,6 +2358,12 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g841pE2duYUJDUsy6i2NXqCzVBO.jpg", Akhanda (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Akhanda%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg3NDI5YzEtNDA2MC00OTE4LTk1MjQtNjI5MGJlMDlmZjM4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg", Shyam Singha Roy (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Shyam%20Singha%20Roy%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jk8KZ4SqFR9Uz48m1KAEzc41vlX.jpg", Madam Chief Minister (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Madam%20Chief%20Minister%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/jFHbrNh6LMnKKSz7nlflFyrwK5T.jpg", PUSHPA THE RISE (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/PUSHPA%20THE%20RISE%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSjykY5ZuVWHK0C7k4CXZ5566No.jpg", Churuli (2021)
@@ -4716,6 +4727,9 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Ya
 https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/Part%202/KnY%20S206P2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Kimetsu_no_Yaiba_S2_Key_Visual.jpg" group-title="Anime",Demon Slayer: KnY S02P2 E07
 https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/Part%202/KnY%20S207P2.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer: Kimetsu no Yaiba S02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Kimetsu_no_Yaiba_S2_Key_Visual.jpg" group-title="Anime",Demon Slayer: KnY S02P2 E08
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Kimetsu%20No%20Yaiba/Season%202/Part%202/KnY%20S208P2.mkv
+
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1ODk0ZWUtMzdkYS00YmI2LWI1NjItOTg0NjQxNGY5MmNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg", Hellbound Trailer
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Hellbound%20trailer.mp4
