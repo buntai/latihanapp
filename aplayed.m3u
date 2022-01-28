@@ -4660,6 +4660,33 @@ TVSERIES SECTION
 ######################################################################################################
 
 
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead Trailer
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20trailer.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E01
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP1.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E02
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP2.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E03
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP3.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E04
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP4.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E05
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP5.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E06
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP6.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E07
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP7.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E08
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP8.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E09
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP9.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E10
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP10.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E11
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP11.mp4
+#EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead S1E12
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/All%20of%20Us%20Are%20Dead/All%20of%20Us%20Are%20Dead%20EP12.mp4
+
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg", Hawkeye Series Trailer
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Hawkeye%20Trailer.mp4
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg", Hawkeye S1E01
