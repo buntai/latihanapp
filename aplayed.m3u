@@ -2964,7 +2964,8 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
-
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xkDOzFVQQNnTKDPSfBFbirlLiSq.jpg", Royal Treatment (2022)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Royal%20treatment%202022.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg", Spider-Man No Way Home (2021) CAM V2
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Spider-Man%20No%20Way%20Home%20(2021)%20CAM%20V2.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/original/ukMqLnPJ9qyq61SqjTChRkOirKj.jpg", Eternals (2021)
@@ -4657,6 +4658,7 @@ https://cdn2ii.diebutx.com/own2hls/2020/658c38672faf9c45bb2ccf9cac1e64e1/540p/in
 TVSERIES SECTION
 
 ######################################################################################################
+
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://www.themoviedb.org/t/p/w500/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg", Hawkeye Series Trailer
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Hawkeye%20Trailer.mp4
