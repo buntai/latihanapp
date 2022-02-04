@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
-http://51.89.98.62:8080/baba/baba/27363
+http://m.e27948.com:80/Th1H5odahk/UWWHwxG9VB/155266
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
 http://51.89.98.62:8080/baba/baba/27275
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
@@ -365,7 +365,8 @@ http://starshare.live:8080/362869/362869/18994
 
 ================================================
 
-
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWLZ5CIw1m54YEBWRXtLrsqAUTQPSnGS-17Yi2=s900-c-k-c0x00ffffff-no-rj", World of Free Sports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://variety.com/wp-content/uploads/2018/04/espn-plus-logo.jpg", ESPN 1
 http://51.89.98.62:8080/baba/baba/27267
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://variety.com/wp-content/uploads/2018/04/espn-plus-logo.jpg", ESPN 2 
@@ -455,25 +456,7 @@ https://link.zozotv.xyz:443/7070/7070/164
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.imgur.com/PgewaUj.jpg", Champions TV 2
 https://link.zozotv.xyz:443/7070/7070/165
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.imgur.com/PgewaUj.jpg", Champions TV 3
-http://mantul.biz.id:8888/benny/benny/77
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/101320/101320/6708
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASSP 1
-http://iptv.tvmalaysia.cc:80/101320/101320/9024
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/101320/101320/6710
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASSP 2
-http://iptv.tvmalaysia.cc:80/101320/101320/9025
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/101320/101320/6711
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASSP 3 (LIVE EPL ONLY)
-http://iptv.tvmalaysia.cc:80/101320/101320/9020
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/101320/101320/6712
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", ASSP 4
-http://iptv.tvmalaysia.cc:80/101320/101320/9026
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 5
-http://iptv.tvmalaysia.cc:80/101320/101320/9029
+http://mantul.biz.id:8888/bibie/bibie1/77
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD1 HD
 http://mantul.biz.id:8888/bibie/bibie1/4700
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD2 HD
