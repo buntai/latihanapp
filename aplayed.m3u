@@ -57,11 +57,11 @@ https://link.zozotv.xyz:443/7070/7070/22
 #EXTINF:-1  group-title="Malaysia🇲🇾" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png", Drama Sangat
 https://link.zozotv.xyz:443/7070/7070/25
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="123" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
-https://ktiptv.co:443/4692/4692/25828
+https://link.zozotv.xyz:443/1234/1234/352
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="123" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV [B]
 https://link.zozotv.xyz:443/7070/7070/352
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-id="123" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV [C]
-https://ktiptv.co:443/4692/4692/25828
+https://link.zozotv.xyz:443/ira/ira/352
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png", TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png",TV Ikim (1080p)
@@ -382,7 +382,7 @@ https://rtm6hdhbbtv.secureswiftcontent.com/Origin2/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg", RTM Sports C
 https://link.zozotv.xyz:443/7070/7070/153
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena
-https://link.zozotv.xyz:443/7070/7070/154
+https://link.zozotv.xyz:443/1234/1234/154
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B]
 http://mantul.biz.id:8888/bibie/bibie1/4985
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B2]
