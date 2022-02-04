@@ -1125,6 +1125,10 @@ MOVIE SECTION
 -= Melayu =-
 
 
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiX4nvOfz6DkeE3OFocciblEmZXWiqeTpJczQTCbkWSPD2gExGw-hjkMeAQ8nhFBz_cwn5GCNDaQgGdB5uyxKEorf66BrVx6GU5uK9w8qPqvxSLKpx_BPb3_m_nMWuxgaC03S7H2wnks-GjHjBA5TORcMjXkn6qEYNwNU8mG4exL4q8hZJ18P-JqTI9Q=w558-h640", Hantu Viral (2022)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Hantu%20Viral%20(2022).mkv
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2022/01/Survival-486-819x1024.jpg", Survival 486 (2022)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Survival%20486%20(2022).mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://i.vimeocdn.com/vod_poster/518176_310x459", Siti Are You Ready (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Siti_%20Are%20You%20Ready_%20(2021).mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXt7gfNi3xpDBZtP2WBWKFZUA6POe-U3ue9gR42TJTt19sBU2USQl0EhsFi8fiyZnBak-Bj6IVFNhftFUWZaAh_qQaVM8dmfjOjdTxgsYdyvkBITAIfwDrxvtqUflQ1zqh-dOXU76JM5u1gpjzKTDlPAzwz4ffwMkD8X7i5DJ7c7DY36ArzHCwcMokDA", ORANG MINYAK KAMPUNG LENGGONG (2022)
@@ -1563,6 +1567,18 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Munafik.2016.1080p.WEB.2CH.
 -= aseanmovie =-
 
 
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ0ZWZmYWItZmU3Ny00ZDVjLTk1MzUtNzA5ZTJiMzE3N2FjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg", Young & Dangerous (1996)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Young%20and%20Dangerous/Young%20and%20Dangerous%20(1996).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://i.mydramalist.com/5vkxZc.jpg?v=1", Young & Dangerous 2 (1996)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Young%20and%20Dangerous/Young%20and%20Dangerous%202%201996.mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2RwrEVq7n4PlBkROcFmG9v1qrIP.jpg", Young & Dangerous 3 (1996)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Young%20and%20Dangerous/Young%20and%20Dangerous%203%20(1996).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejkrVtak88mq38EWrOFMHi1JDmX.jpg", Young & Dangerous 4 (1997)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Young%20and%20Dangerous/Young%20and%20Dangerous%204%20(1997).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9y0k5JFaQSIHDFkf7XE7PJMRBB9.jpg", Young & Dangerous 5 (1998)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Young%20and%20Dangerous/Young%20and%20Dangerous%205%20(1998).mp4
+#EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gnMb4TxiuDxm6wgxrN3a1DZVjMh.jpg", Young & Dangerous 6 Born to be King (2000)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Young%20and%20Dangerous/Young%20And%20Dangerous%206%20Born%20to%20Be%20King%20(2000).mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY5YWI2OTQtYWU1MC00MDk1LWJkYzQtNTU1YTM3YjdhY2E3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Photocopier (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Photocopier.2021.mp4
 #EXTINF:-1 group-title="AseanMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aaOeNpdcpOJf6EcP99icwZXWbYC.jpg", Tokyo Revengers Live Action (2021)
@@ -2125,6 +2141,8 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/indonesia/Lampor-%
 
 -= Toon =-
 
+#EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg", The Ice Age Adventures of Buck Wild (2022)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/The%20Ice%20Age%20Adventures%20Of%20Buck%20Wild%20(2022).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnDNBzt3jIOvA3xnnGXYYHnh0dZ.jpg", Detective Conan- The Scarlet Bullet (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Toon/Detective%20Conan-%20The%20Scarlet%20Bullet%20(2021).mp4
 #EXTINF:-1 group-title="Toons" tvg-logo="https://www.themoviedb.org/t/p/w500/yn9DrhUBPrUTFEUHtdXSxgWcFTA.jpg", Riverdance- The Animated Adventure (2021)
@@ -2354,6 +2372,12 @@ https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Zootopia.2016.mp4
 
 -= indian =-
 
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/4noD9IB1lCfg9wd2GzRho4FhabL.jpg", Lakshya (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Lakshya%20(2021).mkv
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nj0cMoZjLRrqN9SFW3wCXlSTYxd.jpg", Tadap (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Tadap%20(2021).mp4
+#EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/wbyVNZj0kizF4JgcifY0SJrTqOB.jpg", Aa Gale Lag Jaa (1973)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Aa%20Gale%20Lag%20Jaa%20(1973).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/g841pE2duYUJDUsy6i2NXqCzVBO.jpg", Akhanda (2021)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Akhanda%20(2021).mp4
 #EXTINF:-1 group-title="IndianMovies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg3NDI5YzEtNDA2MC00OTE4LTk1MjQtNjI5MGJlMDlmZjM4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg", Shyam Singha Roy (2021)
@@ -4654,6 +4678,29 @@ https://cdn2ii.diebutx.com/own2hls/2020/658c38672faf9c45bb2ccf9cac1e64e1/540p/in
 TVSERIES SECTION
 
 ######################################################################################################
+
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 Promo
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/Trailer/Sepahtu%20Reunion%20Live%20promo.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP01
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP01.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP02
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP02.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP03
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP03.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP04
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP04.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP05
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP05.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP06
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP06.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP07
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP07.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP08
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP08.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP09
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP09.mp4
+#EXTINF:-1 group-title="Series" tvg-logo="https://1.bp.blogspot.com/-P2qDatZf2Y8/YV2bATLewYI/AAAAAAAA4I4/c1RpCDBmqbEkZbxIfkAaY1-QbITu4dI9wCLcBGAsYHQ/w1600/Sepahtu%2BReunion%2BLive%2B2021.jpg", Sepahtu Reunion Live 2022 EP10
+https://production.calm-rain-70b4.buntai.workers.dev/0:/series/Sepahtu%20Reunion/2022/Sepahtu%20Reunion%20Live%20(2022)%20EP10.mp4
 
 
 #EXTINF:-1 group-title="Drakor" tvg-logo="https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg", All of Us Are Dead Trailer
