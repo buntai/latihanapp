@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
 https://link.zozotv.xyz:443/1234/1234/384
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-http://51.89.98.62:8080/baba/baba/27275
+http://38.91.57.12:2082/foxsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
 http://51.89.98.62:8080/baba/baba/27277
 #EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
@@ -163,6 +163,8 @@ https://link.zozotv.xyz:443/7070/7070/47
 https://link.zozotv.xyz:443/7070/7070/364
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png", Indosiar
 https://link.zozotv.xyz:443/7070/7070/45
+#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png", SCTV HD
 https://link.zozotv.xyz:443/7070/7070/46
 #EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13", Trans 7
@@ -252,7 +254,7 @@ https://link.zozotv.xyz:443/1234/1234/450
 #EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 8
 https://link.zozotv.xyz:443/7070/7070/432
 #EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 9
-http://195.201.82.32:5001/play/a001
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 10
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
 #EXTINF:-1 group-title="Movies 24/7🎬" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 11
@@ -388,9 +390,9 @@ http://mantul.biz.id:8888/rio1/rio1/4985
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B2]
 https://link.zozotv.xyz:443/ira/ira/154
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B3]
-https://link.zozotv.xyz:443/mat/mat/154
+https://link.zozotv.xyz:443/original/original/154
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B4]
-http://iptv.tvmalaysia.cc:80/100851/100851/6707
+https://link.zozotv.xyz:443/mal/mal/154
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena 2
 http://mantul.biz.id:8888/rio1/rio1/4915
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena 2 [B]
@@ -398,7 +400,7 @@ https://link.zozotv.xyz:443/mat/mat/400
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena 2 [B2]
 https://link.zozotv.xyz:443/7070/7070/400
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena 2 [B3]
-http://iptv.tvmalaysia.cc:80/100851/100851/9010
+https://link.zozotv.xyz:443/mal/mal/400
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network
 https://link.zozotv.xyz:443/7070/7070/169
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network [B]
@@ -416,15 +418,15 @@ https://link.zozotv.xyz:443/7070/7070/284
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj", UFC Fight
 https://link.zozotv.xyz:443/7070/7070/168
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 1 
-https://ktiptv.co:443/4692/4692/26312
+https://link.zozotv.xyz:443/aliah/aliah/155
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 2 
-https://ktiptv.co:443/4692/4692/26313
+https://link.zozotv.xyz:443/aliah/aliah/156
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 3 
-https://ktiptv.co:443/4692/4692/26314
+https://link.zozotv.xyz:443/aliah/aliah/157
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 4 
-https://ktiptv.co:443/4692/4692/26315
+https://link.zozotv.xyz:443/aliah/aliah/158
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png", Astro Supersport 5 
-https://ktiptv.co:443/4692/4692/26317
+https://link.zozotv.xyz:443/aliah/aliah/398
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="Sports🏆" ,Sony Ten 1 HD
 http://mantul.biz.id:8888/rio1/rio1/560
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="Sports🏆",Sony Ten 2 HD
@@ -435,16 +437,22 @@ http://mantul.biz.id:8888/rio1/rio1/141
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 2
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png", SPORTTV 1
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png", SPORTTV 1
 https://link.zozotv.xyz:443/7070/7070/176
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png", SPORTTV 2
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png", SPORTTV 2
 https://link.zozotv.xyz:443/7070/7070/177
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png", SPORTTV 3
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png", SPORTTV 3
 https://link.zozotv.xyz:443/7070/7070/178
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png", SPORTTV 4
-http://painel.tvdigitalsbl.net:80/vo/vo/13096
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png", SPORTTV 5
-http://painel.tvdigitalsbl.net:80/vo/vo/13099
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg", TNT Sport 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg", TNT Sport 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg", TNT Sport 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg", TNT Sport 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg", TNT Sport 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugzozrlA3hcs2M_5MVnIeRljtoE7oKk2PImz1eBQtojpaHutI8DWG-srVUkd3mJlGQSs&usqp=CAU" group-title="Sports🏆",Bein Sports Premium 1 HD
 http://mantul.biz.id:8888/rio1/rio1/5012
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 2 HD" tvg-logo="https://i.pinimg.com/originals/c7/f7/b5/c7f7b5dee3302a7ed337ed005843aa75.png" group-title="Sports🏆",Bein Sports Premium 2 HD
@@ -670,8 +678,8 @@ https://www.youtube.com/watch?v=6zT0N7sRQpg
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN TH
 https://www.youtube.com/watch?v=1GQwYTWP99w
 
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png", Channel V 
-http://starshare.live:8080/362869/362869/19521
+#EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png", Music Box 
+https://pprex49o5aliv.vcdn.cloud/live/box-music/playlist.m3u8
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png", MTV
 http://starshare.live:8080/362869/362869/5812
 #EXTINF:-1 group-title="Music🎶" tvg-logo="https://www.kpopchannel.tv/wp-content/uploads/2019/05/kpopchannel.tv-display-logo.jpg", KPOP Channel
@@ -2967,6 +2975,9 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/tamil11/The%20Wif
 
 -= english =-
 
+
+#EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/nj5HmHRZsrYQEYYXyAusFv35erP.jpg", The King's Man (2021)
+https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/The%20King's%20Man%20(2021).mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/xkDOzFVQQNnTKDPSfBFbirlLiSq.jpg", Royal Treatment (2022)
 https://production.calm-rain-70b4.buntai.workers.dev/0:/movie/English/Royal%20treatment%202022.mp4
 #EXTINF:-1 group-title="EnglishMovies" tvg-logo="https://www.themoviedb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg", Spider-Man No Way Home (2021) CAM V2
